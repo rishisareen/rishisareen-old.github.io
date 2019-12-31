@@ -1,2 +1,5 @@
-<img src="{{ include.file }}" alt="{{ include.description }}">  
-<span class="caption"><b><i>{{ include.description }}</i></b></span>
+<!-- _includes/image.html -->
+<div class="image-wrapper" >
+  <img src="{{ include.file }}" alt="{{ include.description }}">  
+  <p class="image-caption">{{ include.description }}</p>
+</div>

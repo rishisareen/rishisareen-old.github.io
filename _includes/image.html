@@ -1,5 +1,8 @@
 <!-- _includes/image.html -->
-<div class="image-wrapper" >
-  <img src="{{ include.file }}" alt="{{ include.description }}">  
-  <p class="image-caption">{{ include.description }}</p>
-</div>
+<figure>
+   <a href="{{ include.url }}">
+   <img src="{{ include.file }}" style="max-width: {{ include.max-width }};"
+      alt="{{ include.alt }}"/>
+   </a>
+   <figcaption>{{ include.description | markdownify | remove: "<p>" | remove: "</p>"  }}</figcaption>
+</figure>

@@ -4,7 +4,7 @@
  <title>Rishi Sareen</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2019-12-31T22:37:48+05:30</updated>
+ <updated>2019-12-31T23:40:26+05:30</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Rishi Sareen</name>
@@ -74,42 +74,60 @@ P.S: I also learnt swimming AFTER I signed up for my first half ironman.&lt;/p&g
 &lt;p&gt;Two days before the race, I went for a practice swim with Anubhav and Rohin. The water was choppy but I had a good relaxed time in the sea. This is the first time I didn’t panic in the sea. I don’t know what was the difference was, nevertheless I had a good swim.&lt;/p&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_10_20_IM703Goa/RadGang2.JPG&quot; alt=&quot; Rad Gang doing swim session &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Rad Gang doing swim session &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/RadGang2.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Rad Gang doing swim session
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;It was fun to go to expo and catch up with many triathletes friends.&lt;/p&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_10_20_IM703Goa/PreRace.JPG&quot; alt=&quot; At the expo entry &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; At the expo entry &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/PreRace.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;At the expo entry
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_10_20_IM703Goa/PreRace2.JPG&quot; alt=&quot; Finding the name &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Finding the name &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/PreRace2.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Finding the name
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_10_20_IM703Goa/Debrief1.JPG&quot; alt=&quot; Radstrong Briefing session &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Radstrong Briefing session &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/Debrief1.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Radstrong Briefing session
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_10_20_IM703Goa/WithRahul.JPG&quot; alt=&quot; Rahul - Always smiling &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Rahul - Always smiling &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/WithRahul.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Rahul - Always smiling
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_10_20_IM703Goa/RadGang3.JPG&quot; alt=&quot; Rad Gang!  &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Rad Gang!  &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/RadGang3.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Rad Gang!
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;h3 id=&quot;swim-19km&quot;&gt;Swim [1.9km]&lt;/h3&gt;
 
@@ -121,40 +139,58 @@ Getting up at 4am, I had a light breakfast - 4 Scrambled Eggs and Coffee with Bu
 &lt;p&gt;Soon it was announced that start was delayed by 30”. I used that time to click selfies with friends - best way to distract and not think about the race.&lt;/p&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_10_20_IM703Goa/RishiAtT1.JPG&quot; alt=&quot; Me with my trusted bike &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Me with my trusted bike &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/RishiAtT1.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Me with my trusted bike
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_10_20_IM703Goa/WithBhavesh.JPG&quot; alt=&quot; Bhavesh - The stylish one &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Bhavesh - The stylish one &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/WithBhavesh.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Bhavesh - The stylish one
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_10_20_IM703Goa/WithMaitreyi.JPG&quot; alt=&quot; Maitreyi - Solid Runner &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Maitreyi - Solid Runner &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/WithMaitreyi.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Maitreyi - Solid Runner
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_10_20_IM703Goa/WithAnubhav.JPG&quot; alt=&quot; Anubhav - my IM Partner &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Anubhav - my IM Partner &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/WithAnubhav.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Anubhav - my IM Partner
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_10_20_IM703Goa/RadGang1.JPG&quot; alt=&quot; Rad Boys &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Rad Boys &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/RadGang1.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Rad Boys
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_10_20_IM703Goa/T1.JPG&quot; alt=&quot; T1 - Lot of Nervous Energy Around &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; T1 - Lot of Nervous Energy Around &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/T1.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;T1 - Lot of Nervous Energy Around
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;The swim was a self-seeded start swim, with 4 athletes released to get in the water every 6 seconds. It was a 2 loop swim. The water at the start was not too deep, with 100m of walk before one could swim.&lt;/p&gt;
 
@@ -190,16 +226,22 @@ the bike was parked overnight. Anyways, I had no time or thoughts to waste on th
 &lt;p&gt;After the first loop, I stopped bike at an aid station and shouted for Allen Key number 4. The mechanic came running, and quickly fixed it.&lt;/p&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_10_20_IM703Goa/RishiGoa1.JPG&quot; alt=&quot; Intense look. See the aero bars &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Intense look. See the aero bars &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/RishiGoa1.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Intense look. See the aero bars
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_10_20_IM703Goa/RishiGoa3.JPG&quot; alt=&quot; Climbing the badass incline&quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Climbing the badass incline&lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/RishiGoa3.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Climbing the badass incline
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;First 30km came in 62min. Second in 65min, and third took 62min. It was overall a very consistent effort on the bike. I finished with overall average of 28.4kmph, which is not bad for the course and wasted time due to aero bar issue.&lt;/p&gt;
 
@@ -242,34 +284,49 @@ Nutrition: Gel every hour. Precision Hydration Salt capsule every hour.&lt;/p&gt
 &lt;p&gt;Happy with bike and the nutrition. I had only 5 gels and lot of salt caps, and nowhere I went low on the energy.&lt;/p&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_10_20_IM703Goa/BCBoys1.JPG&quot; alt=&quot; BC Tri Gang &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; BC Tri Gang &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/BCBoys1.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;BC Tri Gang
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_10_20_IM703Goa/WithParul.JPG&quot; alt=&quot; Parul - The Soul Runner &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Parul - The Soul Runner &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/WithParul.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Parul - The Soul Runner
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_10_20_IM703Goa/WithPoonam.JPG&quot; alt=&quot; Poonam - What an energy cheering us all! This lady was relentless.  &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Poonam - What an energy cheering us all! This lady was relentless.  &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/WithPoonam.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Poonam - What an energy cheering us all! This lady was relentless.
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_10_20_IM703Goa/WithDeepak.JPG&quot; alt=&quot; Deepak - The Man who bought IM to India &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Deepak - The Man who bought IM to India &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/WithDeepak.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Deepak - The Man who bought IM to India
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_10_20_IM703Goa/FinishLine1.JPG&quot; alt=&quot; Mandatory Finish Line Pic &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Mandatory Finish Line Pic &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/FinishLine1.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Mandatory Finish Line Pic
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;Till next race, then!&lt;/p&gt;
 </content>
@@ -342,44 +399,62 @@ Getting up at 4am, I had a light breakfast - 4 Scrambled Eggs made in Ghee + 1 G
 &lt;p&gt;I took Metro to the venue. The metro was packed with athletes. For a packed metro, it was very quiet. Everyone was in their zone, preparing for the big day.&lt;/p&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-1-PreRace-1.JPG&quot; alt=&quot; Pre-Race - All walking quietly &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Pre-Race - All walking quietly &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-1-PreRace-1.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Pre-Race - All walking quietly
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-2-PreRace-2.JPG&quot; alt=&quot; Pre-Race - The beach &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Pre-Race - The beach &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-2-PreRace-2.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Pre-Race - The beach
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;On reaching the start point, I filled air in the bike, fixed water bottles, mounted Garmin Edge and finally wore the wetsuit. Post this, I went for a short run to heat up the body. Once all this is done, I went for a swim warmup. By now, I was in very calm state. I went in sea, did bubbling for a minute, then did few good strokes. Good to go!
 &lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-5-PreRace.JPG&quot; alt=&quot; Radstrong Gang &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Radstrong Gang &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-5-PreRace.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Radstrong Gang
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-4-PreRace-WithBlossom.JPG&quot; alt=&quot; With Blossom  &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; With Blossom  &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-4-PreRace-WithBlossom.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;With Blossom
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;The swim was a rolling start swim, with a release of a group of 4 athletes for every 6 seconds.&lt;br /&gt;
 &lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-3-PreRace-SwimStaggered.JPG&quot; alt=&quot; Rolling Start - 6 people enter water together &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Rolling Start - 6 people enter water together &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-3-PreRace-SwimStaggered.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Rolling Start - 6 people enter water together
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;Pro Females started at 7am.
 For Age Groupers, we were divided in 5 Zones, based on our predicted swim timers. I had taken Green cap this time which indicated 1:18-1:22 swim time.&lt;br /&gt;
 &lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-6-SwimLineup.JPG&quot; alt=&quot; Swim Line Up &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Swim Line Up &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-6-SwimLineup.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Swim Line Up
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;Soon people with Green caps started to line up. I didn’t want to wait anxiously for my turn to come, hence went right ahead to start of the line.&lt;br /&gt;
 Entering the water, it was nice cold. Nothing shocking or unbearable - body was nicely warmed up by now.&lt;br /&gt;
@@ -388,16 +463,22 @@ Crossing two bridges, I reached first turnaround at 1600m. Here water was very s
 
 &lt;p&gt;I quickly  reached close to end line and came out of the water. I didn’t stop at all during the swim, and it was a comfortable swim.&lt;br /&gt;
 &lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-6-SwimExit.JPG&quot; alt=&quot;Swim Exit &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;Swim Exit &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-6-SwimExit.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Swim Exit
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-7-SwimExit.JPG&quot; alt=&quot;Working on getting wetsuit off &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;Working on getting wetsuit off &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-7-SwimExit.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Working on getting wetsuit off
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;Total Time: 1hr 30min&lt;br /&gt;
 Total Swim done: 3950m&lt;br /&gt;
@@ -417,24 +498,33 @@ Total Swim done: 3950m&lt;br /&gt;
 After 45km, we take turn and enter the village side. From here it was mostly rolling hills, with no real stretch for continuous ride.&lt;/p&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-8-Bike.JPG&quot; alt=&quot; Bike Start &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Bike Start &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-8-Bike.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Bike Start
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-9-Bike-2.JPG&quot; alt=&quot; Lovely scenic villages &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Lovely scenic villages &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-9-Bike-2.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Lovely scenic villages
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;At 85km mark, 3rd aid station came and I took first washroom break. By then I was getting exhausted with the climbs and it had started to rain also from an hour back. The rain was to continue for remaining bike and some part of the run too.&lt;br /&gt;
 Starting Loop 2, energy was dipping. I managed to hang on, and kept doing the mental calculation of the end time. I desperately tried to finish this under 7 hours, but finally finished it little over 7 hours.&lt;br /&gt;
 &lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-10-Bike-3.JPG&quot; alt=&quot; My patent pose &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; My patent pose &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-10-Bike-3.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;My patent pose
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;Total Time: 7hr 08min&lt;/p&gt;
 
@@ -461,10 +551,13 @@ Till 23km, I didn’t stop and managed to keep a pace of 6:30.&lt;/p&gt;
 &lt;p&gt;After 23km, I did my first walk to aid station, and boy what a bad decision it was. Till then, I was just running, ignoring my mind. But as soon as I stopped, my mind went in overdrive - “how nice does it feel” and “how tired we are”. My legs have taken bad beating due to cobblestones path in the route. It is tough on ankle, even more when you are running close to barefoot.&lt;/p&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-11-Run-1.JPG&quot; alt=&quot; Lovey crowd support throughout the Run &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Lovey crowd support throughout the Run &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-11-Run-1.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Lovey crowd support throughout the Run
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;Last 10km were a struggle. I’m still not sure if I bonked, or I was mental fatigued. But I had no energy in leg to push forward. First 21km came in 2:15, Next 21km came in close to 3hours.&lt;/p&gt;
 
@@ -472,22 +565,31 @@ Till 23km, I didn’t stop and managed to keep a pace of 6:30.&lt;/p&gt;
 
 &lt;p&gt;“From India, Rishi Sareen, you are an Ironman”. It was so good to hear these words again.&lt;br /&gt;
 &lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-12-FinishLine-1.JPG&quot; alt=&quot; The finish line &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; The finish line &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-12-FinishLine-1.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;The finish line
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-12-FinishLine-2.JPG&quot; alt=&quot; Still smiling &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Still smiling &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-12-FinishLine-2.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Still smiling
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-12-FinishLine-3.JPG&quot; alt=&quot; Proud to be carrying indian flag &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Proud to be carrying indian flag &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-12-FinishLine-3.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Proud to be carrying indian flag
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;End time: 5:18hr&lt;/p&gt;
 
@@ -502,16 +604,22 @@ Till 23km, I didn’t stop and managed to keep a pace of 6:30.&lt;/p&gt;
 I’m ofcourse grateful to have the chance to race this, and in the amazing city of Copenhagen. But I could have done better. Lot of lesson learnt - particularly the importance of staying aero on the bike and no backup plan for losing salt capsules.&lt;/p&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-12-PostRace.JPG&quot; alt=&quot; The Hard Earned Medal &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; The Hard Earned Medal &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-12-PostRace.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;The Hard Earned Medal
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-12-Postace2.JPG&quot; alt=&quot; With some fellow Ironman &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; With some fellow Ironman &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-12-Postace2.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;With some fellow Ironman
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;Till next race, then!&lt;/p&gt;
 </content>
@@ -798,10 +906,13 @@ I have &lt;strong&gt;NEVER&lt;/strong&gt; been able to back float. Never. I’ve
 ⁣ &lt;br /&gt;
 A very useful session indeed! Everyone came out from sea smiling, the joy of new skills acquired :) ⁣ 
 &lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_03_08_GOACAMP/20190308-Day1-PreSession.JPG&quot; alt=&quot;0 The TriCamp Group &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;0 The TriCamp Group &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_03_08_GOACAMP/20190308-Day1-PreSession.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;0 The TriCamp Group
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;⁣&lt;/p&gt;
 &lt;h2 id=&quot;day-2&quot;&gt;Day 2&lt;/h2&gt;
@@ -812,28 +923,37 @@ A very useful session indeed! Everyone came out from sea smiling, the joy of new
 
 &lt;p&gt;10-10:30: Nutrition session with Kaustubh and Maitreyi⁣. &lt;br /&gt;
 &lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_03_08_GOACAMP/20190309-Day2-NutritionTalk.JPG&quot; alt=&quot;500 500 Listening to the Nutrition Talk&quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;500 500 Listening to the Nutrition Talk&lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_03_08_GOACAMP/20190309-Day2-NutritionTalk.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;500 500 Listening to the Nutrition Talk
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;11AM-12PM : Swim session in the pool. This was a technical session, focused on sculling and right leg movement. Some videos were also shot by the coach :-D⁣&lt;/p&gt;
 
 &lt;p&gt;12:30PM - 1PM : Sun was blazing, and we were tired. Perfect time to simulate the race day. Kaustubh made us run for 30” in the sun. During Ironman, it is very important to be able to run with the tired legs. This was a good simulation. Maitreyi and I did a comfortable 5km⁣ run. &lt;br /&gt;
 &lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_03_08_GOACAMP/20190309-Day2-MidDayRun.JPG&quot; alt=&quot;0 Run in the heat&quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;0 Run in the heat&lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_03_08_GOACAMP/20190309-Day2-MidDayRun.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;0 Run in the heat
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;4-6PM: Now, with all the drills and technique, this was the time to face the fear. This session called for us to go inside deep sea. Indrajeet (25m) and Kaustubh(50m) were our targets :D. Everyone did this comfortable - big reason was the practice in the sea sessions before.⁣ &lt;br /&gt;
 ⁣ &lt;br /&gt;
 A hectic, but super wonderful day. The group was super awesome, and together we all did this sea swim easily.⁣ &lt;br /&gt;
 &lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_03_08_GOACAMP/20190309-Day2-Sunset.JPG&quot; alt=&quot;0 Happy faces post the session &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;0 Happy faces post the session &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_03_08_GOACAMP/20190309-Day2-Sunset.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;0 Happy faces post the session
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;⁣&lt;/p&gt;
 &lt;h2 id=&quot;day-3&quot;&gt;Day 3&lt;/h2&gt;
@@ -843,10 +963,13 @@ A hectic, but super wonderful day. The group was super awesome, and together we 
 &lt;p&gt;7AM - 8AM: Back to the sea. This time everyone was looking forward to it. Not much time was wasted, we directly decided to go to the deep sea. Water was choppier today, but the group took this as another chance to learn. ⁣⁣ &lt;br /&gt;
 The swim was easily done, with some practice on sea entry and exit too.⁣⁣ &lt;br /&gt;
 &lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_03_08_GOACAMP/20190309-Day2-Beach.JPG&quot; alt=&quot;0 Some random discussion&quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;0 Some random discussion&lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_03_08_GOACAMP/20190309-Day2-Beach.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;0 Some random discussion
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;⁣ &lt;br /&gt;
 And that was the wrap of 3-day session. ⁣⁣ &lt;br /&gt;
@@ -874,20 +997,26 @@ The beauty of this sport is not only you get to learn so many skill, but meet so
 &lt;h2 id=&quot;1-purple-patch-fitness&quot;&gt;1. &lt;a href=&quot;https://purplepatchfitness.com/education/podcasts&quot;&gt;Purple Patch Fitness&lt;/a&gt;:&lt;/h2&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/podcast/PurplePatch.jpg&quot; alt=&quot; Purple Patch Fitness&quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Purple Patch Fitness&lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/podcast/PurplePatch.jpg&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Purple Patch Fitness
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;Matt Dixon is one of the top coaches in the Triathlon world. He has a talent of reducing the complex topic to basics, and reducing it to “actionable advice”. His coached triathletes have wom max podium finishes.&lt;br /&gt;
 His podcasts are short (30min to an hour), and packed with actionable knowledge. Particularly his series on nutrition and hydration are just awesome.&lt;/p&gt;
 
 &lt;h2 id=&quot;2-pursuit-of-the-perfect-race&quot;&gt;2. &lt;a href=&quot;https://www.coachterrywilson.com/perfect&quot;&gt;Pursuit of the Perfect Race&lt;/a&gt;&lt;/h2&gt;
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/podcast/PerfectRace.jpg&quot; alt=&quot; Pursuit of the Perfect Race&quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Pursuit of the Perfect Race&lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/podcast/PerfectRace.jpg&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Pursuit of the Perfect Race
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;Coach Terry describes his podcast as&lt;/p&gt;
 &lt;blockquote&gt;
@@ -908,30 +1037,39 @@ His podcasts are short (30min to an hour), and packed with actionable knowledge.
 &lt;h2 id=&quot;3-that-triathlon-show&quot;&gt;3. &lt;a href=&quot;https://scientifictriathlon.com/that-triathlon-show/&quot;&gt;That Triathlon Show&lt;/a&gt;:&lt;/h2&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/podcast/ThatTriathlonShow.jpg&quot; alt=&quot; That Triathlon Show&quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; That Triathlon Show&lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/podcast/ThatTriathlonShow.jpg&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;That Triathlon Show
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;This podcast is geared towards tips on swimming, running, cycling and nutrition. A wealth of knowledge. Mikael Eriksson, the host of the show, is himself a very good triathlete, who is improving very fast.&lt;/p&gt;
 
 &lt;h2 id=&quot;4-triathlon-taren&quot;&gt;4. &lt;a href=&quot;https://triathlontaren.com/topics/general/&quot;&gt;Triathlon Taren&lt;/a&gt;:&lt;/h2&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/podcast/Triathlon-Taren-Podcast.jpg&quot; alt=&quot; Triathlon Taren Podcast&quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Triathlon Taren Podcast&lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/podcast/Triathlon-Taren-Podcast.jpg&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Triathlon Taren Podcast
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;Taren is an all around crazy, and fun guy. And is such a fabulous storehouse of knowledge. I’ve heard each one of his podcast, and learnt a ton. Along with podcast, he also have a &lt;a href=&quot;https://www.youtube.com/channel/UC1AKDrz2GvLxD29W9tow66g&quot;&gt;YouTube Channel&lt;/a&gt; where one can find a lot of useful triathlon learning videos.&lt;/p&gt;
 
 &lt;h2 id=&quot;5-tower-26&quot;&gt;5. &lt;a href=&quot;https://www.tower26.com/podcasts/&quot;&gt;Tower 26&lt;/a&gt;:&lt;/h2&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/podcast/Tower26.png  Tower26&quot; alt=&quot;&quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/podcast/Tower26.png  Tower26&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;Gerry Rodrigues, host of this show, is a towering figure in the world of Open Water Swimming and Triathlon swimming. Many professional triathletes rates him as the best swimming coach. This podcast is focussed more towards Triathlon Swimming, and many great episodes.&lt;/p&gt;
 
@@ -1122,10 +1260,13 @@ Anaerobic energy is also very limited—relying only on this system won’t even
 &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;[&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/MAF/Aero2.PNG&quot; alt=&quot;Aerobic vs Anaerobic &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;Aerobic vs Anaerobic &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/MAF/Aero2.PNG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Aerobic vs Anaerobic
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;p&gt;](/images/MAF/Aero2.PNG)&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -1139,10 +1280,13 @@ If the event is over two hours, 99% (!!!) of the endurance energy will come from
 
 &lt;insert image=&quot;&quot; here=&quot;&quot;&gt;
 [&lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/MAF/aerobic-and-anaerobic-energy.png&quot; alt=&quot;Aerobic vs Anaerobic &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;Aerobic vs Anaerobic &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/MAF/aerobic-and-anaerobic-energy.png&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Aerobic vs Anaerobic
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 ](/images/MAF/aerobic-and-anaerobic-energy.png)  
 
 
@@ -1162,10 +1306,13 @@ It’s usually the amateurs that do 60 to 80% of their training more intensely i
 Dr. Maffetone, based on his research, has shown that your Maximum Aerobic Function peaks at a heart rate equal to 180 minus your Age.  
 
 [&lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/MAF/maf.png&quot; alt=&quot;Aerobic vs Anaerobic &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;Aerobic vs Anaerobic &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/MAF/maf.png&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Aerobic vs Anaerobic
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 ](/images/MAF/maf.png)  
 
 Dr Maffetone suggests adjustments based on these factors:  
@@ -1248,10 +1395,13 @@ The effect of a carbohydrate food on blood sugar levels is not only determined b
 &lt;/ul&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/Nutrition/GI-Insulin.jpg&quot; alt=&quot;Glycemic Index impact on Insulin &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;Glycemic Index impact on Insulin &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/Nutrition/GI-Insulin.jpg&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Glycemic Index impact on Insulin
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;GL and GI are similar concepts, except that GL takes serving sizes into account. It is calculated by taking the number of grams of carbohydrate in a serving, multiplying by the GI, and dividing by 100.&lt;/p&gt;
 
@@ -1287,10 +1437,13 @@ Normal non-diabetes Fasting blood sugar is &lt;strong&gt;70-100mg/dl&lt;/strong&
 &lt;/blockquote&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/Nutrition/BloodSugar.png&quot; alt=&quot;Blood Sugar &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;Blood Sugar &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/Nutrition/BloodSugar.png&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Blood Sugar
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;Anything more than this is toxic.&lt;/p&gt;
 
@@ -1310,28 +1463,37 @@ Normal non-diabetes Fasting blood sugar is &lt;strong&gt;70-100mg/dl&lt;/strong&
 &lt;/ul&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/Nutrition/InsulinLocker.png&quot; alt=&quot;700 700 Insulin acting as key to store fat &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;700 700 Insulin acting as key to store fat &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/Nutrition/InsulinLocker.png&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;700 700 Insulin acting as key to store fat
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;&lt;strong&gt;Insulin Resistance (IR):&lt;/strong&gt; Over time, chronic daily insults and stress on the pancreas to produce insulin several times a day eventually insulin resistance will develop. Now when cells become insulin resistant metabolic syndrome of one sort or another begin to develop. This is the onset of diabetes.&lt;/p&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/Nutrition/Insulin1.jpg&quot; alt=&quot;Insulin and Blood Sugar! &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;Insulin and Blood Sugar! &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/Nutrition/Insulin1.jpg&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Insulin and Blood Sugar!
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;h2 id=&quot;carboydrates--sugar&quot;&gt;Carboydrates == Sugar&lt;/h2&gt;
 &lt;p&gt;Most health conscious people know sugar is “BAD”. However, we do not realize easily digestible carbohydrates breakdown into &lt;strong&gt;SUGAR&lt;/strong&gt; in your bloodstream! &lt;br /&gt;
 This includes rice, whole-grains,  potatoes, many fruits, some nuts, beans/legumes and other foods people commonly believe are healthy and should be eaten in abundance.&lt;/p&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/Nutrition/Rice.jpg 700 700 Rice and Sugar &quot; alt=&quot;&quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/Nutrition/Rice.jpg 700 700 Rice and Sugar &quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;Diabetes has become a worldwide health crisis.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1339,10 +1501,13 @@ This includes rice, whole-grains,  potatoes, many fruits, some nuts, beans/legum
 &lt;/blockquote&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/Nutrition/DiabetesIndia.png&quot; alt=&quot;Diabetes in India &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;Diabetes in India &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/Nutrition/DiabetesIndia.png&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Diabetes in India
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;In next post, we will discuss on some steps we can take for better insulin management.&lt;/p&gt;
 </content>
@@ -1362,10 +1527,13 @@ This includes rice, whole-grains,  potatoes, many fruits, some nuts, beans/legum
 
 &lt;h3 id=&quot;macronutrients&quot;&gt;&lt;strong&gt;Macronutrients&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;[&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/Nutrition/macros.jpg&quot; alt=&quot;**Macronutrients** &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;**Macronutrients** &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/Nutrition/macros.jpg&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;&lt;strong&gt;Macronutrients&lt;/strong&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;p&gt;](/images/Nutrition/macros.jpg)&lt;/p&gt;
 &lt;blockquote&gt;
 
@@ -1401,10 +1569,13 @@ We use carbohydrates for quick energy - they are your body’s favorite source o
 &lt;h3 id=&quot;micronutrients&quot;&gt;&lt;strong&gt;Micronutrients&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;p&gt;[&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/Nutrition/micros.jpg&quot; alt=&quot;**Micronutrients** &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;**Micronutrients** &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/Nutrition/micros.jpg&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;&lt;strong&gt;Micronutrients&lt;/strong&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;p&gt;](/images/Nutrition/micros.jpg)&lt;/p&gt;
 &lt;blockquote&gt;
 
@@ -1667,10 +1838,13 @@ I wanted to track all the pushups.&lt;/p&gt;
 Start of every week, I would create a task with goals for that week. And subtasks for each day of the week to track. I actually made a template excel for this, I add week number and dates are filled automatically. Sample &lt;a href=&quot;https://docs.google.com/spreadsheets/d/16-mHjsayC9Z7-EnqfYbXihC0o9HUoagopwwlzPXgcHI/edit?usp=sharing&quot;&gt;here&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;[&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/Pushup.JPG&quot; alt=&quot;Google Tasks to track Pushups &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;Google Tasks to track Pushups &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/Pushup.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Google Tasks to track Pushups
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;p&gt;](/images/Pushup.JPG)&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Execution&lt;/strong&gt; &lt;br /&gt;
@@ -1859,10 +2033,13 @@ Saturday was spent in getting a small practice swim in the sea (scary, 3rd open 
 &lt;p&gt;Swim was a single loop - go straight 900m, turn left and go 100m, come back for 900m.&lt;/p&gt;
 
 &lt;p&gt;[&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-SwimCourseMap.JPG&quot; alt=&quot;Swim Course&quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;Swim Course&lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-SwimCourseMap.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Swim Course
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;p&gt;](/images/2019_01_13_GOATRI/GOATRI-SwimCourseMap.JPG)&lt;/p&gt;
 
 &lt;p&gt;At 8:05, flag off was done, we ran towards the sea.
@@ -1876,10 +2053,13 @@ Thankfully, I was spared from more attacks, and I soon finished the swim.&lt;/p&
 &lt;p&gt;Later I checked - I ended up swimming 2200mts - full 300mts extra - because of jellyfish distraction and buoys so far off that sighting was a challenge. 300m of extra swim is easily 6-8min wasted!&lt;/p&gt;
 
 &lt;p&gt;[&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-Jellyfish.JPG&quot; alt=&quot;Jellyfish&quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;Jellyfish&lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-Jellyfish.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Jellyfish
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;p&gt;](/images/2019_01_13_GOATRI/GOATRI-Jellyfish.JPG)&lt;/p&gt;
 
 &lt;p&gt;Strava: https://www.strava.com/activities/1413762389&lt;/p&gt;
@@ -1900,17 +2080,23 @@ I later discovered everyone got bit by jellyfish, and the average was 3 bites.&l
 &lt;p&gt;On my 2nd loop, I met one participant - Rupesh. He was cycling at a speed similar to mine. I asked him some question about his bike, and then we started to cycle together. From there, till cycle end, we were together - talking about the race, college, and dunno what all stuff. It was his first triathlon, and that too a half iron distance. This sports do draw people with serious grit towards it.&lt;/p&gt;
 
 &lt;p&gt;[&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-Cycling-4.JPG&quot; alt=&quot;Half Cycling, Half Chatting. With Rupesh &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;Half Cycling, Half Chatting. With Rupesh &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-Cycling-4.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Half Cycling, Half Chatting. With Rupesh
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;p&gt;](/images/2019_01_13_GOATRI/GOATRI-Cycling-4.JPG)&lt;/p&gt;
 
 &lt;p&gt;[&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-Cycling-3.JPG&quot; alt=&quot;With Rupesh and Omkar. All cursing the sun. &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;With Rupesh and Omkar. All cursing the sun. &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-Cycling-3.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;With Rupesh and Omkar. All cursing the sun.
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;p&gt;](/images/2019_01_13_GOATRI/GOATRI-Cycling-3.JPG)&lt;/p&gt;
 
 &lt;p&gt;Every loop, we took hydration breaks. Sun was getting stronger.&lt;br /&gt;
@@ -1918,10 +2104,13 @@ Towards our 5th loop, we saw Pablo, who was now running. We wondered if we’ll 
 Rupesh and I finished cycle around 12:30PM. Knee pain was  manageable. Kaustubh was also cheering and asking about my knee at every possible point.&lt;/p&gt;
 
 &lt;p&gt;[&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-Cycling-1.JPG&quot; alt=&quot;Sun is not going to stop me from posing &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;Sun is not going to stop me from posing &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-Cycling-1.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Sun is not going to stop me from posing
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;p&gt;](/images/2019_01_13_GOATRI/GOATRI-Cycling-1.JPG)&lt;/p&gt;
 
 &lt;p&gt;Strava: https://www.strava.com/activities/2075344971&lt;/p&gt;
@@ -1938,70 +2127,97 @@ Racking the cycle, I changed into running tee and lied down on grass for a coupl
 &lt;p&gt;I stopped at hydration station, got an ice bath. Having cold water on the body felt so good. I felt better, ran a bit faster, soon caught up with Rupesh. From here onwards, we stuck together for the next 16km.&lt;/p&gt;
 
 &lt;p&gt;[&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-Run-2.JPG&quot; alt=&quot;Caught up Rupesh. Found him chatting with his wife! &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;Caught up Rupesh. Found him chatting with his wife! &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-Run-2.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Caught up Rupesh. Found him chatting with his wife!
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;p&gt;](/images/2019_01_13_GOATRI/GOATRI-Run-2.JPG)&lt;/p&gt;
 
 &lt;p&gt;[&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-Run-3.JPG&quot; alt=&quot;Posers!!!&quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;Posers!!!&lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-Run-3.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Posers!!!
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;p&gt;](/images/2019_01_13_GOATRI/GOATRI-Run-3.JPG)&lt;/p&gt;
 
 &lt;p&gt;We faced one more challenge - Ice was available only at the loop end. So 6km stretch with no ice or cold water in between! On every loop, I was doing this - get ice bath, put ice cubes in cap, run fast till body is cold (2km mostly), and then hang on till next ice stop. This continued till 17km, average a slow pace of 8kmph. Weather was absolutely insane by this time - as bad as my half iron experience in Thonnur.&lt;/p&gt;
 
 &lt;p&gt;[&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-Run-10-Water.JPG&quot; alt=&quot;Ice PLEASEEEE &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;Ice PLEASEEEE &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-Run-10-Water.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Ice PLEASEEEE
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;p&gt;](/images/2019_01_13_GOATRI/GOATRI-Run-10-Water.JPG)&lt;/p&gt;
 
 &lt;p&gt;When 17km mark was over, and knee still cooperating, I decided to finish strong. I went ahead from the pack.&lt;br /&gt;
 Last 5km came pace was 7:00, 7:39, 7:30, 7:37, 7:48. Not bad.&lt;/p&gt;
 
 &lt;p&gt;[&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-Run-7.JPG&quot; alt=&quot;Saying bye to the pack! &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;Saying bye to the pack! &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-Run-7.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Saying bye to the pack!
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;p&gt;](/images/2019_01_13_GOATRI/GOATRI-Run-5.JPG)
 [&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-Run-6.JPG&quot; alt=&quot;Just tar road, no shades &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;Just tar road, no shades &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-Run-6.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Just tar road, no shades
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;p&gt;](/images/2019_01_13_GOATRI/GOATRI-Run-6.JPG)&lt;br /&gt;
 [&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-Run-5.JPG&quot; alt=&quot;Now that end is in sight, SMILE! &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;Now that end is in sight, SMILE! &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-Run-5.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Now that end is in sight, SMILE!
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;p&gt;](/images/2019_01_13_GOATRI/GOATRI-Run-5.JPG)&lt;/p&gt;
 
 &lt;p&gt;Last 600mts of downhill were done quickly, I saw the finish line. Kaustubh, as expected, was there - cheering and genuinely happy! I punched in the air, crossed the finish line.
 Finally, 4th Half Ironman was done!&lt;/p&gt;
 
 &lt;p&gt;[&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-Finish.JPG&quot; alt=&quot;The end line! &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;The end line! &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-Finish.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;The end line!
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;p&gt;](/images/2019_01_13_GOATRI/GOATRI-Finish.JPG) &lt;br /&gt;
 [&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-Finish-Medal.JPG&quot; alt=&quot;The Medal! &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;The Medal! &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-Finish-Medal.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;The Medal!
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;p&gt;](/images/2019_01_13_GOATRI/GOATRI-Finish-Medal.JPG)&lt;br /&gt;
 [&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-Finish-Medal-Rupesh.JPG&quot; alt=&quot;My Race Partner &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;My Race Partner &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-Finish-Medal-Rupesh.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;My Race Partner
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;p&gt;](/images/2019_01_13_GOATRI/GOATRI-Finish-Medal-Rupesh.JPG)&lt;/p&gt;
 
 &lt;p&gt;Strava: https://www.strava.com/activities/2075345016&lt;/p&gt;
@@ -2013,29 +2229,41 @@ Finally, 4th Half Ironman was done!&lt;/p&gt;
 And Pablo got the timing of 4:20hrs. Yes, 4:20! In that heat!&lt;/p&gt;
 
 &lt;p&gt;[&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-News-Interview-1.JPG&quot; alt=&quot;Look Ma, I am in newspaper. &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;Look Ma, I am in newspaper. &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-News-Interview-1.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Look Ma, I am in newspaper.
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;p&gt;](/images/2019_01_13_GOATRI/GOATRI-News-Interview-1.JPG)&lt;/p&gt;
 
 &lt;p&gt;[&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-News-Interview-3.JPG&quot; alt=&quot;More news on event and Jellyfish! &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;More news on event and Jellyfish! &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-News-Interview-3.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;More news on event and Jellyfish!
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;p&gt;](/images/2019_01_13_GOATRI/GOATRI-News-Interview-1.JPG)&lt;br /&gt;
 [&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-PabloErat.JPG&quot; alt=&quot;Pablo Erat. What an athlete! &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;Pablo Erat. What an athlete! &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-PabloErat.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Pablo Erat. What an athlete!
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;p&gt;](/images/2019_01_13_GOATRI/GOATRI-PabloErat.JPG)&lt;br /&gt;
 [&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-Radstrong.JPG&quot; alt=&quot;Radstrong Team! &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;Radstrong Team! &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_01_13_GOATRI/GOATRI-Radstrong.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Radstrong Team!
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;p&gt;](/images/2019_01_13_GOATRI/GOATRI-Radstrong.JPG)&lt;/p&gt;
 
 </content>
@@ -2193,10 +2421,13 @@ Soon I found a rhythm and started to draft off from one swimmer to another.&lt;b
 First 1.9k was done in 52min.&lt;br /&gt;
 I entered water again, starting second loop. Second loop was much easier, and I managed to finish it in 50min. Right on the predicted timing.&lt;br /&gt;
 &lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2018_06_03_IMPhi/Race/IM-Swim-1.JPG&quot; alt=&quot;500 600 Survived the swim &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;500 600 Survived the swim &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2018_06_03_IMPhi/Race/IM-Swim-1.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;500 600 Survived the swim
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;Total Time: 1hr 42min
 &lt;a href=&quot;https://www.strava.com/activities/1629696952&quot;&gt;Strava Link&lt;/a&gt;&lt;/p&gt;
@@ -2224,16 +2455,22 @@ First u-turn was at km 50. Now the weather was getting hot. All athletes were ta
 
 &lt;p&gt;I took almost 8 hours to finish cycling - slower by more than an hour from my worst margins. It was crazy. Thanks to long hours spent in the training, I could finish this.&lt;br /&gt;
 &lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2018_06_03_IMPhi/Race/IM-Bike-1.JPG&quot; alt=&quot;600 600 Pain doesn't mean I won't pose &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;600 600 Pain doesn't mean I won't pose &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2018_06_03_IMPhi/Race/IM-Bike-1.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;600 600 Pain doesn’t mean I won’t pose
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2018_06_03_IMPhi/Race/IM-Bike-3.JPG&quot; alt=&quot;600 500 Attitude is still thumbs up&quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;600 500 Attitude is still thumbs up&lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2018_06_03_IMPhi/Race/IM-Bike-3.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;600 500 Attitude is still thumbs up
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;Total Time: 7hr 50min&lt;/p&gt;
 
@@ -2259,10 +2496,13 @@ This gave me about 7hours to finish the run. More than enough, as long as I don�
 
 &lt;p&gt;After first 2km, body opened up a bit. First 10km came in 75min.&lt;br /&gt;
 &lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2018_06_03_IMPhi/Race/IM-Run-1.JPG&quot; alt=&quot;500 600 Pain doesn't mean I won't pose &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;500 600 Pain doesn't mean I won't pose &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2018_06_03_IMPhi/Race/IM-Run-1.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;500 600 Pain doesn’t mean I won’t pose
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;Then I met Vijay(his first ironman too), and we decided to run together. He was struggling a bit - pain in the knee. From Km 10 till Km 35, we ran and walked together, egging each other on.&lt;/p&gt;
 
@@ -2270,17 +2510,23 @@ This gave me about 7hours to finish the run. More than enough, as long as I don�
 Those last 7km were so agonizing, but yet so beautiful. I constantly told my mind to shut up. During this last section, I overtook many people.&lt;br /&gt;
 As the finish line came closer, I could hear voice of Mike Reilly announcing finishers name. Last few minutes I picked up the pace further, finally sprinting at the red carpet. At the end of red carpet, I jumped and finished it strong.&lt;br /&gt;
 &lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2018_06_03_IMPhi/Race/IM-Run-2.JPG&quot; alt=&quot;500 600 Finish Line in Sight &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;500 600 Finish Line in Sight &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2018_06_03_IMPhi/Race/IM-Run-2.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;500 600 Finish Line in Sight
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;&lt;strong&gt;“From India, First time triathlete, Rishi Sareen, you are an Ironman”&lt;/strong&gt;
 &lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2018_06_03_IMPhi/Race/Race.JPG&quot; alt=&quot;900 900 Finish Line in Sight &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;900 900 Finish Line in Sight &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2018_06_03_IMPhi/Race/Race.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;900 900 Finish Line in Sight
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;End time: 15hours 57min.&lt;/p&gt;
 
@@ -2329,10 +2575,13 @@ But then, what is life without a crazy goal or two?&lt;/p&gt;
 
 &lt;p&gt;The event was on 3rd June. We reached Subic 4 days before. From Manila Airport to Subic, we could see Ironman Banner all around - from welcoming athletes to mentioning sponsors.
 &lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2018_06_03_IMPhi/PreRace/IM-Pre-1-Banner.jpg&quot; alt=&quot; IM Banner all over the city &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; IM Banner all over the city &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2018_06_03_IMPhi/PreRace/IM-Pre-1-Banner.jpg&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;IM Banner all over the city
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;&lt;strong&gt;Swim Experience&lt;/strong&gt;&lt;br /&gt;
 Funny story time. As I mentioned, Swim experience was one of the key reason why we reached 4 days before the event.&lt;/p&gt;
@@ -2360,34 +2609,49 @@ The mental barrier was broken - I DID IT!!&lt;/p&gt;
 &lt;p&gt;Next few days were spent going to Ironman Expo, getting race kit, acclimatization to the heat.&lt;br /&gt;
 We had a chance to meet a lot of seasoned athletes. Everyone was remarking how this is one of the toughest course. Those who had done Kona (Ironman World Championship venue, and one of the toughest course) compared this route to Kona! &lt;em&gt;Gasp&lt;/em&gt;&lt;br /&gt;
 &lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2018_06_03_IMPhi/PreRace/IM-Pre-1-Expo.jpg&quot; alt=&quot; IM Expo &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; IM Expo &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2018_06_03_IMPhi/PreRace/IM-Pre-1-Expo.jpg&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;IM Expo
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2018_06_03_IMPhi/PreRace/IM-Pre-2-Expo.jpg&quot; alt=&quot; IM Expo &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; IM Expo &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2018_06_03_IMPhi/PreRace/IM-Pre-2-Expo.jpg&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;IM Expo
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2018_06_03_IMPhi/PreRace/IM-Pre-3-CarbLoadingDinner.jpg&quot; alt=&quot; Carb Loading Dinner &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Carb Loading Dinner &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2018_06_03_IMPhi/PreRace/IM-Pre-3-CarbLoadingDinner.jpg&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Carb Loading Dinner
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2018_06_03_IMPhi/PreRace/IM-Pre-4-CarbLoadingDinner.jpg&quot; alt=&quot; Rice, Pasta, Breads&quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Rice, Pasta, Breads&lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2018_06_03_IMPhi/PreRace/IM-Pre-4-CarbLoadingDinner.jpg&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Rice, Pasta, Breads
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2018_06_03_IMPhi/PreRace/IM-Pre-5-FinishLine.jpg&quot; alt=&quot; India Flag around finish line &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; India Flag around finish line &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2018_06_03_IMPhi/PreRace/IM-Pre-5-FinishLine.jpg&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;India Flag around finish line
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 </content>
  </entry>
@@ -2676,40 +2940,58 @@ Km 5 to km 15 :  By now, I had settled down on a nice rhythm - Cadence was a ste
 &lt;h1 id=&quot;some-pics-from-the-event&quot;&gt;Some pics from the event:&lt;/h1&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2018_10_21_ADHM/2018-10-21-1-RaceKit.JPG&quot; alt=&quot; Race Kit all packed &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Race Kit all packed &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2018_10_21_ADHM/2018-10-21-1-RaceKit.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Race Kit all packed
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2018_10_21_ADHM/2018-10-21-2-Solo-Before-Run.JPG&quot; alt=&quot; Reached stadium, waiting for bhai &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Reached stadium, waiting for bhai &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2018_10_21_ADHM/2018-10-21-2-Solo-Before-Run.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Reached stadium, waiting for bhai
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2018_10_21_ADHM/2018-10-21-3-Before-Event-With-Jatu.JPG&quot; alt=&quot; Pre-Run selfie with bhai&quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Pre-Run selfie with bhai&lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2018_10_21_ADHM/2018-10-21-3-Before-Event-With-Jatu.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Pre-Run selfie with bhai
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2018_10_21_ADHM/2018-10-21-4-PostEvent-WithJatu.JPG&quot; alt=&quot; Post-Run Happy Brothers &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Post-Run Happy Brothers &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2018_10_21_ADHM/2018-10-21-4-PostEvent-WithJatu.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Post-Run Happy Brothers
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2018_10_21_ADHM/2018-10-21-5-PostEvent-Selfie.JPG&quot; alt=&quot; Post-Run All Smiles!!!&quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Post-Run All Smiles!!!&lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2018_10_21_ADHM/2018-10-21-5-PostEvent-Selfie.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Post-Run All Smiles!!!
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2018_10_21_ADHM/2018-10-21-6-PostEvent-Selfie2.JPG&quot; alt=&quot; Bye Bye ADHM, till next year!&quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Bye Bye ADHM, till next year!&lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2018_10_21_ADHM/2018-10-21-6-PostEvent-Selfie2.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Bye Bye ADHM, till next year!
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 </content>
  </entry>
@@ -3133,10 +3415,13 @@ Eating clean not only helped me to improve my performance, but had a surprising 
 
 &lt;p&gt;We took IndiGo flight at 10:50AM, and reached Guwahati at 2:50PM (including a halt).&lt;br /&gt;
 &lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2016_05_08/01-2016_05_08-At-Delhi-Airport.JPG&quot; alt=&quot;At Delhi Airport, trip starts&quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;At Delhi Airport, trip starts&lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2016_05_08/01-2016_05_08-At-Delhi-Airport.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;At Delhi Airport, trip starts
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;It was raining when we reached Guwahati. First thing I did on reaching Guwahati airport was to go to Arunachal Pradesh counter. 
 Now, Arunachal Pradesh is one of the few places in India for which Inner Line Permit is still needed. This can be applied either &lt;a href=&quot;http://www.arunachalilp.com/&quot;&gt;online&lt;/a&gt;, or from few places where ILP on arrival is available. I’ve read on indiamike that one can easily get ILP from Guwahati airport. So, I went there. It was very smooth, the guy on counter was super helpful. For ILP, we needed to provide address proof, id proof and 2 pics. It took us 30” to get ILP for all of us (all except Ryan, as kids below 5 are exempted.  &lt;br /&gt;
@@ -3150,114 +3435,168 @@ After settling, I went to the market to search for a taxi guy. Now, Tawang is ty
 &lt;p&gt;For Day1, our target was to reach at Bhalukpong, which is end point of Assam. We started around 8AM from hotel. All excited, trip was starting now. Some pics from Day2:&lt;/p&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2016_05_08/02-2016_05_08-Assam-FoodStop-Chips.JPG&quot; alt=&quot; Some Chips seller with OCD. He was stapling these chips packet all the time we halted for lunch.&quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Some Chips seller with OCD. He was stapling these chips packet all the time we halted for lunch.&lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2016_05_08/02-2016_05_08-Assam-FoodStop-Chips.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Some Chips seller with OCD. He was stapling these chips packet all the time we halted for lunch.
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2016_05_08/03-2016_05_08-Assam-HappyRyan.JPG&quot; alt=&quot; Nice cool breeze, Ryan Happy!&quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Nice cool breeze, Ryan Happy!&lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2016_05_08/03-2016_05_08-Assam-HappyRyan.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Nice cool breeze, Ryan Happy!
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;For lunch, we stopped at a place called Nameri Fishing Camp. This was a beautiful place, in middle of jungle. Unfortunately, food was finished there! &lt;br /&gt;
 &lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2016_05_08/04-2016_05_08-Nameri-Riya-Posing.JPG&quot; alt=&quot; Riya Posing &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Riya Posing &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2016_05_08/04-2016_05_08-Nameri-Riya-Posing.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Riya Posing
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2016_05_08/05-2016_05_08-Nameri-Calendar-Khana-Laao.JPG&quot; alt=&quot; We all hungry &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; We all hungry &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2016_05_08/05-2016_05_08-Nameri-Calendar-Khana-Laao.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;We all hungry
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2016_05_08/06-2016_05_08-Assam-Nameri-Jhoola-Jhoole-Ryan.JPG&quot; alt=&quot; Kids and Swings! &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Kids and Swings! &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2016_05_08/06-2016_05_08-Assam-Nameri-Jhoola-Jhoole-Ryan.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Kids and Swings!
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2016_05_08/07-2016_05_08-Nameri-Jia-Bhoroli-River-Riya-and-Me.JPG&quot; alt=&quot; Papa Beti posing near Jia Bhoroli River &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Papa Beti posing near Jia Bhoroli River &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2016_05_08/07-2016_05_08-Nameri-Jia-Bhoroli-River-Riya-and-Me.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Papa Beti posing near Jia Bhoroli River
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;Around 4PM, we reached Bhalukpong. We took cottage at Prashanti Lodge (Rs 1700/- for cottage)
 &lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2016_05_08/08-2016_05_08-Bhalukpong-Prashanti-Lodge-Riyan.JPG&quot; alt=&quot; Bhalukpong - Prashanti Lodge - Kids Enjoying &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Bhalukpong - Prashanti Lodge - Kids Enjoying &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2016_05_08/08-2016_05_08-Bhalukpong-Prashanti-Lodge-Riyan.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Bhalukpong - Prashanti Lodge - Kids Enjoying
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2016_05_08/09-2016_05_08-Bhalukpong-Prashanti-Lodge-Our-cottage.JPG&quot; alt=&quot; Bhalukpong - Prashanti Lodge -Our cottage &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Bhalukpong - Prashanti Lodge -Our cottage &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2016_05_08/09-2016_05_08-Bhalukpong-Prashanti-Lodge-Our-cottage.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Bhalukpong - Prashanti Lodge -Our cottage
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2016_05_08/10-2016_05_08-Bhalukpong-Prashanti-Lodge-River-view.JPG&quot; alt=&quot; Bhalukpong - Prashanti Lodge -River View &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Bhalukpong - Prashanti Lodge -River View &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2016_05_08/10-2016_05_08-Bhalukpong-Prashanti-Lodge-River-view.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Bhalukpong - Prashanti Lodge -River View
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2016_05_08/11-2016_05_08-Bhalukpong-Prashanti-Lodge-Cottage-2.JPG&quot; alt=&quot;  Bhalukpong - Prashanti Lodge - #2 &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;  Bhalukpong - Prashanti Lodge - #2 &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2016_05_08/11-2016_05_08-Bhalukpong-Prashanti-Lodge-Cottage-2.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Bhalukpong - Prashanti Lodge - #2
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2016_05_08/12-2016_05_08-Bhalukpong-Prashanti-Lodge-Cottage-3.JPG&quot; alt=&quot;  Bhalukpong - Prashanti Lodge - #3 &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;  Bhalukpong - Prashanti Lodge - #3 &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2016_05_08/12-2016_05_08-Bhalukpong-Prashanti-Lodge-Cottage-3.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Bhalukpong - Prashanti Lodge - #3
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2016_05_08/13-2016_05_08-Bhalukpong-Prashanti-Lodge-Riya-Cartwheel.JPG&quot; alt=&quot;  Bhalukpong - Prashanti Lodge - Riya Cartwheel &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;  Bhalukpong - Prashanti Lodge - Riya Cartwheel &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2016_05_08/13-2016_05_08-Bhalukpong-Prashanti-Lodge-Riya-Cartwheel.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Bhalukpong - Prashanti Lodge - Riya Cartwheel
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2016_05_08/14-2016_05_08-Assam-Pyaar.JPG&quot; alt=&quot;  Kids wrestling &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;  Kids wrestling &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2016_05_08/14-2016_05_08-Assam-Pyaar.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Kids wrestling
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2016_05_08/17-2016_05_08-Bhalukpong-Prashanti-Lodge-Riya-Cartwheel-001.JPG&quot; alt=&quot; Bhalukpong - Prashanti Lodge - Riya Cartwheel  &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Bhalukpong - Prashanti Lodge - Riya Cartwheel  &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2016_05_08/17-2016_05_08-Bhalukpong-Prashanti-Lodge-Riya-Cartwheel-001.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Bhalukpong - Prashanti Lodge - Riya Cartwheel
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2016_05_08/18-2016_05_08-40-Bhalukpong-Prashanti-Lodge-Dharna-Kumari.JPG&quot; alt=&quot; Dharna Kumari &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Dharna Kumari &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2016_05_08/18-2016_05_08-40-Bhalukpong-Prashanti-Lodge-Dharna-Kumari.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Dharna Kumari
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2016_05_08/19-2016_05_08-45-Bhalukpong-Boy-Ready-to-Go.JPG&quot; alt=&quot;  Ryan all set to go &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;  Ryan all set to go &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2016_05_08/19-2016_05_08-45-Bhalukpong-Boy-Ready-to-Go.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Ryan all set to go
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2016_05_08/20-2016_05_08-50-Bhalukpong-Rivers-everywhere.JPG&quot; alt=&quot;  Some random river &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;  Some random river &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2016_05_08/20-2016_05_08-50-Bhalukpong-Rivers-everywhere.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Some random river
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2016_05_08/21-2016_05_08-55-Riya-Experiments.JPG&quot; alt=&quot;  Riya Experiments &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt;  Riya Experiments &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2016_05_08/21-2016_05_08-55-Riya-Experiments.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Riya Experiments
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;h2 id=&quot;day3---bhalukpong---dirang-110km&quot;&gt;Day3 - Bhalukpong -&amp;gt; Dirang (110km)&lt;/h2&gt;
 &lt;p&gt;TBD
@@ -3265,84 +3604,123 @@ After having a nice breakfast at the lodge, we left for Dirang. The roads starts
 Bhalukpong is one of the entry point for Arunachal Pradesh. So we had to show our ILP here. &lt;br /&gt;
 Weather was very nice today, and scenery even more so.  &lt;br /&gt;
 &lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2016_05_09/01-2016_05_09-RiyainFrontofWaterfall.JPG&quot; alt=&quot; Riya in front of waterfall &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Riya in front of waterfall &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2016_05_09/01-2016_05_09-RiyainFrontofWaterfall.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Riya in front of waterfall
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2016_05_09/02-2016_05_09-ViewFromCar.JPG&quot; alt=&quot; Lovely view of the valley &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Lovely view of the valley &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2016_05_09/02-2016_05_09-ViewFromCar.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Lovely view of the valley
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2016_05_09/03-2016_05_09-GunsAndWoods.JPG&quot; alt=&quot; Is it wood block? Is it Gun? &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Is it wood block? Is it Gun? &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2016_05_09/03-2016_05_09-GunsAndWoods.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Is it wood block? Is it Gun?
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2016_05_09/04-2016_05_09-OurHotel.JPG&quot; alt=&quot; Our Hotel at Dirang &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Our Hotel at Dirang &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2016_05_09/04-2016_05_09-OurHotel.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Our Hotel at Dirang
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2016_05_09/05-2016_05_09-KidsPosing.JPG&quot; alt=&quot; Lovely flowers &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Lovely flowers &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2016_05_09/05-2016_05_09-KidsPosing.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Lovely flowers
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2016_05_09/06-2016_05_09-RiyaWithFlowers.JPG&quot; alt=&quot; Riya posing with flowers &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Riya posing with flowers &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2016_05_09/06-2016_05_09-RiyaWithFlowers.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Riya posing with flowers
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2016_05_09/07-2016_05_09-NoisyRyan.JPG&quot; alt=&quot; Make some noise! &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Make some noise! &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2016_05_09/07-2016_05_09-NoisyRyan.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Make some noise!
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;There was a “famous” hot water spring in Dirang. We climbed down there. What a disappointment it was. Having seen hot water geysers in Ladakh, we were expecting something similar. But water was not even lukewarm. Some locals were bathing in there, and it all looked very unhygenic. Surely a waste of time. 
 &lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2016_05_09/08-2016_05_09-OnthewaytoHotelWaterSpring.JPG&quot; alt=&quot; Enter the caption &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Enter the caption &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2016_05_09/08-2016_05_09-OnthewaytoHotelWaterSpring.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Enter the caption
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2016_05_09/09-2016_05_09-HotWaterSpring-SoMeh.JPG&quot; alt=&quot; Enter the caption &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Enter the caption &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2016_05_09/09-2016_05_09-HotWaterSpring-SoMeh.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Enter the caption
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2016_05_09/10-2016_05_09-HotWaterSpring-Notworthit.JPG&quot; alt=&quot; Enter the caption &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Enter the caption &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2016_05_09/10-2016_05_09-HotWaterSpring-Notworthit.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Enter the caption
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;There are many solar panels all around North East. It is subsidized by government. A good initiative. &lt;br /&gt;
 &lt;!-- _includes/image.html --&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2016_05_09/11-2016_05_09-LotOfSolarPanels.JPG&quot; alt=&quot; Solar panels &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Solar panels &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2016_05_09/11-2016_05_09-LotOfSolarPanels.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Solar panels
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2016_05_09/12-2016_05_09-LocalVersionOfChausar.JPG&quot; alt=&quot; Local version of chausar &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Local version of chausar &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2016_05_09/12-2016_05_09-LocalVersionOfChausar.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Local version of chausar
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-  &lt;img src=&quot;/images/2016_05_09/13-2016_05_09-NagMandir.JPG&quot; alt=&quot; Nag Mandir &quot; /&gt;  
-  &lt;p class=&quot;image-caption&quot;&gt; Nag Mandir &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2016_05_09/13-2016_05_09-NagMandir.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Nag Mandir
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 </content>
  </entry>

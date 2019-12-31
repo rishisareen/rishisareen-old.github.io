@@ -40,7 +40,7 @@ P.S: I also learnt swimming AFTER I signed up for my first half ironman.
 
 Two days before the race, I went for a practice swim with Anubhav and Rohin. The water was choppy but I had a good relaxed time in the sea. This is the first time I didn't panic in the sea. I don't know what was the difference was, nevertheless I had a good swim. 
 
-{% include image.html file="/images/2019_10_20_IM703Goa/RadGang2.JPG" description=" Rad Gang doing swim session "%}
+{% include image.html file="/images/2019_10_20_IM703Goa/RadGang2.JPG" style="width:30%" description=" Rad Gang doing swim session "%}
 
 It was fun to go to expo and catch up with many triathletes friends. 
 

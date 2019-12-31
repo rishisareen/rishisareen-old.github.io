@@ -91,18 +91,19 @@ button.disqus-load {
   margin-top: 1em;
 }
 
-.image-wrapper {
 
-    .image-caption {
-	text-align: center ;
-        margin-top: -0.5rem;
-        margin-bottom: 1rem;
-  	color: $link-color;
-  	border: 1px solid $border-color;
-    	box-shadow: $default-box-shadow;
-    	border-radius: $border-radius;
-    	border-width: 1px;
-    	background: $body-bg;
-    	width: 60%;
-    }
+figure { 
+  display: block; 
+  position: relative; 
+  overflow: hidden; 
+  margin: 0 20px 20px 0;
+}
+figcaption { 
+  position: absolute; 
+  background: rgba(0,0,0,0.75); 
+  color: white; 
+  padding: 10px 20px; 
+  bottom: 0;
+  left: 0;
+  opacity: 1;
 }
