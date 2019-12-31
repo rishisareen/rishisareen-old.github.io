@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-12-31T20:51:29+05:30</updated><id>http://localhost:4000/</id><title type="html">Rishi Sareen</title><author><name>Rishi Sareen</name><email>rishi[at]jigyasu[dot]com</email></author><entry><title type="html">Ironman70.3 Goa - Oct 19 - Race Report</title><link href="http://localhost:4000/ironman/ironman70-dot-3-goa-oct-19-race-report.html" rel="alternate" type="text/html" title="Ironman70.3 Goa - Oct 19 - Race Report" /><published>2019-10-28T19:48:02+05:30</published><updated>2019-10-28T19:48:02+05:30</updated><id>http://localhost:4000/ironman/ironman70-dot-3-goa-oct-19-race-report</id><content type="html" xml:base="http://localhost:4000/ironman/ironman70-dot-3-goa-oct-19-race-report.html">&lt;h3 id=&quot;race-information&quot;&gt;Race information&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-12-31T22:08:03+05:30</updated><id>http://localhost:4000/</id><title type="html">Rishi Sareen</title><author><name>Rishi Sareen</name><email>rishi[at]jigyasu[dot]com</email></author><entry><title type="html">Ironman70.3 Goa - Oct 19 - Race Report</title><link href="http://localhost:4000/ironman/ironman70-dot-3-goa-oct-19-race-report.html" rel="alternate" type="text/html" title="Ironman70.3 Goa - Oct 19 - Race Report" /><published>2019-10-28T19:48:02+05:30</published><updated>2019-10-28T19:48:02+05:30</updated><id>http://localhost:4000/ironman/ironman70-dot-3-goa-oct-19-race-report</id><content type="html" xml:base="http://localhost:4000/ironman/ironman70-dot-3-goa-oct-19-race-report.html">&lt;h3 id=&quot;race-information&quot;&gt;Race information&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;What?&lt;/strong&gt; Ironman 70.3 Goa&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;When?&lt;/strong&gt; October 20, 2019&lt;/li&gt;
@@ -54,25 +54,43 @@ P.S: I also learnt swimming AFTER I signed up for my first half ironman.&lt;/p&g
 
 &lt;p&gt;Two days before the race, I went for a practice swim with Anubhav and Rohin. The water was choppy but I had a good relaxed time in the sea. This is the first time I didn’t panic in the sea. I don’t know what was the difference was, nevertheless I had a good swim.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2019_10_20_IM703Goa/RadGang2.JPG&quot; alt=&quot; Rad Gang doing swim session &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; Rad Gang doing swim session &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_10_20_IM703Goa/RadGang2.JPG&quot; alt=&quot; Rad Gang doing swim session &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; Rad Gang doing swim session &lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;It was fun to go to expo and catch up with many triathletes friends.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2019_10_20_IM703Goa/PreRace.JPG&quot; alt=&quot; At the expo entry &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; At the expo entry &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_10_20_IM703Goa/PreRace.JPG&quot; alt=&quot; At the expo entry &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; At the expo entry &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2019_10_20_IM703Goa/PreRace2.JPG&quot; alt=&quot; Finding the name &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; Finding the name &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_10_20_IM703Goa/PreRace2.JPG&quot; alt=&quot; Finding the name &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; Finding the name &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2019_10_20_IM703Goa/Debrief1.JPG&quot; alt=&quot; Radstrong Briefing session &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; Radstrong Briefing session &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_10_20_IM703Goa/Debrief1.JPG&quot; alt=&quot; Radstrong Briefing session &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; Radstrong Briefing session &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2019_10_20_IM703Goa/WithRahul.JPG&quot; alt=&quot; Rahul - Always smiling &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; Rahul - Always smiling &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_10_20_IM703Goa/WithRahul.JPG&quot; alt=&quot; Rahul - Always smiling &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; Rahul - Always smiling &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2019_10_20_IM703Goa/RadGang3.JPG&quot; alt=&quot; Rad Gang!  &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; Rad Gang!  &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_10_20_IM703Goa/RadGang3.JPG&quot; alt=&quot; Rad Gang!  &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; Rad Gang!  &lt;/p&gt;
+&lt;/div&gt;
 
 &lt;h3 id=&quot;swim-19km&quot;&gt;Swim [1.9km]&lt;/h3&gt;
 
@@ -83,23 +101,41 @@ Getting up at 4am, I had a light breakfast - 4 Scrambled Eggs and Coffee with Bu
 
 &lt;p&gt;Soon it was announced that start was delayed by 30”. I used that time to click selfies with friends - best way to distract and not think about the race.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2019_10_20_IM703Goa/RishiAtT1.JPG&quot; alt=&quot; Me with my trusted bike &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; Me with my trusted bike &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_10_20_IM703Goa/RishiAtT1.JPG&quot; alt=&quot; Me with my trusted bike &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; Me with my trusted bike &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2019_10_20_IM703Goa/WithBhavesh.JPG&quot; alt=&quot; Bhavesh - The stylish one &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; Bhavesh - The stylish one &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_10_20_IM703Goa/WithBhavesh.JPG&quot; alt=&quot; Bhavesh - The stylish one &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; Bhavesh - The stylish one &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2019_10_20_IM703Goa/WithMaitreyi.JPG&quot; alt=&quot; Maitreyi - Solid Runner &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; Maitreyi - Solid Runner &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_10_20_IM703Goa/WithMaitreyi.JPG&quot; alt=&quot; Maitreyi - Solid Runner &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; Maitreyi - Solid Runner &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2019_10_20_IM703Goa/WithAnubhav.JPG&quot; alt=&quot; Anubhav - my IM Partner &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; Anubhav - my IM Partner &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_10_20_IM703Goa/WithAnubhav.JPG&quot; alt=&quot; Anubhav - my IM Partner &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; Anubhav - my IM Partner &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2019_10_20_IM703Goa/RadGang1.JPG&quot; alt=&quot; Rad Boys &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; Rad Boys &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_10_20_IM703Goa/RadGang1.JPG&quot; alt=&quot; Rad Boys &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; Rad Boys &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2019_10_20_IM703Goa/T1.JPG&quot; alt=&quot; T1 - Lot of Nervous Energy Around &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; T1 - Lot of Nervous Energy Around &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_10_20_IM703Goa/T1.JPG&quot; alt=&quot; T1 - Lot of Nervous Energy Around &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; T1 - Lot of Nervous Energy Around &lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;The swim was a self-seeded start swim, with 4 athletes released to get in the water every 6 seconds. It was a 2 loop swim. The water at the start was not too deep, with 100m of walk before one could swim.&lt;/p&gt;
 
@@ -134,11 +170,17 @@ the bike was parked overnight. Anyways, I had no time or thoughts to waste on th
 
 &lt;p&gt;After the first loop, I stopped bike at an aid station and shouted for Allen Key number 4. The mechanic came running, and quickly fixed it.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2019_10_20_IM703Goa/RishiGoa1.JPG&quot; alt=&quot; Intense look. See the aero bars &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; Intense look. See the aero bars &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_10_20_IM703Goa/RishiGoa1.JPG&quot; alt=&quot; Intense look. See the aero bars &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; Intense look. See the aero bars &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2019_10_20_IM703Goa/RishiGoa3.JPG&quot; alt=&quot; Climbing the badass incline&quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; Climbing the badass incline&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_10_20_IM703Goa/RishiGoa3.JPG&quot; alt=&quot; Climbing the badass incline&quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; Climbing the badass incline&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;First 30km came in 62min. Second in 65min, and third took 62min. It was overall a very consistent effort on the bike. I finished with overall average of 28.4kmph, which is not bad for the course and wasted time due to aero bar issue.&lt;/p&gt;
 
@@ -180,20 +222,35 @@ Nutrition: Gel every hour. Precision Hydration Salt capsule every hour.&lt;/p&gt
 
 &lt;p&gt;Happy with bike and the nutrition. I had only 5 gels and lot of salt caps, and nowhere I went low on the energy.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2019_10_20_IM703Goa/BCBoys1.JPG&quot; alt=&quot; BC Tri Gang &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; BC Tri Gang &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_10_20_IM703Goa/BCBoys1.JPG&quot; alt=&quot; BC Tri Gang &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; BC Tri Gang &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2019_10_20_IM703Goa/WithParul.JPG&quot; alt=&quot; Parul - The Soul Runner &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; Parul - The Soul Runner &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_10_20_IM703Goa/WithParul.JPG&quot; alt=&quot; Parul - The Soul Runner &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; Parul - The Soul Runner &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2019_10_20_IM703Goa/WithPoonam.JPG&quot; alt=&quot; Poonam - What an energy cheering us all! This lady was relentless.  &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; Poonam - What an energy cheering us all! This lady was relentless.  &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_10_20_IM703Goa/WithPoonam.JPG&quot; alt=&quot; Poonam - What an energy cheering us all! This lady was relentless.  &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; Poonam - What an energy cheering us all! This lady was relentless.  &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2019_10_20_IM703Goa/WithDeepak.JPG&quot; alt=&quot; Deepak - The Man who bought IM to India &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; Deepak - The Man who bought IM to India &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_10_20_IM703Goa/WithDeepak.JPG&quot; alt=&quot; Deepak - The Man who bought IM to India &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; Deepak - The Man who bought IM to India &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2019_10_20_IM703Goa/FinishLine1.JPG&quot; alt=&quot; Mandatory Finish Line Pic &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; Mandatory Finish Line Pic &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_10_20_IM703Goa/FinishLine1.JPG&quot; alt=&quot; Mandatory Finish Line Pic &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; Mandatory Finish Line Pic &lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Till next race, then!&lt;/p&gt;</content><author><name>Rishi Sareen</name><email>rishi[at]jigyasu[dot]com</email></author><summary type="html">Race information What? Ironman 70.3 Goa When? October 20, 2019 How far? 113km (1.9km swim, 90k cycle, 21.1k run) Website? https://www.ironman.com/im703-goa Goals Goal Description Completed? A Sub 6:15hr No B Strong Bike Yes C Get Nutrition Right YES Race Preparation Goa 70.3 was just 2 months after my Full IM in Copenhagen (Aug ‘19) . IM CPH was a disappointing race, as I was not too happy with my performance in the bike section. So for the next two months, I decided to focus primarily on nailing the bike leg. My limitation in CPH was unable to hold the aero position. So, I made some adjustments in the bike - replaced aero bars with newer, more comfortable aero bars and got more hands on experience. Soon I saw improvements with my speed averaging to 30+ average on a few rides. Coming to the race, I was feeling strong for the bike and I was confident of getting a good time on the bike. My strategy for goa was to complete the swim in ~45min, then 3:15 for the bike, 2:15 for the run. 6:30 was my goal, with 6:15 being an ambitious goal. My nutrition strategy was ~150 calories per hour and proper electrolytes. As I’m fairly fat adapted, I only needed to top up muscle glycogen to keep my blood sugar up while racing. As this was not my A race, I could afford to experiment and see body’s response. During the training too, I was doing well for 3 hour workout with just pre-workout coffee and electrolytes during the workout. Pre-Race Days This Goa 70.3 race was a special race for many reasons. This is the first ever Ironman event being hosted out of India. Triathlon is a very fast growing sport in India. 96% of the participants were Indians, and whooping 84% were FIRST TIMERS!!! There were nervous jitters all around, particularly on the swim aspects. Swimming is not a very common sport in India. P.S: I also learnt swimming AFTER I signed up for my first half ironman. Two days before the race, I went for a practice swim with Anubhav and Rohin. The water was choppy but I had a good relaxed time in the sea. This is the first time I didn’t panic in the sea. I don’t know what was the difference was, nevertheless I had a good swim. Rad Gang doing swim session It was fun to go to expo and catch up with many triathletes friends. At the expo entry Finding the name Radstrong Briefing session Rahul - Always smiling Rad Gang! Swim [1.9km] The Race Day was finally here. Getting up at 4am, I had a light breakfast - 4 Scrambled Eggs and Coffee with Butter. After reaching the race venue, I filled air in the bike, fixed water bottles, mounted Garmin Edge and laid down stuff for two transitions T1 and T2. Soon it was announced that start was delayed by 30”. I used that time to click selfies with friends - best way to distract and not think about the race. Me with my trusted bike Bhavesh - The stylish one Maitreyi - Solid Runner Anubhav - my IM Partner Rad Boys T1 - Lot of Nervous Energy Around The swim was a self-seeded start swim, with 4 athletes released to get in the water every 6 seconds. It was a 2 loop swim. The water at the start was not too deep, with 100m of walk before one could swim. I self-seeded myself in 40-45min group. About 2 min after the first athlete entered the water, I entered the water. First loop was easy. The sea was very choppy wth strong waves. I stayed close to the ropes, so less sighting to be done. Towards the end of loop, water became very shallow. Everyone had to stop and walk almost 150m. This was a huge waste of time. First loop was done in 26min. Second loop was almost identical - choppy water, with walking towards the end. Total Time: 52min Total Swim done: 2200m Strava Link Nutrition: Nothing T1 It was a 500m walk from swim exit to the T1. I quickly reached T1, wore tri top, shoes and left for road. A volunteer pointed out that I’ve forgotten to wear helmet. I had to rush back and get helmet. I was laughing at my haste :) Total Time: 7min Cycle [90km] The bike course was 3 loops of 30km each. Each loop has two steep elevations, with one being a 10% gradient. My ride started easy. But immediately, I faced a technical snag. I realized my aero bars were undone and were completely loose. This was a surprise, as just a day before I did route recee, and checked everything including aero bars. I still do not know how come they were undone. My guess was someone fiddled with them while the bike was parked overnight. Anyways, I had no time or thoughts to waste on that matter and gathered my mind to focus in rectifying the bars and moving on with the race. I did first loop while hanging on the drop bar. My bottle fell off during the ride. Not a good start to my ambitious bike leg. After the first loop, I stopped bike at an aid station and shouted for Allen Key number 4. The mechanic came running, and quickly fixed it. Intense look. See the aero bars Climbing the badass incline First 30km came in 62min. Second in 65min, and third took 62min. It was overall a very consistent effort on the bike. I finished with overall average of 28.4kmph, which is not bad for the course and wasted time due to aero bar issue. Total Time: 3hr 9min Strava Link Nutrition: Gel every hour. Precision Hydration Salt capsule every hour. T2 I was feeling good on finishing the bike ride. I quickly changed in my Vibrams and went off. Total Time: 5.5min Nutrition: Nothing Run [21.1km] The sun was out in the complete glory by the time I started running. Running was a 7km loop, so had to be done 3 loops. I was a bit stiff in the first 500m, but then legs opened up and I could maintain easy pace of 6:30min/km. First 7km was done in 46.5min. Starting second loop, I started to fatigue a bit. I took my first gel here and salt capsules. At the first loop end, I met another Radstrong friend and we decided to run together. Second 7km was done again in 46min. During this time, fatigue was settling. I was dosing myself with water and ice at every aid station. The volunteer crowd was really good. They were cheering us at every sight. When you are tired, then any motivation is most welcome. Third loop, while tough, was mentally less daunting. With every passing km, it was one km close to the end. Final loop was done in 48min, with last km done at pace of 5:30. It was done!! End time: 2hr 19min Strava Link : https://www.strava.com/activities/2802529248 Nutrition: 2 gels + coke every aid station Total Time: 6 hr 35min Post Race It was a good race. Swim was a bit of disappointment, but I executed bike and run well. It was a hot day and tough route and I’m glad of overall performance. Later, I discovered that I got 19th position in my Age Group, missed World Championship Qualification by 5min. I’m now determined to go back next year and nail it. Happy with bike and the nutrition. I had only 5 gels and lot of salt caps, and nowhere I went low on the energy. BC Tri Gang Parul - The Soul Runner Poonam - What an energy cheering us all! This lady was relentless. Deepak - The Man who bought IM to India Mandatory Finish Line Pic Till next race, then!</summary></entry><entry><title type="html">Ironman Copenhagen (Aug 19)- Race Report</title><link href="http://localhost:4000/ironman/ironman-copenhagen-aug-19-race-report.html" rel="alternate" type="text/html" title="Ironman Copenhagen (Aug 19)- Race Report" /><published>2019-08-28T19:48:02+05:30</published><updated>2019-08-28T19:48:02+05:30</updated><id>http://localhost:4000/ironman/ironman-copenhagen-aug-19-race-report</id><content type="html" xml:base="http://localhost:4000/ironman/ironman-copenhagen-aug-19-race-report.html">&lt;h3 id=&quot;race-information&quot;&gt;Race information&lt;/h3&gt;
 &lt;ul&gt;
@@ -256,27 +313,45 @@ Getting up at 4am, I had a light breakfast - 4 Scrambled Eggs made in Ghee + 1 G
 
 &lt;p&gt;I took Metro to the venue. The metro was packed with athletes. For a packed metro, it was very quiet. Everyone was in their zone, preparing for the big day.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-1-PreRace-1.JPG&quot; alt=&quot; Pre-Race - All walking quietly &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; Pre-Race - All walking quietly &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-1-PreRace-1.JPG&quot; alt=&quot; Pre-Race - All walking quietly &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; Pre-Race - All walking quietly &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-2-PreRace-2.JPG&quot; alt=&quot; Pre-Race - The beach &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; Pre-Race - The beach &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-2-PreRace-2.JPG&quot; alt=&quot; Pre-Race - The beach &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; Pre-Race - The beach &lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;On reaching the start point, I filled air in the bike, fixed water bottles, mounted Garmin Edge and finally wore the wetsuit. Post this, I went for a short run to heat up the body. Once all this is done, I went for a swim warmup. By now, I was in very calm state. I went in sea, did bubbling for a minute, then did few good strokes. Good to go!
-&lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-5-PreRace.JPG&quot; alt=&quot; Radstrong Gang &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; Radstrong Gang &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-5-PreRace.JPG&quot; alt=&quot; Radstrong Gang &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; Radstrong Gang &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-4-PreRace-WithBlossom.JPG&quot; alt=&quot; With Blossom  &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; With Blossom  &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-4-PreRace-WithBlossom.JPG&quot; alt=&quot; With Blossom  &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; With Blossom  &lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;The swim was a rolling start swim, with a release of a group of 4 athletes for every 6 seconds.&lt;br /&gt;
-&lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-3-PreRace-SwimStaggered.JPG&quot; alt=&quot; Rolling Start - 6 people enter water together &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; Rolling Start - 6 people enter water together &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-3-PreRace-SwimStaggered.JPG&quot; alt=&quot; Rolling Start - 6 people enter water together &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; Rolling Start - 6 people enter water together &lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Pro Females started at 7am.
 For Age Groupers, we were divided in 5 Zones, based on our predicted swim timers. I had taken Green cap this time which indicated 1:18-1:22 swim time.&lt;br /&gt;
-&lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-6-SwimLineup.JPG&quot; alt=&quot; Swim Line Up &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; Swim Line Up &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-6-SwimLineup.JPG&quot; alt=&quot; Swim Line Up &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; Swim Line Up &lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Soon people with Green caps started to line up. I didn’t want to wait anxiously for my turn to come, hence went right ahead to start of the line.&lt;br /&gt;
 Entering the water, it was nice cold. Nothing shocking or unbearable - body was nicely warmed up by now.&lt;br /&gt;
@@ -284,11 +359,17 @@ I started with slow breathing and gradual strokes. Soon I found my Rythm, and ti
 Crossing two bridges, I reached first turnaround at 1600m. Here water was very shallow and weeds were all around. - getting in legs, face, arms. It was a bit of mind scare. But no option but to continue.&lt;/p&gt;
 
 &lt;p&gt;I quickly  reached close to end line and came out of the water. I didn’t stop at all during the swim, and it was a comfortable swim.&lt;br /&gt;
-&lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-6-SwimExit.JPG&quot; alt=&quot;Swim Exit &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt;Swim Exit &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-6-SwimExit.JPG&quot; alt=&quot;Swim Exit &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt;Swim Exit &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-7-SwimExit.JPG&quot; alt=&quot;Working on getting wetsuit off &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt;Working on getting wetsuit off &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-7-SwimExit.JPG&quot; alt=&quot;Working on getting wetsuit off &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt;Working on getting wetsuit off &lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Total Time: 1hr 30min&lt;br /&gt;
 Total Swim done: 3950m&lt;br /&gt;
@@ -307,16 +388,25 @@ Total Swim done: 3950m&lt;br /&gt;
 &lt;p&gt;The course starts easy, first 15km are flat and we move from the city to the sea shore. The route here was mesmerizing - swimming with sea on the right.&lt;br /&gt;
 After 45km, we take turn and enter the village side. From here it was mostly rolling hills, with no real stretch for continuous ride.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-8-Bike.JPG&quot; alt=&quot; Bike Start &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; Bike Start &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-8-Bike.JPG&quot; alt=&quot; Bike Start &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; Bike Start &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-9-Bike-2.JPG&quot; alt=&quot; Lovely scenic villages &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; Lovely scenic villages &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-9-Bike-2.JPG&quot; alt=&quot; Lovely scenic villages &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; Lovely scenic villages &lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;At 85km mark, 3rd aid station came and I took first washroom break. By then I was getting exhausted with the climbs and it had started to rain also from an hour back. The rain was to continue for remaining bike and some part of the run too.&lt;br /&gt;
 Starting Loop 2, energy was dipping. I managed to hang on, and kept doing the mental calculation of the end time. I desperately tried to finish this under 7 hours, but finally finished it little over 7 hours.&lt;br /&gt;
-&lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-10-Bike-3.JPG&quot; alt=&quot; My patent pose &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; My patent pose &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-10-Bike-3.JPG&quot; alt=&quot; My patent pose &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; My patent pose &lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Total Time: 7hr 08min&lt;/p&gt;
 
@@ -342,22 +432,34 @@ Till 23km, I didn’t stop and managed to keep a pace of 6:30.&lt;/p&gt;
 
 &lt;p&gt;After 23km, I did my first walk to aid station, and boy what a bad decision it was. Till then, I was just running, ignoring my mind. But as soon as I stopped, my mind went in overdrive - “how nice does it feel” and “how tired we are”. My legs have taken bad beating due to cobblestones path in the route. It is tough on ankle, even more when you are running close to barefoot.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-11-Run-1.JPG&quot; alt=&quot; Lovey crowd support throughout the Run &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; Lovey crowd support throughout the Run &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-11-Run-1.JPG&quot; alt=&quot; Lovey crowd support throughout the Run &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; Lovey crowd support throughout the Run &lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Last 10km were a struggle. I’m still not sure if I bonked, or I was mental fatigued. But I had no energy in leg to push forward. First 21km came in 2:15, Next 21km came in close to 3hours.&lt;/p&gt;
 
 &lt;p&gt;Close to the finish line, I sprinted. Blossom was there at the end line, who very kindly handed over Indian flag to me. I finished smiling, with flag on my shoulder.&lt;/p&gt;
 
 &lt;p&gt;“From India, Rishi Sareen, you are an Ironman”. It was so good to hear these words again.&lt;br /&gt;
-&lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-12-FinishLine-1.JPG&quot; alt=&quot; The finish line &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; The finish line &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-12-FinishLine-1.JPG&quot; alt=&quot; The finish line &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; The finish line &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-12-FinishLine-2.JPG&quot; alt=&quot; Still smiling &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; Still smiling &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-12-FinishLine-2.JPG&quot; alt=&quot; Still smiling &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; Still smiling &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-12-FinishLine-3.JPG&quot; alt=&quot; Proud to be carrying indian flag &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; Proud to be carrying indian flag &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-12-FinishLine-3.JPG&quot; alt=&quot; Proud to be carrying indian flag &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; Proud to be carrying indian flag &lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;End time: 5:18hr&lt;/p&gt;
 
@@ -371,11 +473,17 @@ Till 23km, I didn’t stop and managed to keep a pace of 6:30.&lt;/p&gt;
 &lt;p&gt;I felt very disappointed with the race. Unhappy - no. But disappointed. I had trained hard for this race, and was hoping for a sub 13. But Bike leg took a lot out of me.
 I’m ofcourse grateful to have the chance to race this, and in the amazing city of Copenhagen. But I could have done better. Lot of lesson learnt - particularly the importance of staying aero on the bike and no backup plan for losing salt capsules.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-12-PostRace.JPG&quot; alt=&quot; The Hard Earned Medal &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; The Hard Earned Medal &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-12-PostRace.JPG&quot; alt=&quot; The Hard Earned Medal &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; The Hard Earned Medal &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-12-Postace2.JPG&quot; alt=&quot; With some fellow Ironman &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; With some fellow Ironman &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-12-Postace2.JPG&quot; alt=&quot; With some fellow Ironman &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; With some fellow Ironman &lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Till next race, then!&lt;/p&gt;</content><author><name>Rishi Sareen</name><email>rishi[at]jigyasu[dot]com</email></author><summary type="html">Race information What? Ironman Copenhagen When? August 18, 2019 How far? 226km (3.8km swim, 180k cycle, 42.2k run) Website? https://www.ironman.com/triathlon/events/emea/ironman/copenhagen/ Goals Goal Description Completed? A Finish Yes B Sub 14hr No C Get Nutrition Right Partial Race Strategy This was my second Full Ironman after last year Philippines Ironman I had done good practice for this, particularly the bike and run part. Swim is a challenge in Delhi, particularly the pool access. Most of the pool closes from October to March. Copenhagen was going to be cold swim (17-18degree) and it would be my first time wetsuit swim. My strategy was to complete the swim in ~90min, then follow Heart Rate for Bike (MAF Zone) and Run (MAF+20 Zone) Pre-Race Swim Two days before the race, I went for a practice swim. This was my first open water swim in a wetsuit, and 4th open water swim overall. The water was cold and murky. After few minutes of feeling the water, I started to swim. But I’ve not gone even 20m when I started to hyperventilate. I quickly turned back towards the short. I felt the tight wetsuit was closing in on my chest. I decided to remove the underneath tri-top. This helped, and breathing was less labored. But now I was in no mental space to try deep water swim again. I did some shallow water strokes and called it a day. Panic in Open Water Swim is something I’ve always struggled with. But experience is a wonderful thing, by past experience, I knew race day would be better. Swim [3.8km] The Race Day was finally here. Getting up at 4am, I had a light breakfast - 4 Scrambled Eggs made in Ghee + 1 Glass of Milk. I took Metro to the venue. The metro was packed with athletes. For a packed metro, it was very quiet. Everyone was in their zone, preparing for the big day. Pre-Race - All walking quietly Pre-Race - The beach On reaching the start point, I filled air in the bike, fixed water bottles, mounted Garmin Edge and finally wore the wetsuit. Post this, I went for a short run to heat up the body. Once all this is done, I went for a swim warmup. By now, I was in very calm state. I went in sea, did bubbling for a minute, then did few good strokes. Good to go! Radstrong Gang With Blossom The swim was a rolling start swim, with a release of a group of 4 athletes for every 6 seconds. Rolling Start - 6 people enter water together Pro Females started at 7am. For Age Groupers, we were divided in 5 Zones, based on our predicted swim timers. I had taken Green cap this time which indicated 1:18-1:22 swim time. Swim Line Up Soon people with Green caps started to line up. I didn’t want to wait anxiously for my turn to come, hence went right ahead to start of the line. Entering the water, it was nice cold. Nothing shocking or unbearable - body was nicely warmed up by now. I started with slow breathing and gradual strokes. Soon I found my Rythm, and time flew quickly. Crossing two bridges, I reached first turnaround at 1600m. Here water was very shallow and weeds were all around. - getting in legs, face, arms. It was a bit of mind scare. But no option but to continue. I quickly reached close to end line and came out of the water. I didn’t stop at all during the swim, and it was a comfortable swim. Swim Exit Working on getting wetsuit off Total Time: 1hr 30min Total Swim done: 3950m Strava Link Nutrition: 1 gel 15” before the start. T1 Stripping off wetsuit took some time as there were no wetsuit strippers and I was very new. The transition was bit longer compared to my plan. Total Time: 15min Cycle [180km] Whosoever has said Copenhagen bike course is flat must be from Europe. It is surely not flat from Asian standards :) The course starts easy, first 15km are flat and we move from the city to the sea shore. The route here was mesmerizing - swimming with sea on the right. After 45km, we take turn and enter the village side. From here it was mostly rolling hills, with no real stretch for continuous ride. Bike Start Lovely scenic villages At 85km mark, 3rd aid station came and I took first washroom break. By then I was getting exhausted with the climbs and it had started to rain also from an hour back. The rain was to continue for remaining bike and some part of the run too. Starting Loop 2, energy was dipping. I managed to hang on, and kept doing the mental calculation of the end time. I desperately tried to finish this under 7 hours, but finally finished it little over 7 hours. My patent pose Total Time: 7hr 08min Strava Link Nutrition: Gel every 45min. Banana + Bars via the Aid station. I don’t think I managed to get properly 100gm carbs per hour. I also lost my salt capsules somewhere during the bike. Paid price for this in the run. T2 I was so glad to hand over the bike and go in a standing position. I quickly went towards the run bag. I took out Vibrams and rinsed my mouth with mouthwash. Mouthwash helps to reset the taste of mouth. Total Time: 8min Nutrition: 2 Salt Crackers Run [42.2km] Running is something I had really worked on from last Ironman. I have gone from 2:36 Half Ironman to 1:53 Half Ironman. So, now I was not scared of finishing the run. Run was 4 loops, with each loop of 10.5km. The run route is a torture, not so much from the terrains and cobblestones, but from the fact that it’s four laps. In each lap, you’ve option to go either to finish line or continue. The finish line was just 50m away and you could hear the noise from Announcers on the mic. You do this four times! Yep four times being forced to stare down the finish chute, but until you have those four rainbow wrist bands, you can not pass go and proceed to the finish. I started run comfortable at 6:30pace, keeping an eye on HR which was steady 141bpm. I started coke at 12km distance, and from there I held on to it. Till 23km, I didn’t stop and managed to keep a pace of 6:30. After 23km, I did my first walk to aid station, and boy what a bad decision it was. Till then, I was just running, ignoring my mind. But as soon as I stopped, my mind went in overdrive - “how nice does it feel” and “how tired we are”. My legs have taken bad beating due to cobblestones path in the route. It is tough on ankle, even more when you are running close to barefoot. Lovey crowd support throughout the Run Last 10km were a struggle. I’m still not sure if I bonked, or I was mental fatigued. But I had no energy in leg to push forward. First 21km came in 2:15, Next 21km came in close to 3hours. Close to the finish line, I sprinted. Blossom was there at the end line, who very kindly handed over Indian flag to me. I finished smiling, with flag on my shoulder. “From India, Rishi Sareen, you are an Ironman”. It was so good to hear these words again. The finish line Still smiling Proud to be carrying indian flag End time: 5:18hr Strava Link : https://www.strava.com/activities/2632087560 Nutrition: 3 gels + coke every aid station after 10km + Salt crackers. After 30km, it was very difficult to eat anything. That could have caused the bonking. Total Time: 14:22hr Post Race I felt very disappointed with the race. Unhappy - no. But disappointed. I had trained hard for this race, and was hoping for a sub 13. But Bike leg took a lot out of me. I’m ofcourse grateful to have the chance to race this, and in the amazing city of Copenhagen. But I could have done better. Lot of lesson learnt - particularly the importance of staying aero on the bike and no backup plan for losing salt capsules. The Hard Earned Medal With some fellow Ironman Till next race, then!</summary></entry><entry><title type="html">Recipe - Grilled Fish</title><link href="http://localhost:4000/recipes/recipe-grilled-fish.html" rel="alternate" type="text/html" title="Recipe - Grilled Fish" /><published>2019-04-28T06:02:18+05:30</published><updated>2019-04-28T06:02:18+05:30</updated><id>http://localhost:4000/recipes/recipe-grilled-fish</id><content type="html" xml:base="http://localhost:4000/recipes/recipe-grilled-fish.html">&lt;!--more--&gt;
 &lt;p&gt;Fish is an excellant food - full of Protein, Omega 3 and essential vitamins and minerals. I love to grill fish - it is healthiest form of consuming fish&lt;/p&gt;
@@ -616,8 +724,11 @@ I used to wonder why do I need to do the back float. But Indrajeet made a good p
 I have &lt;strong&gt;NEVER&lt;/strong&gt; been able to back float. Never. I’ve tried (and failed) many times - much to the amusement of my family. But kudos to Indrajeet as a teacher - he made a very small correction in my technique, and YES - I could back float. Oh boy! Even if I might not use this skill during the event, it felt amazing to be finally able to do this.⁣ &lt;br /&gt;
 ⁣ &lt;br /&gt;
 A very useful session indeed! Everyone came out from sea smiling, the joy of new skills acquired :) ⁣ 
-&lt;img src=&quot;/images/2019_03_08_GOACAMP/20190308-Day1-PreSession.JPG&quot; alt=&quot;0 The TriCamp Group &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt;0 The TriCamp Group &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_03_08_GOACAMP/20190308-Day1-PreSession.JPG&quot; alt=&quot;0 The TriCamp Group &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt;0 The TriCamp Group &lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;⁣&lt;/p&gt;
 &lt;h2 id=&quot;day-2&quot;&gt;Day 2&lt;/h2&gt;
@@ -627,20 +738,29 @@ A very useful session indeed! Everyone came out from sea smiling, the joy of new
 &lt;p&gt;7AM - 8 AM : Swim session in the sea (Caranzalem Beach, Next to Miramar Beach). This session built on the backfloat. We learnt how to move from freestyle to backfloat, adjust the goggles, and continue to swim. When we got hang of it, it felt so awesome⁣.&lt;/p&gt;
 
 &lt;p&gt;10-10:30: Nutrition session with Kaustubh and Maitreyi⁣. &lt;br /&gt;
-&lt;img src=&quot;/images/2019_03_08_GOACAMP/20190309-Day2-NutritionTalk.JPG&quot; alt=&quot;500 500 Listening to the Nutrition Talk&quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt;500 500 Listening to the Nutrition Talk&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_03_08_GOACAMP/20190309-Day2-NutritionTalk.JPG&quot; alt=&quot;500 500 Listening to the Nutrition Talk&quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt;500 500 Listening to the Nutrition Talk&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;11AM-12PM : Swim session in the pool. This was a technical session, focused on sculling and right leg movement. Some videos were also shot by the coach :-D⁣&lt;/p&gt;
 
 &lt;p&gt;12:30PM - 1PM : Sun was blazing, and we were tired. Perfect time to simulate the race day. Kaustubh made us run for 30” in the sun. During Ironman, it is very important to be able to run with the tired legs. This was a good simulation. Maitreyi and I did a comfortable 5km⁣ run. &lt;br /&gt;
-&lt;img src=&quot;/images/2019_03_08_GOACAMP/20190309-Day2-MidDayRun.JPG&quot; alt=&quot;0 Run in the heat&quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt;0 Run in the heat&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_03_08_GOACAMP/20190309-Day2-MidDayRun.JPG&quot; alt=&quot;0 Run in the heat&quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt;0 Run in the heat&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;4-6PM: Now, with all the drills and technique, this was the time to face the fear. This session called for us to go inside deep sea. Indrajeet (25m) and Kaustubh(50m) were our targets :D. Everyone did this comfortable - big reason was the practice in the sea sessions before.⁣ &lt;br /&gt;
 ⁣ &lt;br /&gt;
 A hectic, but super wonderful day. The group was super awesome, and together we all did this sea swim easily.⁣ &lt;br /&gt;
-&lt;img src=&quot;/images/2019_03_08_GOACAMP/20190309-Day2-Sunset.JPG&quot; alt=&quot;0 Happy faces post the session &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt;0 Happy faces post the session &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_03_08_GOACAMP/20190309-Day2-Sunset.JPG&quot; alt=&quot;0 Happy faces post the session &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt;0 Happy faces post the session &lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;⁣&lt;/p&gt;
 &lt;h2 id=&quot;day-3&quot;&gt;Day 3&lt;/h2&gt;
@@ -649,8 +769,11 @@ A hectic, but super wonderful day. The group was super awesome, and together we 
 
 &lt;p&gt;7AM - 8AM: Back to the sea. This time everyone was looking forward to it. Not much time was wasted, we directly decided to go to the deep sea. Water was choppier today, but the group took this as another chance to learn. ⁣⁣ &lt;br /&gt;
 The swim was easily done, with some practice on sea entry and exit too.⁣⁣ &lt;br /&gt;
-&lt;img src=&quot;/images/2019_03_08_GOACAMP/20190309-Day2-Beach.JPG&quot; alt=&quot;0 Some random discussion&quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt;0 Some random discussion&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/2019_03_08_GOACAMP/20190309-Day2-Beach.JPG&quot; alt=&quot;0 Some random discussion&quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt;0 Some random discussion&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;⁣ &lt;br /&gt;
 And that was the wrap of 3-day session. ⁣⁣ &lt;br /&gt;
@@ -668,15 +791,21 @@ The beauty of this sport is not only you get to learn so many skill, but meet so
 
 &lt;h2 id=&quot;1-purple-patch-fitness&quot;&gt;1. &lt;a href=&quot;https://purplepatchfitness.com/education/podcasts&quot;&gt;Purple Patch Fitness&lt;/a&gt;:&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/podcast/PurplePatch.jpg&quot; alt=&quot; Purple Patch Fitness&quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; Purple Patch Fitness&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/podcast/PurplePatch.jpg&quot; alt=&quot; Purple Patch Fitness&quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; Purple Patch Fitness&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Matt Dixon is one of the top coaches in the Triathlon world. He has a talent of reducing the complex topic to basics, and reducing it to “actionable advice”. His coached triathletes have wom max podium finishes.&lt;br /&gt;
 His podcasts are short (30min to an hour), and packed with actionable knowledge. Particularly his series on nutrition and hydration are just awesome.&lt;/p&gt;
 
 &lt;h2 id=&quot;2-pursuit-of-the-perfect-race&quot;&gt;2. &lt;a href=&quot;https://www.coachterrywilson.com/perfect&quot;&gt;Pursuit of the Perfect Race&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/images/podcast/PerfectRace.jpg&quot; alt=&quot; Pursuit of the Perfect Race&quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; Pursuit of the Perfect Race&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/podcast/PerfectRace.jpg&quot; alt=&quot; Pursuit of the Perfect Race&quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; Pursuit of the Perfect Race&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Coach Terry describes his podcast as&lt;/p&gt;
 &lt;blockquote&gt;
@@ -696,22 +825,31 @@ His podcasts are short (30min to an hour), and packed with actionable knowledge.
 
 &lt;h2 id=&quot;3-that-triathlon-show&quot;&gt;3. &lt;a href=&quot;https://scientifictriathlon.com/that-triathlon-show/&quot;&gt;That Triathlon Show&lt;/a&gt;:&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/podcast/ThatTriathlonShow.jpg&quot; alt=&quot; That Triathlon Show&quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; That Triathlon Show&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/podcast/ThatTriathlonShow.jpg&quot; alt=&quot; That Triathlon Show&quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; That Triathlon Show&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;This podcast is geared towards tips on swimming, running, cycling and nutrition. A wealth of knowledge. Mikael Eriksson, the host of the show, is himself a very good triathlete, who is improving very fast.&lt;/p&gt;
 
 &lt;h2 id=&quot;4-triathlon-taren&quot;&gt;4. &lt;a href=&quot;https://triathlontaren.com/topics/general/&quot;&gt;Triathlon Taren&lt;/a&gt;:&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/podcast/Triathlon-Taren-Podcast.jpg&quot; alt=&quot; Triathlon Taren Podcast&quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt; Triathlon Taren Podcast&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/podcast/Triathlon-Taren-Podcast.jpg&quot; alt=&quot; Triathlon Taren Podcast&quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt; Triathlon Taren Podcast&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Taren is an all around crazy, and fun guy. And is such a fabulous storehouse of knowledge. I’ve heard each one of his podcast, and learnt a ton. Along with podcast, he also have a &lt;a href=&quot;https://www.youtube.com/channel/UC1AKDrz2GvLxD29W9tow66g&quot;&gt;YouTube Channel&lt;/a&gt; where one can find a lot of useful triathlon learning videos.&lt;/p&gt;
 
 &lt;h2 id=&quot;5-tower-26&quot;&gt;5. &lt;a href=&quot;https://www.tower26.com/podcasts/&quot;&gt;Tower 26&lt;/a&gt;:&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/podcast/Tower26.png  Tower26&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/podcast/Tower26.png  Tower26&quot; alt=&quot;&quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Gerry Rodrigues, host of this show, is a towering figure in the world of Open Water Swimming and Triathlon swimming. Many professional triathletes rates him as the best swimming coach. This podcast is focussed more towards Triathlon Swimming, and many great episodes.&lt;/p&gt;
 
@@ -883,9 +1021,12 @@ They are used for short-term power (such as weight lifting) and sprint speed (su
 Anaerobic energy is also very limited—relying only on this system won’t even allow a 5K race to be completed.&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/images/MAF/Aero2.PNG&quot;&gt;&lt;img src=&quot;/images/MAF/Aero2.PNG&quot; alt=&quot;Aerobic vs Anaerobic &quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt;Aerobic vs Anaerobic &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/MAF/Aero2.PNG&quot; alt=&quot;Aerobic vs Anaerobic &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt;Aerobic vs Anaerobic &lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;](/images/MAF/Aero2.PNG)&lt;/p&gt;
 
 &lt;blockquote&gt;
 
@@ -897,8 +1038,11 @@ Anaerobic energy is also very limited—relying only on this system won’t even
 If the event is over two hours, 99% (!!!) of the endurance energy will come from our aerobic system. Therefore, if you want to be a great endurance athlete, you’d be wise to build a VERY strong aerobic base.&lt;/p&gt;
 
 &lt;insert image=&quot;&quot; here=&quot;&quot;&gt;
-[&lt;img src=&quot;/images/MAF/aerobic-and-anaerobic-energy.png&quot; alt=&quot;Aerobic vs Anaerobic &quot; /&gt;  
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt;Aerobic vs Anaerobic &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;
+[&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/MAF/aerobic-and-anaerobic-energy.png&quot; alt=&quot;Aerobic vs Anaerobic &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt;Aerobic vs Anaerobic &lt;/p&gt;
+&lt;/div&gt;
 ](/images/MAF/aerobic-and-anaerobic-energy.png)  
 
 
@@ -917,8 +1061,11 @@ It’s usually the amateurs that do 60 to 80% of their training more intensely i
 # The MAF Formula  
 Dr. Maffetone, based on his research, has shown that your Maximum Aerobic Function peaks at a heart rate equal to 180 minus your Age.  
 
-[&lt;img src=&quot;/images/MAF/maf.png&quot; alt=&quot;Aerobic vs Anaerobic &quot; /&gt;  
-&lt;span class=&quot;caption&quot;&gt;&lt;b&gt;&lt;i&gt;Aerobic vs Anaerobic &lt;/i&gt;&lt;/b&gt;&lt;/span&gt;
+[&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+  &lt;img src=&quot;/images/MAF/maf.png&quot; alt=&quot;Aerobic vs Anaerobic &quot; /&gt;  
+  &lt;p class=&quot;image-caption&quot;&gt;Aerobic vs Anaerobic &lt;/p&gt;
+&lt;/div&gt;
 ](/images/MAF/maf.png)  
 
 Dr Maffetone suggests adjustments based on these factors:  
@@ -933,4 +1080,4 @@ Dr Maffetone suggests adjustments based on these factors:
 In the next article, we will cover the training approach in detail.  
 &amp;gt; 
 
-&lt;/insert&gt;</content><author><name>Rishi Sareen</name><email>rishi[at]jigyasu[dot]com</email></author><summary type="html">MAF method - Background MAF stands for Maximum Aerobic Function. This method deals with building aerobic base. This is applicable to all sports &amp;gt;5min in duration. This is one of the most powerful way to train. Dr Phil Maffetone pioneered this method. Many top athletes, in a variety of sports, have followed this method to achieve top success. According to Triathlete magazine, Mark Allen is the greatest triathlete ever. He won six Ironman World-Championships. His secret? Maffetone Method. The approach is discussed in two parts: The science behind aerobic training How-to approach the MAF Training People usually jump on the “how-to” part. While it is important, understand the “why” part is also critical. Basics - Aerobic System vs Anaerobic System Aerobic: The ability of the body to use more fat and less sugar (glucose) for energy. One needs oxygen to burn energy here. Anaerobic: The ability of the body to use more sugar and less fat for energy. No Oxygen needed to burn energy in Anaerobic state. The Aerobic System The conversion of fat to energy—fat burning—takes place in the aerobic muscles (these are sometimes called slow-twitch or red muscle fibers). Humans are well endowed with these muscles and they are the ones depended upon during activity of longer duration—they can function well for many hours and even days in a well-trained athlete. Birds Fly More Than 10,000 Kms Nonstop In Its Annual Fall Migration. The birds weigh no more than 700gm when they leave. Half of that is fat, which they burn off completely during the flight. This sort of fat burning is possible in humans too, if trained properly. The Anaerobic System Sugar (glucose) is converted to energy in the anaerobic muscles. These are sometimes called fast-twitch or white muscle fibers. They are used for short-term power (such as weight lifting) and sprint speed (such as an all-out 100 meter race). These attributes are used very little in endurance sports. Anaerobic energy is also very limited—relying only on this system won’t even allow a 5K race to be completed. Aerobic vs Anaerobic Why Aerobic System is important to train Maffetone tells us that, in an event that lasts longer than one hour, 98% (!!!) of the endurance energy used is derived from our aerobic system. If the event is over two hours, 99% (!!!) of the endurance energy will come from our aerobic system. Therefore, if you want to be a great endurance athlete, you’d be wise to build a VERY strong aerobic base. [ Aerobic vs Anaerobic ](/images/MAF/aerobic-and-anaerobic-energy.png) # Keep slow run slow and fast run fast. The aerobic system–which is the most important energy system of the body–can’t be trained as effectively at higher heart rates. Few things happen when are in higher HR / Anaerobic zone: - Anaerobic training can decrease the number of aerobic muscle fibers, sometimes significantly. This can happen in just a few short weeks. - Anaerobic training raises your respiratory quotient, meaning that fat burning is reduced and sugar burning is increased, encouraging further use of anaerobic function and less aerobic activity. - Excessive amounts of lactic acid produced during anaerobic training may impair aerobic muscle enzymes, reducing aerobic function. - Anaerobic training typically causes athletes to consume more refined carbohydrates because of an increased craving for sugar. This can increase insulin levels and further interfere with fat burning, reducing aerobic function. That’s why all elite athletes do 80% of their training at an easy speed or intensity: they (and their coaches) know the importance of aerobic development. It’s usually the amateurs that do 60 to 80% of their training more intensely in an effort to “catch up” the miles. But the body’s just not built for that, so they get hurt. # The MAF Formula Dr. Maffetone, based on his research, has shown that your Maximum Aerobic Function peaks at a heart rate equal to 180 minus your Age. [ Aerobic vs Anaerobic ](/images/MAF/maf.png) Dr Maffetone suggests adjustments based on these factors: - Category 1 : Recovering from illness or on medication? Subtract 10. - Category 2 : Frequently sick or regressed in training? Subtract 5. - Category 2 : Overfat — simply use the waist-to-height ratio. Your waist should be less than half your height — if it’s not, subtract 5. - Category 3 : If you have been training consistently (at least four times weekly) for up to two years without any of the problems in above, keep the number (180–age) the same. - Category 4 : Been training regularly for 2 years without problems? Add 5. In the next article, we will cover the training approach in detail. &amp;gt;</summary></entry></feed>
+&lt;/insert&gt;</content><author><name>Rishi Sareen</name><email>rishi[at]jigyasu[dot]com</email></author><summary type="html">MAF method - Background MAF stands for Maximum Aerobic Function. This method deals with building aerobic base. This is applicable to all sports &amp;gt;5min in duration. This is one of the most powerful way to train. Dr Phil Maffetone pioneered this method. Many top athletes, in a variety of sports, have followed this method to achieve top success. According to Triathlete magazine, Mark Allen is the greatest triathlete ever. He won six Ironman World-Championships. His secret? Maffetone Method. The approach is discussed in two parts: The science behind aerobic training How-to approach the MAF Training People usually jump on the “how-to” part. While it is important, understand the “why” part is also critical. Basics - Aerobic System vs Anaerobic System Aerobic: The ability of the body to use more fat and less sugar (glucose) for energy. One needs oxygen to burn energy here. Anaerobic: The ability of the body to use more sugar and less fat for energy. No Oxygen needed to burn energy in Anaerobic state. The Aerobic System The conversion of fat to energy—fat burning—takes place in the aerobic muscles (these are sometimes called slow-twitch or red muscle fibers). Humans are well endowed with these muscles and they are the ones depended upon during activity of longer duration—they can function well for many hours and even days in a well-trained athlete. Birds Fly More Than 10,000 Kms Nonstop In Its Annual Fall Migration. The birds weigh no more than 700gm when they leave. Half of that is fat, which they burn off completely during the flight. This sort of fat burning is possible in humans too, if trained properly. The Anaerobic System Sugar (glucose) is converted to energy in the anaerobic muscles. These are sometimes called fast-twitch or white muscle fibers. They are used for short-term power (such as weight lifting) and sprint speed (such as an all-out 100 meter race). These attributes are used very little in endurance sports. Anaerobic energy is also very limited—relying only on this system won’t even allow a 5K race to be completed. [ Aerobic vs Anaerobic ](/images/MAF/Aero2.PNG) Why Aerobic System is important to train Maffetone tells us that, in an event that lasts longer than one hour, 98% (!!!) of the endurance energy used is derived from our aerobic system. If the event is over two hours, 99% (!!!) of the endurance energy will come from our aerobic system. Therefore, if you want to be a great endurance athlete, you’d be wise to build a VERY strong aerobic base. [ Aerobic vs Anaerobic ](/images/MAF/aerobic-and-anaerobic-energy.png) # Keep slow run slow and fast run fast. The aerobic system–which is the most important energy system of the body–can’t be trained as effectively at higher heart rates. Few things happen when are in higher HR / Anaerobic zone: - Anaerobic training can decrease the number of aerobic muscle fibers, sometimes significantly. This can happen in just a few short weeks. - Anaerobic training raises your respiratory quotient, meaning that fat burning is reduced and sugar burning is increased, encouraging further use of anaerobic function and less aerobic activity. - Excessive amounts of lactic acid produced during anaerobic training may impair aerobic muscle enzymes, reducing aerobic function. - Anaerobic training typically causes athletes to consume more refined carbohydrates because of an increased craving for sugar. This can increase insulin levels and further interfere with fat burning, reducing aerobic function. That’s why all elite athletes do 80% of their training at an easy speed or intensity: they (and their coaches) know the importance of aerobic development. It’s usually the amateurs that do 60 to 80% of their training more intensely in an effort to “catch up” the miles. But the body’s just not built for that, so they get hurt. # The MAF Formula Dr. Maffetone, based on his research, has shown that your Maximum Aerobic Function peaks at a heart rate equal to 180 minus your Age. [ Aerobic vs Anaerobic ](/images/MAF/maf.png) Dr Maffetone suggests adjustments based on these factors: - Category 1 : Recovering from illness or on medication? Subtract 10. - Category 2 : Frequently sick or regressed in training? Subtract 5. - Category 2 : Overfat — simply use the waist-to-height ratio. Your waist should be less than half your height — if it’s not, subtract 5. - Category 3 : If you have been training consistently (at least four times weekly) for up to two years without any of the problems in above, keep the number (180–age) the same. - Category 4 : Been training regularly for 2 years without problems? Add 5. In the next article, we will cover the training approach in detail. &amp;gt;</summary></entry></feed>

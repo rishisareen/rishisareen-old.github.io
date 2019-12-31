@@ -90,3 +90,14 @@ h2.post-title, h2.page-title {
 button.disqus-load {
   margin-top: 1em;
 }
+
+.image-wrapper {
+
+    .image-caption {
+        margin-top: -0.5rem;
+        margin-bottom: 1rem;
+  	color: $link-color;
+  	border-color: $border-color;
+  	border-radius: $border-radius;
+    }
+}
