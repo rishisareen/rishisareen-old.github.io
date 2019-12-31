@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Habits"
+date: 2016-02-18 19:49:45 -0500
+comments: true
+categories: habits
+---
+
+The year was 2014. It was onset of winters, and I was in a charter bus, on my way to our team outbound program, to a nearby hillstation called "Kasauli". Tucked in my woolens from head to toe, I vividly recall reading a book ["The Willpower Instinct"](http://www.amazon.in/The-Willpower-Instinct-Self-Control-Matters/dp/1583335080). I would not be so dramatic to say that this book changed my life, but it definitely gave me a powerful insight, which has stayed with me since then.
+In over-simplified view, this book says that willpower is a limited resource, and trusting willpower to bring long term changes is not a smart strategy.  This is true for almost all aspects of our life - be it be one trying to exercise regularly, or eat well, or avoid procrastination at work etc etc. This is the reason why so many New Year Resolution do not last, and people make short term changes, only to go back to old habits.
+
+<!--more-->
+Since then, I've experimented on and off to find the right approach for self-improvement. What I've learnt is actually very simple - "We are what we do". Key is to form the right habits, take very small but regular steps, and minimize use of willpower.
+This is not a new idea. Infact Stanford professor BJ Foggs, who is a proponent of building tiny habits, has refined this idea to an algorithm . Anyone can join his habit forming workshop (all online, for one week duration, takes total 30 min of your time in one week, all free) here: [Tiny Habits](www.tinyhabits.com)
+
+For me, biggest clarity on how to approach habit forming came after reading the book ["Superhuman by Habits"](http://www.amazon.in/Superhuman-Habit-Becoming-Possible-Yourself-ebook/dp/B00NGC8I9E). This is a very practical book, gives tons of insight on how to go about building habits, what challenges one can expect, and how to manage those challenges. I've never read more clear manual on habit forming. It is a very engaging book, and Author (Tynan) is a very famous blogger, who has actually gone through the grind and done all this by himself. So, reading the book is gaining his hard won knowledge, in a very good summary. If you've to pick one book for habit forming, I strongly recommend his. 
+
+After reading this, I've decided to start working on building new habits, and capture my journey online here.
+
+### The rules I've implemented
+
+1. Start Small, make it tiny. A good tiny behavior is easy to do and fast. It should not take more than 10 min max. We often start big, driven by our willpower. It is just that willpower doesn't last for long, and we come crashing down after initial excitement.
+2. Well defined trigger. Find a spot in your existing routine, where this tiny new behavior could fit. Put it *after* some act which is a solid habit.  Eg, 2 pushups to be done daily as soon as you finish brushing your teeth, or two min walk after lunch.
+3. Focus more on consistency than excellance. In short term, idea is to build a routine, and daily small gains are better than once in a while perfect execution.
+
+I picked two habits to start with : Exercise and Meditation. Exercise for Physical Well Being, and Meditation for being mindful,  more calm and focus. I believe both these habits will help me be better personally and professionally.
+
+I'll keep capturing my journey notes here.
+

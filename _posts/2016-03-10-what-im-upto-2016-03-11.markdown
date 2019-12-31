@@ -1,0 +1,23 @@
+---
+layout: post
+title: "What I'm upto - 2016-03-11"
+date: 2016-03-10 20:07:57 -0500
+comments: true
+categories: 
+---
+
+## What am I doing
+- Meditation: Restarted, after previous experiment failed. New approach [here](http://jigyasu.com/habits/habit-forming-50-first-dates-report.html)
+- 7 min workout: Trigger: After Brush. 52 days so far without any skip day, getting easy.
+
+## What am I reading
+- [Mindless eating - why we eat more than we think](http://www.amazon.com/Mindless-Eating-More-Than-Think/dp/0345526880). Very interesting insight on how we end up overeating.
+
+## A quote that's on my mind
+- _Anyone can want a gold medal. Few people want to train like an Olympian._
+
+## What am I learning
+- Exploring Octopress blogging framework, mainly if I should move to Octopress 3.0. Need to study the reward/risk benefit
+
+
+

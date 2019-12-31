@@ -1,0 +1,21 @@
+---
+layout: post
+title: "What I'm Upto - 2016-02-09"
+date: 2016-02-09 23:04:51 -0500
+comments: true
+categories: 
+---
+
+## What am I doing
+- Meditation: Been very tough so far. I'm following headspace 10 min meditation every day. Trying to build a daily trigger, to do it after my workout
+- 7 min workout: Trigger: After Brush. 20 days so far, getting easy. 
+
+## What am I reading
+- The motivational hacker
+
+## A quote that's on my mind
+- _"If you can laugh together, you can work together." - Robert Orben_
+
+## What am I learning
+- Markdown. From http://markdowntutorial.com/lesson/3/
+

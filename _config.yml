@@ -1,0 +1,98 @@
+# Setup
+title: Rishi Sareen
+tagline:  My home page
+url: jigyasu.com
+
+paginate: 5
+sidebar_home_link:  true
+paginate_path:     '/blog/page:num' # if you want to move your index pages
+
+baseurl: ""
+permalink: none  # Keep permalink short
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+# Optimize Jekyll
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# Options
+
+# Replace this value and uncomment to enable Google Analytics tracking
+# ga_analytics: UA-000000-0
+
+# Specify the author for blog posts
+author:
+  name: Rishi Sareen
+  url: https://twitter.com/mdo
+  email: rishi@jigyasu.com
+
+# Custom vars
+version: 3.0.0
+sidebar_home_link:  true
+sidebar_blog_link:  '/blog'   # By default, your home page is your blog
+                                # page. If you change your paginate_path,
+                                # set this to the root of the paginate_path
+                                # to enable a separate blog link.
+github:
+  repo: https://github.com/poole/poole
+
+# Disqus Comments
+disqus:
+  shortname: jigyasu
+
+mailchimp : true
+mailchimp_list_name : Jigyasu Newsletter
+mailchimp_list_why : What's in it for them?
+mailchimp_embed_action : http://jigyasu.us13.list-manage.com/subscribe/post?u=5bc4802fda0082620b6b67d5e&amp;id=f825c6567a
+
+#
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Asia/Calcutta
+locale:      en_US
+future:      true
+#
+
+# UI Text
+text:
+  pagination:
+    newer: 'Newer'
+    older: 'Older'
+  post:
+    updated:        'Updated'
+    minute_read:    'minute read'
+    related_posts:  'Related Posts'
+  index:
+    coming_soon: 'Coming soon...'
+  og_locale: 'en_US'
+
+# Octopress 2-style excerpts
+excerpt_separator: "<!-- more -->"
+excerpt_link: "Read on &rarr;"
+
+author:
+  name: 'Rishi Sareen'
+  email: 'rishi[at]jigyasu[dot]com'
+  github: rishi.sareen
+  instagram: rishi.sareen
+  instagram_url: www.instagram.com/rishi.sareen
+  linkedin: rsareen
+  disqus_shortname: jigyasu
+  google_analytics_id: 
+  google_analytics_url: 
+  bio: Technocrat, Triathlete, Bio-Hacker
