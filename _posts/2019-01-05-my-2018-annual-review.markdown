@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My 2018 Annual Review"
-date: 2019-01-05 22:51:38 -0500
+date: 2019-01-02 22:51:38 -0500
 comments: true
 categories:  AnnualReview
 ---
@@ -64,7 +64,7 @@ I'm obviously very happy about these milestones. But even more than that, I'm ha
 
 **Blog Writing:** Atleast one post a week, 52 posts a year. Simple.
 
-**Continue eliminate the non-essential:** To say yes to all the stuff, I've ruthlessly eliminate the inessential.
+**Continue eliminate the non-essential:** To say yes to all the stuff, I've to ruthlessly [eliminate the inessential.](http://jigyasu.com/habits/my-not-to-do-list.html)
 
 
 ## The Bottom Line

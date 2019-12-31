@@ -1,0 +1,77 @@
+---
+layout: post
+title: "How I did 10000 pushups in 2018, and how you can do it too"
+date: 2019-02-02 09:44:51 +0530
+comments: true
+categories: habits
+---
+
+> Success is doing a half-dozen things really well, repeated five thousand times.  
+
+Humans are always fascinated by new. New places to discover, new people to meet, new things to learn.  
+
+I'm someone who loves to learn. There is always something to learn - A new language to learn, new skills to master, new commute routes to explore.  
+But there is often a challenge attached with the process of learning. When we start learning, the first phase is interesting - we are making quick gains and acquiring skills. But soon after that, learning slows down, the phase comes when progress is not very apparent, and that is where many people quit.  
+<!--more-->
+
+In his book "The Dip", Seth Godin actually explains this phenomenon.  
+> There are three stages along the way to mastering something. The first is the initial stage, where the learning is quite fun and enjoyable and you’re excited by learning new things. The third stage is mastery and continual growth, where you feel very confident in your skills. “The Dip” refers to the period between the two, which is often a slog filled with lots of practice and hard work, but no sense yet that you are mastering what it is you’re working on.  
+
+Many businesses expect you to quit and take advantage of it. They provide certain services expecting many people to pay but not use the service (like gym memberships).  
+
+What is the solution? How does one keep going in the face of dip?   
+
+In the outstanding book "Daily Rituals - How the Artists work", Mason Currey studied some of the most accomplished people. Among them, novelists, poets, playwrights, painters, philosophers, scientists, and mathematicians, who describe how they subtly maneuver the many (self-inflicted) obstacles and (self-imposed) daily rituals to get done the work they love to do. One theme that consistently comes up is power of daily habits, and showing up even when one is not inspired.   
+
+And, that is the key solution to get past the dip. Some of our best intentions fail because we don’t have a system of execution.   
+
+Start of 2018, I decided to experiment on this. I decided to get better at doing pushups.  
+
+In the book "The Compound Effect", Darren Hardy states:  
+> It takes 300 instance of positive reinforcement to turn a new habit into an unconscious practice — almost a year of daily practice!  
+
+I decided I will do 10,000 pushups in 2018. Why 10,000, you may ask? While 10,000 pushups is not an insane challenge, it is not a small number either.  
+
+So, how I went about it:  
+
+## 1. Break down Goal into small manageable chunks
+I have a system for yearly goals.
+Start of the year, I decide on my yearly goals in different areas. Each Goal is then distributed over 4 Quarters,  each quarter is further divided into monthly milestones.  
+Monthly milestones are short enough to not lose the motivation, and big enough to make some impact.  
+
+So, 10000 pushups a year. I distributed it to 2500 pushups every quarter, or 800 pushups every month. 
+On further reduction, it came to be **just 30 pushups a day.**  
+
+## 2. Track it on weekly basis
+This is most vital part of the planning. **What gets measured gets improved.**  
+I wanted to track all the pushups.  
+
+There were many solutions - App Based, Online Journals, Paper based solution. I wanted simple, fast tracking , which was available everywhere.  
+
+I decided on Google Tasks for this reason.
+
+**Approach**   
+Start of every week, I would create a task with goals for that week. And subtasks for each day of the week to track. I actually made a template excel for this, I add week number and dates are filled automatically. Sample [here](https://docs.google.com/spreadsheets/d/16-mHjsayC9Z7-EnqfYbXihC0o9HUoagopwwlzPXgcHI/edit?usp=sharing))   
+
+[{% imgcap center /images/Pushup.JPG 400 400 Google Tasks to track Pushups %}](/images/Pushup.JPG)  
+
+**Execution**   
+So, target was 30 pushups a day. I decided to spread those 30 pushups over day - 3 sets of 10 pushups. Most of us can do 10 pushups. Distributing pushups across the day avoided the tiredness,  allowed myself to do it on the daily basis. Some days are good, some days gets missed. The idea is to trend towards the goal.  
+
+To achieve this distributed pushups, I needed to set myself regular reminder.  Some people set periodic alarms, some have fixed time, some write it down on a wall.  
+
+Being in IT, I took an online approach.  I open Google Chrome browser multiple times a day. I used an extension "Tab to Tasks". This display Google tasks as default page on every new tab. Whenever I would open Chrome, I would get reminded of pending pushups.  
+You might have a different solution, the core idea is to give yourself regular reminders.  
+
+## **Final Result: 12500 Pushup in 2018!!!**
+
+I applied this Daily Habit and learning to many aspects of my life. This allowed me to achieve some other goals too in 2018:  
+- Completed One Full Ironman - Triathlon of 3.8km swim, 180km cycle, 42.4km run - All done under 17 hours.  
+- Completed 2 Half Iron distance  
+- I worked out for 230 days in 2018. That is 60% of days I worked out.  
+
+That, my friends, is the power of consistency.  
+
+## Small choices + consistency + time = Significant results.  
+
+PS: The Goal system I follow is inspired by [Live your Legend](https://liveyourlegend.net/get-your-free-2019-weekly-planning-and-goal-setting-guides/) system. My own Goal system, which I'm following since 2015, can be downloaded from [here](https://docs.google.com/spreadsheets/d/1kqNoLGhg0gcGH80RUnB3E3QtJ-I6eP0vRI6897SsMII/edit?usp=sharing)  
