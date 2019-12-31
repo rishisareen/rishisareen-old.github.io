@@ -40,19 +40,19 @@ P.S: I also learnt swimming AFTER I signed up for my first half ironman.
 
 Two days before the race, I went for a practice swim with Anubhav and Rohin. The water was choppy but I had a good relaxed time in the sea. This is the first time I didn't panic in the sea. I don't know what was the difference was, nevertheless I had a good swim. 
 
-{% imgcap center /images/2019_10_20_IM703Goa/RadGang2.JPG 500 600 Rad Gang doing swim session %}
+{% include image.html file="/images/2019_10_20_IM703Goa/RadGang2.JPG" description=" Rad Gang doing swim session "%}
 
 It was fun to go to expo and catch up with many triathletes friends. 
 
-{% imgcap center /images/2019_10_20_IM703Goa/PreRace.JPG 500 600 At the expo entry %}
+{% include image.html file="/images/2019_10_20_IM703Goa/PreRace.JPG" description=" At the expo entry "%}
 
-{% imgcap center /images/2019_10_20_IM703Goa/PreRace2.JPG 500 600 Finding the name %}
+{% include image.html file="/images/2019_10_20_IM703Goa/PreRace2.JPG" description=" Finding the name "%}
 
-{% imgcap center /images/2019_10_20_IM703Goa/Debrief1.JPG 500 600 Radstrong Briefing session %}
+{% include image.html file="/images/2019_10_20_IM703Goa/Debrief1.JPG" description=" Radstrong Briefing session "%}
 
-{% imgcap center /images/2019_10_20_IM703Goa/WithRahul.JPG 500 600 Rahul - Always smiling %}
+{% include image.html file="/images/2019_10_20_IM703Goa/WithRahul.JPG" description=" Rahul - Always smiling "%}
 
-{% imgcap center /images/2019_10_20_IM703Goa/RadGang3.JPG 500 600 Rad Gang!  %}
+{% include image.html file="/images/2019_10_20_IM703Goa/RadGang3.JPG" description=" Rad Gang!  "%}
 
 
 
@@ -67,17 +67,17 @@ After reaching the race venue, I filled air in the bike, fixed water bottles, mo
 
 Soon it was announced that start was delayed by 30". I used that time to click selfies with friends - best way to distract and not think about the race. 
 
-{% imgcap center /images/2019_10_20_IM703Goa/RishiAtT1.JPG 500 600 Me with my trusted bike %}
+{% include image.html file="/images/2019_10_20_IM703Goa/RishiAtT1.JPG" description=" Me with my trusted bike "%}
 
-{% imgcap center /images/2019_10_20_IM703Goa/WithBhavesh.JPG 500 600 Bhavesh - The stylish one %}
+{% include image.html file="/images/2019_10_20_IM703Goa/WithBhavesh.JPG" description=" Bhavesh - The stylish one "%}
 
-{% imgcap center /images/2019_10_20_IM703Goa/WithMaitreyi.JPG 500 600 Maitreyi - Solid Runner %}
+{% include image.html file="/images/2019_10_20_IM703Goa/WithMaitreyi.JPG" description=" Maitreyi - Solid Runner "%}
 
-{% imgcap center /images/2019_10_20_IM703Goa/WithAnubhav.JPG 500 600 Anubhav - my IM Partner %}
+{% include image.html file="/images/2019_10_20_IM703Goa/WithAnubhav.JPG" description=" Anubhav - my IM Partner "%}
 
-{% imgcap center /images/2019_10_20_IM703Goa/RadGang1.JPG 500 600 Rad Boys %}
+{% include image.html file="/images/2019_10_20_IM703Goa/RadGang1.JPG" description=" Rad Boys "%}
 
-{% imgcap center /images/2019_10_20_IM703Goa/T1.JPG 500 600 T1 - Lot of Nervous Energy Around %}
+{% include image.html file="/images/2019_10_20_IM703Goa/T1.JPG" description=" T1 - Lot of Nervous Energy Around "%}
 
 
 
@@ -116,9 +116,9 @@ I did first loop while hanging on the drop bar. My bottle fell off during the ri
 
 After the first loop, I stopped bike at an aid station and shouted for Allen Key number 4. The mechanic came running, and quickly fixed it. 
 
-{% imgcap center /images/2019_10_20_IM703Goa/RishiGoa1.JPG 500 600 Intense look. See the aero bars %}
+{% include image.html file="/images/2019_10_20_IM703Goa/RishiGoa1.JPG" description=" Intense look. See the aero bars "%}
 
-{% imgcap center /images/2019_10_20_IM703Goa/RishiGoa3.JPG 500 600 Climbing the badass incline%}
+{% include image.html file="/images/2019_10_20_IM703Goa/RishiGoa3.JPG" description=" Climbing the badass incline"%}
 
 First 30km came in 62min. Second in 65min, and third took 62min. It was overall a very consistent effort on the bike. I finished with overall average of 28.4kmph, which is not bad for the course and wasted time due to aero bar issue. 
 
@@ -160,15 +160,15 @@ Later, I discovered that I got 19th position in my Age Group, missed World Champ
 
 Happy with bike and the nutrition. I had only 5 gels and lot of salt caps, and nowhere I went low on the energy. 
 
-{% imgcap center /images/2019_10_20_IM703Goa/BCBoys1.JPG 500 600 BC Tri Gang %}
+{% include image.html file="/images/2019_10_20_IM703Goa/BCBoys1.JPG" description=" BC Tri Gang "%}
 
-{% imgcap center /images/2019_10_20_IM703Goa/WithParul.JPG 500 600 Parul - The Soul Runner %}
+{% include image.html file="/images/2019_10_20_IM703Goa/WithParul.JPG" description=" Parul - The Soul Runner "%}
 
-{% imgcap center /images/2019_10_20_IM703Goa/WithPoonam.JPG 500 600 Poonam - What an energy cheering us all! This lady was relentless.  %}
+{% include image.html file="/images/2019_10_20_IM703Goa/WithPoonam.JPG" description=" Poonam - What an energy cheering us all! This lady was relentless.  "%}
 
-{% imgcap center /images/2019_10_20_IM703Goa/WithDeepak.JPG 500 600 Deepak - The Man who bought IM to India %}
+{% include image.html file="/images/2019_10_20_IM703Goa/WithDeepak.JPG" description=" Deepak - The Man who bought IM to India "%}
 
-{% imgcap center /images/2019_10_20_IM703Goa/FinishLine1.JPG 500 600 Mandatory Finish Line Pic %}
+{% include image.html file="/images/2019_10_20_IM703Goa/FinishLine1.JPG" description=" Mandatory Finish Line Pic "%}
 
 
 

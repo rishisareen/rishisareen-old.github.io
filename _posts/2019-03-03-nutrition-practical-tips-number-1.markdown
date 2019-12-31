@@ -56,7 +56,7 @@ From this we can see the potato will produce a blood sugar rise three times that
 
 - The GI of watermelon is high (GI = 72), but its Glycaemic Load is relatively low (GL = 7), because the quantity of carbohydrate in a slice of watermelon (150 g) is minimal, as it contains a lot of water.
 
-{% imgcap center /images/Nutrition/GI-Insulin.jpg 700 700 Glycemic Index impact on Insulin %}
+{% include image.html file="/images/Nutrition/GI-Insulin.jpg" description="Glycemic Index impact on Insulin "%}
 
 GL and GI are similar concepts, except that GL takes serving sizes into account. It is calculated by taking the number of grams of carbohydrate in a serving, multiplying by the GI, and dividing by 100.
 

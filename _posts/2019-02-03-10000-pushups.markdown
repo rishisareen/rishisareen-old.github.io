@@ -53,7 +53,7 @@ I decided on Google Tasks for this reason.
 **Approach**   
 Start of every week, I would create a task with goals for that week. And subtasks for each day of the week to track. I actually made a template excel for this, I add week number and dates are filled automatically. Sample [here](https://docs.google.com/spreadsheets/d/16-mHjsayC9Z7-EnqfYbXihC0o9HUoagopwwlzPXgcHI/edit?usp=sharing))   
 
-[{% imgcap center /images/Pushup.JPG 400 400 Google Tasks to track Pushups %}](/images/Pushup.JPG)  
+[{% include image.html file="/images/Pushup.JPG" description="Google Tasks to track Pushups "%}](/images/Pushup.JPG)  
 
 **Execution**   
 So, target was 30 pushups a day. I decided to spread those 30 pushups over day - 3 sets of 10 pushups. Most of us can do 10 pushups. Distributing pushups across the day avoided the tiredness,  allowed myself to do it on the daily basis. Some days are good, some days gets missed. The idea is to trend towards the goal.  

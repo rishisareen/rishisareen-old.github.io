@@ -55,7 +55,7 @@ Sharp at 7:50am, organizers asked us to assemble near swim start point. I did wa
 
 Swim was a single loop - go straight 900m, turn left and go 100m, come back for 900m.
 
-[{% imgcap center /images/2019_01_13_GOATRI/GOATRI-SwimCourseMap.JPG 500 500 Swim Course %}](/images/2019_01_13_GOATRI/GOATRI-SwimCourseMap.JPG)  
+[{% include image.html file="/images/2019_01_13_GOATRI/GOATRI-SwimCourseMap.JPG" description="Swim Course" %}](/images/2019_01_13_GOATRI/GOATRI-SwimCourseMap.JPG)  
 
 At 8:05, flag off was done, we ran towards the sea.
 It started smooth. I slowly got into the rhythm, gradually built pace and quickly covered 500m. Suddenly I felt a sharp sting on my left arm. Ah, I was greeted by jellyfish. It was a sharp sting, and pained for a few minutes. I slowed for a bit, but continued to swim.
@@ -67,7 +67,7 @@ Thankfully, I was spared from more attacks, and I soon finished the swim.
 
 Later I checked - I ended up swimming 2200mts - full 300mts extra - because of jellyfish distraction and buoys so far off that sighting was a challenge. 300m of extra swim is easily 6-8min wasted! 
 
-[{% imgcap center /images/2019_01_13_GOATRI/GOATRI-Jellyfish.JPG 300 300 Jellyfish %}](/images/2019_01_13_GOATRI/GOATRI-Jellyfish.JPG)  
+[{% include image.html file="/images/2019_01_13_GOATRI/GOATRI-Jellyfish.JPG" description="Jellyfish" %}](/images/2019_01_13_GOATRI/GOATRI-Jellyfish.JPG)  
 
 Strava: https://www.strava.com/activities/1413762389
 
@@ -89,16 +89,16 @@ Before the race, everyone was talking about an athlete Pablo. He was champion of
 
 On my 2nd loop, I met one participant - Rupesh. He was cycling at a speed similar to mine. I asked him some question about his bike, and then we started to cycle together. From there, till cycle end, we were together - talking about the race, college, and dunno what all stuff. It was his first triathlon, and that too a half iron distance. This sports do draw people with serious grit towards it. 
 
-[{% imgcap center /images/2019_01_13_GOATRI/GOATRI-Cycling-4.JPG 700 700 Half Cycling, Half Chatting. With Rupesh %}](/images/2019_01_13_GOATRI/GOATRI-Cycling-4.JPG)  
+[{% include image.html file="/images/2019_01_13_GOATRI/GOATRI-Cycling-4.JPG" description="Half Cycling, Half Chatting. With Rupesh "%}](/images/2019_01_13_GOATRI/GOATRI-Cycling-4.JPG)  
 
-[{% imgcap center /images/2019_01_13_GOATRI/GOATRI-Cycling-3.JPG 700 700 With Rupesh and Omkar. All cursing the sun. %}](/images/2019_01_13_GOATRI/GOATRI-Cycling-3.JPG)  
+[{% include image.html file="/images/2019_01_13_GOATRI/GOATRI-Cycling-3.JPG" description="With Rupesh and Omkar. All cursing the sun. "%}](/images/2019_01_13_GOATRI/GOATRI-Cycling-3.JPG)  
 
 
 Every loop, we took hydration breaks. Sun was getting stronger.  
 Towards our 5th loop, we saw Pablo, who was now running. We wondered if we'll finish our cycling or if he will finish his run first. 
 Rupesh and I finished cycle around 12:30PM. Knee pain was  manageable. Kaustubh was also cheering and asking about my knee at every possible point.
 
-[{% imgcap center /images/2019_01_13_GOATRI/GOATRI-Cycling-1.JPG 700 700 Sun is not going to stop me from posing %}](/images/2019_01_13_GOATRI/GOATRI-Cycling-1.JPG)
+[{% include image.html file="/images/2019_01_13_GOATRI/GOATRI-Cycling-1.JPG" description="Sun is not going to stop me from posing "%}](/images/2019_01_13_GOATRI/GOATRI-Cycling-1.JPG)
 
 Strava: https://www.strava.com/activities/2075344971 
 
@@ -116,28 +116,28 @@ It was close to 1pm. The Sun was strong, no trees on the route, temperature was 
 
 I stopped at hydration station, got an ice bath. Having cold water on the body felt so good. I felt better, ran a bit faster, soon caught up with Rupesh. From here onwards, we stuck together for the next 16km.  
 
-[{% imgcap center /images/2019_01_13_GOATRI/GOATRI-Run-2.JPG 700 700 Caught up Rupesh. Found him chatting with his wife! %}](/images/2019_01_13_GOATRI/GOATRI-Run-2.JPG)  
+[{% include image.html file="/images/2019_01_13_GOATRI/GOATRI-Run-2.JPG" description="Caught up Rupesh. Found him chatting with his wife! "%}](/images/2019_01_13_GOATRI/GOATRI-Run-2.JPG)  
 
-[{% imgcap center /images/2019_01_13_GOATRI/GOATRI-Run-3.JPG 700 700 Posers!!!%}](/images/2019_01_13_GOATRI/GOATRI-Run-3.JPG)  
+[{% include image.html file="/images/2019_01_13_GOATRI/GOATRI-Run-3.JPG" description="Posers!!!"%}](/images/2019_01_13_GOATRI/GOATRI-Run-3.JPG)  
 
 
 We faced one more challenge - Ice was available only at the loop end. So 6km stretch with no ice or cold water in between! On every loop, I was doing this - get ice bath, put ice cubes in cap, run fast till body is cold (2km mostly), and then hang on till next ice stop. This continued till 17km, average a slow pace of 8kmph. Weather was absolutely insane by this time - as bad as my half iron experience in Thonnur.
 
-[{% imgcap center /images/2019_01_13_GOATRI/GOATRI-Run-10-Water.JPG 700 700 Ice PLEASEEEE %}](/images/2019_01_13_GOATRI/GOATRI-Run-10-Water.JPG)
+[{% include image.html file="/images/2019_01_13_GOATRI/GOATRI-Run-10-Water.JPG" description="Ice PLEASEEEE "%}](/images/2019_01_13_GOATRI/GOATRI-Run-10-Water.JPG)
 
 When 17km mark was over, and knee still cooperating, I decided to finish strong. I went ahead from the pack.  
 Last 5km came pace was 7:00, 7:39, 7:30, 7:37, 7:48. Not bad.  
 
-[{% imgcap center /images/2019_01_13_GOATRI/GOATRI-Run-7.JPG 400 400 Saying bye to the pack! %}](/images/2019_01_13_GOATRI/GOATRI-Run-5.JPG)
-[{% imgcap center /images/2019_01_13_GOATRI/GOATRI-Run-6.JPG 400 400 Just tar road, no shades %}](/images/2019_01_13_GOATRI/GOATRI-Run-6.JPG)  
-[{% imgcap center /images/2019_01_13_GOATRI/GOATRI-Run-5.JPG 800 800 Now that end is in sight, SMILE! %}](/images/2019_01_13_GOATRI/GOATRI-Run-5.JPG)
+[{% include image.html file="/images/2019_01_13_GOATRI/GOATRI-Run-7.JPG" description="Saying bye to the pack! "%}](/images/2019_01_13_GOATRI/GOATRI-Run-5.JPG)
+[{% include image.html file="/images/2019_01_13_GOATRI/GOATRI-Run-6.JPG" description="Just tar road, no shades "%}](/images/2019_01_13_GOATRI/GOATRI-Run-6.JPG)  
+[{% include image.html file="/images/2019_01_13_GOATRI/GOATRI-Run-5.JPG" description="Now that end is in sight, SMILE! "%}](/images/2019_01_13_GOATRI/GOATRI-Run-5.JPG)
 
 Last 600mts of downhill were done quickly, I saw the finish line. Kaustubh, as expected, was there - cheering and genuinely happy! I punched in the air, crossed the finish line.
 Finally, 4th Half Ironman was done! 
 
-[{% imgcap center /images/2019_01_13_GOATRI/GOATRI-Finish.JPG 400 400 The end line! %}](/images/2019_01_13_GOATRI/GOATRI-Finish.JPG)   
-[{% imgcap center /images/2019_01_13_GOATRI/GOATRI-Finish-Medal.JPG 700 700 The Medal! %}](/images/2019_01_13_GOATRI/GOATRI-Finish-Medal.JPG)  
-[{% imgcap center /images/2019_01_13_GOATRI/GOATRI-Finish-Medal-Rupesh.JPG 800 800 My Race Partner %}](/images/2019_01_13_GOATRI/GOATRI-Finish-Medal-Rupesh.JPG)  
+[{% include image.html file="/images/2019_01_13_GOATRI/GOATRI-Finish.JPG" description="The end line! "%}](/images/2019_01_13_GOATRI/GOATRI-Finish.JPG)   
+[{% include image.html file="/images/2019_01_13_GOATRI/GOATRI-Finish-Medal.JPG" description="The Medal! "%}](/images/2019_01_13_GOATRI/GOATRI-Finish-Medal.JPG)  
+[{% include image.html file="/images/2019_01_13_GOATRI/GOATRI-Finish-Medal-Rupesh.JPG" description="My Race Partner "%}](/images/2019_01_13_GOATRI/GOATRI-Finish-Medal-Rupesh.JPG)  
 
 Strava: https://www.strava.com/activities/2075345016
 
@@ -148,9 +148,9 @@ Overall time: 7hours 49 min.  This one was special - so much experience and ment
 Next day, All Goa Newspapers covered about jellyfish infested sea and the event :). But I'm glad I did this race, fear of jellyfish is gone!
 And Pablo got the timing of 4:20hrs. Yes, 4:20! In that heat!  
 
-[{% imgcap center /images/2019_01_13_GOATRI/GOATRI-News-Interview-1.JPG 700 700 Look Ma, I am in newspaper. %}](/images/2019_01_13_GOATRI/GOATRI-News-Interview-1.JPG)
+[{% include image.html file="/images/2019_01_13_GOATRI/GOATRI-News-Interview-1.JPG" description="Look Ma, I am in newspaper. "%}](/images/2019_01_13_GOATRI/GOATRI-News-Interview-1.JPG)
 
-[{% imgcap center /images/2019_01_13_GOATRI/GOATRI-News-Interview-3.JPG 700 700 More news on event and Jellyfish! %}](/images/2019_01_13_GOATRI/GOATRI-News-Interview-1.JPG)  
-[{% imgcap center /images/2019_01_13_GOATRI/GOATRI-PabloErat.JPG 700 700 Pablo Erat. What an athlete! %}](/images/2019_01_13_GOATRI/GOATRI-PabloErat.JPG)  
-[{% imgcap center /images/2019_01_13_GOATRI/GOATRI-Radstrong.JPG 700 700 Radstrong Team! %}](/images/2019_01_13_GOATRI/GOATRI-Radstrong.JPG)  
+[{% include image.html file="/images/2019_01_13_GOATRI/GOATRI-News-Interview-3.JPG" description="More news on event and Jellyfish! "%}](/images/2019_01_13_GOATRI/GOATRI-News-Interview-1.JPG)  
+[{% include image.html file="/images/2019_01_13_GOATRI/GOATRI-PabloErat.JPG" description="Pablo Erat. What an athlete! "%}](/images/2019_01_13_GOATRI/GOATRI-PabloErat.JPG)  
+[{% include image.html file="/images/2019_01_13_GOATRI/GOATRI-Radstrong.JPG" description="Radstrong Team! "%}](/images/2019_01_13_GOATRI/GOATRI-Radstrong.JPG)  
 

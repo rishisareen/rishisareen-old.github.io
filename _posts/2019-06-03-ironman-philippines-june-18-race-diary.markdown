@@ -35,7 +35,7 @@ Anubhav (my training partner) and I had decided to go few days before the event 
 Philippines has a very active tri scene. Subic Bay has been hosting IM70.3 distance for many years. This was the first year they were hosting a Full Ironman.  
 
 The event was on 3rd June. We reached Subic 4 days before. From Manila Airport to Subic, we could see Ironman Banner all around - from welcoming athletes to mentioning sponsors.
-{% imgcap center /images/2018_06_03_IMPhi/PreRace/IM-Pre-1-Banner.jpg 400 300 IM Banner all over the city %}
+{% include image.html file="/images/2018_06_03_IMPhi/PreRace/IM-Pre-1-Banner.jpg" description=" IM Banner all over the city "%}
 
 
 **Swim Experience**  
@@ -63,8 +63,8 @@ I did went back next 2 days also for practice - did 1k each time. The swim chall
 
 Next few days were spent going to Ironman Expo, getting race kit, acclimatization to the heat.  
 We had a chance to meet a lot of seasoned athletes. Everyone was remarking how this is one of the toughest course. Those who had done Kona (Ironman World Championship venue, and one of the toughest course) compared this route to Kona! *Gasp*  
-{% imgcap center /images/2018_06_03_IMPhi/PreRace/IM-Pre-1-Expo.jpg 400 300 IM Expo %}
-{% imgcap center /images/2018_06_03_IMPhi/PreRace/IM-Pre-2-Expo.jpg 400 300 IM Expo %}
-{% imgcap center /images/2018_06_03_IMPhi/PreRace/IM-Pre-3-CarbLoadingDinner.jpg 400 300 Carb Loading Dinner %}
-{% imgcap center /images/2018_06_03_IMPhi/PreRace/IM-Pre-4-CarbLoadingDinner.jpg 400 300 Rice, Pasta, Breads%}
-{% imgcap center /images/2018_06_03_IMPhi/PreRace/IM-Pre-5-FinishLine.jpg 400 300 India Flag around finish line %}
+{% include image.html file="/images/2018_06_03_IMPhi/PreRace/IM-Pre-1-Expo.jpg" description=" IM Expo "%}
+{% include image.html file="/images/2018_06_03_IMPhi/PreRace/IM-Pre-2-Expo.jpg" description=" IM Expo "%}
+{% include image.html file="/images/2018_06_03_IMPhi/PreRace/IM-Pre-3-CarbLoadingDinner.jpg" description=" Carb Loading Dinner "%}
+{% include image.html file="/images/2018_06_03_IMPhi/PreRace/IM-Pre-4-CarbLoadingDinner.jpg" description=" Rice, Pasta, Breads"%}
+{% include image.html file="/images/2018_06_03_IMPhi/PreRace/IM-Pre-5-FinishLine.jpg" description=" India Flag around finish line "%}

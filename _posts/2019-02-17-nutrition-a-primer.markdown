@@ -14,7 +14,7 @@ Let us spend some time understanding basic nutrition.
 Our bodies have a whole of nutrition needs in order to survive and function. It can be split into two different types of nutrients: macronutrients (needed in large quantity - carbs, fats, and protein), and micronutrients (neede in less quantity - vitamins and minerals).  Both are very important and plays a vital role in our overall health.
 
 ### **Macronutrients**
-[{% imgcap center /images/Nutrition/macros.jpg 800 800 **Macronutrients** %}](/images/Nutrition/macros.jpg)  
+[{% include image.html file="/images/Nutrition/macros.jpg" description="**Macronutrients** "%}](/images/Nutrition/macros.jpg)  
 >  
 
 The three macronutrients all have their own specific roles and functions in the body and supply us with calories or energy. For this reason, the body requires these nutrients in relatively large amounts to grow, develop, repair and feel good!
@@ -48,7 +48,7 @@ Good source of carbs: Green leafy and other forms of vegetables.
 
 ### **Micronutrients**  
 
-[{% imgcap center /images/Nutrition/micros.jpg 800 700 **Micronutrients** %}](/images/Nutrition/micros.jpg)  
+[{% include image.html file="/images/Nutrition/micros.jpg" description="**Micronutrients** "%}](/images/Nutrition/micros.jpg)  
 >  
 
 

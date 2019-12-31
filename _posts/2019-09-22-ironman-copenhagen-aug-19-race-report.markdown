@@ -46,19 +46,19 @@ Getting up at 4am, I had a light breakfast - 4 Scrambled Eggs made in Ghee + 1 G
 
 I took Metro to the venue. The metro was packed with athletes. For a packed metro, it was very quiet. Everyone was in their zone, preparing for the big day.
 
-{% imgcap /images/2019_08_18_IMCPH/Race/20190818-1-PreRace-1.JPG 300 300 Pre-Race - All walking quietly %}
-{% imgcap /images/2019_08_18_IMCPH/Race/20190818-2-PreRace-2.JPG 300 300 Pre-Race - The beach %}
+{% include image.html file="/images/2019_08_18_IMCPH/Race/20190818-1-PreRace-1.JPG" description=" Pre-Race - All walking quietly "%}
+{% include image.html file="/images/2019_08_18_IMCPH/Race/20190818-2-PreRace-2.JPG" description=" Pre-Race - The beach "%}
 
 On reaching the start point, I filled air in the bike, fixed water bottles, mounted Garmin Edge and finally wore the wetsuit. Post this, I went for a short run to heat up the body. Once all this is done, I went for a swim warmup. By now, I was in very calm state. I went in sea, did bubbling for a minute, then did few good strokes. Good to go!
-{% imgcap /images/2019_08_18_IMCPH/Race/20190818-5-PreRace.JPG 300 300 Radstrong Gang %}
-{% imgcap /images/2019_08_18_IMCPH/Race/20190818-4-PreRace-WithBlossom.JPG 300 300 With Blossom  %}
+{% include image.html file="/images/2019_08_18_IMCPH/Race/20190818-5-PreRace.JPG" description=" Radstrong Gang "%}
+{% include image.html file="/images/2019_08_18_IMCPH/Race/20190818-4-PreRace-WithBlossom.JPG" description=" With Blossom  "%}
 
 The swim was a rolling start swim, with a release of a group of 4 athletes for every 6 seconds.  
-{% imgcap center /images/2019_08_18_IMCPH/Race/20190818-3-PreRace-SwimStaggered.JPG 500 600 Rolling Start - 6 people enter water together %}
+{% include image.html file="/images/2019_08_18_IMCPH/Race/20190818-3-PreRace-SwimStaggered.JPG" description=" Rolling Start - 6 people enter water together "%}
 
 Pro Females started at 7am.
 For Age Groupers, we were divided in 5 Zones, based on our predicted swim timers. I had taken Green cap this time which indicated 1:18-1:22 swim time.  
-{% imgcap center /images/2019_08_18_IMCPH/Race/20190818-6-SwimLineup.JPG 500 600 Swim Line Up %}
+{% include image.html file="/images/2019_08_18_IMCPH/Race/20190818-6-SwimLineup.JPG" description=" Swim Line Up "%}
 
 Soon people with Green caps started to line up. I didn't want to wait anxiously for my turn to come, hence went right ahead to start of the line.  
 Entering the water, it was nice cold. Nothing shocking or unbearable - body was nicely warmed up by now.  
@@ -66,8 +66,8 @@ I started with slow breathing and gradual strokes. Soon I found my Rythm, and ti
 Crossing two bridges, I reached first turnaround at 1600m. Here water was very shallow and weeds were all around. - getting in legs, face, arms. It was a bit of mind scare. But no option but to continue.  
 
 I quickly  reached close to end line and came out of the water. I didn't stop at all during the swim, and it was a comfortable swim.  
-{% imgcap /images/2019_08_18_IMCPH/Race/20190818-6-SwimExit.JPG 400 400 Swim Exit %}
-{% imgcap /images/2019_08_18_IMCPH/Race/20190818-7-SwimExit.JPG 300 300 Working on getting wetsuit off %}
+{% include image.html file="/images/2019_08_18_IMCPH/Race/20190818-6-SwimExit.JPG" description="Swim Exit "%}
+{% include image.html file="/images/2019_08_18_IMCPH/Race/20190818-7-SwimExit.JPG" description="Working on getting wetsuit off "%}
 
 
 Total Time: 1hr 30min  
@@ -88,12 +88,12 @@ Whosoever has said Copenhagen bike course is flat must be from Europe. It is sur
 The course starts easy, first 15km are flat and we move from the city to the sea shore. The route here was mesmerizing - swimming with sea on the right.  
 After 45km, we take turn and enter the village side. From here it was mostly rolling hills, with no real stretch for continuous ride.  
 
-{% imgcap center /images/2019_08_18_IMCPH/Race/20190818-8-Bike.JPG 500 600 Bike Start %}
-{% imgcap center /images/2019_08_18_IMCPH/Race/20190818-9-Bike-2.JPG 500 600 Lovely scenic villages %}
+{% include image.html file="/images/2019_08_18_IMCPH/Race/20190818-8-Bike.JPG" description=" Bike Start "%}
+{% include image.html file="/images/2019_08_18_IMCPH/Race/20190818-9-Bike-2.JPG" description=" Lovely scenic villages "%}
 
 At 85km mark, 3rd aid station came and I took first washroom break. By then I was getting exhausted with the climbs and it had started to rain also from an hour back. The rain was to continue for remaining bike and some part of the run too.  
 Starting Loop 2, energy was dipping. I managed to hang on, and kept doing the mental calculation of the end time. I desperately tried to finish this under 7 hours, but finally finished it little over 7 hours.  
-{% imgcap center /images/2019_08_18_IMCPH/Race/20190818-10-Bike-3.JPG 500 600 My patent pose %}  
+{% include image.html file="/images/2019_08_18_IMCPH/Race/20190818-10-Bike-3.JPG" description=" My patent pose "%}  
 
 Total Time: 7hr 08min  
 
@@ -119,16 +119,16 @@ Till 23km, I didn't stop and managed to keep a pace of 6:30.
 
 After 23km, I did my first walk to aid station, and boy what a bad decision it was. Till then, I was just running, ignoring my mind. But as soon as I stopped, my mind went in overdrive - "how nice does it feel" and "how tired we are". My legs have taken bad beating due to cobblestones path in the route. It is tough on ankle, even more when you are running close to barefoot.  
 
-{% imgcap center /images/2019_08_18_IMCPH/Race/20190818-11-Run-1.JPG 500 600 Lovey crowd support throughout the Run %}  
+{% include image.html file="/images/2019_08_18_IMCPH/Race/20190818-11-Run-1.JPG" description=" Lovey crowd support throughout the Run "%}  
 
 Last 10km were a struggle. I'm still not sure if I bonked, or I was mental fatigued. But I had no energy in leg to push forward. First 21km came in 2:15, Next 21km came in close to 3hours.  
 
 Close to the finish line, I sprinted. Blossom was there at the end line, who very kindly handed over Indian flag to me. I finished smiling, with flag on my shoulder.  
 
 "From India, Rishi Sareen, you are an Ironman". It was so good to hear these words again.  
-{% imgcap center /images/2019_08_18_IMCPH/Race/20190818-12-FinishLine-1.JPG 500 600 The finish line %}
-{% imgcap center /images/2019_08_18_IMCPH/Race/20190818-12-FinishLine-2.JPG 500 600 Still smiling %}
-{% imgcap center /images/2019_08_18_IMCPH/Race/20190818-12-FinishLine-3.JPG 500 600 Proud to be carrying indian flag %}
+{% include image.html file="/images/2019_08_18_IMCPH/Race/20190818-12-FinishLine-1.JPG" description=" The finish line "%}
+{% include image.html file="/images/2019_08_18_IMCPH/Race/20190818-12-FinishLine-2.JPG" description=" Still smiling "%}
+{% include image.html file="/images/2019_08_18_IMCPH/Race/20190818-12-FinishLine-3.JPG" description=" Proud to be carrying indian flag "%}
 
 End time: 5:18hr
 
@@ -142,7 +142,7 @@ Total Time: 14:22hr
 I felt very disappointed with the race. Unhappy - no. But disappointed. I had trained hard for this race, and was hoping for a sub 13. But Bike leg took a lot out of me.
 I'm ofcourse grateful to have the chance to race this, and in the amazing city of Copenhagen. But I could have done better. Lot of lesson learnt - particularly the importance of staying aero on the bike and no backup plan for losing salt capsules.
 
-{% imgcap center /images/2019_08_18_IMCPH/Race/20190818-12-PostRace.JPG 500 600 The Hard Earned Medal %}
-{% imgcap center /images/2019_08_18_IMCPH/Race/20190818-12-Postace2.JPG 500 600 With some fellow Ironman %}
+{% include image.html file="/images/2019_08_18_IMCPH/Race/20190818-12-PostRace.JPG" description=" The Hard Earned Medal "%}
+{% include image.html file="/images/2019_08_18_IMCPH/Race/20190818-12-Postace2.JPG" description=" With some fellow Ironman "%}
 
 Till next race, then!  

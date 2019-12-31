@@ -32,7 +32,7 @@ I used to wonder why do I need to do the back float. But Indrajeet made a good p
 I have **NEVER** been able to back float. Never. I've tried (and failed) many times - much to the amusement of my family. But kudos to Indrajeet as a teacher - he made a very small correction in my technique, and YES - I could back float. Oh boy! Even if I might not use this skill during the event, it felt amazing to be finally able to do this.⁣   
 ⁣   
 A very useful session indeed! Everyone came out from sea smiling, the joy of new skills acquired :) ⁣ 
-{% imgcap center /images/2019_03_08_GOACAMP/20190308-Day1-PreSession.JPG 700 500 The TriCamp Group %}
+{% include image.html file="/images/2019_03_08_GOACAMP/20190308-Day1-PreSession.JPG" description="0 The TriCamp Group "%}
 ⁣   
 ## Day 2   
 ⁣   
@@ -41,17 +41,17 @@ A very useful session indeed! Everyone came out from sea smiling, the joy of new
 7AM - 8 AM : Swim session in the sea (Caranzalem Beach, Next to Miramar Beach). This session built on the backfloat. We learnt how to move from freestyle to backfloat, adjust the goggles, and continue to swim. When we got hang of it, it felt so awesome⁣.   
    
 10-10:30: Nutrition session with Kaustubh and Maitreyi⁣.   
-{% imgcap center /images/2019_03_08_GOACAMP/20190309-Day2-NutritionTalk.JPG 500 500 Listening to the Nutrition Talk%}
+{% include image.html file="/images/2019_03_08_GOACAMP/20190309-Day2-NutritionTalk.JPG" description="500 500 Listening to the Nutrition Talk"%}
    
 11AM-12PM : Swim session in the pool. This was a technical session, focused on sculling and right leg movement. Some videos were also shot by the coach :-D⁣   
    
 12:30PM - 1PM : Sun was blazing, and we were tired. Perfect time to simulate the race day. Kaustubh made us run for 30" in the sun. During Ironman, it is very important to be able to run with the tired legs. This was a good simulation. Maitreyi and I did a comfortable 5km⁣ run.   
-{% imgcap center /images/2019_03_08_GOACAMP/20190309-Day2-MidDayRun.JPG 700 500 Run in the heat%}
+{% include image.html file="/images/2019_03_08_GOACAMP/20190309-Day2-MidDayRun.JPG" description="0 Run in the heat"%}
    
 4-6PM: Now, with all the drills and technique, this was the time to face the fear. This session called for us to go inside deep sea. Indrajeet (25m) and Kaustubh(50m) were our targets :D. Everyone did this comfortable - big reason was the practice in the sea sessions before.⁣   
 ⁣   
 A hectic, but super wonderful day. The group was super awesome, and together we all did this sea swim easily.⁣   
-{% imgcap center /images/2019_03_08_GOACAMP/20190309-Day2-Sunset.JPG 700 500 Happy faces post the session %}
+{% include image.html file="/images/2019_03_08_GOACAMP/20190309-Day2-Sunset.JPG" description="0 Happy faces post the session "%}
 ⁣   
 ## Day 3   
 ⁣   
@@ -59,7 +59,7 @@ A hectic, but super wonderful day. The group was super awesome, and together we 
    
 7AM - 8AM: Back to the sea. This time everyone was looking forward to it. Not much time was wasted, we directly decided to go to the deep sea. Water was choppier today, but the group took this as another chance to learn. ⁣⁣   
 The swim was easily done, with some practice on sea entry and exit too.⁣⁣   
-{% imgcap center /images/2019_03_08_GOACAMP/20190309-Day2-Beach.JPG 700 500 Some random discussion%}
+{% include image.html file="/images/2019_03_08_GOACAMP/20190309-Day2-Beach.JPG" description="0 Some random discussion"%}
 ⁣   
 And that was the wrap of 3-day session. ⁣⁣   
 ⁣   

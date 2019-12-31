@@ -42,7 +42,7 @@ They are used for short-term power (such as weight lifting) and sprint speed (su
 Anaerobic energy is also very limited—relying only on this system won’t even allow a 5K race to be completed.  
 <br>
 
-[{% imgcap center /images/MAF/Aero2.PNG 800 600 Aerobic vs Anaerobic %}](/images/MAF/Aero2.PNG)  
+[{% include image.html file="/images/MAF/Aero2.PNG" description="Aerobic vs Anaerobic "%}](/images/MAF/Aero2.PNG)  
 
 >  
 
@@ -52,7 +52,7 @@ Maffetone tells us that, in an event that lasts longer than one hour, 98% (!!!) 
 If the event is over two hours, 99% (!!!) of the endurance energy will come from our aerobic system. Therefore, if you want to be a great endurance athlete, you’d be wise to build a VERY strong aerobic base.   
 
 <insert image here>
-[{% imgcap center /images/MAF/aerobic-and-anaerobic-energy.png 800 600 Aerobic vs Anaerobic %}](/images/MAF/aerobic-and-anaerobic-energy.png)  
+[{% include image.html file="/images/MAF/aerobic-and-anaerobic-energy.png" description="Aerobic vs Anaerobic "%}](/images/MAF/aerobic-and-anaerobic-energy.png)  
 
 
 # Keep slow run slow and fast run fast.   
@@ -70,7 +70,7 @@ It’s usually the amateurs that do 60 to 80% of their training more intensely i
 # The MAF Formula  
 Dr. Maffetone, based on his research, has shown that your Maximum Aerobic Function peaks at a heart rate equal to 180 minus your Age.  
 
-[{% imgcap center /images/MAF/maf.png 600 600 Aerobic vs Anaerobic %}](/images/MAF/maf.png)  
+[{% include image.html file="/images/MAF/maf.png" description="Aerobic vs Anaerobic "%}](/images/MAF/maf.png)  
 
 Dr Maffetone suggests adjustments based on these factors:  
 

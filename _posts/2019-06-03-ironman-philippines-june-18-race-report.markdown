@@ -48,7 +48,7 @@ I focused on couting my breath (Allan Pitman gave me this tip during a swim camp
 Soon I found a rhythm and started to draft off from one swimmer to another.  
 First 1.9k was done in 52min.  
 I entered water again, starting second loop. Second loop was much easier, and I managed to finish it in 50min. Right on the predicted timing.  
-{% imgcap center /images/2018_06_03_IMPhi/Race/IM-Swim-1.JPG 500 600 Survived the swim %}
+{% include image.html file="/images/2018_06_03_IMPhi/Race/IM-Swim-1.JPG" description="500 600 Survived the swim "%}
 
 Total Time: 1hr 42min
 [Strava Link](https://www.strava.com/activities/1629696952)
@@ -75,8 +75,8 @@ This was the time in the race when you enter a dark phase, you just want to stop
 At around 160km, weather started to improve. Last 5km were all downhill, where I rode quickly.   
 
 I took almost 8 hours to finish cycling - slower by more than an hour from my worst margins. It was crazy. Thanks to long hours spent in the training, I could finish this.  
-{% imgcap center /images/2018_06_03_IMPhi/Race/IM-Bike-1.JPG 600 600 Pain doesn't mean I won't pose %}  
-{% imgcap center /images/2018_06_03_IMPhi/Race/IM-Bike-3.JPG 600 500 Attitude is still thumbs up%}  
+{% include image.html file="/images/2018_06_03_IMPhi/Race/IM-Bike-1.JPG" description="600 600 Pain doesn't mean I won't pose "%}  
+{% include image.html file="/images/2018_06_03_IMPhi/Race/IM-Bike-3.JPG" description="600 500 Attitude is still thumbs up"%}  
 
 Total Time: 7hr 50min
 
@@ -101,16 +101,16 @@ During the cycling leg, I was calculating race finish time. Original goal of sub
 This gave me about 7hours to finish the run. More than enough, as long as I don't catch any injury.  
 
 After first 2km, body opened up a bit. First 10km came in 75min.  
-{% imgcap center /images/2018_06_03_IMPhi/Race/IM-Run-1.JPG 500 600 Pain doesn't mean I won't pose %}  
+{% include image.html file="/images/2018_06_03_IMPhi/Race/IM-Run-1.JPG" description="500 600 Pain doesn't mean I won't pose "%}  
 Then I met Vijay(his first ironman too), and we decided to run together. He was struggling a bit - pain in the knee. From Km 10 till Km 35, we ran and walked together, egging each other on.  
 
 When last 7km remained, I had 40min to get sub 16. This was a pace which I've not done even on fresh legs then - and this was after 15hours of fatigue. But I decided to go all out now.  
 Those last 7km were so agonizing, but yet so beautiful. I constantly told my mind to shut up. During this last section, I overtook many people.  
 As the finish line came closer, I could hear voice of Mike Reilly announcing finishers name. Last few minutes I picked up the pace further, finally sprinting at the red carpet. At the end of red carpet, I jumped and finished it strong.  
-{% imgcap center /images/2018_06_03_IMPhi/Race/IM-Run-2.JPG 500 600 Finish Line in Sight %}  
+{% include image.html file="/images/2018_06_03_IMPhi/Race/IM-Run-2.JPG" description="500 600 Finish Line in Sight "%}  
 
 **"From India, First time triathlete, Rishi Sareen, you are an Ironman"**
-{% imgcap center /images/2018_06_03_IMPhi/Race/Race.JPG 900 900 Finish Line in Sight %}  
+{% include image.html file="/images/2018_06_03_IMPhi/Race/Race.JPG" description="900 900 Finish Line in Sight "%}  
 End time: 15hours 57min.  
 
 Strava Link : None, Watch battery died.   

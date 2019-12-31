@@ -51,9 +51,9 @@ I was feeling so strong, hardly any fatigue and HR very quickly came down to sub
 
 # Some pics from the event:
 
-{% imgcap center /images/2018_10_21_ADHM/2018-10-21-1-RaceKit.JPG 350 250 Race Kit all packed %}
-{% imgcap center /images/2018_10_21_ADHM/2018-10-21-2-Solo-Before-Run.JPG 350 250 Reached stadium, waiting for bhai %}
-{% imgcap center /images/2018_10_21_ADHM/2018-10-21-3-Before-Event-With-Jatu.JPG 350 250 Pre-Run selfie with bhai%}
-{% imgcap center /images/2018_10_21_ADHM/2018-10-21-4-PostEvent-WithJatu.JPG 350 250 Post-Run Happy Brothers %}
-{% imgcap center /images/2018_10_21_ADHM/2018-10-21-5-PostEvent-Selfie.JPG 350 250 Post-Run All Smiles!!!%}
-{% imgcap center /images/2018_10_21_ADHM/2018-10-21-6-PostEvent-Selfie2.JPG 350 250 Bye Bye ADHM, till next year!%}
+{% include image.html file="/images/2018_10_21_ADHM/2018-10-21-1-RaceKit.JPG" description=" Race Kit all packed "%}
+{% include image.html file="/images/2018_10_21_ADHM/2018-10-21-2-Solo-Before-Run.JPG" description=" Reached stadium, waiting for bhai "%}
+{% include image.html file="/images/2018_10_21_ADHM/2018-10-21-3-Before-Event-With-Jatu.JPG" description=" Pre-Run selfie with bhai"%}
+{% include image.html file="/images/2018_10_21_ADHM/2018-10-21-4-PostEvent-WithJatu.JPG" description=" Post-Run Happy Brothers "%}
+{% include image.html file="/images/2018_10_21_ADHM/2018-10-21-5-PostEvent-Selfie.JPG" description=" Post-Run All Smiles!!!"%}
+{% include image.html file="/images/2018_10_21_ADHM/2018-10-21-6-PostEvent-Selfie2.JPG" description=" Bye Bye ADHM, till next year!"%}
