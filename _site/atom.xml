@@ -4,7 +4,7 @@
  <title>Rishi Sareen</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-01-01T09:19:51+05:30</updated>
+ <updated>2020-01-01T16:31:24+05:30</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Rishi Sareen</name>
@@ -2998,9 +2998,9 @@ Km 5 to km 15 :  By now, I had settled down on a nice rhythm - Cadence was a ste
  
  <entry>
    <title>IM70.3 (DIT-2018) Race Report</title>
-   <link href="http://localhost:4000/ironman/im70-dot-3-dit-2018-race-report.html"/>
+   <link href="http://localhost:4000/ironman/triathlon/im70-dot-3-dit-2018-race-report.html"/>
    <updated>2018-03-12T04:36:53+05:30</updated>
-   <id>http://localhost:4000/ironman/im70-dot-3-dit-2018-race-report</id>
+   <id>http://localhost:4000/ironman/triathlon/im70-dot-3-dit-2018-race-report</id>
    <content type="html">&lt;h3 id=&quot;race-information&quot;&gt;Race information&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;What?&lt;/strong&gt; Delhi International Triathlon&lt;/li&gt;
@@ -3119,9 +3119,9 @@ Strava: https://www.strava.com/activities/1413129449/&lt;/p&gt;
  
  <entry>
    <title>IM70.3-DIT-2017 Race Report</title>
-   <link href="http://localhost:4000/ironman/im70-dot-3-dit-race-report.html"/>
+   <link href="http://localhost:4000/ironman/triathlon/im70-dot-3-dit-race-report.html"/>
    <updated>2017-04-13T05:18:02+05:30</updated>
-   <id>http://localhost:4000/ironman/im70-dot-3-dit-race-report</id>
+   <id>http://localhost:4000/ironman/triathlon/im70-dot-3-dit-race-report</id>
    <content type="html">&lt;h3 id=&quot;race-information&quot;&gt;Race information&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;What?&lt;/strong&gt; Delhi International Triathlon&lt;/li&gt;
@@ -3235,9 +3235,9 @@ It was a bad run, but I was glad for it to be over! Lot of learning, and lot of 
  
  <entry>
    <title>IM70.3 Journey - The Preparation</title>
-   <link href="http://localhost:4000/ironman/im70-dot-3-journey-the-preparation.html"/>
+   <link href="http://localhost:4000/ironman/triathlon/im70-dot-3-journey-the-preparation.html"/>
    <updated>2017-04-12T05:18:02+05:30</updated>
-   <id>http://localhost:4000/ironman/im70-dot-3-journey-the-preparation</id>
+   <id>http://localhost:4000/ironman/triathlon/im70-dot-3-journey-the-preparation</id>
    <content type="html">&lt;h2 id=&quot;why-i-tried---the-background-story&quot;&gt;Why I Tri’ed - The Background story&lt;/h2&gt;
 
 &lt;p&gt;I hate the word “impossible”. Hate it, hate it, hate it! &lt;br /&gt;

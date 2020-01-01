@@ -3,7 +3,9 @@ layout: post
 title: "IM70.3 (DIT-2018) Race Report"
 date: 2018-03-11 19:06:53 -0400
 comments: true
-categories: ironman
+categories: 
+- Ironman
+- Triathlon
 ---
 
 ### Race information
