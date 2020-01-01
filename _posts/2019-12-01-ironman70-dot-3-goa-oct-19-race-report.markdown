@@ -3,7 +3,9 @@ layout: post
 title: "Ironman70.3 Goa - Oct 19 - Race Report"
 date: 2019-10-28 19:48:02 +0530
 comments: true
-categories: ironman
+categories: 
+- Ironman
+- Triathlon
 ---
 
 ### Race information

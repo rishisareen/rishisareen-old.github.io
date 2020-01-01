@@ -3,7 +3,9 @@ layout: post
 title: "Ironman Copenhagen (Aug 19)- Race Report"
 date: 2019-08-28 19:48:02 +0530
 comments: true
-categories: ironman
+categories: 
+- Ironman
+- Triathlon
 ---
 
 ### Race information

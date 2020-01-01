@@ -36,12 +36,6 @@ sass:
 # Replace this value and uncomment to enable Google Analytics tracking
 # ga_analytics: UA-000000-0
 
-# Specify the author for blog posts
-author:
-  name: Rishi Sareen
-  url: https://twitter.com/mdo
-  email: rishi@jigyasu.com
-
 # Custom vars
 version: 3.0.0
 sidebar_home_link:  true
@@ -49,8 +43,6 @@ sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
-github:
-  repo: https://github.com/poole/poole
 
 # Disqus Comments
 disqus:
@@ -85,10 +77,11 @@ text:
 excerpt_separator: "<!-- more -->"
 excerpt_link: "Read on &rarr;"
 
+# Specify the author for blog posts
 author:
   name: 'Rishi Sareen'
   email: 'rishi[at]jigyasu[dot]com'
-  github: rishi.sareen
+  github: rishisareen
   instagram: rishi.sareen
   instagram_url: www.instagram.com/rishi.sareen
   linkedin: rsareen

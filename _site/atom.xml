@@ -4,7 +4,7 @@
  <title>Rishi Sareen</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2019-12-31T23:40:26+05:30</updated>
+ <updated>2020-01-01T09:19:51+05:30</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Rishi Sareen</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Ironman70.3 Goa - Oct 19 - Race Report</title>
-   <link href="http://localhost:4000/ironman/ironman70-dot-3-goa-oct-19-race-report.html"/>
+   <link href="http://localhost:4000/ironman/triathlon/ironman70-dot-3-goa-oct-19-race-report.html"/>
    <updated>2019-10-28T19:48:02+05:30</updated>
-   <id>http://localhost:4000/ironman/ironman70-dot-3-goa-oct-19-race-report</id>
+   <id>http://localhost:4000/ironman/triathlon/ironman70-dot-3-goa-oct-19-race-report</id>
    <content type="html">&lt;h3 id=&quot;race-information&quot;&gt;Race information&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;What?&lt;/strong&gt; Ironman 70.3 Goa&lt;/li&gt;
@@ -334,9 +334,9 @@ Nutrition: Gel every hour. Precision Hydration Salt capsule every hour.&lt;/p&gt
  
  <entry>
    <title>Ironman Copenhagen (Aug 19)- Race Report</title>
-   <link href="http://localhost:4000/ironman/ironman-copenhagen-aug-19-race-report.html"/>
+   <link href="http://localhost:4000/ironman/triathlon/ironman-copenhagen-aug-19-race-report.html"/>
    <updated>2019-08-28T19:48:02+05:30</updated>
-   <id>http://localhost:4000/ironman/ironman-copenhagen-aug-19-race-report</id>
+   <id>http://localhost:4000/ironman/triathlon/ironman-copenhagen-aug-19-race-report</id>
    <content type="html">&lt;h3 id=&quot;race-information&quot;&gt;Race information&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;What?&lt;/strong&gt; Ironman Copenhagen&lt;/li&gt;
@@ -2348,9 +2348,9 @@ Let me know in the comments.&lt;/p&gt;
  
  <entry>
    <title>Ironman Philippines - June 18 - Race Report</title>
-   <link href="http://localhost:4000/ironman/ironman-philippines-june-18-race-report.html"/>
+   <link href="http://localhost:4000/ironman/triathlon/ironman-philippines-june-18-race-report.html"/>
    <updated>2019-01-08T19:48:02+05:30</updated>
-   <id>http://localhost:4000/ironman/ironman-philippines-june-18-race-report</id>
+   <id>http://localhost:4000/ironman/triathlon/ironman-philippines-june-18-race-report</id>
    <content type="html">&lt;h3 id=&quot;race-information&quot;&gt;Race information&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;What?&lt;/strong&gt; Ironman Philippines&lt;/li&gt;
@@ -2541,9 +2541,9 @@ As the finish line came closer, I could hear voice of Mike Reilly announcing fin
  
  <entry>
    <title>Ironman Philippines - June 18 - Pre Race</title>
-   <link href="http://localhost:4000/ironman/ironman-philippines-june-18-race-diary.html"/>
+   <link href="http://localhost:4000/ironman/triathlon/ironman-philippines-june-18-race-diary.html"/>
    <updated>2019-01-04T05:18:02+05:30</updated>
-   <id>http://localhost:4000/ironman/ironman-philippines-june-18-race-diary</id>
+   <id>http://localhost:4000/ironman/triathlon/ironman-philippines-june-18-race-diary</id>
    <content type="html">&lt;h3 id=&quot;background&quot;&gt;Background&lt;/h3&gt;
 &lt;p&gt;This craze started 2 years back&lt;/p&gt;
 
