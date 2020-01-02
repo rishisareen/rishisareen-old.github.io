@@ -4,7 +4,7 @@
  <title>Rishi Sareen</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-01-02T19:33:06+05:30</updated>
+ <updated>2020-01-02T19:43:29+05:30</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Rishi Sareen</name>
@@ -1414,7 +1414,7 @@ The effect of a carbohydrate food on blood sugar levels is not only determined b
    <link href="http://localhost:4000/nutrition/nutrition-the-carb-challenge.html"/>
    <updated>2019-02-24T13:13:48+05:30</updated>
    <id>http://localhost:4000/nutrition/nutrition-the-carb-challenge</id>
-   <content type="html">&lt;p&gt;In the previous article, we covered the basics about Nutrition.&lt;/p&gt;
+   <content type="html">&lt;p&gt;In the &lt;a href=&quot;nutrition-a-primer.html&quot;&gt;previous post&lt;/a&gt;, we covered the basics about Nutrition.&lt;/p&gt;
 
 &lt;p&gt;Today we will dig deeper into Carbs, and particularly sugar.
 &lt;!--more--&gt;&lt;/p&gt;
@@ -1518,7 +1518,7 @@ This includes rice, whole-grains,  potatoes, many fruits, some nuts, beans/legum
    <link href="http://localhost:4000/nutrition/nutrition-a-primer.html"/>
    <updated>2019-02-17T19:00:02+05:30</updated>
    <id>http://localhost:4000/nutrition/nutrition-a-primer</id>
-   <content type="html">&lt;p&gt;In the previous post, we discussed why fixing nutrition should be the first priority.&lt;/p&gt;
+   <content type="html">&lt;p&gt;In the &lt;a href=&quot;exercise-and-weight-loss.html&quot;&gt;previous post&lt;/a&gt;, we discussed why fixing nutrition should be the first priority.&lt;/p&gt;
 
 &lt;p&gt;Let us spend some time understanding basic nutrition.
 &lt;!--more--&gt;&lt;/p&gt;

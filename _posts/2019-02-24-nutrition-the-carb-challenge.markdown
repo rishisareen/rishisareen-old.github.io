@@ -6,7 +6,7 @@ comments: true
 categories: nutrition
 ---
 
-In the previous article, we covered the basics about Nutrition.
+In the [previous post](nutrition-a-primer.html), we covered the basics about Nutrition.
 
 Today we will dig deeper into Carbs, and particularly sugar.
 <!--more-->

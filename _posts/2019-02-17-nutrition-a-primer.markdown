@@ -6,7 +6,7 @@ comments: true
 categories: nutrition
 ---
 
-In the previous post, we discussed why fixing nutrition should be the first priority.
+In the [previous post](exercise-and-weight-loss.html), we discussed why fixing nutrition should be the first priority.
 
 Let us spend some time understanding basic nutrition.
 <!--more-->
