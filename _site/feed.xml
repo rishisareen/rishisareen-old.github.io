@@ -1,685 +1,1193 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-02T10:23:04+05:30</updated><id>http://localhost:4000/</id><title type="html">Rishi Sareen</title><author><name>Rishi Sareen</name><email>rishi[at]jigyasu[dot]com</email></author><entry><title type="html">Ironman70.3 Goa - Oct 19 - Race Report</title><link href="http://localhost:4000/ironman/race%20reports/ironman70-dot-3-goa-oct-19-race-report.html" rel="alternate" type="text/html" title="Ironman70.3 Goa - Oct 19 - Race Report" /><published>2019-10-28T19:48:02+05:30</published><updated>2019-10-28T19:48:02+05:30</updated><id>http://localhost:4000/ironman/race%20reports/ironman70-dot-3-goa-oct-19-race-report</id><content type="html" xml:base="http://localhost:4000/ironman/race%20reports/ironman70-dot-3-goa-oct-19-race-report.html">### Race information
-* **What?** Ironman 70.3 Goa
-* **When?** October 20, 2019
-* **How far?** 113km (1.9km swim, 90k cycle, 21.1k run)
-* **Website?** https://www.ironman.com/im703-goa
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-02T16:28:15+05:30</updated><id>http://localhost:4000/</id><title type="html">Rishi Sareen</title><author><name>Rishi Sareen</name><email>rishi[at]jigyasu[dot]com</email></author><entry><title type="html">Ironman70.3 Goa - Oct 19 - Race Report</title><link href="http://localhost:4000/ironman/race%20reports/ironman70-dot-3-goa-oct-19-race-report.html" rel="alternate" type="text/html" title="Ironman70.3 Goa - Oct 19 - Race Report" /><published>2019-10-28T19:48:02+05:30</published><updated>2019-10-28T19:48:02+05:30</updated><id>http://localhost:4000/ironman/race%20reports/ironman70-dot-3-goa-oct-19-race-report</id><content type="html" xml:base="http://localhost:4000/ironman/race%20reports/ironman70-dot-3-goa-oct-19-race-report.html">&lt;h3 id=&quot;race-information&quot;&gt;Race information&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;What?&lt;/strong&gt; Ironman 70.3 Goa&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;When?&lt;/strong&gt; October 20, 2019&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;How far?&lt;/strong&gt; 113km (1.9km swim, 90k cycle, 21.1k run)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Website?&lt;/strong&gt; https://www.ironman.com/im703-goa&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;!--more--&gt;
-### Goals
+&lt;h3 id=&quot;goals&quot;&gt;Goals&lt;/h3&gt;
 
-| Goal | Description | Completed? |
-|------|:-----------:|-----------:|
-| A |Sub 6:15hr | *No* |
-| B |Strong Bike | *Yes* |
-| C |Get Nutrition Right | *YES* |
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Goal&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Description&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Completed?&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;A&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Sub 6:15hr&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;em&gt;No&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;B&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Strong Bike&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;em&gt;Yes&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;C&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Get Nutrition Right&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;em&gt;YES&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
+&lt;h3 id=&quot;race-preparation&quot;&gt;Race Preparation&lt;/h3&gt;
+&lt;p&gt;Goa 70.3 was just 2 months after my &lt;a href=&quot;http://jigyasu.com/ironman/ironman-copenhagen-aug-19-race-report.html&quot;&gt;Full IM in Copenhagen (Aug ‘19)&lt;/a&gt; . IM CPH was a disappointing race, as I was not too happy with my performance in the bike section.&lt;/p&gt;
 
-### Race Preparation 
-Goa 70.3 was just 2 months after my [Full IM in Copenhagen (Aug '19)](http://jigyasu.com/ironman/ironman-copenhagen-aug-19-race-report.html) . IM CPH was a disappointing race, as I was not too happy with my performance in the bike section. 
+&lt;p&gt;So for the next two months, I decided to focus primarily on nailing the bike leg. My limitation in CPH was unable to hold the aero position. So, I made some adjustments in the bike - replaced aero bars with newer, more comfortable aero bars and got more hands on experience. Soon I saw improvements with my speed averaging to 30+ average on a few rides. Coming to the race, I was feeling strong for the bike and I was confident of getting a good time on the bike.&lt;/p&gt;
 
-So for the next two months, I decided to focus primarily on nailing the bike leg. My limitation in CPH was unable to hold the aero position. So, I made some adjustments in the bike - replaced aero bars with newer, more comfortable aero bars and got more hands on experience. Soon I saw improvements with my speed averaging to 30+ average on a few rides. Coming to the race, I was feeling strong for the bike and I was confident of getting a good time on the bike. 
+&lt;p&gt;My strategy for goa  was to complete the swim in ~45min, then 3:15 for the bike, 2:15 for the run. 6:30 was my goal, with 6:15 being an ambitious goal.&lt;/p&gt;
 
-My strategy for goa  was to complete the swim in ~45min, then 3:15 for the bike, 2:15 for the run. 6:30 was my goal, with 6:15 being an ambitious goal.   
+&lt;p&gt;My nutrition strategy was  ~150 calories per hour and proper electrolytes. As I’m fairly fat adapted, I only needed to top up muscle glycogen to keep my blood sugar up while racing. As this was not my A race, I could afford to experiment and see body’s response. During the training too, I was doing well for 3 hour workout with just pre-workout coffee and electrolytes during the workout.&lt;/p&gt;
 
-My nutrition strategy was  ~150 calories per hour and proper electrolytes. As I'm fairly fat adapted, I only needed to top up muscle glycogen to keep my blood sugar up while racing. As this was not my A race, I could afford to experiment and see body's response. During the training too, I was doing well for 3 hour workout with just pre-workout coffee and electrolytes during the workout. 
+&lt;h3 id=&quot;pre-race-days&quot;&gt;Pre-Race Days&lt;/h3&gt;
 
-### Pre-Race Days
+&lt;p&gt;This Goa 70.3 race was a special race for many reasons. This is the first ever Ironman event being hosted out of India. Triathlon is a very fast growing sport in India. 96% of the participants were Indians, and whooping 84% were FIRST TIMERS!!!&lt;/p&gt;
 
-This Goa 70.3 race was a special race for many reasons. This is the first ever Ironman event being hosted out of India. Triathlon is a very fast growing sport in India. 96% of the participants were Indians, and whooping 84% were FIRST TIMERS!!!
+&lt;p&gt;There were nervous jitters all around, particularly on the swim aspects. Swimming is not a very common sport in India.&lt;br /&gt;
+P.S: I also learnt swimming AFTER I signed up for my first half ironman.&lt;/p&gt;
 
-There were nervous jitters all around, particularly on the swim aspects. Swimming is not a very common sport in India.  
-P.S: I also learnt swimming AFTER I signed up for my first half ironman. 
+&lt;p&gt;Two days before the race, I went for a practice swim with Anubhav and Rohin. The water was choppy but I had a good relaxed time in the sea. This is the first time I didn’t panic in the sea. I don’t know what was the difference was, nevertheless I had a good swim.&lt;/p&gt;
 
-Two days before the race, I went for a practice swim with Anubhav and Rohin. The water was choppy but I had a good relaxed time in the sea. This is the first time I didn't panic in the sea. I don't know what was the difference was, nevertheless I had a good swim. 
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/RadGang2.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Rad Gang doing swim session
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-{% include image.html file=&quot;/images/2019_10_20_IM703Goa/RadGang2.JPG&quot; style=&quot;width:30%&quot; description=&quot; Rad Gang doing swim session &quot;%}
+&lt;p&gt;It was fun to go to expo and catch up with many triathletes friends.&lt;/p&gt;
 
-It was fun to go to expo and catch up with many triathletes friends. 
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/PreRace.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;At the expo entry
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-{% include image.html file=&quot;/images/2019_10_20_IM703Goa/PreRace.JPG&quot; description=&quot; At the expo entry &quot;%}
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/PreRace2.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Finding the name
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-{% include image.html file=&quot;/images/2019_10_20_IM703Goa/PreRace2.JPG&quot; description=&quot; Finding the name &quot;%}
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/Debrief1.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Radstrong Briefing session
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-{% include image.html file=&quot;/images/2019_10_20_IM703Goa/Debrief1.JPG&quot; description=&quot; Radstrong Briefing session &quot;%}
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/WithRahul.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Rahul - Always smiling
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-{% include image.html file=&quot;/images/2019_10_20_IM703Goa/WithRahul.JPG&quot; description=&quot; Rahul - Always smiling &quot;%}
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/RadGang3.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Rad Gang!
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-{% include image.html file=&quot;/images/2019_10_20_IM703Goa/RadGang3.JPG&quot; description=&quot; Rad Gang!  &quot;%}
+&lt;h3 id=&quot;swim-19km&quot;&gt;Swim [1.9km]&lt;/h3&gt;
 
+&lt;p&gt;The Race Day was finally here.
+Getting up at 4am, I had a light breakfast - 4 Scrambled Eggs and Coffee with Butter.&lt;/p&gt;
 
+&lt;p&gt;After reaching the race venue, I filled air in the bike, fixed water bottles, mounted Garmin Edge and laid down stuff for two transitions T1 and T2.&lt;/p&gt;
 
+&lt;p&gt;Soon it was announced that start was delayed by 30”. I used that time to click selfies with friends - best way to distract and not think about the race.&lt;/p&gt;
 
-### Swim [1.9km]
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/RishiAtT1.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Me with my trusted bike
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-The Race Day was finally here.
-Getting up at 4am, I had a light breakfast - 4 Scrambled Eggs and Coffee with Butter. 
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/WithBhavesh.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Bhavesh - The stylish one
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-After reaching the race venue, I filled air in the bike, fixed water bottles, mounted Garmin Edge and laid down stuff for two transitions T1 and T2. 
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/WithMaitreyi.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Maitreyi - Solid Runner
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/WithAnubhav.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Anubhav - my IM Partner
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-Soon it was announced that start was delayed by 30&quot;. I used that time to click selfies with friends - best way to distract and not think about the race. 
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/RadGang1.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Rad Boys
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-{% include image.html file=&quot;/images/2019_10_20_IM703Goa/RishiAtT1.JPG&quot; description=&quot; Me with my trusted bike &quot;%}
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/T1.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;T1 - Lot of Nervous Energy Around
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-{% include image.html file=&quot;/images/2019_10_20_IM703Goa/WithBhavesh.JPG&quot; description=&quot; Bhavesh - The stylish one &quot;%}
+&lt;p&gt;The swim was a self-seeded start swim, with 4 athletes released to get in the water every 6 seconds. It was a 2 loop swim. The water at the start was not too deep, with 100m of walk before one could swim.&lt;/p&gt;
 
-{% include image.html file=&quot;/images/2019_10_20_IM703Goa/WithMaitreyi.JPG&quot; description=&quot; Maitreyi - Solid Runner &quot;%}
+&lt;p&gt;I self-seeded myself in 40-45min group. About 2 min after the first athlete entered the water, I entered the water.&lt;/p&gt;
 
-{% include image.html file=&quot;/images/2019_10_20_IM703Goa/WithAnubhav.JPG&quot; description=&quot; Anubhav - my IM Partner &quot;%}
+&lt;p&gt;First loop was easy. The sea was very choppy wth strong waves. I stayed close to the ropes, so less sighting to be done.&lt;/p&gt;
 
-{% include image.html file=&quot;/images/2019_10_20_IM703Goa/RadGang1.JPG&quot; description=&quot; Rad Boys &quot;%}
+&lt;p&gt;Towards the end of loop, water became very shallow. Everyone had to stop and walk almost 150m. This was a huge waste of time.&lt;/p&gt;
 
-{% include image.html file=&quot;/images/2019_10_20_IM703Goa/T1.JPG&quot; description=&quot; T1 - Lot of Nervous Energy Around &quot;%}
+&lt;p&gt;First loop was done in 26min.&lt;/p&gt;
 
+&lt;p&gt;Second loop was almost identical - choppy water, with walking towards the end.&lt;/p&gt;
 
-
-The swim was a self-seeded start swim, with 4 athletes released to get in the water every 6 seconds. It was a 2 loop swim. The water at the start was not too deep, with 100m of walk before one could swim. 
-
-I self-seeded myself in 40-45min group. About 2 min after the first athlete entered the water, I entered the water. 
-
-First loop was easy. The sea was very choppy wth strong waves. I stayed close to the ropes, so less sighting to be done.
-
-Towards the end of loop, water became very shallow. Everyone had to stop and walk almost 150m. This was a huge waste of time. 
-
-First loop was done in 26min. 
-
-Second loop was almost identical - choppy water, with walking towards the end. 
-
-Total Time: 52min
+&lt;p&gt;Total Time: 52min
 Total Swim done: 2200m
-[Strava Link](https://www.strava.com/activities/2802529131)
+&lt;a href=&quot;https://www.strava.com/activities/2802529131&quot;&gt;Strava Link&lt;/a&gt;&lt;/p&gt;
 
-Nutrition: Nothing
+&lt;p&gt;Nutrition: Nothing&lt;/p&gt;
 
-### T1
-It was a 500m walk from swim exit to the T1. I quickly reached T1, wore tri top, shoes and left for road. A volunteer pointed out that I've forgotten to wear helmet. I had to rush back and get helmet. I was laughing at my haste :)
+&lt;h3 id=&quot;t1&quot;&gt;T1&lt;/h3&gt;
+&lt;p&gt;It was a 500m walk from swim exit to the T1. I quickly reached T1, wore tri top, shoes and left for road. A volunteer pointed out that I’ve forgotten to wear helmet. I had to rush back and get helmet. I was laughing at my haste :)&lt;/p&gt;
 
-Total Time: 7min
+&lt;p&gt;Total Time: 7min&lt;/p&gt;
 
+&lt;h3 id=&quot;cycle-90km&quot;&gt;Cycle [90km]&lt;/h3&gt;
+&lt;p&gt;The bike course was 3 loops of 30km each. Each loop has two steep elevations, with one being a 10% gradient.&lt;/p&gt;
 
-### Cycle [90km]
-The bike course was 3 loops of 30km each. Each loop has two steep elevations, with one being a 10% gradient. 
+&lt;p&gt;My ride started easy. But immediately, I faced a technical snag. I realized my aero bars were undone and were completely loose. This was a surprise, as just a day before I did route recee, and checked everything including aero bars. I still do not know how come they were undone. My guess was someone fiddled with them while
+the bike was parked overnight. Anyways, I had no time or thoughts to waste on that matter and gathered my mind to focus in rectifying the bars and moving on with the race.&lt;/p&gt;
 
-My ride started easy. But immediately, I faced a technical snag. I realized my aero bars were undone and were completely loose. This was a surprise, as just a day before I did route recee, and checked everything including aero bars. I still do not know how come they were undone. My guess was someone fiddled with them while
-the bike was parked overnight. Anyways, I had no time or thoughts to waste on that matter and gathered my mind to focus in rectifying the bars and moving on with the race.
+&lt;p&gt;I did first loop while hanging on the drop bar. My bottle fell off during the ride. Not a good start to my ambitious bike leg.&lt;/p&gt;
 
+&lt;p&gt;After the first loop, I stopped bike at an aid station and shouted for Allen Key number 4. The mechanic came running, and quickly fixed it.&lt;/p&gt;
 
-I did first loop while hanging on the drop bar. My bottle fell off during the ride. Not a good start to my ambitious bike leg.  
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/RishiGoa1.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Intense look. See the aero bars
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-After the first loop, I stopped bike at an aid station and shouted for Allen Key number 4. The mechanic came running, and quickly fixed it. 
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/RishiGoa3.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Climbing the badass incline
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-{% include image.html file=&quot;/images/2019_10_20_IM703Goa/RishiGoa1.JPG&quot; description=&quot; Intense look. See the aero bars &quot;%}
+&lt;p&gt;First 30km came in 62min. Second in 65min, and third took 62min. It was overall a very consistent effort on the bike. I finished with overall average of 28.4kmph, which is not bad for the course and wasted time due to aero bar issue.&lt;/p&gt;
 
-{% include image.html file=&quot;/images/2019_10_20_IM703Goa/RishiGoa3.JPG&quot; description=&quot; Climbing the badass incline&quot;%}
+&lt;p&gt;Total Time: 3hr 9min&lt;/p&gt;
 
-First 30km came in 62min. Second in 65min, and third took 62min. It was overall a very consistent effort on the bike. I finished with overall average of 28.4kmph, which is not bad for the course and wasted time due to aero bar issue. 
+&lt;p&gt;&lt;a href=&quot;https://www.strava.com/activities/2802529249&quot;&gt;Strava Link&lt;/a&gt;
+Nutrition: Gel every hour. Precision Hydration Salt capsule every hour.&lt;/p&gt;
 
-Total Time: 3hr 9min
+&lt;h3 id=&quot;t2&quot;&gt;T2&lt;/h3&gt;
+&lt;p&gt;I was feeling good on finishing the bike ride. I quickly changed in my Vibrams and went off.&lt;/p&gt;
 
-[Strava Link](https://www.strava.com/activities/2802529249)
-Nutrition: Gel every hour. Precision Hydration Salt capsule every hour. 
+&lt;p&gt;Total Time: 5.5min&lt;/p&gt;
 
-### T2
-I was feeling good on finishing the bike ride. I quickly changed in my Vibrams and went off. 
+&lt;p&gt;Nutrition: Nothing&lt;/p&gt;
 
-Total Time: 5.5min
+&lt;h3 id=&quot;run-211km&quot;&gt;Run [21.1km]&lt;/h3&gt;
+&lt;p&gt;The sun was out in the complete glory by the time I started running. Running was a 7km loop, so had to be done 3 loops.&lt;/p&gt;
 
-Nutrition: Nothing
+&lt;p&gt;I was a bit stiff in the first 500m, but then legs opened up and I could maintain easy pace of 6:30min/km. First 7km was done in 46.5min. Starting second loop, I started to fatigue a bit. I took my first gel here and salt capsules. At the first loop end, I met another Radstrong friend and we decided to run together.&lt;/p&gt;
 
-### Run [21.1km]
-The sun was out in the complete glory by the time I started running. Running was a 7km loop, so had to be done 3 loops. 
+&lt;p&gt;Second 7km was done again in 46min. During this time, fatigue was settling. I was dosing myself with water and ice at every aid station. The volunteer crowd was really good. They were cheering us at every sight. When you are tired, then any motivation is most welcome.&lt;/p&gt;
 
-I was a bit stiff in the first 500m, but then legs opened up and I could maintain easy pace of 6:30min/km. First 7km was done in 46.5min. Starting second loop, I started to fatigue a bit. I took my first gel here and salt capsules. At the first loop end, I met another Radstrong friend and we decided to run together. 
+&lt;p&gt;Third loop, while tough, was mentally less daunting. With every passing km, it was one km close to the end.&lt;/p&gt;
 
-Second 7km was done again in 46min. During this time, fatigue was settling. I was dosing myself with water and ice at every aid station. The volunteer crowd was really good. They were cheering us at every sight. When you are tired, then any motivation is most welcome. 
+&lt;p&gt;Final loop was done in 48min, with last km done at pace of 5:30. It was done!!&lt;/p&gt;
 
-Third loop, while tough, was mentally less daunting. With every passing km, it was one km close to the end. 
+&lt;p&gt;End time: 2hr 19min&lt;/p&gt;
 
-Final loop was done in 48min, with last km done at pace of 5:30. It was done!!
+&lt;p&gt;Strava Link : https://www.strava.com/activities/2802529248&lt;/p&gt;
 
-End time: 2hr 19min
+&lt;p&gt;Nutrition: 2 gels + coke every aid station&lt;/p&gt;
 
-Strava Link : https://www.strava.com/activities/2802529248
+&lt;p&gt;Total Time: 6 hr 35min&lt;/p&gt;
 
-Nutrition: 2 gels + coke every aid station 
+&lt;h2 id=&quot;post-race&quot;&gt;Post Race&lt;/h2&gt;
+&lt;p&gt;It was a good race. Swim was a bit of disappointment, but I executed bike and run well. It was a hot day and tough route and I’m glad of overall performance.&lt;/p&gt;
 
-Total Time: 6 hr 35min
+&lt;p&gt;Later, I discovered that I got 19th position in my Age Group, missed World Championship Qualification by 5min. I’m now determined to go back next year and nail it.&lt;/p&gt;
 
-## Post Race
-It was a good race. Swim was a bit of disappointment, but I executed bike and run well. It was a hot day and tough route and I'm glad of overall performance.
+&lt;p&gt;Happy with bike and the nutrition. I had only 5 gels and lot of salt caps, and nowhere I went low on the energy.&lt;/p&gt;
 
-Later, I discovered that I got 19th position in my Age Group, missed World Championship Qualification by 5min. I'm now determined to go back next year and nail it. 
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/BCBoys1.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;BC Tri Gang
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-Happy with bike and the nutrition. I had only 5 gels and lot of salt caps, and nowhere I went low on the energy. 
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/WithParul.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Parul - The Soul Runner
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-{% include image.html file=&quot;/images/2019_10_20_IM703Goa/BCBoys1.JPG&quot; description=&quot; BC Tri Gang &quot;%}
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/WithPoonam.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Poonam - What an energy cheering us all! This lady was relentless.
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-{% include image.html file=&quot;/images/2019_10_20_IM703Goa/WithParul.JPG&quot; description=&quot; Parul - The Soul Runner &quot;%}
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/WithDeepak.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Deepak - The Man who bought IM to India
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-{% include image.html file=&quot;/images/2019_10_20_IM703Goa/WithPoonam.JPG&quot; description=&quot; Poonam - What an energy cheering us all! This lady was relentless.  &quot;%}
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_10_20_IM703Goa/FinishLine1.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Mandatory Finish Line Pic
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-{% include image.html file=&quot;/images/2019_10_20_IM703Goa/WithDeepak.JPG&quot; description=&quot; Deepak - The Man who bought IM to India &quot;%}
-
-{% include image.html file=&quot;/images/2019_10_20_IM703Goa/FinishLine1.JPG&quot; description=&quot; Mandatory Finish Line Pic &quot;%}
-
-
-
-Till next race, then!</content><author><name>Rishi Sareen</name><email>rishi[at]jigyasu[dot]com</email></author><summary type="html">Race information What? Ironman 70.3 Goa When? October 20, 2019 How far? 113km (1.9km swim, 90k cycle, 21.1k run) Website? https://www.ironman.com/im703-goa Goals Goal Description Completed? A Sub 6:15hr No B Strong Bike Yes C Get Nutrition Right YES Race Preparation Goa 70.3 was just 2 months after my Full IM in Copenhagen (Aug ‘19) . IM CPH was a disappointing race, as I was not too happy with my performance in the bike section. So for the next two months, I decided to focus primarily on nailing the bike leg. My limitation in CPH was unable to hold the aero position. So, I made some adjustments in the bike - replaced aero bars with newer, more comfortable aero bars and got more hands on experience. Soon I saw improvements with my speed averaging to 30+ average on a few rides. Coming to the race, I was feeling strong for the bike and I was confident of getting a good time on the bike. My strategy for goa was to complete the swim in ~45min, then 3:15 for the bike, 2:15 for the run. 6:30 was my goal, with 6:15 being an ambitious goal. My nutrition strategy was ~150 calories per hour and proper electrolytes. As I’m fairly fat adapted, I only needed to top up muscle glycogen to keep my blood sugar up while racing. As this was not my A race, I could afford to experiment and see body’s response. During the training too, I was doing well for 3 hour workout with just pre-workout coffee and electrolytes during the workout. Pre-Race Days This Goa 70.3 race was a special race for many reasons. This is the first ever Ironman event being hosted out of India. Triathlon is a very fast growing sport in India. 96% of the participants were Indians, and whooping 84% were FIRST TIMERS!!! There were nervous jitters all around, particularly on the swim aspects. Swimming is not a very common sport in India. P.S: I also learnt swimming AFTER I signed up for my first half ironman. Two days before the race, I went for a practice swim with Anubhav and Rohin. The water was choppy but I had a good relaxed time in the sea. This is the first time I didn’t panic in the sea. I don’t know what was the difference was, nevertheless I had a good swim. Rad Gang doing swim session It was fun to go to expo and catch up with many triathletes friends. At the expo entry Finding the name Radstrong Briefing session Rahul - Always smiling Rad Gang! Swim [1.9km] The Race Day was finally here. Getting up at 4am, I had a light breakfast - 4 Scrambled Eggs and Coffee with Butter. After reaching the race venue, I filled air in the bike, fixed water bottles, mounted Garmin Edge and laid down stuff for two transitions T1 and T2. Soon it was announced that start was delayed by 30”. I used that time to click selfies with friends - best way to distract and not think about the race. Me with my trusted bike Bhavesh - The stylish one Maitreyi - Solid Runner Anubhav - my IM Partner Rad Boys T1 - Lot of Nervous Energy Around The swim was a self-seeded start swim, with 4 athletes released to get in the water every 6 seconds. It was a 2 loop swim. The water at the start was not too deep, with 100m of walk before one could swim. I self-seeded myself in 40-45min group. About 2 min after the first athlete entered the water, I entered the water. First loop was easy. The sea was very choppy wth strong waves. I stayed close to the ropes, so less sighting to be done. Towards the end of loop, water became very shallow. Everyone had to stop and walk almost 150m. This was a huge waste of time. First loop was done in 26min. Second loop was almost identical - choppy water, with walking towards the end. Total Time: 52min Total Swim done: 2200m Strava Link Nutrition: Nothing T1 It was a 500m walk from swim exit to the T1. I quickly reached T1, wore tri top, shoes and left for road. A volunteer pointed out that I’ve forgotten to wear helmet. I had to rush back and get helmet. I was laughing at my haste :) Total Time: 7min Cycle [90km] The bike course was 3 loops of 30km each. Each loop has two steep elevations, with one being a 10% gradient. My ride started easy. But immediately, I faced a technical snag. I realized my aero bars were undone and were completely loose. This was a surprise, as just a day before I did route recee, and checked everything including aero bars. I still do not know how come they were undone. My guess was someone fiddled with them while the bike was parked overnight. Anyways, I had no time or thoughts to waste on that matter and gathered my mind to focus in rectifying the bars and moving on with the race. I did first loop while hanging on the drop bar. My bottle fell off during the ride. Not a good start to my ambitious bike leg. After the first loop, I stopped bike at an aid station and shouted for Allen Key number 4. The mechanic came running, and quickly fixed it. Intense look. See the aero bars Climbing the badass incline First 30km came in 62min. Second in 65min, and third took 62min. It was overall a very consistent effort on the bike. I finished with overall average of 28.4kmph, which is not bad for the course and wasted time due to aero bar issue. Total Time: 3hr 9min Strava Link Nutrition: Gel every hour. Precision Hydration Salt capsule every hour. T2 I was feeling good on finishing the bike ride. I quickly changed in my Vibrams and went off. Total Time: 5.5min Nutrition: Nothing Run [21.1km] The sun was out in the complete glory by the time I started running. Running was a 7km loop, so had to be done 3 loops. I was a bit stiff in the first 500m, but then legs opened up and I could maintain easy pace of 6:30min/km. First 7km was done in 46.5min. Starting second loop, I started to fatigue a bit. I took my first gel here and salt capsules. At the first loop end, I met another Radstrong friend and we decided to run together. Second 7km was done again in 46min. During this time, fatigue was settling. I was dosing myself with water and ice at every aid station. The volunteer crowd was really good. They were cheering us at every sight. When you are tired, then any motivation is most welcome. Third loop, while tough, was mentally less daunting. With every passing km, it was one km close to the end. Final loop was done in 48min, with last km done at pace of 5:30. It was done!! End time: 2hr 19min Strava Link : https://www.strava.com/activities/2802529248 Nutrition: 2 gels + coke every aid station Total Time: 6 hr 35min Post Race It was a good race. Swim was a bit of disappointment, but I executed bike and run well. It was a hot day and tough route and I’m glad of overall performance. Later, I discovered that I got 19th position in my Age Group, missed World Championship Qualification by 5min. I’m now determined to go back next year and nail it. Happy with bike and the nutrition. I had only 5 gels and lot of salt caps, and nowhere I went low on the energy. BC Tri Gang Parul - The Soul Runner Poonam - What an energy cheering us all! This lady was relentless. Deepak - The Man who bought IM to India Mandatory Finish Line Pic Till next race, then!</summary></entry><entry><title type="html">Ironman Copenhagen (Aug 19)- Race Report</title><link href="http://localhost:4000/ironman/race%20reports/ironman-copenhagen-aug-19-race-report.html" rel="alternate" type="text/html" title="Ironman Copenhagen (Aug 19)- Race Report" /><published>2019-08-28T19:48:02+05:30</published><updated>2019-08-28T19:48:02+05:30</updated><id>http://localhost:4000/ironman/race%20reports/ironman-copenhagen-aug-19-race-report</id><content type="html" xml:base="http://localhost:4000/ironman/race%20reports/ironman-copenhagen-aug-19-race-report.html">### Race information
-* **What?** Ironman Copenhagen
-* **When?** August 18, 2019
-* **How far?** 226km (3.8km swim, 180k cycle, 42.2k run)
-* **Website?** https://www.ironman.com/triathlon/events/emea/ironman/copenhagen/
+&lt;p&gt;Till next race, then!&lt;/p&gt;</content><author><name>Rishi Sareen</name><email>rishi[at]jigyasu[dot]com</email></author><summary type="html">Race information What? Ironman 70.3 Goa When? October 20, 2019 How far? 113km (1.9km swim, 90k cycle, 21.1k run) Website? https://www.ironman.com/im703-goa Goals Goal Description Completed? A Sub 6:15hr No B Strong Bike Yes C Get Nutrition Right YES Race Preparation Goa 70.3 was just 2 months after my Full IM in Copenhagen (Aug ‘19) . IM CPH was a disappointing race, as I was not too happy with my performance in the bike section. So for the next two months, I decided to focus primarily on nailing the bike leg. My limitation in CPH was unable to hold the aero position. So, I made some adjustments in the bike - replaced aero bars with newer, more comfortable aero bars and got more hands on experience. Soon I saw improvements with my speed averaging to 30+ average on a few rides. Coming to the race, I was feeling strong for the bike and I was confident of getting a good time on the bike. My strategy for goa was to complete the swim in ~45min, then 3:15 for the bike, 2:15 for the run. 6:30 was my goal, with 6:15 being an ambitious goal. My nutrition strategy was ~150 calories per hour and proper electrolytes. As I’m fairly fat adapted, I only needed to top up muscle glycogen to keep my blood sugar up while racing. As this was not my A race, I could afford to experiment and see body’s response. During the training too, I was doing well for 3 hour workout with just pre-workout coffee and electrolytes during the workout. Pre-Race Days This Goa 70.3 race was a special race for many reasons. This is the first ever Ironman event being hosted out of India. Triathlon is a very fast growing sport in India. 96% of the participants were Indians, and whooping 84% were FIRST TIMERS!!! There were nervous jitters all around, particularly on the swim aspects. Swimming is not a very common sport in India. P.S: I also learnt swimming AFTER I signed up for my first half ironman. Two days before the race, I went for a practice swim with Anubhav and Rohin. The water was choppy but I had a good relaxed time in the sea. This is the first time I didn’t panic in the sea. I don’t know what was the difference was, nevertheless I had a good swim. Rad Gang doing swim session It was fun to go to expo and catch up with many triathletes friends. At the expo entry Finding the name Radstrong Briefing session Rahul - Always smiling Rad Gang! Swim [1.9km] The Race Day was finally here. Getting up at 4am, I had a light breakfast - 4 Scrambled Eggs and Coffee with Butter. After reaching the race venue, I filled air in the bike, fixed water bottles, mounted Garmin Edge and laid down stuff for two transitions T1 and T2. Soon it was announced that start was delayed by 30”. I used that time to click selfies with friends - best way to distract and not think about the race. Me with my trusted bike Bhavesh - The stylish one Maitreyi - Solid Runner Anubhav - my IM Partner Rad Boys T1 - Lot of Nervous Energy Around The swim was a self-seeded start swim, with 4 athletes released to get in the water every 6 seconds. It was a 2 loop swim. The water at the start was not too deep, with 100m of walk before one could swim. I self-seeded myself in 40-45min group. About 2 min after the first athlete entered the water, I entered the water. First loop was easy. The sea was very choppy wth strong waves. I stayed close to the ropes, so less sighting to be done. Towards the end of loop, water became very shallow. Everyone had to stop and walk almost 150m. This was a huge waste of time. First loop was done in 26min. Second loop was almost identical - choppy water, with walking towards the end. Total Time: 52min Total Swim done: 2200m Strava Link Nutrition: Nothing T1 It was a 500m walk from swim exit to the T1. I quickly reached T1, wore tri top, shoes and left for road. A volunteer pointed out that I’ve forgotten to wear helmet. I had to rush back and get helmet. I was laughing at my haste :) Total Time: 7min Cycle [90km] The bike course was 3 loops of 30km each. Each loop has two steep elevations, with one being a 10% gradient. My ride started easy. But immediately, I faced a technical snag. I realized my aero bars were undone and were completely loose. This was a surprise, as just a day before I did route recee, and checked everything including aero bars. I still do not know how come they were undone. My guess was someone fiddled with them while the bike was parked overnight. Anyways, I had no time or thoughts to waste on that matter and gathered my mind to focus in rectifying the bars and moving on with the race. I did first loop while hanging on the drop bar. My bottle fell off during the ride. Not a good start to my ambitious bike leg. After the first loop, I stopped bike at an aid station and shouted for Allen Key number 4. The mechanic came running, and quickly fixed it. Intense look. See the aero bars Climbing the badass incline First 30km came in 62min. Second in 65min, and third took 62min. It was overall a very consistent effort on the bike. I finished with overall average of 28.4kmph, which is not bad for the course and wasted time due to aero bar issue. Total Time: 3hr 9min Strava Link Nutrition: Gel every hour. Precision Hydration Salt capsule every hour. T2 I was feeling good on finishing the bike ride. I quickly changed in my Vibrams and went off. Total Time: 5.5min Nutrition: Nothing Run [21.1km] The sun was out in the complete glory by the time I started running. Running was a 7km loop, so had to be done 3 loops. I was a bit stiff in the first 500m, but then legs opened up and I could maintain easy pace of 6:30min/km. First 7km was done in 46.5min. Starting second loop, I started to fatigue a bit. I took my first gel here and salt capsules. At the first loop end, I met another Radstrong friend and we decided to run together. Second 7km was done again in 46min. During this time, fatigue was settling. I was dosing myself with water and ice at every aid station. The volunteer crowd was really good. They were cheering us at every sight. When you are tired, then any motivation is most welcome. Third loop, while tough, was mentally less daunting. With every passing km, it was one km close to the end. Final loop was done in 48min, with last km done at pace of 5:30. It was done!! End time: 2hr 19min Strava Link : https://www.strava.com/activities/2802529248 Nutrition: 2 gels + coke every aid station Total Time: 6 hr 35min Post Race It was a good race. Swim was a bit of disappointment, but I executed bike and run well. It was a hot day and tough route and I’m glad of overall performance. Later, I discovered that I got 19th position in my Age Group, missed World Championship Qualification by 5min. I’m now determined to go back next year and nail it. Happy with bike and the nutrition. I had only 5 gels and lot of salt caps, and nowhere I went low on the energy. BC Tri Gang Parul - The Soul Runner Poonam - What an energy cheering us all! This lady was relentless. Deepak - The Man who bought IM to India Mandatory Finish Line Pic Till next race, then!</summary></entry><entry><title type="html">Ironman Copenhagen (Aug 19)- Race Report</title><link href="http://localhost:4000/ironman/race%20reports/ironman-copenhagen-aug-19-race-report.html" rel="alternate" type="text/html" title="Ironman Copenhagen (Aug 19)- Race Report" /><published>2019-08-28T19:48:02+05:30</published><updated>2019-08-28T19:48:02+05:30</updated><id>http://localhost:4000/ironman/race%20reports/ironman-copenhagen-aug-19-race-report</id><content type="html" xml:base="http://localhost:4000/ironman/race%20reports/ironman-copenhagen-aug-19-race-report.html">&lt;h3 id=&quot;race-information&quot;&gt;Race information&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;What?&lt;/strong&gt; Ironman Copenhagen&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;When?&lt;/strong&gt; August 18, 2019&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;How far?&lt;/strong&gt; 226km (3.8km swim, 180k cycle, 42.2k run)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Website?&lt;/strong&gt; https://www.ironman.com/triathlon/events/emea/ironman/copenhagen/&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;!--more--&gt;
-### Goals
+&lt;h3 id=&quot;goals&quot;&gt;Goals&lt;/h3&gt;
 
-| Goal | Description | Completed? |
-|------|:-----------:|-----------:|
-| A |Finish | *Yes* |
-| B |Sub 14hr | *No* |
-| C |Get Nutrition Right | *Partial* |  
-  
-   
-### Race Strategy
-This was my second Full Ironman after last year [Philippines Ironman](http://jigyasu.com/ironman/ironman-philippines-june-18-race-report.html)
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Goal&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Description&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Completed?&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;A&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Finish&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;em&gt;Yes&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;B&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Sub 14hr&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;em&gt;No&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;C&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Get Nutrition Right&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;em&gt;Partial&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-I had done good practice for this, particularly the bike and run part. Swim is a challenge in Delhi, particularly the pool access. Most of the pool closes from October to March.  
-Copenhagen was going to be cold swim (17-18degree) and it would be my first time wetsuit swim.  
-My strategy was to complete the swim in ~90min, then follow Heart Rate for Bike (MAF Zone) and Run (MAF+20 Zone)
+&lt;h3 id=&quot;race-strategy&quot;&gt;Race Strategy&lt;/h3&gt;
+&lt;p&gt;This was my second Full Ironman after last year &lt;a href=&quot;http://jigyasu.com/ironman/ironman-philippines-june-18-race-report.html&quot;&gt;Philippines Ironman&lt;/a&gt;&lt;/p&gt;
 
-### Pre-Race Swim
-Two days before the race, I went for a practice swim. This was my first open water swim in a wetsuit, and 4th open water swim overall.
+&lt;p&gt;I had done good practice for this, particularly the bike and run part. Swim is a challenge in Delhi, particularly the pool access. Most of the pool closes from October to March.&lt;br /&gt;
+Copenhagen was going to be cold swim (17-18degree) and it would be my first time wetsuit swim.&lt;br /&gt;
+My strategy was to complete the swim in ~90min, then follow Heart Rate for Bike (MAF Zone) and Run (MAF+20 Zone)&lt;/p&gt;
 
-The water was cold and murky. After few minutes of feeling the water, I started to swim. But I've not gone even 20m when I started to hyperventilate. I quickly turned back towards the short.
+&lt;h3 id=&quot;pre-race-swim&quot;&gt;Pre-Race Swim&lt;/h3&gt;
+&lt;p&gt;Two days before the race, I went for a practice swim. This was my first open water swim in a wetsuit, and 4th open water swim overall.&lt;/p&gt;
+
+&lt;p&gt;The water was cold and murky. After few minutes of feeling the water, I started to swim. But I’ve not gone even 20m when I started to hyperventilate. I quickly turned back towards the short.
 I felt the tight wetsuit was closing in on my chest. I decided to remove the underneath tri-top. This helped, and breathing was less labored.
-But now I was in no mental space to try deep water swim again. I did some shallow water strokes and called it a day.
+But now I was in no mental space to try deep water swim again. I did some shallow water strokes and called it a day.&lt;/p&gt;
 
-Panic in Open Water Swim is something I've always struggled with. But experience is a wonderful thing, by past experience, I knew race day would be better.
+&lt;p&gt;Panic in Open Water Swim is something I’ve always struggled with. But experience is a wonderful thing, by past experience, I knew race day would be better.&lt;/p&gt;
 
+&lt;h3 id=&quot;swim-38km&quot;&gt;Swim [3.8km]&lt;/h3&gt;
 
-### Swim [3.8km]
+&lt;p&gt;The Race Day was finally here.&lt;br /&gt;
+Getting up at 4am, I had a light breakfast - 4 Scrambled Eggs made in Ghee + 1 Glass of Milk.&lt;/p&gt;
 
-The Race Day was finally here.  
-Getting up at 4am, I had a light breakfast - 4 Scrambled Eggs made in Ghee + 1 Glass of Milk.  
+&lt;p&gt;I took Metro to the venue. The metro was packed with athletes. For a packed metro, it was very quiet. Everyone was in their zone, preparing for the big day.&lt;/p&gt;
 
-I took Metro to the venue. The metro was packed with athletes. For a packed metro, it was very quiet. Everyone was in their zone, preparing for the big day.
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-1-PreRace-1.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Pre-Race - All walking quietly
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-{% include image.html file=&quot;/images/2019_08_18_IMCPH/Race/20190818-1-PreRace-1.JPG&quot; description=&quot; Pre-Race - All walking quietly &quot;%}
-{% include image.html file=&quot;/images/2019_08_18_IMCPH/Race/20190818-2-PreRace-2.JPG&quot; description=&quot; Pre-Race - The beach &quot;%}
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-2-PreRace-2.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Pre-Race - The beach
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-On reaching the start point, I filled air in the bike, fixed water bottles, mounted Garmin Edge and finally wore the wetsuit. Post this, I went for a short run to heat up the body. Once all this is done, I went for a swim warmup. By now, I was in very calm state. I went in sea, did bubbling for a minute, then did few good strokes. Good to go!
-{% include image.html file=&quot;/images/2019_08_18_IMCPH/Race/20190818-5-PreRace.JPG&quot; description=&quot; Radstrong Gang &quot;%}
-{% include image.html file=&quot;/images/2019_08_18_IMCPH/Race/20190818-4-PreRace-WithBlossom.JPG&quot; description=&quot; With Blossom  &quot;%}
+&lt;p&gt;On reaching the start point, I filled air in the bike, fixed water bottles, mounted Garmin Edge and finally wore the wetsuit. Post this, I went for a short run to heat up the body. Once all this is done, I went for a swim warmup. By now, I was in very calm state. I went in sea, did bubbling for a minute, then did few good strokes. Good to go!
+&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-5-PreRace.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Radstrong Gang
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-The swim was a rolling start swim, with a release of a group of 4 athletes for every 6 seconds.  
-{% include image.html file=&quot;/images/2019_08_18_IMCPH/Race/20190818-3-PreRace-SwimStaggered.JPG&quot; description=&quot; Rolling Start - 6 people enter water together &quot;%}
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-4-PreRace-WithBlossom.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;With Blossom
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-Pro Females started at 7am.
-For Age Groupers, we were divided in 5 Zones, based on our predicted swim timers. I had taken Green cap this time which indicated 1:18-1:22 swim time.  
-{% include image.html file=&quot;/images/2019_08_18_IMCPH/Race/20190818-6-SwimLineup.JPG&quot; description=&quot; Swim Line Up &quot;%}
+&lt;p&gt;The swim was a rolling start swim, with a release of a group of 4 athletes for every 6 seconds.&lt;br /&gt;
+&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-3-PreRace-SwimStaggered.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Rolling Start - 6 people enter water together
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-Soon people with Green caps started to line up. I didn't want to wait anxiously for my turn to come, hence went right ahead to start of the line.  
-Entering the water, it was nice cold. Nothing shocking or unbearable - body was nicely warmed up by now.  
-I started with slow breathing and gradual strokes. Soon I found my Rythm, and time flew quickly.  
-Crossing two bridges, I reached first turnaround at 1600m. Here water was very shallow and weeds were all around. - getting in legs, face, arms. It was a bit of mind scare. But no option but to continue.  
+&lt;p&gt;Pro Females started at 7am.
+For Age Groupers, we were divided in 5 Zones, based on our predicted swim timers. I had taken Green cap this time which indicated 1:18-1:22 swim time.&lt;br /&gt;
+&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-6-SwimLineup.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Swim Line Up
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-I quickly  reached close to end line and came out of the water. I didn't stop at all during the swim, and it was a comfortable swim.  
-{% include image.html file=&quot;/images/2019_08_18_IMCPH/Race/20190818-6-SwimExit.JPG&quot; description=&quot;Swim Exit &quot;%}
-{% include image.html file=&quot;/images/2019_08_18_IMCPH/Race/20190818-7-SwimExit.JPG&quot; description=&quot;Working on getting wetsuit off &quot;%}
+&lt;p&gt;Soon people with Green caps started to line up. I didn’t want to wait anxiously for my turn to come, hence went right ahead to start of the line.&lt;br /&gt;
+Entering the water, it was nice cold. Nothing shocking or unbearable - body was nicely warmed up by now.&lt;br /&gt;
+I started with slow breathing and gradual strokes. Soon I found my Rythm, and time flew quickly.&lt;br /&gt;
+Crossing two bridges, I reached first turnaround at 1600m. Here water was very shallow and weeds were all around. - getting in legs, face, arms. It was a bit of mind scare. But no option but to continue.&lt;/p&gt;
 
+&lt;p&gt;I quickly  reached close to end line and came out of the water. I didn’t stop at all during the swim, and it was a comfortable swim.&lt;br /&gt;
+&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-6-SwimExit.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Swim Exit
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-Total Time: 1hr 30min  
-Total Swim done: 3950m  
-[Strava Link](https://www.strava.com/activities/2632087446)  
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-7-SwimExit.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Working on getting wetsuit off
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-Nutrition: 1 gel 15&quot; before the start.  
+&lt;p&gt;Total Time: 1hr 30min&lt;br /&gt;
+Total Swim done: 3950m&lt;br /&gt;
+&lt;a href=&quot;https://www.strava.com/activities/2632087446&quot;&gt;Strava Link&lt;/a&gt;&lt;/p&gt;
 
-### T1
-Stripping off wetsuit took some time as there were no wetsuit strippers and I was very new. The transition was bit longer compared to my plan.
+&lt;p&gt;Nutrition: 1 gel 15” before the start.&lt;/p&gt;
 
-Total Time: 15min
+&lt;h3 id=&quot;t1&quot;&gt;T1&lt;/h3&gt;
+&lt;p&gt;Stripping off wetsuit took some time as there were no wetsuit strippers and I was very new. The transition was bit longer compared to my plan.&lt;/p&gt;
 
+&lt;p&gt;Total Time: 15min&lt;/p&gt;
 
-### Cycle [180km]
-Whosoever has said Copenhagen bike course is flat must be from Europe. It is surely not flat from Asian standards :)
+&lt;h3 id=&quot;cycle-180km&quot;&gt;Cycle [180km]&lt;/h3&gt;
+&lt;p&gt;Whosoever has said Copenhagen bike course is flat must be from Europe. It is surely not flat from Asian standards :)&lt;/p&gt;
 
-The course starts easy, first 15km are flat and we move from the city to the sea shore. The route here was mesmerizing - swimming with sea on the right.  
-After 45km, we take turn and enter the village side. From here it was mostly rolling hills, with no real stretch for continuous ride.  
+&lt;p&gt;The course starts easy, first 15km are flat and we move from the city to the sea shore. The route here was mesmerizing - swimming with sea on the right.&lt;br /&gt;
+After 45km, we take turn and enter the village side. From here it was mostly rolling hills, with no real stretch for continuous ride.&lt;/p&gt;
 
-{% include image.html file=&quot;/images/2019_08_18_IMCPH/Race/20190818-8-Bike.JPG&quot; description=&quot; Bike Start &quot;%}
-{% include image.html file=&quot;/images/2019_08_18_IMCPH/Race/20190818-9-Bike-2.JPG&quot; description=&quot; Lovely scenic villages &quot;%}
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-8-Bike.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Bike Start
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-At 85km mark, 3rd aid station came and I took first washroom break. By then I was getting exhausted with the climbs and it had started to rain also from an hour back. The rain was to continue for remaining bike and some part of the run too.  
-Starting Loop 2, energy was dipping. I managed to hang on, and kept doing the mental calculation of the end time. I desperately tried to finish this under 7 hours, but finally finished it little over 7 hours.  
-{% include image.html file=&quot;/images/2019_08_18_IMCPH/Race/20190818-10-Bike-3.JPG&quot; description=&quot; My patent pose &quot;%}  
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-9-Bike-2.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Lovely scenic villages
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-Total Time: 7hr 08min  
+&lt;p&gt;At 85km mark, 3rd aid station came and I took first washroom break. By then I was getting exhausted with the climbs and it had started to rain also from an hour back. The rain was to continue for remaining bike and some part of the run too.&lt;br /&gt;
+Starting Loop 2, energy was dipping. I managed to hang on, and kept doing the mental calculation of the end time. I desperately tried to finish this under 7 hours, but finally finished it little over 7 hours.&lt;br /&gt;
+&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-10-Bike-3.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;My patent pose
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-[Strava Link](https://www.strava.com/activities/2632088221)    
-Nutrition: Gel every 45min. Banana + Bars via the Aid station. I don't think I managed to get properly 100gm carbs per hour. I also lost my salt capsules somewhere during the bike. Paid price for this in the run.  
+&lt;p&gt;Total Time: 7hr 08min&lt;/p&gt;
 
-### T2
-I was so glad to hand over the bike and go in a standing position. I quickly went towards the run bag. I took out Vibrams and rinsed my mouth with mouthwash. Mouthwash helps to reset the taste of mouth.  
+&lt;p&gt;&lt;a href=&quot;https://www.strava.com/activities/2632088221&quot;&gt;Strava Link&lt;/a&gt;  &lt;br /&gt;
+Nutrition: Gel every 45min. Banana + Bars via the Aid station. I don’t think I managed to get properly 100gm carbs per hour. I also lost my salt capsules somewhere during the bike. Paid price for this in the run.&lt;/p&gt;
 
-Total Time: 8min
+&lt;h3 id=&quot;t2&quot;&gt;T2&lt;/h3&gt;
+&lt;p&gt;I was so glad to hand over the bike and go in a standing position. I quickly went towards the run bag. I took out Vibrams and rinsed my mouth with mouthwash. Mouthwash helps to reset the taste of mouth.&lt;/p&gt;
 
-Nutrition: 2 Salt Crackers
+&lt;p&gt;Total Time: 8min&lt;/p&gt;
 
-### Run [42.2km]
-Running is something I had really worked on from last Ironman. I have gone from 2:36 Half Ironman to 1:53 Half Ironman. So, now I was not scared of finishing the run.
+&lt;p&gt;Nutrition: 2 Salt Crackers&lt;/p&gt;
 
-Run was 4 loops, with each loop of 10.5km. The run route is a torture, not so much from the terrains and cobblestones, but from the fact that it’s four laps. In each lap, you've option to go either to finish line or continue. The finish line was just 50m away and you could hear the noise from Announcers on the mic. You do this four times! Yep four times being forced to stare down the finish chute, but until you have those four rainbow wrist bands, you can not pass go and proceed to the finish.
+&lt;h3 id=&quot;run-422km&quot;&gt;Run [42.2km]&lt;/h3&gt;
+&lt;p&gt;Running is something I had really worked on from last Ironman. I have gone from 2:36 Half Ironman to 1:53 Half Ironman. So, now I was not scared of finishing the run.&lt;/p&gt;
 
-I started run comfortable at 6:30pace, keeping an eye on HR which was steady 141bpm.
+&lt;p&gt;Run was 4 loops, with each loop of 10.5km. The run route is a torture, not so much from the terrains and cobblestones, but from the fact that it’s four laps. In each lap, you’ve option to go either to finish line or continue. The finish line was just 50m away and you could hear the noise from Announcers on the mic. You do this four times! Yep four times being forced to stare down the finish chute, but until you have those four rainbow wrist bands, you can not pass go and proceed to the finish.&lt;/p&gt;
 
-I started coke at 12km distance, and from there I held on to it.  
-Till 23km, I didn't stop and managed to keep a pace of 6:30.  
+&lt;p&gt;I started run comfortable at 6:30pace, keeping an eye on HR which was steady 141bpm.&lt;/p&gt;
 
-After 23km, I did my first walk to aid station, and boy what a bad decision it was. Till then, I was just running, ignoring my mind. But as soon as I stopped, my mind went in overdrive - &quot;how nice does it feel&quot; and &quot;how tired we are&quot;. My legs have taken bad beating due to cobblestones path in the route. It is tough on ankle, even more when you are running close to barefoot.  
+&lt;p&gt;I started coke at 12km distance, and from there I held on to it.&lt;br /&gt;
+Till 23km, I didn’t stop and managed to keep a pace of 6:30.&lt;/p&gt;
 
-{% include image.html file=&quot;/images/2019_08_18_IMCPH/Race/20190818-11-Run-1.JPG&quot; description=&quot; Lovey crowd support throughout the Run &quot;%}  
+&lt;p&gt;After 23km, I did my first walk to aid station, and boy what a bad decision it was. Till then, I was just running, ignoring my mind. But as soon as I stopped, my mind went in overdrive - “how nice does it feel” and “how tired we are”. My legs have taken bad beating due to cobblestones path in the route. It is tough on ankle, even more when you are running close to barefoot.&lt;/p&gt;
 
-Last 10km were a struggle. I'm still not sure if I bonked, or I was mental fatigued. But I had no energy in leg to push forward. First 21km came in 2:15, Next 21km came in close to 3hours.  
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-11-Run-1.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Lovey crowd support throughout the Run
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-Close to the finish line, I sprinted. Blossom was there at the end line, who very kindly handed over Indian flag to me. I finished smiling, with flag on my shoulder.  
+&lt;p&gt;Last 10km were a struggle. I’m still not sure if I bonked, or I was mental fatigued. But I had no energy in leg to push forward. First 21km came in 2:15, Next 21km came in close to 3hours.&lt;/p&gt;
 
-&quot;From India, Rishi Sareen, you are an Ironman&quot;. It was so good to hear these words again.  
-{% include image.html file=&quot;/images/2019_08_18_IMCPH/Race/20190818-12-FinishLine-1.JPG&quot; description=&quot; The finish line &quot;%}
-{% include image.html file=&quot;/images/2019_08_18_IMCPH/Race/20190818-12-FinishLine-2.JPG&quot; description=&quot; Still smiling &quot;%}
-{% include image.html file=&quot;/images/2019_08_18_IMCPH/Race/20190818-12-FinishLine-3.JPG&quot; description=&quot; Proud to be carrying indian flag &quot;%}
+&lt;p&gt;Close to the finish line, I sprinted. Blossom was there at the end line, who very kindly handed over Indian flag to me. I finished smiling, with flag on my shoulder.&lt;/p&gt;
 
-End time: 5:18hr
+&lt;p&gt;“From India, Rishi Sareen, you are an Ironman”. It was so good to hear these words again.&lt;br /&gt;
+&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-12-FinishLine-1.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;The finish line
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-Strava Link : https://www.strava.com/activities/2632087560
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-12-FinishLine-2.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Still smiling
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-Nutrition: 3 gels + coke every aid station after 10km + Salt crackers. After 30km, it was very difficult to eat anything. That could have caused the bonking.  
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-12-FinishLine-3.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Proud to be carrying indian flag
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-Total Time: 14:22hr
+&lt;p&gt;End time: 5:18hr&lt;/p&gt;
 
-## Post Race
-I felt very disappointed with the race. Unhappy - no. But disappointed. I had trained hard for this race, and was hoping for a sub 13. But Bike leg took a lot out of me.
-I'm ofcourse grateful to have the chance to race this, and in the amazing city of Copenhagen. But I could have done better. Lot of lesson learnt - particularly the importance of staying aero on the bike and no backup plan for losing salt capsules.
+&lt;p&gt;Strava Link : https://www.strava.com/activities/2632087560&lt;/p&gt;
 
-{% include image.html file=&quot;/images/2019_08_18_IMCPH/Race/20190818-12-PostRace.JPG&quot; description=&quot; The Hard Earned Medal &quot;%}
-{% include image.html file=&quot;/images/2019_08_18_IMCPH/Race/20190818-12-Postace2.JPG&quot; description=&quot; With some fellow Ironman &quot;%}
+&lt;p&gt;Nutrition: 3 gels + coke every aid station after 10km + Salt crackers. After 30km, it was very difficult to eat anything. That could have caused the bonking.&lt;/p&gt;
 
-Till next race, then!</content><author><name>Rishi Sareen</name><email>rishi[at]jigyasu[dot]com</email></author><summary type="html">Race information What? Ironman Copenhagen When? August 18, 2019 How far? 226km (3.8km swim, 180k cycle, 42.2k run) Website? https://www.ironman.com/triathlon/events/emea/ironman/copenhagen/ Goals Goal Description Completed? A Finish Yes B Sub 14hr No C Get Nutrition Right Partial Race Strategy This was my second Full Ironman after last year Philippines Ironman I had done good practice for this, particularly the bike and run part. Swim is a challenge in Delhi, particularly the pool access. Most of the pool closes from October to March. Copenhagen was going to be cold swim (17-18degree) and it would be my first time wetsuit swim. My strategy was to complete the swim in ~90min, then follow Heart Rate for Bike (MAF Zone) and Run (MAF+20 Zone) Pre-Race Swim Two days before the race, I went for a practice swim. This was my first open water swim in a wetsuit, and 4th open water swim overall. The water was cold and murky. After few minutes of feeling the water, I started to swim. But I’ve not gone even 20m when I started to hyperventilate. I quickly turned back towards the short. I felt the tight wetsuit was closing in on my chest. I decided to remove the underneath tri-top. This helped, and breathing was less labored. But now I was in no mental space to try deep water swim again. I did some shallow water strokes and called it a day. Panic in Open Water Swim is something I’ve always struggled with. But experience is a wonderful thing, by past experience, I knew race day would be better. Swim [3.8km] The Race Day was finally here. Getting up at 4am, I had a light breakfast - 4 Scrambled Eggs made in Ghee + 1 Glass of Milk. I took Metro to the venue. The metro was packed with athletes. For a packed metro, it was very quiet. Everyone was in their zone, preparing for the big day. Pre-Race - All walking quietly Pre-Race - The beach On reaching the start point, I filled air in the bike, fixed water bottles, mounted Garmin Edge and finally wore the wetsuit. Post this, I went for a short run to heat up the body. Once all this is done, I went for a swim warmup. By now, I was in very calm state. I went in sea, did bubbling for a minute, then did few good strokes. Good to go! Radstrong Gang With Blossom The swim was a rolling start swim, with a release of a group of 4 athletes for every 6 seconds. Rolling Start - 6 people enter water together Pro Females started at 7am. For Age Groupers, we were divided in 5 Zones, based on our predicted swim timers. I had taken Green cap this time which indicated 1:18-1:22 swim time. Swim Line Up Soon people with Green caps started to line up. I didn’t want to wait anxiously for my turn to come, hence went right ahead to start of the line. Entering the water, it was nice cold. Nothing shocking or unbearable - body was nicely warmed up by now. I started with slow breathing and gradual strokes. Soon I found my Rythm, and time flew quickly. Crossing two bridges, I reached first turnaround at 1600m. Here water was very shallow and weeds were all around. - getting in legs, face, arms. It was a bit of mind scare. But no option but to continue. I quickly reached close to end line and came out of the water. I didn’t stop at all during the swim, and it was a comfortable swim. Swim Exit Working on getting wetsuit off Total Time: 1hr 30min Total Swim done: 3950m Strava Link Nutrition: 1 gel 15” before the start. T1 Stripping off wetsuit took some time as there were no wetsuit strippers and I was very new. The transition was bit longer compared to my plan. Total Time: 15min Cycle [180km] Whosoever has said Copenhagen bike course is flat must be from Europe. It is surely not flat from Asian standards :) The course starts easy, first 15km are flat and we move from the city to the sea shore. The route here was mesmerizing - swimming with sea on the right. After 45km, we take turn and enter the village side. From here it was mostly rolling hills, with no real stretch for continuous ride. Bike Start Lovely scenic villages At 85km mark, 3rd aid station came and I took first washroom break. By then I was getting exhausted with the climbs and it had started to rain also from an hour back. The rain was to continue for remaining bike and some part of the run too. Starting Loop 2, energy was dipping. I managed to hang on, and kept doing the mental calculation of the end time. I desperately tried to finish this under 7 hours, but finally finished it little over 7 hours. My patent pose Total Time: 7hr 08min Strava Link Nutrition: Gel every 45min. Banana + Bars via the Aid station. I don’t think I managed to get properly 100gm carbs per hour. I also lost my salt capsules somewhere during the bike. Paid price for this in the run. T2 I was so glad to hand over the bike and go in a standing position. I quickly went towards the run bag. I took out Vibrams and rinsed my mouth with mouthwash. Mouthwash helps to reset the taste of mouth. Total Time: 8min Nutrition: 2 Salt Crackers Run [42.2km] Running is something I had really worked on from last Ironman. I have gone from 2:36 Half Ironman to 1:53 Half Ironman. So, now I was not scared of finishing the run. Run was 4 loops, with each loop of 10.5km. The run route is a torture, not so much from the terrains and cobblestones, but from the fact that it’s four laps. In each lap, you’ve option to go either to finish line or continue. The finish line was just 50m away and you could hear the noise from Announcers on the mic. You do this four times! Yep four times being forced to stare down the finish chute, but until you have those four rainbow wrist bands, you can not pass go and proceed to the finish. I started run comfortable at 6:30pace, keeping an eye on HR which was steady 141bpm. I started coke at 12km distance, and from there I held on to it. Till 23km, I didn’t stop and managed to keep a pace of 6:30. After 23km, I did my first walk to aid station, and boy what a bad decision it was. Till then, I was just running, ignoring my mind. But as soon as I stopped, my mind went in overdrive - “how nice does it feel” and “how tired we are”. My legs have taken bad beating due to cobblestones path in the route. It is tough on ankle, even more when you are running close to barefoot. Lovey crowd support throughout the Run Last 10km were a struggle. I’m still not sure if I bonked, or I was mental fatigued. But I had no energy in leg to push forward. First 21km came in 2:15, Next 21km came in close to 3hours. Close to the finish line, I sprinted. Blossom was there at the end line, who very kindly handed over Indian flag to me. I finished smiling, with flag on my shoulder. “From India, Rishi Sareen, you are an Ironman”. It was so good to hear these words again. The finish line Still smiling Proud to be carrying indian flag End time: 5:18hr Strava Link : https://www.strava.com/activities/2632087560 Nutrition: 3 gels + coke every aid station after 10km + Salt crackers. After 30km, it was very difficult to eat anything. That could have caused the bonking. Total Time: 14:22hr Post Race I felt very disappointed with the race. Unhappy - no. But disappointed. I had trained hard for this race, and was hoping for a sub 13. But Bike leg took a lot out of me. I’m ofcourse grateful to have the chance to race this, and in the amazing city of Copenhagen. But I could have done better. Lot of lesson learnt - particularly the importance of staying aero on the bike and no backup plan for losing salt capsules. The Hard Earned Medal With some fellow Ironman Till next race, then!</summary></entry><entry><title type="html">Recipe - Grilled Fish</title><link href="http://localhost:4000/recipes/recipe-grilled-fish.html" rel="alternate" type="text/html" title="Recipe - Grilled Fish" /><published>2019-04-28T06:02:18+05:30</published><updated>2019-04-28T06:02:18+05:30</updated><id>http://localhost:4000/recipes/recipe-grilled-fish</id><content type="html" xml:base="http://localhost:4000/recipes/recipe-grilled-fish.html">&lt;!--more--&gt;
-Fish is an excellant food - full of Protein, Omega 3 and essential vitamins and minerals. I love to grill fish - it is healthiest form of consuming fish
+&lt;p&gt;Total Time: 14:22hr&lt;/p&gt;
 
-## Ingredients: ######
+&lt;h2 id=&quot;post-race&quot;&gt;Post Race&lt;/h2&gt;
+&lt;p&gt;I felt very disappointed with the race. Unhappy - no. But disappointed. I had trained hard for this race, and was hoping for a sub 13. But Bike leg took a lot out of me.
+I’m ofcourse grateful to have the chance to race this, and in the amazing city of Copenhagen. But I could have done better. Lot of lesson learnt - particularly the importance of staying aero on the bike and no backup plan for losing salt capsules.&lt;/p&gt;
 
-* Basa Fish Fillets - 1kg (I prefer Basa as it is boneless and easily available)
-* Ghee - 2 spoons
-* Black Salt - 1/4 tbsp
-* Pepper - 1/4 tbsp
-* Lemon - 1
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-12-PostRace.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;The Hard Earned Medal
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-* serving size: 2-3 person
-    
-## Directions:#####
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_08_18_IMCPH/Race/20190818-12-Postace2.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;With some fellow Ironman
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-1. Bring Fish to Room Temperature. If in hurry, defrost setting of microwave can be used. 
+&lt;p&gt;Till next race, then!&lt;/p&gt;</content><author><name>Rishi Sareen</name><email>rishi[at]jigyasu[dot]com</email></author><summary type="html">Race information What? Ironman Copenhagen When? August 18, 2019 How far? 226km (3.8km swim, 180k cycle, 42.2k run) Website? https://www.ironman.com/triathlon/events/emea/ironman/copenhagen/ Goals Goal Description Completed? A Finish Yes B Sub 14hr No C Get Nutrition Right Partial Race Strategy This was my second Full Ironman after last year Philippines Ironman I had done good practice for this, particularly the bike and run part. Swim is a challenge in Delhi, particularly the pool access. Most of the pool closes from October to March. Copenhagen was going to be cold swim (17-18degree) and it would be my first time wetsuit swim. My strategy was to complete the swim in ~90min, then follow Heart Rate for Bike (MAF Zone) and Run (MAF+20 Zone) Pre-Race Swim Two days before the race, I went for a practice swim. This was my first open water swim in a wetsuit, and 4th open water swim overall. The water was cold and murky. After few minutes of feeling the water, I started to swim. But I’ve not gone even 20m when I started to hyperventilate. I quickly turned back towards the short. I felt the tight wetsuit was closing in on my chest. I decided to remove the underneath tri-top. This helped, and breathing was less labored. But now I was in no mental space to try deep water swim again. I did some shallow water strokes and called it a day. Panic in Open Water Swim is something I’ve always struggled with. But experience is a wonderful thing, by past experience, I knew race day would be better. Swim [3.8km] The Race Day was finally here. Getting up at 4am, I had a light breakfast - 4 Scrambled Eggs made in Ghee + 1 Glass of Milk. I took Metro to the venue. The metro was packed with athletes. For a packed metro, it was very quiet. Everyone was in their zone, preparing for the big day. Pre-Race - All walking quietly Pre-Race - The beach On reaching the start point, I filled air in the bike, fixed water bottles, mounted Garmin Edge and finally wore the wetsuit. Post this, I went for a short run to heat up the body. Once all this is done, I went for a swim warmup. By now, I was in very calm state. I went in sea, did bubbling for a minute, then did few good strokes. Good to go! Radstrong Gang With Blossom The swim was a rolling start swim, with a release of a group of 4 athletes for every 6 seconds. Rolling Start - 6 people enter water together Pro Females started at 7am. For Age Groupers, we were divided in 5 Zones, based on our predicted swim timers. I had taken Green cap this time which indicated 1:18-1:22 swim time. Swim Line Up Soon people with Green caps started to line up. I didn’t want to wait anxiously for my turn to come, hence went right ahead to start of the line. Entering the water, it was nice cold. Nothing shocking or unbearable - body was nicely warmed up by now. I started with slow breathing and gradual strokes. Soon I found my Rythm, and time flew quickly. Crossing two bridges, I reached first turnaround at 1600m. Here water was very shallow and weeds were all around. - getting in legs, face, arms. It was a bit of mind scare. But no option but to continue. I quickly reached close to end line and came out of the water. I didn’t stop at all during the swim, and it was a comfortable swim. Swim Exit Working on getting wetsuit off Total Time: 1hr 30min Total Swim done: 3950m Strava Link Nutrition: 1 gel 15” before the start. T1 Stripping off wetsuit took some time as there were no wetsuit strippers and I was very new. The transition was bit longer compared to my plan. Total Time: 15min Cycle [180km] Whosoever has said Copenhagen bike course is flat must be from Europe. It is surely not flat from Asian standards :) The course starts easy, first 15km are flat and we move from the city to the sea shore. The route here was mesmerizing - swimming with sea on the right. After 45km, we take turn and enter the village side. From here it was mostly rolling hills, with no real stretch for continuous ride. Bike Start Lovely scenic villages At 85km mark, 3rd aid station came and I took first washroom break. By then I was getting exhausted with the climbs and it had started to rain also from an hour back. The rain was to continue for remaining bike and some part of the run too. Starting Loop 2, energy was dipping. I managed to hang on, and kept doing the mental calculation of the end time. I desperately tried to finish this under 7 hours, but finally finished it little over 7 hours. My patent pose Total Time: 7hr 08min Strava Link Nutrition: Gel every 45min. Banana + Bars via the Aid station. I don’t think I managed to get properly 100gm carbs per hour. I also lost my salt capsules somewhere during the bike. Paid price for this in the run. T2 I was so glad to hand over the bike and go in a standing position. I quickly went towards the run bag. I took out Vibrams and rinsed my mouth with mouthwash. Mouthwash helps to reset the taste of mouth. Total Time: 8min Nutrition: 2 Salt Crackers Run [42.2km] Running is something I had really worked on from last Ironman. I have gone from 2:36 Half Ironman to 1:53 Half Ironman. So, now I was not scared of finishing the run. Run was 4 loops, with each loop of 10.5km. The run route is a torture, not so much from the terrains and cobblestones, but from the fact that it’s four laps. In each lap, you’ve option to go either to finish line or continue. The finish line was just 50m away and you could hear the noise from Announcers on the mic. You do this four times! Yep four times being forced to stare down the finish chute, but until you have those four rainbow wrist bands, you can not pass go and proceed to the finish. I started run comfortable at 6:30pace, keeping an eye on HR which was steady 141bpm. I started coke at 12km distance, and from there I held on to it. Till 23km, I didn’t stop and managed to keep a pace of 6:30. After 23km, I did my first walk to aid station, and boy what a bad decision it was. Till then, I was just running, ignoring my mind. But as soon as I stopped, my mind went in overdrive - “how nice does it feel” and “how tired we are”. My legs have taken bad beating due to cobblestones path in the route. It is tough on ankle, even more when you are running close to barefoot. Lovey crowd support throughout the Run Last 10km were a struggle. I’m still not sure if I bonked, or I was mental fatigued. But I had no energy in leg to push forward. First 21km came in 2:15, Next 21km came in close to 3hours. Close to the finish line, I sprinted. Blossom was there at the end line, who very kindly handed over Indian flag to me. I finished smiling, with flag on my shoulder. “From India, Rishi Sareen, you are an Ironman”. It was so good to hear these words again. The finish line Still smiling Proud to be carrying indian flag End time: 5:18hr Strava Link : https://www.strava.com/activities/2632087560 Nutrition: 3 gels + coke every aid station after 10km + Salt crackers. After 30km, it was very difficult to eat anything. That could have caused the bonking. Total Time: 14:22hr Post Race I felt very disappointed with the race. Unhappy - no. But disappointed. I had trained hard for this race, and was hoping for a sub 13. But Bike leg took a lot out of me. I’m ofcourse grateful to have the chance to race this, and in the amazing city of Copenhagen. But I could have done better. Lot of lesson learnt - particularly the importance of staying aero on the bike and no backup plan for losing salt capsules. The Hard Earned Medal With some fellow Ironman Till next race, then!</summary></entry><entry><title type="html">Recipe - Grilled Fish</title><link href="http://localhost:4000/recipes/recipe-grilled-fish.html" rel="alternate" type="text/html" title="Recipe - Grilled Fish" /><published>2019-04-28T06:02:18+05:30</published><updated>2019-04-28T06:02:18+05:30</updated><id>http://localhost:4000/recipes/recipe-grilled-fish</id><content type="html" xml:base="http://localhost:4000/recipes/recipe-grilled-fish.html">&lt;!--more--&gt;
+&lt;p&gt;Fish is an excellant food - full of Protein, Omega 3 and essential vitamins and minerals. I love to grill fish - it is healthiest form of consuming fish&lt;/p&gt;
 
-2. Mix Ghee + Black Salt + Pepper in a bowl.
+&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h2&gt;
 
-3. Using Lemon, apply the above mix on the fish generously. 
+&lt;ul&gt;
+  &lt;li&gt;Basa Fish Fillets - 1kg (I prefer Basa as it is boneless and easily available)&lt;/li&gt;
+  &lt;li&gt;Ghee - 2 spoons&lt;/li&gt;
+  &lt;li&gt;Black Salt - 1/4 tbsp&lt;/li&gt;
+  &lt;li&gt;Pepper - 1/4 tbsp&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Lemon - 1&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;serving size: 2-3 person&lt;/li&gt;
+&lt;/ul&gt;
 
-4. Put in a glass / microwave safe plate and put in microwave.
+&lt;h2 id=&quot;directions&quot;&gt;Directions:#####&lt;/h2&gt;
 
-5. In Microwave, Using Grill + Microwave Combo. Almost all microwave have it. I use Combo 2 - 50% Microwave power, 50% Grill. Start timer of 8 min.
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Bring Fish to Room Temperature. If in hurry, defrost setting of microwave can be used.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mix Ghee + Black Salt + Pepper in a bowl.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Using Lemon, apply the above mix on the fish generously.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Put in a glass / microwave safe plate and put in microwave.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In Microwave, Using Grill + Microwave Combo. Almost all microwave have it. I use Combo 2 - 50% Microwave power, 50% Grill. Start timer of 8 min.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;After 8 min is over, take fish out. Apply the mix again to moisture the fish. Turn side, and start timer for another 8min.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Once done, now use the microwave setting, and let it for 5 min.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Serve and Enjoy&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-6. After 8 min is over, take fish out. Apply the mix again to moisture the fish. Turn side, and start timer for another 8min.
+&lt;h2 id=&quot;notes&quot;&gt;Notes:#####&lt;/h2&gt;
+&lt;p&gt;Take care to apply ghee properly on the fish sides too. That is an area which usually gets missed out.&lt;/p&gt;
 
-7. Once done, now use the microwave setting, and let it for 5 min.
+&lt;p&gt;Prep Time : 5min&lt;br /&gt;
+Cooking Time: 23min&lt;/p&gt;</content><author><name>Rishi Sareen</name><email>rishi[at]jigyasu[dot]com</email></author><summary type="html">Fish is an excellant food - full of Protein, Omega 3 and essential vitamins and minerals. I love to grill fish - it is healthiest form of consuming fish Ingredients: Basa Fish Fillets - 1kg (I prefer Basa as it is boneless and easily available) Ghee - 2 spoons Black Salt - 1/4 tbsp Pepper - 1/4 tbsp Lemon - 1 serving size: 2-3 person Directions:##### Bring Fish to Room Temperature. If in hurry, defrost setting of microwave can be used. Mix Ghee + Black Salt + Pepper in a bowl. Using Lemon, apply the above mix on the fish generously. Put in a glass / microwave safe plate and put in microwave. In Microwave, Using Grill + Microwave Combo. Almost all microwave have it. I use Combo 2 - 50% Microwave power, 50% Grill. Start timer of 8 min. After 8 min is over, take fish out. Apply the mix again to moisture the fish. Turn side, and start timer for another 8min. Once done, now use the microwave setting, and let it for 5 min. Serve and Enjoy Notes:##### Take care to apply ghee properly on the fish sides too. That is an area which usually gets missed out. Prep Time : 5min Cooking Time: 23min</summary></entry><entry><title type="html">Recipe - Post-Workout Smoothie</title><link href="http://localhost:4000/recipes/post-workout-smoothie.html" rel="alternate" type="text/html" title="Recipe - Post-Workout Smoothie" /><published>2019-04-15T11:10:37+05:30</published><updated>2019-04-15T11:10:37+05:30</updated><id>http://localhost:4000/recipes/post-workout-smoothie</id><content type="html" xml:base="http://localhost:4000/recipes/post-workout-smoothie.html">&lt;!--more--&gt;
+&lt;p&gt;The fueling post workout is very important - both for the muscle buildup and the recovery. Below smoothie was suggested to me by my former coach Deepak Raj. I find this receipe super refreshing.&lt;/p&gt;
 
-8. Serve and Enjoy
-     
-## Notes:#####
-Take care to apply ghee properly on the fish sides too. That is an area which usually gets missed out. 
+&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h2&gt;
 
-Prep Time : 5min  
-Cooking Time: 23min</content><author><name>Rishi Sareen</name><email>rishi[at]jigyasu[dot]com</email></author><summary type="html">Fish is an excellant food - full of Protein, Omega 3 and essential vitamins and minerals. I love to grill fish - it is healthiest form of consuming fish Ingredients: Basa Fish Fillets - 1kg (I prefer Basa as it is boneless and easily available) Ghee - 2 spoons Black Salt - 1/4 tbsp Pepper - 1/4 tbsp Lemon - 1 serving size: 2-3 person Directions:##### Bring Fish to Room Temperature. If in hurry, defrost setting of microwave can be used. Mix Ghee + Black Salt + Pepper in a bowl. Using Lemon, apply the above mix on the fish generously. Put in a glass / microwave safe plate and put in microwave. In Microwave, Using Grill + Microwave Combo. Almost all microwave have it. I use Combo 2 - 50% Microwave power, 50% Grill. Start timer of 8 min. After 8 min is over, take fish out. Apply the mix again to moisture the fish. Turn side, and start timer for another 8min. Once done, now use the microwave setting, and let it for 5 min. Serve and Enjoy Notes:##### Take care to apply ghee properly on the fish sides too. That is an area which usually gets missed out. Prep Time : 5min Cooking Time: 23min</summary></entry><entry><title type="html">Recipe - Post-Workout Smoothie</title><link href="http://localhost:4000/recipes/post-workout-smoothie.html" rel="alternate" type="text/html" title="Recipe - Post-Workout Smoothie" /><published>2019-04-15T11:10:37+05:30</published><updated>2019-04-15T11:10:37+05:30</updated><id>http://localhost:4000/recipes/post-workout-smoothie</id><content type="html" xml:base="http://localhost:4000/recipes/post-workout-smoothie.html">&lt;!--more--&gt;
-The fueling post workout is very important - both for the muscle buildup and the recovery. Below smoothie was suggested to me by my former coach Deepak Raj. I find this receipe super refreshing. 
+&lt;ul&gt;
+  &lt;li&gt;Milk - 200ml&lt;/li&gt;
+  &lt;li&gt;Peanut Butter - 1-2 Spoon&lt;/li&gt;
+  &lt;li&gt;Cocoa Powder - 1 spoon&lt;/li&gt;
+  &lt;li&gt;Banana - 1&lt;/li&gt;
+  &lt;li&gt;Almonds - 5-6&lt;/li&gt;
+  &lt;li&gt;Walnuts - 5-6&lt;/li&gt;
+  &lt;li&gt;Flaxseed - 1 spoon&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ice cubes - 2-3&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;serving size: 1 person&lt;/li&gt;
+&lt;/ul&gt;
 
-## Ingredients: ######
+&lt;h2 id=&quot;directions&quot;&gt;Directions:#####&lt;/h2&gt;
 
-* Milk - 200ml
-* Peanut Butter - 1-2 Spoon
-* Cocoa Powder - 1 spoon
-* Banana - 1
-* Almonds - 5-6
-* Walnuts - 5-6
-* Flaxseed - 1 spoon
-* Ice cubes - 2-3
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mix Half Milk + Almonds, Walnuts, Flaxseed. Run Mixie for 45s&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Add Remaining milk, Cocoa Powder. Run Mixie for 20s.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Add Peanut Butter, banana, ice cubes. Run Mixie for 45s&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Drink it&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-* serving size: 1 person
-    
-## Directions:#####
+&lt;h2 id=&quot;my-notes&quot;&gt;My Notes:#####&lt;/h2&gt;
+&lt;p&gt;Whey protein can be added if available.&lt;/p&gt;</content><author><name>Rishi Sareen</name><email>rishi[at]jigyasu[dot]com</email></author><summary type="html">The fueling post workout is very important - both for the muscle buildup and the recovery. Below smoothie was suggested to me by my former coach Deepak Raj. I find this receipe super refreshing. Ingredients: Milk - 200ml Peanut Butter - 1-2 Spoon Cocoa Powder - 1 spoon Banana - 1 Almonds - 5-6 Walnuts - 5-6 Flaxseed - 1 spoon Ice cubes - 2-3 serving size: 1 person Directions:##### Mix Half Milk + Almonds, Walnuts, Flaxseed. Run Mixie for 45s Add Remaining milk, Cocoa Powder. Run Mixie for 20s. Add Peanut Butter, banana, ice cubes. Run Mixie for 45s Drink it My Notes:##### Whey protein can be added if available.</summary></entry><entry><title type="html">MAF Method - Update</title><link href="http://localhost:4000/running/maf-method-update.html" rel="alternate" type="text/html" title="MAF Method - Update" /><published>2019-04-14T13:07:47+05:30</published><updated>2019-04-14T13:07:47+05:30</updated><id>http://localhost:4000/running/maf-method-update</id><content type="html" xml:base="http://localhost:4000/running/maf-method-update.html">&lt;p&gt;I’m a strong believer in the MAF Approach to the endurance training. I apply the heart rate training principles to both running and cycling.
+I wrote about maf method in two article series - &lt;a href=&quot;http://jigyasu.com/running/maf-method-part1.html&quot;&gt;Part 1&lt;/a&gt; and &lt;a href=&quot;http://jigyasu.com/running/maf-method-part1.html&quot;&gt;Part 2&lt;/a&gt;
+&lt;!--more--&gt;&lt;/p&gt;
 
-1. Mix Half Milk + Almonds, Walnuts, Flaxseed. Run Mixie for 45s
+&lt;p&gt;I’m 41 year old, and my MAF range is 134-144bpm. I’ve been training consistently with this method for 1+ year, and my MAF Pace has slowly come down from 8:40min/km to 6:40min/km. This is a saving of 2min per km. In a half marathon distance, this is a saving of 40min.&lt;/p&gt;
 
-2. Add Remaining milk, Cocoa Powder. Run Mixie for 20s.
+&lt;p&gt;In today’s blog, I want to share my recent progress.&lt;/p&gt;
 
-3. Add Peanut Butter, banana, ice cubes. Run Mixie for 45s
+&lt;p&gt;Let me give an example of 2 runs I did&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Half Marathon Race @ Amritsar - Jan 2018&lt;/li&gt;
+  &lt;li&gt;Half Marathon Practice MAF Run @ Delhi - Apr 2018&lt;/li&gt;
+&lt;/ol&gt;
 
-4. Drink it
-     
-## My Notes:#####
-Whey protein can be added if available.</content><author><name>Rishi Sareen</name><email>rishi[at]jigyasu[dot]com</email></author><summary type="html">The fueling post workout is very important - both for the muscle buildup and the recovery. Below smoothie was suggested to me by my former coach Deepak Raj. I find this receipe super refreshing. Ingredients: Milk - 200ml Peanut Butter - 1-2 Spoon Cocoa Powder - 1 spoon Banana - 1 Almonds - 5-6 Walnuts - 5-6 Flaxseed - 1 spoon Ice cubes - 2-3 serving size: 1 person Directions:##### Mix Half Milk + Almonds, Walnuts, Flaxseed. Run Mixie for 45s Add Remaining milk, Cocoa Powder. Run Mixie for 20s. Add Peanut Butter, banana, ice cubes. Run Mixie for 45s Drink it My Notes:##### Whey protein can be added if available.</summary></entry><entry><title type="html">MAF Method - Update</title><link href="http://localhost:4000/running/maf-method-update.html" rel="alternate" type="text/html" title="MAF Method - Update" /><published>2019-04-14T13:07:47+05:30</published><updated>2019-04-14T13:07:47+05:30</updated><id>http://localhost:4000/running/maf-method-update</id><content type="html" xml:base="http://localhost:4000/running/maf-method-update.html">I'm a strong believer in the MAF Approach to the endurance training. I apply the heart rate training principles to both running and cycling.
-I wrote about maf method in two article series - [Part 1](http://jigyasu.com/running/maf-method-part1.html) and [Part 2](http://jigyasu.com/running/maf-method-part1.html)
+&lt;p&gt;The elevation was similar. Amritsar was a colder weather, which is easier for the running. Still Delhi run was far easier&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt; &lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;SuperSikh Half Marathon @ Amritsar (Winters)&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Weekend Easy MAF Run @ Delhi (Summers)&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Date&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Jan 28, 2018 6:53 AM&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Apr 14, 2019 6:28 AM&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Distance&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;20.78 km&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;21.12 km&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Time&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2.26.57&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2.23.42&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Avg Pace&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7:04 min/km&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6:48 min/km&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Moving Time&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2.26.20&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2.22.29&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Min Elev&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;225m&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;170m&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Max Elev&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;235m&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;194m&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Avg HR&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;162bpm&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;135bpm&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Max HR&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;185bpm&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;145bpm&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Avg Temperature&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;9.2 Deg&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;29.1 Deg&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;blockquote&gt;
+
+&lt;/blockquote&gt;
+
+&lt;p&gt;For similar pace, my Heart Rate was lower by 27 beats. This is huge saving.&lt;/p&gt;
+
+&lt;p&gt;Most of my runs are easy MAF Run. I do introduce speedwork closer to the race, but that is never more than once a week.
+Best thing about MAF Runs is that it needs zero recovery, as it is done in a very comfortable heart zone. And as Heart rate is so controlled, the form doesn’t drop. In 2 years of regular training, I had zero injury.&lt;/p&gt;
+
+&lt;p&gt;The journey continues.&lt;/p&gt;</content><author><name>Rishi Sareen</name><email>rishi[at]jigyasu[dot]com</email></author><summary type="html">I’m a strong believer in the MAF Approach to the endurance training. I apply the heart rate training principles to both running and cycling. I wrote about maf method in two article series - Part 1 and Part 2 I’m 41 year old, and my MAF range is 134-144bpm. I’ve been training consistently with this method for 1+ year, and my MAF Pace has slowly come down from 8:40min/km to 6:40min/km. This is a saving of 2min per km. In a half marathon distance, this is a saving of 40min. In today’s blog, I want to share my recent progress. Let me give an example of 2 runs I did Half Marathon Race @ Amritsar - Jan 2018 Half Marathon Practice MAF Run @ Delhi - Apr 2018 The elevation was similar. Amritsar was a colder weather, which is easier for the running. Still Delhi run was far easier   SuperSikh Half Marathon @ Amritsar (Winters) Weekend Easy MAF Run @ Delhi (Summers) Date Jan 28, 2018 6:53 AM Apr 14, 2019 6:28 AM Distance 20.78 km 21.12 km Time 2.26.57 2.23.42 Avg Pace 7:04 min/km 6:48 min/km Moving Time 2.26.20 2.22.29 Min Elev 225m 170m Max Elev 235m 194m Avg HR 162bpm 135bpm Max HR 185bpm 145bpm Avg Temperature 9.2 Deg 29.1 Deg For similar pace, my Heart Rate was lower by 27 beats. This is huge saving. Most of my runs are easy MAF Run. I do introduce speedwork closer to the race, but that is never more than once a week. Best thing about MAF Runs is that it needs zero recovery, as it is done in a very comfortable heart zone. And as Heart rate is so controlled, the form doesn’t drop. In 2 years of regular training, I had zero injury. The journey continues.</summary></entry><entry><title type="html">Beetroot Smoothie</title><link href="http://localhost:4000/recipes/beetroot-smoothie.html" rel="alternate" type="text/html" title="Beetroot Smoothie" /><published>2019-04-07T10:27:36+05:30</published><updated>2019-04-07T10:27:36+05:30</updated><id>http://localhost:4000/recipes/beetroot-smoothie</id><content type="html" xml:base="http://localhost:4000/recipes/beetroot-smoothie.html">&lt;!--more--&gt;
+&lt;p&gt;“Simple, Delicious and Healthy Smoothie. Should be taken empty stomach in the morning. It is also an excellant pre-workout drink.”&lt;/p&gt;
+
+&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2 Beetroot&lt;/li&gt;
+  &lt;li&gt;1 Amla&lt;/li&gt;
+  &lt;li&gt;1 Spoon Grated Garlic (Adrak)&lt;/li&gt;
+  &lt;li&gt;1 Big Lemon&lt;/li&gt;
+  &lt;li&gt;Black Pepper&lt;/li&gt;
+  &lt;li&gt;Rock Salt&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;0.5l Water&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;serving size: 2 glass&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;directions&quot;&gt;Directions:#####&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mix Water + Beetroot. Run Mixie.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Add Amla. Run Mixie.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Add Adrak. Run Mixie.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Add Lemon, Black Pepper, Rock Salt. Run Mixie.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Stain it.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;my-notes&quot;&gt;My Notes:#####&lt;/h2&gt;
+&lt;p&gt;Half teaspoon of honey can also be added initially, if this taste is too strong.&lt;/p&gt;</content><author><name>Rishi Sareen</name><email>rishi[at]jigyasu[dot]com</email></author><summary type="html">“Simple, Delicious and Healthy Smoothie. Should be taken empty stomach in the morning. It is also an excellant pre-workout drink.” Ingredients: 2 Beetroot 1 Amla 1 Spoon Grated Garlic (Adrak) 1 Big Lemon Black Pepper Rock Salt 0.5l Water serving size: 2 glass Directions:##### Mix Water + Beetroot. Run Mixie. Add Amla. Run Mixie. Add Adrak. Run Mixie. Add Lemon, Black Pepper, Rock Salt. Run Mixie. Stain it. My Notes:##### Half teaspoon of honey can also be added initially, if this taste is too strong.</summary></entry><entry><title type="html">Goa TriCamp Report - March 2019</title><link href="http://localhost:4000/triathlon/goa-tricamp-report-march-2019.html" rel="alternate" type="text/html" title="Goa TriCamp Report - March 2019" /><published>2019-03-31T19:28:24+05:30</published><updated>2019-03-31T19:28:24+05:30</updated><id>http://localhost:4000/triathlon/goa-tricamp-report-march-2019</id><content type="html" xml:base="http://localhost:4000/triathlon/goa-tricamp-report-march-2019.html">&lt;p&gt;My Coach (Kaustubh Radkar) has planned for a 3 days Triathlon Camp in Goa. It was from 8th March to 10th March.&lt;/p&gt;
+
+&lt;p&gt;Most of the participants were preparing for &lt;a href=&quot;http://eu.ironman.com/triathlon/events/asiapac/ironman-70.3/goa.aspx&quot;&gt;Ironman 70.3 Goa&lt;/a&gt;. Kaustubh and Indrajeet were our coaches for the camp.⁣&lt;/p&gt;
+
+&lt;h2 id=&quot;day-1&quot;&gt;Day 1&lt;/h2&gt;
 &lt;!--more--&gt;
+&lt;p&gt;I arrived at Goa Airport at 2PM from Delhi. As Camp was supposed to start at 4, I immediately fetched a Bike Taxi to Hotel (&lt;a href=&quot;http://www.internationalcentregoa.com&quot;&gt;The International Center&lt;/a&gt;)&lt;/p&gt;
 
-I'm 41 year old, and my MAF range is 134-144bpm. I've been training consistently with this method for 1+ year, and my MAF Pace has slowly come down from 8:40min/km to 6:40min/km. This is a saving of 2min per km. In a half marathon distance, this is a saving of 40min. 
+&lt;p&gt;For Friday, only one session was planned - Open Water Swim Session. This session’s focus was on key sea swimming skills - Sighting and Backfloat.&lt;/p&gt;
 
-In today's blog, I want to share my recent progress. 
+&lt;p&gt;Few guys from Pune had cars. We packed ourself in the car, and reached the session venue - Bambolin Beach.&lt;/p&gt;
 
-Let me give an example of 2 runs I did
-1. Half Marathon Race @ Amritsar - Jan 2018
-2. Half Marathon Practice MAF Run @ Delhi - Apr 2018
+&lt;p&gt;&lt;strong&gt;Sighting&lt;/strong&gt;&lt;/p&gt;
 
-The elevation was similar. Amritsar was a colder weather, which is easier for the running. Still Delhi run was far easier
+&lt;p&gt;When we are swimming in the pool, there is no need to lift our head and sight. Pool is usually 25 or 50m in length, and we’ve a dedicated lane.&lt;br /&gt;
+But when one is in open water, there is no intuitive way to swim in a straight line. If sighting is not done properly, people tend to drift away. This is likely the most common and costly problem faced by people new to open water swim.&lt;/p&gt;
 
-|                 	| SuperSikh Half Marathon @ Amritsar (Winters) 	| Weekend Easy MAF Run @ Delhi (Summers) 	|
-|:---------------:	|:--------------------------------------------:	|:--------------------------------------:	|
-|       Date      	|             Jan 28, 2018 6:53 AM             	|          Apr 14, 2019 6:28 AM          	|
-|     Distance    	|                  20.78 km                    	|                21.12 km                	|
-|       Time      	|                    2.26.57                   	|                 2.23.42                	|
-| Avg Pace        	| 7:04 min/km                                  	| 6:48 min/km                            	|
-| Moving Time     	| 2.26.20                                      	| 2.22.29                                	|
-| Min Elev        	| 225m                                         	| 170m                                   	|
-| Max Elev        	| 235m                                         	| 194m                                   	|
-| Avg HR          	| 162bpm                                       	| 135bpm                                 	|
-| Max HR          	| 185bpm                                       	| 145bpm                                 	|
-| Avg Temperature 	| 9.2 Deg                                      	| 29.1 Deg                               	|  
+&lt;p&gt;Kaustubh and Indrajeet showed us how to integrate sight with the stroke. For me, they corrected how much head to lift (tip: very less lift needed), how to time the headlift with the pull - this gave a very easy bounce. ⁣ &lt;br /&gt;
+⁣ &lt;br /&gt;
+I have done open sea swim as part of Philippines Full IM. But my sighting was clumsy and tough on the neck. In this session, I could immediately feel the difference - this was an effortless way to sight, and it felt amazingggggg!!!⁣&lt;/p&gt;
 
-&gt;  
-
-For similar pace, my Heart Rate was lower by 27 beats. This is huge saving. 
-
-Most of my runs are easy MAF Run. I do introduce speedwork closer to the race, but that is never more than once a week.
-Best thing about MAF Runs is that it needs zero recovery, as it is done in a very comfortable heart zone. And as Heart rate is so controlled, the form doesn't drop. In 2 years of regular training, I had zero injury. 
-
-The journey continues.</content><author><name>Rishi Sareen</name><email>rishi[at]jigyasu[dot]com</email></author><summary type="html">I’m a strong believer in the MAF Approach to the endurance training. I apply the heart rate training principles to both running and cycling. I wrote about maf method in two article series - Part 1 and Part 2 I’m 41 year old, and my MAF range is 134-144bpm. I’ve been training consistently with this method for 1+ year, and my MAF Pace has slowly come down from 8:40min/km to 6:40min/km. This is a saving of 2min per km. In a half marathon distance, this is a saving of 40min. In today’s blog, I want to share my recent progress. Let me give an example of 2 runs I did Half Marathon Race @ Amritsar - Jan 2018 Half Marathon Practice MAF Run @ Delhi - Apr 2018 The elevation was similar. Amritsar was a colder weather, which is easier for the running. Still Delhi run was far easier   SuperSikh Half Marathon @ Amritsar (Winters) Weekend Easy MAF Run @ Delhi (Summers) Date Jan 28, 2018 6:53 AM Apr 14, 2019 6:28 AM Distance 20.78 km 21.12 km Time 2.26.57 2.23.42 Avg Pace 7:04 min/km 6:48 min/km Moving Time 2.26.20 2.22.29 Min Elev 225m 170m Max Elev 235m 194m Avg HR 162bpm 135bpm Max HR 185bpm 145bpm Avg Temperature 9.2 Deg 29.1 Deg For similar pace, my Heart Rate was lower by 27 beats. This is huge saving. Most of my runs are easy MAF Run. I do introduce speedwork closer to the race, but that is never more than once a week. Best thing about MAF Runs is that it needs zero recovery, as it is done in a very comfortable heart zone. And as Heart rate is so controlled, the form doesn’t drop. In 2 years of regular training, I had zero injury. The journey continues.</summary></entry><entry><title type="html">Beetroot Smoothie</title><link href="http://localhost:4000/recipes/beetroot-smoothie.html" rel="alternate" type="text/html" title="Beetroot Smoothie" /><published>2019-04-07T10:27:36+05:30</published><updated>2019-04-07T10:27:36+05:30</updated><id>http://localhost:4000/recipes/beetroot-smoothie</id><content type="html" xml:base="http://localhost:4000/recipes/beetroot-smoothie.html">&lt;!--more--&gt;
-&quot;Simple, Delicious and Healthy Smoothie. Should be taken empty stomach in the morning. It is also an excellant pre-workout drink.&quot; 
-
-## Ingredients: ######
-
-* 2 Beetroot 
-* 1 Amla
-* 1 Spoon Grated Garlic (Adrak)
-* 1 Big Lemon
-* Black Pepper
-* Rock Salt
-* 0.5l Water
-
-* serving size: 2 glass
-    
-## Directions:#####
-
-1. Mix Water + Beetroot. Run Mixie.  
-
-2. Add Amla. Run Mixie.
-
-3. Add Adrak. Run Mixie.
-
-4. Add Lemon, Black Pepper, Rock Salt. Run Mixie.
-
-5. Stain it.
-     
-## My Notes:#####
-Half teaspoon of honey can also be added initially, if this taste is too strong.</content><author><name>Rishi Sareen</name><email>rishi[at]jigyasu[dot]com</email></author><summary type="html">“Simple, Delicious and Healthy Smoothie. Should be taken empty stomach in the morning. It is also an excellant pre-workout drink.” Ingredients: 2 Beetroot 1 Amla 1 Spoon Grated Garlic (Adrak) 1 Big Lemon Black Pepper Rock Salt 0.5l Water serving size: 2 glass Directions:##### Mix Water + Beetroot. Run Mixie. Add Amla. Run Mixie. Add Adrak. Run Mixie. Add Lemon, Black Pepper, Rock Salt. Run Mixie. Stain it. My Notes:##### Half teaspoon of honey can also be added initially, if this taste is too strong.</summary></entry><entry><title type="html">Goa TriCamp Report - March 2019</title><link href="http://localhost:4000/triathlon/goa-tricamp-report-march-2019.html" rel="alternate" type="text/html" title="Goa TriCamp Report - March 2019" /><published>2019-03-31T19:28:24+05:30</published><updated>2019-03-31T19:28:24+05:30</updated><id>http://localhost:4000/triathlon/goa-tricamp-report-march-2019</id><content type="html" xml:base="http://localhost:4000/triathlon/goa-tricamp-report-march-2019.html">My Coach (Kaustubh Radkar) has planned for a 3 days Triathlon Camp in Goa. It was from 8th March to 10th March.   
-
-Most of the participants were preparing for [Ironman 70.3 Goa](http://eu.ironman.com/triathlon/events/asiapac/ironman-70.3/goa.aspx). Kaustubh and Indrajeet were our coaches for the camp.⁣   
-   
-## Day 1   
-&lt;!--more--&gt;
-I arrived at Goa Airport at 2PM from Delhi. As Camp was supposed to start at 4, I immediately fetched a Bike Taxi to Hotel ([The International Center](http://www.internationalcentregoa.com))   
-   
-For Friday, only one session was planned - Open Water Swim Session. This session's focus was on key sea swimming skills - Sighting and Backfloat.   
-   
-Few guys from Pune had cars. We packed ourself in the car, and reached the session venue - Bambolin Beach.   
-   
-**Sighting**   
-   
-When we are swimming in the pool, there is no need to lift our head and sight. Pool is usually 25 or 50m in length, and we've a dedicated lane.  
-But when one is in open water, there is no intuitive way to swim in a straight line. If sighting is not done properly, people tend to drift away. This is likely the most common and costly problem faced by people new to open water swim. 
-
-Kaustubh and Indrajeet showed us how to integrate sight with the stroke. For me, they corrected how much head to lift (tip: very less lift needed), how to time the headlift with the pull - this gave a very easy bounce. ⁣   
-⁣   
-I have done open sea swim as part of Philippines Full IM. But my sighting was clumsy and tough on the neck. In this session, I could immediately feel the difference - this was an effortless way to sight, and it felt amazingggggg!!!⁣   
-   
-⁣   
-**BackFloat**   ⁣   
-I used to wonder why do I need to do the back float. But Indrajeet made a good point. If during the swim, Goggles come off (or you are tired and want to pause), the back float is the easiest way to handle the situation.⁣   
-I have **NEVER** been able to back float. Never. I've tried (and failed) many times - much to the amusement of my family. But kudos to Indrajeet as a teacher - he made a very small correction in my technique, and YES - I could back float. Oh boy! Even if I might not use this skill during the event, it felt amazing to be finally able to do this.⁣   
-⁣   
+&lt;p&gt;⁣ &lt;br /&gt;
+&lt;strong&gt;BackFloat&lt;/strong&gt;   ⁣ &lt;br /&gt;
+I used to wonder why do I need to do the back float. But Indrajeet made a good point. If during the swim, Goggles come off (or you are tired and want to pause), the back float is the easiest way to handle the situation.⁣ &lt;br /&gt;
+I have &lt;strong&gt;NEVER&lt;/strong&gt; been able to back float. Never. I’ve tried (and failed) many times - much to the amusement of my family. But kudos to Indrajeet as a teacher - he made a very small correction in my technique, and YES - I could back float. Oh boy! Even if I might not use this skill during the event, it felt amazing to be finally able to do this.⁣ &lt;br /&gt;
+⁣ &lt;br /&gt;
 A very useful session indeed! Everyone came out from sea smiling, the joy of new skills acquired :) ⁣ 
-{% include image.html file=&quot;/images/2019_03_08_GOACAMP/20190308-Day1-PreSession.JPG&quot; description=&quot;0 The TriCamp Group &quot;%}
-⁣   
-## Day 2   
-⁣   
-6:15AM-6:45AM : Morning Run with small hills. 30&quot; run.⁣   
-   
-7AM - 8 AM : Swim session in the sea (Caranzalem Beach, Next to Miramar Beach). This session built on the backfloat. We learnt how to move from freestyle to backfloat, adjust the goggles, and continue to swim. When we got hang of it, it felt so awesome⁣.   
-   
-10-10:30: Nutrition session with Kaustubh and Maitreyi⁣.   
-{% include image.html file=&quot;/images/2019_03_08_GOACAMP/20190309-Day2-NutritionTalk.JPG&quot; description=&quot;500 500 Listening to the Nutrition Talk&quot;%}
-   
-11AM-12PM : Swim session in the pool. This was a technical session, focused on sculling and right leg movement. Some videos were also shot by the coach :-D⁣   
-   
-12:30PM - 1PM : Sun was blazing, and we were tired. Perfect time to simulate the race day. Kaustubh made us run for 30&quot; in the sun. During Ironman, it is very important to be able to run with the tired legs. This was a good simulation. Maitreyi and I did a comfortable 5km⁣ run.   
-{% include image.html file=&quot;/images/2019_03_08_GOACAMP/20190309-Day2-MidDayRun.JPG&quot; description=&quot;0 Run in the heat&quot;%}
-   
-4-6PM: Now, with all the drills and technique, this was the time to face the fear. This session called for us to go inside deep sea. Indrajeet (25m) and Kaustubh(50m) were our targets :D. Everyone did this comfortable - big reason was the practice in the sea sessions before.⁣   
-⁣   
-A hectic, but super wonderful day. The group was super awesome, and together we all did this sea swim easily.⁣   
-{% include image.html file=&quot;/images/2019_03_08_GOACAMP/20190309-Day2-Sunset.JPG&quot; description=&quot;0 Happy faces post the session &quot;%}
-⁣   
-## Day 3   
-⁣   
-⁣6:15AM-6:45AM : 3 repeat of the hill, followed by a surprise extra hill loop. Coach (@radkar82) had a big grin on his face, on successfully surprising us with the extra loop 😊⁣⁣   
-   
-7AM - 8AM: Back to the sea. This time everyone was looking forward to it. Not much time was wasted, we directly decided to go to the deep sea. Water was choppier today, but the group took this as another chance to learn. ⁣⁣   
-The swim was easily done, with some practice on sea entry and exit too.⁣⁣   
-{% include image.html file=&quot;/images/2019_03_08_GOACAMP/20190309-Day2-Beach.JPG&quot; description=&quot;0 Some random discussion&quot;%}
-⁣   
-And that was the wrap of 3-day session. ⁣⁣   
-⁣   
-The beauty of this sport is not only you get to learn so many skill, but meet so inspiring people. Everyone is in the journey to improve themselves and succeed together.⁣⁣   
-⁣   
-⁣   
-⁣   
-⁣   
-⁣   
-⁣</content><author><name>Rishi Sareen</name><email>rishi[at]jigyasu[dot]com</email></author><summary type="html">My Coach (Kaustubh Radkar) has planned for a 3 days Triathlon Camp in Goa. It was from 8th March to 10th March. Most of the participants were preparing for Ironman 70.3 Goa. Kaustubh and Indrajeet were our coaches for the camp.⁣ Day 1 I arrived at Goa Airport at 2PM from Delhi. As Camp was supposed to start at 4, I immediately fetched a Bike Taxi to Hotel (The International Center) For Friday, only one session was planned - Open Water Swim Session. This session’s focus was on key sea swimming skills - Sighting and Backfloat. Few guys from Pune had cars. We packed ourself in the car, and reached the session venue - Bambolin Beach. Sighting When we are swimming in the pool, there is no need to lift our head and sight. Pool is usually 25 or 50m in length, and we’ve a dedicated lane. But when one is in open water, there is no intuitive way to swim in a straight line. If sighting is not done properly, people tend to drift away. This is likely the most common and costly problem faced by people new to open water swim. Kaustubh and Indrajeet showed us how to integrate sight with the stroke. For me, they corrected how much head to lift (tip: very less lift needed), how to time the headlift with the pull - this gave a very easy bounce. ⁣ ⁣ I have done open sea swim as part of Philippines Full IM. But my sighting was clumsy and tough on the neck. In this session, I could immediately feel the difference - this was an effortless way to sight, and it felt amazingggggg!!!⁣ ⁣ BackFloat ⁣ I used to wonder why do I need to do the back float. But Indrajeet made a good point. If during the swim, Goggles come off (or you are tired and want to pause), the back float is the easiest way to handle the situation.⁣ I have NEVER been able to back float. Never. I’ve tried (and failed) many times - much to the amusement of my family. But kudos to Indrajeet as a teacher - he made a very small correction in my technique, and YES - I could back float. Oh boy! Even if I might not use this skill during the event, it felt amazing to be finally able to do this.⁣ ⁣ A very useful session indeed! Everyone came out from sea smiling, the joy of new skills acquired :) ⁣ 0 The TriCamp Group ⁣ Day 2 ⁣ 6:15AM-6:45AM : Morning Run with small hills. 30” run.⁣ 7AM - 8 AM : Swim session in the sea (Caranzalem Beach, Next to Miramar Beach). This session built on the backfloat. We learnt how to move from freestyle to backfloat, adjust the goggles, and continue to swim. When we got hang of it, it felt so awesome⁣. 10-10:30: Nutrition session with Kaustubh and Maitreyi⁣. 500 500 Listening to the Nutrition Talk 11AM-12PM : Swim session in the pool. This was a technical session, focused on sculling and right leg movement. Some videos were also shot by the coach :-D⁣ 12:30PM - 1PM : Sun was blazing, and we were tired. Perfect time to simulate the race day. Kaustubh made us run for 30” in the sun. During Ironman, it is very important to be able to run with the tired legs. This was a good simulation. Maitreyi and I did a comfortable 5km⁣ run. 0 Run in the heat 4-6PM: Now, with all the drills and technique, this was the time to face the fear. This session called for us to go inside deep sea. Indrajeet (25m) and Kaustubh(50m) were our targets :D. Everyone did this comfortable - big reason was the practice in the sea sessions before.⁣ ⁣ A hectic, but super wonderful day. The group was super awesome, and together we all did this sea swim easily.⁣ 0 Happy faces post the session ⁣ Day 3 ⁣ ⁣6:15AM-6:45AM : 3 repeat of the hill, followed by a surprise extra hill loop. Coach (@radkar82) had a big grin on his face, on successfully surprising us with the extra loop 😊⁣⁣ 7AM - 8AM: Back to the sea. This time everyone was looking forward to it. Not much time was wasted, we directly decided to go to the deep sea. Water was choppier today, but the group took this as another chance to learn. ⁣⁣ The swim was easily done, with some practice on sea entry and exit too.⁣⁣ 0 Some random discussion ⁣ And that was the wrap of 3-day session. ⁣⁣ ⁣ The beauty of this sport is not only you get to learn so many skill, but meet so inspiring people. Everyone is in the journey to improve themselves and succeed together.⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣</summary></entry><entry><title type="html">My Top 5 Triathlon Podcasts</title><link href="http://localhost:4000/triathlon/my-top-5-triathlon-podcast.html" rel="alternate" type="text/html" title="My Top 5 Triathlon Podcasts" /><published>2019-03-24T16:24:43+05:30</published><updated>2019-03-24T16:24:43+05:30</updated><id>http://localhost:4000/triathlon/my-top-5-triathlon-podcast</id><content type="html" xml:base="http://localhost:4000/triathlon/my-top-5-triathlon-podcast.html">In my last article on podcast, I shared [my top 5 fav podcasts](http://jigyasu.com/podcasts/my-top-5-podcasts.html), I introduced podcasts and shared my top 5 favorite podcasts.
+&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_03_08_GOACAMP/20190308-Day1-PreSession.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;0 The TriCamp Group
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-Continuing on the theme, I want to share few of my Triathlon focussed podcasts. While there are tons of Triathlon specific podcasts, some of them really resonates with my training philosophy. Here are few of them:  
-&lt;!--more--&gt;
+&lt;p&gt;⁣&lt;/p&gt;
+&lt;h2 id=&quot;day-2&quot;&gt;Day 2&lt;/h2&gt;
+&lt;p&gt;⁣ &lt;br /&gt;
+6:15AM-6:45AM : Morning Run with small hills. 30” run.⁣&lt;/p&gt;
 
-## 1. [Purple Patch Fitness](https://purplepatchfitness.com/education/podcasts):  
+&lt;p&gt;7AM - 8 AM : Swim session in the sea (Caranzalem Beach, Next to Miramar Beach). This session built on the backfloat. We learnt how to move from freestyle to backfloat, adjust the goggles, and continue to swim. When we got hang of it, it felt so awesome⁣.&lt;/p&gt;
 
-{% include image.html file=&quot;/images/podcast/PurplePatch.jpg&quot; description=&quot; Purple Patch Fitness&quot;%}   
+&lt;p&gt;10-10:30: Nutrition session with Kaustubh and Maitreyi⁣. &lt;br /&gt;
+&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_03_08_GOACAMP/20190309-Day2-NutritionTalk.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;500 500 Listening to the Nutrition Talk
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-Matt Dixon is one of the top coaches in the Triathlon world. He has a talent of reducing the complex topic to basics, and reducing it to &quot;actionable advice&quot;. His coached triathletes have wom max podium finishes.  
-His podcasts are short (30min to an hour), and packed with actionable knowledge. Particularly his series on nutrition and hydration are just awesome.  
+&lt;p&gt;11AM-12PM : Swim session in the pool. This was a technical session, focused on sculling and right leg movement. Some videos were also shot by the coach :-D⁣&lt;/p&gt;
 
-## 2. [Pursuit of the Perfect Race](https://www.coachterrywilson.com/perfect)   
-{% include image.html file=&quot;/images/podcast/PerfectRace.jpg&quot; description=&quot; Pursuit of the Perfect Race&quot;%}  
+&lt;p&gt;12:30PM - 1PM : Sun was blazing, and we were tired. Perfect time to simulate the race day. Kaustubh made us run for 30” in the sun. During Ironman, it is very important to be able to run with the tired legs. This was a good simulation. Maitreyi and I did a comfortable 5km⁣ run. &lt;br /&gt;
+&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_03_08_GOACAMP/20190309-Day2-MidDayRun.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;0 Run in the heat
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-Coach Terry describes his podcast as   
-&gt; I love seeing, hearing, and experiencing the pure emotion of athletes when they overcome obstacles, challenges and hardships to accomplish the previously thought to be impossible.  Challenging athletes to be better, do better, and not make the mistakes of others is important to me. I network with athletes all over the world to discover their victories, challenges, disappointments, mistakes they made, and how they found what worked for them through a podcast.  
+&lt;p&gt;4-6PM: Now, with all the drills and technique, this was the time to face the fear. This session called for us to go inside deep sea. Indrajeet (25m) and Kaustubh(50m) were our targets :D. Everyone did this comfortable - big reason was the practice in the sea sessions before.⁣ &lt;br /&gt;
+⁣ &lt;br /&gt;
+A hectic, but super wonderful day. The group was super awesome, and together we all did this sea swim easily.⁣ &lt;br /&gt;
+&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_03_08_GOACAMP/20190309-Day2-Sunset.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;0 Happy faces post the session
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-He focus primarily on the race day -   
+&lt;p&gt;⁣&lt;/p&gt;
+&lt;h2 id=&quot;day-3&quot;&gt;Day 3&lt;/h2&gt;
+&lt;p&gt;⁣ &lt;br /&gt;
+⁣6:15AM-6:45AM : 3 repeat of the hill, followed by a surprise extra hill loop. Coach (@radkar82) had a big grin on his face, on successfully surprising us with the extra loop 😊⁣⁣&lt;/p&gt;
 
-- Details about the Race - Swim / Bike / Run Portion   
-- T1/T2 setup    
-- Support Arrangements  
-- What went right / wrong  
+&lt;p&gt;7AM - 8AM: Back to the sea. This time everyone was looking forward to it. Not much time was wasted, we directly decided to go to the deep sea. Water was choppier today, but the group took this as another chance to learn. ⁣⁣ &lt;br /&gt;
+The swim was easily done, with some practice on sea entry and exit too.⁣⁣ &lt;br /&gt;
+&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/2019_03_08_GOACAMP/20190309-Day2-Beach.JPG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;0 Some random discussion
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-He covers both professional triathletes and amateurs. Best part is the podcasts are arranged by races. So if you're going to race a particular Ironman, you can listen to that particular episode to get an idea of what to expect there.  I've already listened to his [Ironman Copenhegan](https://www.coachterrywilson.com/ironman-copenhagen) episode twice.  
+&lt;p&gt;⁣ &lt;br /&gt;
+And that was the wrap of 3-day session. ⁣⁣ &lt;br /&gt;
+⁣ &lt;br /&gt;
+The beauty of this sport is not only you get to learn so many skill, but meet so inspiring people. Everyone is in the journey to improve themselves and succeed together.⁣⁣ &lt;br /&gt;
+⁣ &lt;br /&gt;
+⁣ &lt;br /&gt;
+⁣ &lt;br /&gt;
+⁣ &lt;br /&gt;
+⁣ &lt;br /&gt;
+⁣&lt;/p&gt;</content><author><name>Rishi Sareen</name><email>rishi[at]jigyasu[dot]com</email></author><summary type="html">My Coach (Kaustubh Radkar) has planned for a 3 days Triathlon Camp in Goa. It was from 8th March to 10th March. Most of the participants were preparing for Ironman 70.3 Goa. Kaustubh and Indrajeet were our coaches for the camp.⁣ Day 1 I arrived at Goa Airport at 2PM from Delhi. As Camp was supposed to start at 4, I immediately fetched a Bike Taxi to Hotel (The International Center) For Friday, only one session was planned - Open Water Swim Session. This session’s focus was on key sea swimming skills - Sighting and Backfloat. Few guys from Pune had cars. We packed ourself in the car, and reached the session venue - Bambolin Beach. Sighting When we are swimming in the pool, there is no need to lift our head and sight. Pool is usually 25 or 50m in length, and we’ve a dedicated lane. But when one is in open water, there is no intuitive way to swim in a straight line. If sighting is not done properly, people tend to drift away. This is likely the most common and costly problem faced by people new to open water swim. Kaustubh and Indrajeet showed us how to integrate sight with the stroke. For me, they corrected how much head to lift (tip: very less lift needed), how to time the headlift with the pull - this gave a very easy bounce. ⁣ ⁣ I have done open sea swim as part of Philippines Full IM. But my sighting was clumsy and tough on the neck. In this session, I could immediately feel the difference - this was an effortless way to sight, and it felt amazingggggg!!!⁣ ⁣ BackFloat ⁣ I used to wonder why do I need to do the back float. But Indrajeet made a good point. If during the swim, Goggles come off (or you are tired and want to pause), the back float is the easiest way to handle the situation.⁣ I have NEVER been able to back float. Never. I’ve tried (and failed) many times - much to the amusement of my family. But kudos to Indrajeet as a teacher - he made a very small correction in my technique, and YES - I could back float. Oh boy! Even if I might not use this skill during the event, it felt amazing to be finally able to do this.⁣ ⁣ A very useful session indeed! Everyone came out from sea smiling, the joy of new skills acquired :) ⁣ 0 The TriCamp Group ⁣ Day 2 ⁣ 6:15AM-6:45AM : Morning Run with small hills. 30” run.⁣ 7AM - 8 AM : Swim session in the sea (Caranzalem Beach, Next to Miramar Beach). This session built on the backfloat. We learnt how to move from freestyle to backfloat, adjust the goggles, and continue to swim. When we got hang of it, it felt so awesome⁣. 10-10:30: Nutrition session with Kaustubh and Maitreyi⁣. 500 500 Listening to the Nutrition Talk 11AM-12PM : Swim session in the pool. This was a technical session, focused on sculling and right leg movement. Some videos were also shot by the coach :-D⁣ 12:30PM - 1PM : Sun was blazing, and we were tired. Perfect time to simulate the race day. Kaustubh made us run for 30” in the sun. During Ironman, it is very important to be able to run with the tired legs. This was a good simulation. Maitreyi and I did a comfortable 5km⁣ run. 0 Run in the heat 4-6PM: Now, with all the drills and technique, this was the time to face the fear. This session called for us to go inside deep sea. Indrajeet (25m) and Kaustubh(50m) were our targets :D. Everyone did this comfortable - big reason was the practice in the sea sessions before.⁣ ⁣ A hectic, but super wonderful day. The group was super awesome, and together we all did this sea swim easily.⁣ 0 Happy faces post the session ⁣ Day 3 ⁣ ⁣6:15AM-6:45AM : 3 repeat of the hill, followed by a surprise extra hill loop. Coach (@radkar82) had a big grin on his face, on successfully surprising us with the extra loop 😊⁣⁣ 7AM - 8AM: Back to the sea. This time everyone was looking forward to it. Not much time was wasted, we directly decided to go to the deep sea. Water was choppier today, but the group took this as another chance to learn. ⁣⁣ The swim was easily done, with some practice on sea entry and exit too.⁣⁣ 0 Some random discussion ⁣ And that was the wrap of 3-day session. ⁣⁣ ⁣ The beauty of this sport is not only you get to learn so many skill, but meet so inspiring people. Everyone is in the journey to improve themselves and succeed together.⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣</summary></entry><entry><title type="html">My Top 5 Triathlon Podcasts</title><link href="http://localhost:4000/triathlon/my-top-5-triathlon-podcast.html" rel="alternate" type="text/html" title="My Top 5 Triathlon Podcasts" /><published>2019-03-24T16:24:43+05:30</published><updated>2019-03-24T16:24:43+05:30</updated><id>http://localhost:4000/triathlon/my-top-5-triathlon-podcast</id><content type="html" xml:base="http://localhost:4000/triathlon/my-top-5-triathlon-podcast.html">&lt;p&gt;In my last article on podcast, I shared &lt;a href=&quot;http://jigyasu.com/podcasts/my-top-5-podcasts.html&quot;&gt;my top 5 fav podcasts&lt;/a&gt;, I introduced podcasts and shared my top 5 favorite podcasts.&lt;/p&gt;
 
-## 3. [That Triathlon Show](https://scientifictriathlon.com/that-triathlon-show/): 
+&lt;p&gt;Continuing on the theme, I want to share few of my Triathlon focussed podcasts. While there are tons of Triathlon specific podcasts, some of them really resonates with my training philosophy. Here are few of them:&lt;br /&gt;
+&lt;!--more--&gt;&lt;/p&gt;
 
-{% include image.html file=&quot;/images/podcast/ThatTriathlonShow.jpg&quot; description=&quot; That Triathlon Show&quot;%}  
-This podcast is geared towards tips on swimming, running, cycling and nutrition. A wealth of knowledge. Mikael Eriksson, the host of the show, is himself a very good triathlete, who is improving very fast.  
+&lt;h2 id=&quot;1-purple-patch-fitness&quot;&gt;1. &lt;a href=&quot;https://purplepatchfitness.com/education/podcasts&quot;&gt;Purple Patch Fitness&lt;/a&gt;:&lt;/h2&gt;
 
-## 4. [Triathlon Taren](https://triathlontaren.com/topics/general/): 
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/podcast/PurplePatch.jpg&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Purple Patch Fitness
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-{% include image.html file=&quot;/images/podcast/Triathlon-Taren-Podcast.jpg&quot; description=&quot; Triathlon Taren Podcast&quot;%}  
-Taren is an all around crazy, and fun guy. And is such a fabulous storehouse of knowledge. I've heard each one of his podcast, and learnt a ton. Along with podcast, he also have a [YouTube Channel](https://www.youtube.com/channel/UC1AKDrz2GvLxD29W9tow66g) where one can find a lot of useful triathlon learning videos.  
+&lt;p&gt;Matt Dixon is one of the top coaches in the Triathlon world. He has a talent of reducing the complex topic to basics, and reducing it to “actionable advice”. His coached triathletes have wom max podium finishes.&lt;br /&gt;
+His podcasts are short (30min to an hour), and packed with actionable knowledge. Particularly his series on nutrition and hydration are just awesome.&lt;/p&gt;
 
-## 5. [Tower 26](https://www.tower26.com/podcasts/): 
+&lt;h2 id=&quot;2-pursuit-of-the-perfect-race&quot;&gt;2. &lt;a href=&quot;https://www.coachterrywilson.com/perfect&quot;&gt;Pursuit of the Perfect Race&lt;/a&gt;&lt;/h2&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/podcast/PerfectRace.jpg&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Pursuit of the Perfect Race
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-{% include image.html file=&quot;/images/podcast/Tower26.png  Tower26&quot;%}  
-Gerry Rodrigues, host of this show, is a towering figure in the world of Open Water Swimming and Triathlon swimming. Many professional triathletes rates him as the best swimming coach. This podcast is focussed more towards Triathlon Swimming, and many great episodes.   
+&lt;p&gt;Coach Terry describes his podcast as&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;I love seeing, hearing, and experiencing the pure emotion of athletes when they overcome obstacles, challenges and hardships to accomplish the previously thought to be impossible.  Challenging athletes to be better, do better, and not make the mistakes of others is important to me. I network with athletes all over the world to discover their victories, challenges, disappointments, mistakes they made, and how they found what worked for them through a podcast.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-Honorary Mentions:  
-1. [Team Oxygen Addict](https://www.oxygenaddict.com/podcast)  
-2. [The Fat Black Podcast](http://www.trispecific.com/category/podcast/)  
+&lt;p&gt;He focus primarily on the race day -&lt;/p&gt;
 
+&lt;ul&gt;
+  &lt;li&gt;Details about the Race - Swim / Bike / Run Portion&lt;/li&gt;
+  &lt;li&gt;T1/T2 setup&lt;/li&gt;
+  &lt;li&gt;Support Arrangements&lt;/li&gt;
+  &lt;li&gt;What went right / wrong&lt;/li&gt;
+&lt;/ul&gt;
 
-That's it, folks. If you're training for Triathlon, and love listening to podcasts, these are some very valuable and fun resources to get started. It is a good way to spend time during those long training rides.</content><author><name>Rishi Sareen</name><email>rishi[at]jigyasu[dot]com</email></author><summary type="html">In my last article on podcast, I shared my top 5 fav podcasts, I introduced podcasts and shared my top 5 favorite podcasts. Continuing on the theme, I want to share few of my Triathlon focussed podcasts. While there are tons of Triathlon specific podcasts, some of them really resonates with my training philosophy. Here are few of them: 1. Purple Patch Fitness: Purple Patch Fitness Matt Dixon is one of the top coaches in the Triathlon world. He has a talent of reducing the complex topic to basics, and reducing it to “actionable advice”. His coached triathletes have wom max podium finishes. His podcasts are short (30min to an hour), and packed with actionable knowledge. Particularly his series on nutrition and hydration are just awesome. 2. Pursuit of the Perfect Race Pursuit of the Perfect Race Coach Terry describes his podcast as I love seeing, hearing, and experiencing the pure emotion of athletes when they overcome obstacles, challenges and hardships to accomplish the previously thought to be impossible. Challenging athletes to be better, do better, and not make the mistakes of others is important to me. I network with athletes all over the world to discover their victories, challenges, disappointments, mistakes they made, and how they found what worked for them through a podcast. He focus primarily on the race day - Details about the Race - Swim / Bike / Run Portion T1/T2 setup Support Arrangements What went right / wrong He covers both professional triathletes and amateurs. Best part is the podcasts are arranged by races. So if you’re going to race a particular Ironman, you can listen to that particular episode to get an idea of what to expect there. I’ve already listened to his Ironman Copenhegan episode twice. 3. That Triathlon Show: That Triathlon Show This podcast is geared towards tips on swimming, running, cycling and nutrition. A wealth of knowledge. Mikael Eriksson, the host of the show, is himself a very good triathlete, who is improving very fast. 4. Triathlon Taren: Triathlon Taren Podcast Taren is an all around crazy, and fun guy. And is such a fabulous storehouse of knowledge. I’ve heard each one of his podcast, and learnt a ton. Along with podcast, he also have a YouTube Channel where one can find a lot of useful triathlon learning videos. 5. Tower 26: Gerry Rodrigues, host of this show, is a towering figure in the world of Open Water Swimming and Triathlon swimming. Many professional triathletes rates him as the best swimming coach. This podcast is focussed more towards Triathlon Swimming, and many great episodes. Honorary Mentions: Team Oxygen Addict The Fat Black Podcast That’s it, folks. If you’re training for Triathlon, and love listening to podcasts, these are some very valuable and fun resources to get started. It is a good way to spend time during those long training rides.</summary></entry><entry><title type="html">MAF Method - Part2</title><link href="http://localhost:4000/running/maf-method-part2.html" rel="alternate" type="text/html" title="MAF Method - Part2" /><published>2019-03-16T07:55:27+05:30</published><updated>2019-03-16T07:55:27+05:30</updated><id>http://localhost:4000/running/maf-method-part2</id><content type="html" xml:base="http://localhost:4000/running/maf-method-part2.html">In the [first part](http://jigyasu.com/running/maf-method-part1.html), we discussed the importance of Aerobic Base Building.  
-In this part, we focus on the &quot;how-to&quot; aspect of it. 
-&lt;!--more--&gt;
+&lt;p&gt;He covers both professional triathletes and amateurs. Best part is the podcasts are arranged by races. So if you’re going to race a particular Ironman, you can listen to that particular episode to get an idea of what to expect there.  I’ve already listened to his &lt;a href=&quot;https://www.coachterrywilson.com/ironman-copenhagen&quot;&gt;Ironman Copenhegan&lt;/a&gt; episode twice.&lt;/p&gt;
 
-## MAF Method
-It is very simple, really.  
-1. Calculate your MAF Heart rate  
-2. Use a heart rate monitor while you run to make sure you don't exceed this rate. Stay 0-10 beats below it.  
-3. Oh, and make sure you spend about 15 minutes warming up by gradually increasing your heart rate to this max number. Cool down for 15 minutes at the end, too.  
+&lt;h2 id=&quot;3-that-triathlon-show&quot;&gt;3. &lt;a href=&quot;https://scientifictriathlon.com/that-triathlon-show/&quot;&gt;That Triathlon Show&lt;/a&gt;:&lt;/h2&gt;
 
-Let us go deep in each of these aspects. 
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/podcast/ThatTriathlonShow.jpg&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;That Triathlon Show
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
+&lt;p&gt;This podcast is geared towards tips on swimming, running, cycling and nutrition. A wealth of knowledge. Mikael Eriksson, the host of the show, is himself a very good triathlete, who is improving very fast.&lt;/p&gt;
 
-## Calculate MAF Heart Rate (Recap)  
+&lt;h2 id=&quot;4-triathlon-taren&quot;&gt;4. &lt;a href=&quot;https://triathlontaren.com/topics/general/&quot;&gt;Triathlon Taren&lt;/a&gt;:&lt;/h2&gt;
 
-To find your maximum aerobic training heart rate, there are two important steps.  
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/podcast/Triathlon-Taren-Podcast.jpg&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Triathlon Taren Podcast
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-1. Subtract your age from 180.
-2. Modify this number by selecting among the following categories the one that best matches your fitness and health profile:  
+&lt;p&gt;Taren is an all around crazy, and fun guy. And is such a fabulous storehouse of knowledge. I’ve heard each one of his podcast, and learnt a ton. Along with podcast, he also have a &lt;a href=&quot;https://www.youtube.com/channel/UC1AKDrz2GvLxD29W9tow66g&quot;&gt;YouTube Channel&lt;/a&gt; where one can find a lot of useful triathlon learning videos.&lt;/p&gt;
 
-    - Category 1 : Recovering from illness or on medication? Subtract 10.  
-    - Category 2 : Frequently sick or regressed in training? Subtract 5.  
-    - Category 2 : Overfat — simply use the waist-to-height ratio. Your waist should be less than half your height — if it’s not, subtract 5.  
-    - Category 3 : If you have been training consistently (at least four times weekly) for up to two years without any of the problems in above, keep the number (180–age) the same.  
-    - Category 4 : Been training regularly for 2 yeara, and improving without problems? Add 5.  
+&lt;h2 id=&quot;5-tower-26&quot;&gt;5. &lt;a href=&quot;https://www.tower26.com/podcasts/&quot;&gt;Tower 26&lt;/a&gt;:&lt;/h2&gt;
 
-## How to use Heart Rate monitor  
-In my experience, wrist based Heart Rate Monitors are not very accurate. Wrist based HR monitor actually measures pulse and not directly HR. Also, the pulse reading is impacted by many factors - tightness of the band, hair on the skin, surrounding light. It is good to measure when stationary, but gives variance during a workout. 
+&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/podcast/Tower26.png  Tower26&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-I strongly recommend to invest in a good Chest Based Heart Rate Monitor.   
-Most of good Chest Based HRM come with 2 transmission protocol - ANT and Bluetooth. ANT allows to connect to your smartwatch, and Bluetooth allows to connect to your iOS/Android smartphone.  
+&lt;p&gt;Gerry Rodrigues, host of this show, is a towering figure in the world of Open Water Swimming and Triathlon swimming. Many professional triathletes rates him as the best swimming coach. This podcast is focussed more towards Triathlon Swimming, and many great episodes.&lt;/p&gt;
 
-In India, you can pick [Geonaute from decathlon.](https://www.decathlon.in/p/8334795_dual-ant-bluetooth-smart-heart-rate-monitor-strap.html). It is a good value for money.  
-Other very good brands are:    
+&lt;p&gt;Honorary Mentions:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oxygenaddict.com/podcast&quot;&gt;Team Oxygen Addict&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.trispecific.com/category/podcast/&quot;&gt;The Fat Black Podcast&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
-* [Wahoo Tickr](https://www.wahoofitness.com/devices/heart-rate-monitors/wahoo-tickr-heart-rate-strap) &lt;= Go for Ticr, TicrX is overkill for most people.    
-* [Garmin HRM](https://buy.garmin.com/en-US/US/p/pn/010-12883-00) &lt;= If you into triathlon, then Garmin Tri is a good one to pick. 
-* [Polar H1](https://www.polar.com/en/products/accessories/H1_heart_rate_sensor)  
+&lt;p&gt;That’s it, folks. If you’re training for Triathlon, and love listening to podcasts, these are some very valuable and fun resources to get started. It is a good way to spend time during those long training rides.&lt;/p&gt;</content><author><name>Rishi Sareen</name><email>rishi[at]jigyasu[dot]com</email></author><summary type="html">In my last article on podcast, I shared my top 5 fav podcasts, I introduced podcasts and shared my top 5 favorite podcasts. Continuing on the theme, I want to share few of my Triathlon focussed podcasts. While there are tons of Triathlon specific podcasts, some of them really resonates with my training philosophy. Here are few of them: 1. Purple Patch Fitness: Purple Patch Fitness Matt Dixon is one of the top coaches in the Triathlon world. He has a talent of reducing the complex topic to basics, and reducing it to “actionable advice”. His coached triathletes have wom max podium finishes. His podcasts are short (30min to an hour), and packed with actionable knowledge. Particularly his series on nutrition and hydration are just awesome. 2. Pursuit of the Perfect Race Pursuit of the Perfect Race Coach Terry describes his podcast as I love seeing, hearing, and experiencing the pure emotion of athletes when they overcome obstacles, challenges and hardships to accomplish the previously thought to be impossible. Challenging athletes to be better, do better, and not make the mistakes of others is important to me. I network with athletes all over the world to discover their victories, challenges, disappointments, mistakes they made, and how they found what worked for them through a podcast. He focus primarily on the race day - Details about the Race - Swim / Bike / Run Portion T1/T2 setup Support Arrangements What went right / wrong He covers both professional triathletes and amateurs. Best part is the podcasts are arranged by races. So if you’re going to race a particular Ironman, you can listen to that particular episode to get an idea of what to expect there. I’ve already listened to his Ironman Copenhegan episode twice. 3. That Triathlon Show: That Triathlon Show This podcast is geared towards tips on swimming, running, cycling and nutrition. A wealth of knowledge. Mikael Eriksson, the host of the show, is himself a very good triathlete, who is improving very fast. 4. Triathlon Taren: Triathlon Taren Podcast Taren is an all around crazy, and fun guy. And is such a fabulous storehouse of knowledge. I’ve heard each one of his podcast, and learnt a ton. Along with podcast, he also have a YouTube Channel where one can find a lot of useful triathlon learning videos. 5. Tower 26: Gerry Rodrigues, host of this show, is a towering figure in the world of Open Water Swimming and Triathlon swimming. Many professional triathletes rates him as the best swimming coach. This podcast is focussed more towards Triathlon Swimming, and many great episodes. Honorary Mentions: Team Oxygen Addict The Fat Black Podcast That’s it, folks. If you’re training for Triathlon, and love listening to podcasts, these are some very valuable and fun resources to get started. It is a good way to spend time during those long training rides.</summary></entry><entry><title type="html">MAF Method - Part2</title><link href="http://localhost:4000/running/maf-method-part2.html" rel="alternate" type="text/html" title="MAF Method - Part2" /><published>2019-03-16T07:55:27+05:30</published><updated>2019-03-16T07:55:27+05:30</updated><id>http://localhost:4000/running/maf-method-part2</id><content type="html" xml:base="http://localhost:4000/running/maf-method-part2.html">&lt;p&gt;In the &lt;a href=&quot;http://jigyasu.com/running/maf-method-part1.html&quot;&gt;first part&lt;/a&gt;, we discussed the importance of Aerobic Base Building.&lt;br /&gt;
+In this part, we focus on the “how-to” aspect of it. 
+&lt;!--more--&gt;&lt;/p&gt;
 
-Ensure to wet the strap before wearing it. And wash it with soap water after 3-4 use.  
+&lt;h2 id=&quot;maf-method&quot;&gt;MAF Method&lt;/h2&gt;
+&lt;p&gt;It is very simple, really.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Calculate your MAF Heart rate&lt;/li&gt;
+  &lt;li&gt;Use a heart rate monitor while you run to make sure you don’t exceed this rate. Stay 0-10 beats below it.&lt;/li&gt;
+  &lt;li&gt;Oh, and make sure you spend about 15 minutes warming up by gradually increasing your heart rate to this max number. Cool down for 15 minutes at the end, too.&lt;/li&gt;
+&lt;/ol&gt;
 
-## Run - Warmup  
+&lt;p&gt;Let us go deep in each of these aspects.&lt;/p&gt;
 
-- Warmup helps by gradually increasing the flow of blood sent to muscles will help them burn fat better, use oxygen more efficiently and decrease chance of injury. Sudden start of the run increases HR very quick.  
-- No stretches for the warmup. One should warmup for 15min with a light run.  
-- Do a complete 15min warmup before you start the run. This is **MANDATORY.**  
-- Divide this 15min in 5 sets of 3min each.  
-- With each set, increase the intensity up to increase HR by 10-12beats. Target is to reach your MAF zone by end of the warmup  
-  
-**Warmup Sample (Each set is of 3min)**  
+&lt;h2 id=&quot;calculate-maf-heart-rate-recap&quot;&gt;Calculate MAF Heart Rate (Recap)&lt;/h2&gt;
 
-- Set1 =&gt; Normal Walk =&gt; HR: 80bpm for example    
-- Set2 =&gt; Increase to brisk walk to increase HR to 90bpm    
-- Set3 =&gt; Increase to a very light jog, or run + walk. Increase HR to 100-105bpm    
-- Set4 =&gt; Jog for longer time, increase HR to 115bpm    
-- Set5 =&gt; Continue Jog, increase HR to 125bpm  
+&lt;p&gt;To find your maximum aerobic training heart rate, there are two important steps.&lt;/p&gt;
 
-## Run - Main Set  
+&lt;ol&gt;
+  &lt;li&gt;Subtract your age from 180.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Modify this number by selecting among the following categories the one that best matches your fitness and health profile:&lt;/p&gt;
 
-1. Set an alarm on your watch or phone - to alert you if you reach your MAF Heart Rate. I've an MAF of 145, so I usually put an alarm of 140.  
+    &lt;ul&gt;
+      &lt;li&gt;Category 1 : Recovering from illness or on medication? Subtract 10.&lt;/li&gt;
+      &lt;li&gt;Category 2 : Frequently sick or regressed in training? Subtract 5.&lt;/li&gt;
+      &lt;li&gt;Category 2 : Overfat — simply use the waist-to-height ratio. Your waist should be less than half your height — if it’s not, subtract 5.&lt;/li&gt;
+      &lt;li&gt;Category 3 : If you have been training consistently (at least four times weekly) for up to two years without any of the problems in above, keep the number (180–age) the same.&lt;/li&gt;
+      &lt;li&gt;Category 4 : Been training regularly for 2 yeara, and improving without problems? Add 5.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-- If you're using Garmin watch, it has alarm functionality.  
-- If you're using phone, I recommend Wahoo Fitness App. It is free, and you can add/customize alerts. One can later upload workout on Strava from Wahoo App itself (if it is not on strava, it didn't happen :))  
-2. Slow down when alarm goes off . Sometime you might need to walk to bring the HR back to range.  
-3. For workout &gt; 60min, take hydration - preferably water with electrolyte.  
+&lt;h2 id=&quot;how-to-use-heart-rate-monitor&quot;&gt;How to use Heart Rate monitor&lt;/h2&gt;
+&lt;p&gt;In my experience, wrist based Heart Rate Monitors are not very accurate. Wrist based HR monitor actually measures pulse and not directly HR. Also, the pulse reading is impacted by many factors - tightness of the band, hair on the skin, surrounding light. It is good to measure when stationary, but gives variance during a workout.&lt;/p&gt;
 
-## Cooldown  
+&lt;p&gt;I strongly recommend to invest in a good Chest Based Heart Rate Monitor. &lt;br /&gt;
+Most of good Chest Based HRM come with 2 transmission protocol - ANT and Bluetooth. ANT allows to connect to your smartwatch, and Bluetooth allows to connect to your iOS/Android smartphone.&lt;/p&gt;
 
-1. 5-10 min of cooldown - reverse of warmup. Slowly come to stop  
-2. Small stretches ok to do here  
+&lt;p&gt;In India, you can pick &lt;a href=&quot;https://www.decathlon.in/p/8334795_dual-ant-bluetooth-smart-heart-rate-monitor-strap.html&quot;&gt;Geonaute from decathlon.&lt;/a&gt;. It is a good value for money.&lt;br /&gt;
+Other very good brands are:&lt;/p&gt;
 
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wahoofitness.com/devices/heart-rate-monitors/wahoo-tickr-heart-rate-strap&quot;&gt;Wahoo Tickr&lt;/a&gt; &amp;lt;= Go for Ticr, TicrX is overkill for most people.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://buy.garmin.com/en-US/US/p/pn/010-12883-00&quot;&gt;Garmin HRM&lt;/a&gt; &amp;lt;= If you into triathlon, then Garmin Tri is a good one to pick.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.polar.com/en/products/accessories/H1_heart_rate_sensor&quot;&gt;Polar H1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-## Tips for Beginners
-1. **Be Patient**   
-MAF Method works, and deliver fantastic results while keeping you healthy. But this is low progress - initially in the start. Most of the beginners have to walk most of the time. It is frustrating, many people give up there - assuming no progress is there. Remember, it took your body years to be that aerobically unfit. So progress will not come overnight. Usually it takes 3-4 months before you see the results.  
-2. **Do the full warmup**  
-I am repeating myself, but don't skip on this.  
-3. **Limit Main to max 90m**   
-Dr Maffetone suggests that the aerobic gain decreases marginally after 90min. If you've time, you can do 2 sets - one in morning and one in evening. But any single set should be under 90min.   
-4. **MAF is your maximum HR**  
-Lot of beginners assume it is good to get your average HR as MAF. It is not. You should not exceed your MAF HR during the main set. Ok, few seconds here and there is ok, but generally you should slow down before hitting max HR.  
-5. **Body Temperature is the Key**  
-If weather is too hot, then body also move blood to skin to make it sweat and cool down. This also increase Heart Rate. So, in summers, good time to do MAF is early morning or evening, when weather is coolor. Or, one can go to the Gym.    
-6. **Focus on the Deep Breath**  
-As MAF run is slow in the beginning, and effort is less, it is best time to focus on the running form and deep breathing.  
-7. **Join Maffetone Group on FB**  
-It is a wonderful group, and most of the beginners questions are answered there. Good to know that you are not alone in the struggle. You can find the [group here](https://www.facebook.com/groups/1452390158396719/)
+&lt;p&gt;Ensure to wet the strap before wearing it. And wash it with soap water after 3-4 use.&lt;/p&gt;
 
-## Tips for Advance Runners / Cyclists / Endurance Athlete
-1. If you want to increase MAF pace in lesser time, consider doing workout 4-5 times a week. Weekly mileage of 40-50km will give a very quick run.   
-2. As we discussed in [part1](http://jigyasu.com/running/maf-method-part1.html), Fat is most clean fuel to burn. Fasted runs helps not only to progress quicker in MAF pace, but also helps to burn fat as the fuel.  
-  
-That's it for now. I will add in more tips later.  
-  
-I've been following MAF method for more than a year. Not only it has made running a pleasure, but helped me to get faster while staying injury free. Two months back, I did a Half Marathon in 1:58, and my av HR was 154.  
-Feel free to reach out to me, would love to connect to people trying this out.</content><author><name>Rishi Sareen</name><email>rishi[at]jigyasu[dot]com</email></author><summary type="html">In the first part, we discussed the importance of Aerobic Base Building. In this part, we focus on the “how-to” aspect of it. MAF Method It is very simple, really. Calculate your MAF Heart rate Use a heart rate monitor while you run to make sure you don’t exceed this rate. Stay 0-10 beats below it. Oh, and make sure you spend about 15 minutes warming up by gradually increasing your heart rate to this max number. Cool down for 15 minutes at the end, too. Let us go deep in each of these aspects. Calculate MAF Heart Rate (Recap) To find your maximum aerobic training heart rate, there are two important steps. Subtract your age from 180. Modify this number by selecting among the following categories the one that best matches your fitness and health profile: Category 1 : Recovering from illness or on medication? Subtract 10. Category 2 : Frequently sick or regressed in training? Subtract 5. Category 2 : Overfat — simply use the waist-to-height ratio. Your waist should be less than half your height — if it’s not, subtract 5. Category 3 : If you have been training consistently (at least four times weekly) for up to two years without any of the problems in above, keep the number (180–age) the same. Category 4 : Been training regularly for 2 yeara, and improving without problems? Add 5. How to use Heart Rate monitor In my experience, wrist based Heart Rate Monitors are not very accurate. Wrist based HR monitor actually measures pulse and not directly HR. Also, the pulse reading is impacted by many factors - tightness of the band, hair on the skin, surrounding light. It is good to measure when stationary, but gives variance during a workout. I strongly recommend to invest in a good Chest Based Heart Rate Monitor. Most of good Chest Based HRM come with 2 transmission protocol - ANT and Bluetooth. ANT allows to connect to your smartwatch, and Bluetooth allows to connect to your iOS/Android smartphone. In India, you can pick Geonaute from decathlon.. It is a good value for money. Other very good brands are: Wahoo Tickr &amp;lt;= Go for Ticr, TicrX is overkill for most people. Garmin HRM &amp;lt;= If you into triathlon, then Garmin Tri is a good one to pick. Polar H1 Ensure to wet the strap before wearing it. And wash it with soap water after 3-4 use. Run - Warmup Warmup helps by gradually increasing the flow of blood sent to muscles will help them burn fat better, use oxygen more efficiently and decrease chance of injury. Sudden start of the run increases HR very quick. No stretches for the warmup. One should warmup for 15min with a light run. Do a complete 15min warmup before you start the run. This is MANDATORY. Divide this 15min in 5 sets of 3min each. With each set, increase the intensity up to increase HR by 10-12beats. Target is to reach your MAF zone by end of the warmup Warmup Sample (Each set is of 3min) Set1 =&amp;gt; Normal Walk =&amp;gt; HR: 80bpm for example Set2 =&amp;gt; Increase to brisk walk to increase HR to 90bpm Set3 =&amp;gt; Increase to a very light jog, or run + walk. Increase HR to 100-105bpm Set4 =&amp;gt; Jog for longer time, increase HR to 115bpm Set5 =&amp;gt; Continue Jog, increase HR to 125bpm Run - Main Set Set an alarm on your watch or phone - to alert you if you reach your MAF Heart Rate. I’ve an MAF of 145, so I usually put an alarm of 140. If you’re using Garmin watch, it has alarm functionality. If you’re using phone, I recommend Wahoo Fitness App. It is free, and you can add/customize alerts. One can later upload workout on Strava from Wahoo App itself (if it is not on strava, it didn’t happen :)) Slow down when alarm goes off . Sometime you might need to walk to bring the HR back to range. For workout &amp;gt; 60min, take hydration - preferably water with electrolyte. Cooldown 5-10 min of cooldown - reverse of warmup. Slowly come to stop Small stretches ok to do here Tips for Beginners Be Patient MAF Method works, and deliver fantastic results while keeping you healthy. But this is low progress - initially in the start. Most of the beginners have to walk most of the time. It is frustrating, many people give up there - assuming no progress is there. Remember, it took your body years to be that aerobically unfit. So progress will not come overnight. Usually it takes 3-4 months before you see the results. Do the full warmup I am repeating myself, but don’t skip on this. Limit Main to max 90m Dr Maffetone suggests that the aerobic gain decreases marginally after 90min. If you’ve time, you can do 2 sets - one in morning and one in evening. But any single set should be under 90min. MAF is your maximum HR Lot of beginners assume it is good to get your average HR as MAF. It is not. You should not exceed your MAF HR during the main set. Ok, few seconds here and there is ok, but generally you should slow down before hitting max HR. Body Temperature is the Key If weather is too hot, then body also move blood to skin to make it sweat and cool down. This also increase Heart Rate. So, in summers, good time to do MAF is early morning or evening, when weather is coolor. Or, one can go to the Gym. Focus on the Deep Breath As MAF run is slow in the beginning, and effort is less, it is best time to focus on the running form and deep breathing. Join Maffetone Group on FB It is a wonderful group, and most of the beginners questions are answered there. Good to know that you are not alone in the struggle. You can find the group here Tips for Advance Runners / Cyclists / Endurance Athlete If you want to increase MAF pace in lesser time, consider doing workout 4-5 times a week. Weekly mileage of 40-50km will give a very quick run. As we discussed in part1, Fat is most clean fuel to burn. Fasted runs helps not only to progress quicker in MAF pace, but also helps to burn fat as the fuel. That’s it for now. I will add in more tips later. I’ve been following MAF method for more than a year. Not only it has made running a pleasure, but helped me to get faster while staying injury free. Two months back, I did a Half Marathon in 1:58, and my av HR was 154. Feel free to reach out to me, would love to connect to people trying this out.</summary></entry><entry><title type="html">MAF Method - Part1</title><link href="http://localhost:4000/running/maf-method-part1.html" rel="alternate" type="text/html" title="MAF Method - Part1" /><published>2019-03-10T12:16:16+05:30</published><updated>2019-03-10T12:16:16+05:30</updated><id>http://localhost:4000/running/maf-method-part1</id><content type="html" xml:base="http://localhost:4000/running/maf-method-part1.html"># MAF method - Background
+&lt;h2 id=&quot;run---warmup&quot;&gt;Run - Warmup&lt;/h2&gt;
 
-MAF stands for Maximum Aerobic Function. This method deals with building aerobic base. This is applicable to all sports &gt;5min in duration. This is one of the most powerful way to train.  
-Dr Phil Maffetone pioneered this method. Many top athletes, in a variety of sports, have followed this method to achieve top success.  
+&lt;ul&gt;
+  &lt;li&gt;Warmup helps by gradually increasing the flow of blood sent to muscles will help them burn fat better, use oxygen more efficiently and decrease chance of injury. Sudden start of the run increases HR very quick.&lt;/li&gt;
+  &lt;li&gt;No stretches for the warmup. One should warmup for 15min with a light run.&lt;/li&gt;
+  &lt;li&gt;Do a complete 15min warmup before you start the run. This is &lt;strong&gt;MANDATORY.&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Divide this 15min in 5 sets of 3min each.&lt;/li&gt;
+  &lt;li&gt;With each set, increase the intensity up to increase HR by 10-12beats. Target is to reach your MAF zone by end of the warmup&lt;/li&gt;
+&lt;/ul&gt;
 
-According to Triathlete magazine, Mark Allen is the greatest triathlete ever. He won six Ironman World-Championships.  
-His secret? **Maffetone Method.**  
-&lt;!--more--&gt;
+&lt;p&gt;&lt;strong&gt;Warmup Sample (Each set is of 3min)&lt;/strong&gt;&lt;/p&gt;
 
-The approach is discussed in two parts:  
+&lt;ul&gt;
+  &lt;li&gt;Set1 =&amp;gt; Normal Walk =&amp;gt; HR: 80bpm for example&lt;/li&gt;
+  &lt;li&gt;Set2 =&amp;gt; Increase to brisk walk to increase HR to 90bpm&lt;/li&gt;
+  &lt;li&gt;Set3 =&amp;gt; Increase to a very light jog, or run + walk. Increase HR to 100-105bpm&lt;/li&gt;
+  &lt;li&gt;Set4 =&amp;gt; Jog for longer time, increase HR to 115bpm&lt;/li&gt;
+  &lt;li&gt;Set5 =&amp;gt; Continue Jog, increase HR to 125bpm&lt;/li&gt;
+&lt;/ul&gt;
 
-- The science behind aerobic training  
-- [How-to approach the MAF Training](http://jigyasu.com/running/maf-method-part2.html)
+&lt;h2 id=&quot;run---main-set&quot;&gt;Run - Main Set&lt;/h2&gt;
 
-People usually jump on the &quot;how-to&quot; part. While it is important, understand the &quot;why&quot; part is also critical.  
-&lt;br&gt;
+&lt;ol&gt;
+  &lt;li&gt;Set an alarm on your watch or phone - to alert you if you reach your MAF Heart Rate. I’ve an MAF of 145, so I usually put an alarm of 140.&lt;/li&gt;
+&lt;/ol&gt;
 
-# Basics - Aerobic System vs Anaerobic System
+&lt;ul&gt;
+  &lt;li&gt;If you’re using Garmin watch, it has alarm functionality.&lt;/li&gt;
+  &lt;li&gt;If you’re using phone, I recommend Wahoo Fitness App. It is free, and you can add/customize alerts. One can later upload workout on Strava from Wahoo App itself (if it is not on strava, it didn’t happen :))
+    &lt;ol&gt;
+      &lt;li&gt;Slow down when alarm goes off . Sometime you might need to walk to bring the HR back to range.&lt;/li&gt;
+      &lt;li&gt;For workout &amp;gt; 60min, take hydration - preferably water with electrolyte.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-- **Aerobic:**   The ability of the body to use more fat and less sugar (glucose) for energy. One needs oxygen to burn energy here.  
-- **Anaerobic:** The ability of the body to use more sugar and less fat for energy. No Oxygen needed to burn energy in Anaerobic state.  
+&lt;h2 id=&quot;cooldown&quot;&gt;Cooldown&lt;/h2&gt;
 
-**The Aerobic System**  
-The conversion of fat to energy—fat burning—takes place in the aerobic muscles (these are sometimes called slow-twitch or red muscle fibers).  
-Humans  are well endowed with these muscles and they are the ones depended upon during activity of longer duration—they can function well for many hours and even days in a well-trained athlete.  
+&lt;ol&gt;
+  &lt;li&gt;5-10 min of cooldown - reverse of warmup. Slowly come to stop&lt;/li&gt;
+  &lt;li&gt;Small stretches ok to do here&lt;/li&gt;
+&lt;/ol&gt;
 
-&gt; Birds Fly More Than 10,000 Kms **Nonstop** In Its Annual Fall Migration. The birds weigh no more than 700gm when they leave. Half of that is fat, which they burn off completely during the flight.  
+&lt;h2 id=&quot;tips-for-beginners&quot;&gt;Tips for Beginners&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Be Patient&lt;/strong&gt; &lt;br /&gt;
+MAF Method works, and deliver fantastic results while keeping you healthy. But this is low progress - initially in the start. Most of the beginners have to walk most of the time. It is frustrating, many people give up there - assuming no progress is there. Remember, it took your body years to be that aerobically unfit. So progress will not come overnight. Usually it takes 3-4 months before you see the results.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Do the full warmup&lt;/strong&gt;&lt;br /&gt;
+I am repeating myself, but don’t skip on this.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Limit Main to max 90m&lt;/strong&gt; &lt;br /&gt;
+Dr Maffetone suggests that the aerobic gain decreases marginally after 90min. If you’ve time, you can do 2 sets - one in morning and one in evening. But any single set should be under 90min.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;MAF is your maximum HR&lt;/strong&gt;&lt;br /&gt;
+Lot of beginners assume it is good to get your average HR as MAF. It is not. You should not exceed your MAF HR during the main set. Ok, few seconds here and there is ok, but generally you should slow down before hitting max HR.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Body Temperature is the Key&lt;/strong&gt;&lt;br /&gt;
+If weather is too hot, then body also move blood to skin to make it sweat and cool down. This also increase Heart Rate. So, in summers, good time to do MAF is early morning or evening, when weather is coolor. Or, one can go to the Gym.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Focus on the Deep Breath&lt;/strong&gt;&lt;br /&gt;
+As MAF run is slow in the beginning, and effort is less, it is best time to focus on the running form and deep breathing.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Join Maffetone Group on FB&lt;/strong&gt;&lt;br /&gt;
+It is a wonderful group, and most of the beginners questions are answered there. Good to know that you are not alone in the struggle. You can find the &lt;a href=&quot;https://www.facebook.com/groups/1452390158396719/&quot;&gt;group here&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
-This sort of fat burning is possible in humans too, if trained properly.  
+&lt;h2 id=&quot;tips-for-advance-runners--cyclists--endurance-athlete&quot;&gt;Tips for Advance Runners / Cyclists / Endurance Athlete&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;If you want to increase MAF pace in lesser time, consider doing workout 4-5 times a week. Weekly mileage of 40-50km will give a very quick run.&lt;/li&gt;
+  &lt;li&gt;As we discussed in &lt;a href=&quot;http://jigyasu.com/running/maf-method-part1.html&quot;&gt;part1&lt;/a&gt;, Fat is most clean fuel to burn. Fasted runs helps not only to progress quicker in MAF pace, but also helps to burn fat as the fuel.&lt;/li&gt;
+&lt;/ol&gt;
 
-**The Anaerobic System**  
-Sugar (glucose) is converted to energy in the anaerobic muscles. These are sometimes called fast-twitch or white muscle fibers.   
-They are used for short-term power (such as weight lifting) and sprint speed (such as an all-out 100 meter race). These attributes are used very little in endurance sports.  
-Anaerobic energy is also very limited—relying only on this system won’t even allow a 5K race to be completed.  
-&lt;br&gt;
+&lt;p&gt;That’s it for now. I will add in more tips later.&lt;/p&gt;
 
-[{% include image.html file=&quot;/images/MAF/Aero2.PNG&quot; description=&quot;Aerobic vs Anaerobic &quot;%}](/images/MAF/Aero2.PNG)  
+&lt;p&gt;I’ve been following MAF method for more than a year. Not only it has made running a pleasure, but helped me to get faster while staying injury free. Two months back, I did a Half Marathon in 1:58, and my av HR was 154.&lt;br /&gt;
+Feel free to reach out to me, would love to connect to people trying this out.&lt;/p&gt;</content><author><name>Rishi Sareen</name><email>rishi[at]jigyasu[dot]com</email></author><summary type="html">In the first part, we discussed the importance of Aerobic Base Building. In this part, we focus on the “how-to” aspect of it. MAF Method It is very simple, really. Calculate your MAF Heart rate Use a heart rate monitor while you run to make sure you don’t exceed this rate. Stay 0-10 beats below it. Oh, and make sure you spend about 15 minutes warming up by gradually increasing your heart rate to this max number. Cool down for 15 minutes at the end, too. Let us go deep in each of these aspects. Calculate MAF Heart Rate (Recap) To find your maximum aerobic training heart rate, there are two important steps. Subtract your age from 180. Modify this number by selecting among the following categories the one that best matches your fitness and health profile: Category 1 : Recovering from illness or on medication? Subtract 10. Category 2 : Frequently sick or regressed in training? Subtract 5. Category 2 : Overfat — simply use the waist-to-height ratio. Your waist should be less than half your height — if it’s not, subtract 5. Category 3 : If you have been training consistently (at least four times weekly) for up to two years without any of the problems in above, keep the number (180–age) the same. Category 4 : Been training regularly for 2 yeara, and improving without problems? Add 5. How to use Heart Rate monitor In my experience, wrist based Heart Rate Monitors are not very accurate. Wrist based HR monitor actually measures pulse and not directly HR. Also, the pulse reading is impacted by many factors - tightness of the band, hair on the skin, surrounding light. It is good to measure when stationary, but gives variance during a workout. I strongly recommend to invest in a good Chest Based Heart Rate Monitor. Most of good Chest Based HRM come with 2 transmission protocol - ANT and Bluetooth. ANT allows to connect to your smartwatch, and Bluetooth allows to connect to your iOS/Android smartphone. In India, you can pick Geonaute from decathlon.. It is a good value for money. Other very good brands are: Wahoo Tickr &amp;lt;= Go for Ticr, TicrX is overkill for most people. Garmin HRM &amp;lt;= If you into triathlon, then Garmin Tri is a good one to pick. Polar H1 Ensure to wet the strap before wearing it. And wash it with soap water after 3-4 use. Run - Warmup Warmup helps by gradually increasing the flow of blood sent to muscles will help them burn fat better, use oxygen more efficiently and decrease chance of injury. Sudden start of the run increases HR very quick. No stretches for the warmup. One should warmup for 15min with a light run. Do a complete 15min warmup before you start the run. This is MANDATORY. Divide this 15min in 5 sets of 3min each. With each set, increase the intensity up to increase HR by 10-12beats. Target is to reach your MAF zone by end of the warmup Warmup Sample (Each set is of 3min) Set1 =&amp;gt; Normal Walk =&amp;gt; HR: 80bpm for example Set2 =&amp;gt; Increase to brisk walk to increase HR to 90bpm Set3 =&amp;gt; Increase to a very light jog, or run + walk. Increase HR to 100-105bpm Set4 =&amp;gt; Jog for longer time, increase HR to 115bpm Set5 =&amp;gt; Continue Jog, increase HR to 125bpm Run - Main Set Set an alarm on your watch or phone - to alert you if you reach your MAF Heart Rate. I’ve an MAF of 145, so I usually put an alarm of 140. If you’re using Garmin watch, it has alarm functionality. If you’re using phone, I recommend Wahoo Fitness App. It is free, and you can add/customize alerts. One can later upload workout on Strava from Wahoo App itself (if it is not on strava, it didn’t happen :)) Slow down when alarm goes off . Sometime you might need to walk to bring the HR back to range. For workout &amp;gt; 60min, take hydration - preferably water with electrolyte. Cooldown 5-10 min of cooldown - reverse of warmup. Slowly come to stop Small stretches ok to do here Tips for Beginners Be Patient MAF Method works, and deliver fantastic results while keeping you healthy. But this is low progress - initially in the start. Most of the beginners have to walk most of the time. It is frustrating, many people give up there - assuming no progress is there. Remember, it took your body years to be that aerobically unfit. So progress will not come overnight. Usually it takes 3-4 months before you see the results. Do the full warmup I am repeating myself, but don’t skip on this. Limit Main to max 90m Dr Maffetone suggests that the aerobic gain decreases marginally after 90min. If you’ve time, you can do 2 sets - one in morning and one in evening. But any single set should be under 90min. MAF is your maximum HR Lot of beginners assume it is good to get your average HR as MAF. It is not. You should not exceed your MAF HR during the main set. Ok, few seconds here and there is ok, but generally you should slow down before hitting max HR. Body Temperature is the Key If weather is too hot, then body also move blood to skin to make it sweat and cool down. This also increase Heart Rate. So, in summers, good time to do MAF is early morning or evening, when weather is coolor. Or, one can go to the Gym. Focus on the Deep Breath As MAF run is slow in the beginning, and effort is less, it is best time to focus on the running form and deep breathing. Join Maffetone Group on FB It is a wonderful group, and most of the beginners questions are answered there. Good to know that you are not alone in the struggle. You can find the group here Tips for Advance Runners / Cyclists / Endurance Athlete If you want to increase MAF pace in lesser time, consider doing workout 4-5 times a week. Weekly mileage of 40-50km will give a very quick run. As we discussed in part1, Fat is most clean fuel to burn. Fasted runs helps not only to progress quicker in MAF pace, but also helps to burn fat as the fuel. That’s it for now. I will add in more tips later. I’ve been following MAF method for more than a year. Not only it has made running a pleasure, but helped me to get faster while staying injury free. Two months back, I did a Half Marathon in 1:58, and my av HR was 154. Feel free to reach out to me, would love to connect to people trying this out.</summary></entry><entry><title type="html">MAF Method - Part1</title><link href="http://localhost:4000/running/maf-method-part1.html" rel="alternate" type="text/html" title="MAF Method - Part1" /><published>2019-03-10T12:16:16+05:30</published><updated>2019-03-10T12:16:16+05:30</updated><id>http://localhost:4000/running/maf-method-part1</id><content type="html" xml:base="http://localhost:4000/running/maf-method-part1.html">&lt;h1 id=&quot;maf-method---background&quot;&gt;MAF method - Background&lt;/h1&gt;
 
-&gt;  
+&lt;p&gt;MAF stands for Maximum Aerobic Function. This method deals with building aerobic base. This is applicable to all sports &amp;gt;5min in duration. This is one of the most powerful way to train.&lt;br /&gt;
+Dr Phil Maffetone pioneered this method. Many top athletes, in a variety of sports, have followed this method to achieve top success.&lt;/p&gt;
 
-&lt;br&gt;
-# Why Aerobic System is important to train   
-Maffetone tells us that, in an event that lasts longer than one hour, 98% (!!!) of the endurance energy used is derived from our aerobic system.   
-If the event is over two hours, 99% (!!!) of the endurance energy will come from our aerobic system. Therefore, if you want to be a great endurance athlete, you’d be wise to build a VERY strong aerobic base.   
+&lt;p&gt;According to Triathlete magazine, Mark Allen is the greatest triathlete ever. He won six Ironman World-Championships.&lt;br /&gt;
+His secret? &lt;strong&gt;Maffetone Method.&lt;/strong&gt;&lt;br /&gt;
+&lt;!--more--&gt;&lt;/p&gt;
 
-&lt;insert image here&gt;
-[{% include image.html file=&quot;/images/MAF/aerobic-and-anaerobic-energy.png&quot; description=&quot;Aerobic vs Anaerobic &quot;%}](/images/MAF/aerobic-and-anaerobic-energy.png)  
+&lt;p&gt;The approach is discussed in two parts:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The science behind aerobic training&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jigyasu.com/running/maf-method-part2.html&quot;&gt;How-to approach the MAF Training&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;People usually jump on the “how-to” part. While it is important, understand the “why” part is also critical.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;basics---aerobic-system-vs-anaerobic-system&quot;&gt;Basics - Aerobic System vs Anaerobic System&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Aerobic:&lt;/strong&gt;   The ability of the body to use more fat and less sugar (glucose) for energy. One needs oxygen to burn energy here.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Anaerobic:&lt;/strong&gt; The ability of the body to use more sugar and less fat for energy. No Oxygen needed to burn energy in Anaerobic state.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;The Aerobic System&lt;/strong&gt;&lt;br /&gt;
+The conversion of fat to energy—fat burning—takes place in the aerobic muscles (these are sometimes called slow-twitch or red muscle fibers).&lt;br /&gt;
+Humans  are well endowed with these muscles and they are the ones depended upon during activity of longer duration—they can function well for many hours and even days in a well-trained athlete.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Birds Fly More Than 10,000 Kms &lt;strong&gt;Nonstop&lt;/strong&gt; In Its Annual Fall Migration. The birds weigh no more than 700gm when they leave. Half of that is fat, which they burn off completely during the flight.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This sort of fat burning is possible in humans too, if trained properly.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Anaerobic System&lt;/strong&gt;&lt;br /&gt;
+Sugar (glucose) is converted to energy in the anaerobic muscles. These are sometimes called fast-twitch or white muscle fibers. &lt;br /&gt;
+They are used for short-term power (such as weight lifting) and sprint speed (such as an all-out 100 meter race). These attributes are used very little in endurance sports.&lt;br /&gt;
+Anaerobic energy is also very limited—relying only on this system won’t even allow a 5K race to be completed.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;[&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/MAF/Aero2.PNG&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Aerobic vs Anaerobic
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;](/images/MAF/Aero2.PNG)&lt;/p&gt;
+
+&lt;blockquote&gt;
+
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;why-aerobic-system-is-important-to-train&quot;&gt;Why Aerobic System is important to train&lt;/h1&gt;
+&lt;p&gt;Maffetone tells us that, in an event that lasts longer than one hour, 98% (!!!) of the endurance energy used is derived from our aerobic system. &lt;br /&gt;
+If the event is over two hours, 99% (!!!) of the endurance energy will come from our aerobic system. Therefore, if you want to be a great endurance athlete, you’d be wise to build a VERY strong aerobic base.&lt;/p&gt;
+
+&lt;insert image=&quot;&quot; here=&quot;&quot;&gt;
+[&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/MAF/aerobic-and-anaerobic-energy.png&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Aerobic vs Anaerobic
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+](/images/MAF/aerobic-and-anaerobic-energy.png)  
 
 
 # Keep slow run slow and fast run fast.   
@@ -697,7 +1205,15 @@ It’s usually the amateurs that do 60 to 80% of their training more intensely i
 # The MAF Formula  
 Dr. Maffetone, based on his research, has shown that your Maximum Aerobic Function peaks at a heart rate equal to 180 minus your Age.  
 
-[{% include image.html file=&quot;/images/MAF/maf.png&quot; description=&quot;Aerobic vs Anaerobic &quot;%}](/images/MAF/maf.png)  
+[&lt;!-- _includes/image.html --&gt;
+&lt;figure&gt;
+   &lt;a href=&quot;&quot;&gt;
+   &lt;img src=&quot;/images/MAF/maf.png&quot; style=&quot;max-width: ;&quot; alt=&quot;&quot; /&gt;
+   &lt;/a&gt;
+   &lt;figcaption&gt;Aerobic vs Anaerobic
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+](/images/MAF/maf.png)  
 
 Dr Maffetone suggests adjustments based on these factors:  
 
@@ -709,4 +1225,6 @@ Dr Maffetone suggests adjustments based on these factors:
 
 
 In the next article, we will cover the training approach in detail.  
-&gt;</content><author><name>Rishi Sareen</name><email>rishi[at]jigyasu[dot]com</email></author><summary type="html">MAF method - Background MAF stands for Maximum Aerobic Function. This method deals with building aerobic base. This is applicable to all sports &amp;gt;5min in duration. This is one of the most powerful way to train. Dr Phil Maffetone pioneered this method. Many top athletes, in a variety of sports, have followed this method to achieve top success. According to Triathlete magazine, Mark Allen is the greatest triathlete ever. He won six Ironman World-Championships. His secret? Maffetone Method. The approach is discussed in two parts: The science behind aerobic training How-to approach the MAF Training People usually jump on the “how-to” part. While it is important, understand the “why” part is also critical. Basics - Aerobic System vs Anaerobic System Aerobic: The ability of the body to use more fat and less sugar (glucose) for energy. One needs oxygen to burn energy here. Anaerobic: The ability of the body to use more sugar and less fat for energy. No Oxygen needed to burn energy in Anaerobic state. The Aerobic System The conversion of fat to energy—fat burning—takes place in the aerobic muscles (these are sometimes called slow-twitch or red muscle fibers). Humans are well endowed with these muscles and they are the ones depended upon during activity of longer duration—they can function well for many hours and even days in a well-trained athlete. Birds Fly More Than 10,000 Kms Nonstop In Its Annual Fall Migration. The birds weigh no more than 700gm when they leave. Half of that is fat, which they burn off completely during the flight. This sort of fat burning is possible in humans too, if trained properly. The Anaerobic System Sugar (glucose) is converted to energy in the anaerobic muscles. These are sometimes called fast-twitch or white muscle fibers. They are used for short-term power (such as weight lifting) and sprint speed (such as an all-out 100 meter race). These attributes are used very little in endurance sports. Anaerobic energy is also very limited—relying only on this system won’t even allow a 5K race to be completed. [ Aerobic vs Anaerobic ](/images/MAF/Aero2.PNG) Why Aerobic System is important to train Maffetone tells us that, in an event that lasts longer than one hour, 98% (!!!) of the endurance energy used is derived from our aerobic system. If the event is over two hours, 99% (!!!) of the endurance energy will come from our aerobic system. Therefore, if you want to be a great endurance athlete, you’d be wise to build a VERY strong aerobic base. [ Aerobic vs Anaerobic ](/images/MAF/aerobic-and-anaerobic-energy.png) # Keep slow run slow and fast run fast. The aerobic system–which is the most important energy system of the body–can’t be trained as effectively at higher heart rates. Few things happen when are in higher HR / Anaerobic zone: - Anaerobic training can decrease the number of aerobic muscle fibers, sometimes significantly. This can happen in just a few short weeks. - Anaerobic training raises your respiratory quotient, meaning that fat burning is reduced and sugar burning is increased, encouraging further use of anaerobic function and less aerobic activity. - Excessive amounts of lactic acid produced during anaerobic training may impair aerobic muscle enzymes, reducing aerobic function. - Anaerobic training typically causes athletes to consume more refined carbohydrates because of an increased craving for sugar. This can increase insulin levels and further interfere with fat burning, reducing aerobic function. That’s why all elite athletes do 80% of their training at an easy speed or intensity: they (and their coaches) know the importance of aerobic development. It’s usually the amateurs that do 60 to 80% of their training more intensely in an effort to “catch up” the miles. But the body’s just not built for that, so they get hurt. # The MAF Formula Dr. Maffetone, based on his research, has shown that your Maximum Aerobic Function peaks at a heart rate equal to 180 minus your Age. [ Aerobic vs Anaerobic ](/images/MAF/maf.png) Dr Maffetone suggests adjustments based on these factors: - Category 1 : Recovering from illness or on medication? Subtract 10. - Category 2 : Frequently sick or regressed in training? Subtract 5. - Category 2 : Overfat — simply use the waist-to-height ratio. Your waist should be less than half your height — if it’s not, subtract 5. - Category 3 : If you have been training consistently (at least four times weekly) for up to two years without any of the problems in above, keep the number (180–age) the same. - Category 4 : Been training regularly for 2 years without problems? Add 5. In the next article, we will cover the training approach in detail. &amp;gt;</summary></entry></feed>
+&amp;gt; 
+
+&lt;/insert&gt;</content><author><name>Rishi Sareen</name><email>rishi[at]jigyasu[dot]com</email></author><summary type="html">MAF method - Background MAF stands for Maximum Aerobic Function. This method deals with building aerobic base. This is applicable to all sports &amp;gt;5min in duration. This is one of the most powerful way to train. Dr Phil Maffetone pioneered this method. Many top athletes, in a variety of sports, have followed this method to achieve top success. According to Triathlete magazine, Mark Allen is the greatest triathlete ever. He won six Ironman World-Championships. His secret? Maffetone Method. The approach is discussed in two parts: The science behind aerobic training How-to approach the MAF Training People usually jump on the “how-to” part. While it is important, understand the “why” part is also critical. Basics - Aerobic System vs Anaerobic System Aerobic: The ability of the body to use more fat and less sugar (glucose) for energy. One needs oxygen to burn energy here. Anaerobic: The ability of the body to use more sugar and less fat for energy. No Oxygen needed to burn energy in Anaerobic state. The Aerobic System The conversion of fat to energy—fat burning—takes place in the aerobic muscles (these are sometimes called slow-twitch or red muscle fibers). Humans are well endowed with these muscles and they are the ones depended upon during activity of longer duration—they can function well for many hours and even days in a well-trained athlete. Birds Fly More Than 10,000 Kms Nonstop In Its Annual Fall Migration. The birds weigh no more than 700gm when they leave. Half of that is fat, which they burn off completely during the flight. This sort of fat burning is possible in humans too, if trained properly. The Anaerobic System Sugar (glucose) is converted to energy in the anaerobic muscles. These are sometimes called fast-twitch or white muscle fibers. They are used for short-term power (such as weight lifting) and sprint speed (such as an all-out 100 meter race). These attributes are used very little in endurance sports. Anaerobic energy is also very limited—relying only on this system won’t even allow a 5K race to be completed. [ Aerobic vs Anaerobic ](/images/MAF/Aero2.PNG) Why Aerobic System is important to train Maffetone tells us that, in an event that lasts longer than one hour, 98% (!!!) of the endurance energy used is derived from our aerobic system. If the event is over two hours, 99% (!!!) of the endurance energy will come from our aerobic system. Therefore, if you want to be a great endurance athlete, you’d be wise to build a VERY strong aerobic base. [ Aerobic vs Anaerobic ](/images/MAF/aerobic-and-anaerobic-energy.png) # Keep slow run slow and fast run fast. The aerobic system–which is the most important energy system of the body–can’t be trained as effectively at higher heart rates. Few things happen when are in higher HR / Anaerobic zone: - Anaerobic training can decrease the number of aerobic muscle fibers, sometimes significantly. This can happen in just a few short weeks. - Anaerobic training raises your respiratory quotient, meaning that fat burning is reduced and sugar burning is increased, encouraging further use of anaerobic function and less aerobic activity. - Excessive amounts of lactic acid produced during anaerobic training may impair aerobic muscle enzymes, reducing aerobic function. - Anaerobic training typically causes athletes to consume more refined carbohydrates because of an increased craving for sugar. This can increase insulin levels and further interfere with fat burning, reducing aerobic function. That’s why all elite athletes do 80% of their training at an easy speed or intensity: they (and their coaches) know the importance of aerobic development. It’s usually the amateurs that do 60 to 80% of their training more intensely in an effort to “catch up” the miles. But the body’s just not built for that, so they get hurt. # The MAF Formula Dr. Maffetone, based on his research, has shown that your Maximum Aerobic Function peaks at a heart rate equal to 180 minus your Age. [ Aerobic vs Anaerobic ](/images/MAF/maf.png) Dr Maffetone suggests adjustments based on these factors: - Category 1 : Recovering from illness or on medication? Subtract 10. - Category 2 : Frequently sick or regressed in training? Subtract 5. - Category 2 : Overfat — simply use the waist-to-height ratio. Your waist should be less than half your height — if it’s not, subtract 5. - Category 3 : If you have been training consistently (at least four times weekly) for up to two years without any of the problems in above, keep the number (180–age) the same. - Category 4 : Been training regularly for 2 years without problems? Add 5. In the next article, we will cover the training approach in detail. &amp;gt;</summary></entry></feed>

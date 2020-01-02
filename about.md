@@ -3,19 +3,8 @@ layout: page
 title: About Me
 sidebar_link: true
 ---
-<style>
-    .card {
-        width: 640px;
-        height: 480px;
-        background: url("images/blog-small-back.jpg") no-repeat;
-        display: inline-block;
-    }
-    .card:hover {
-        background: url("images/blog-small-front.jpg") no-repeat;
-    }
-</style>
 
-<div class="card"></div>
+{% include image.html file="/images/blog-small-front.jpg" description=""%}
 Hello!
 
 This is my personal blog. I write about my ideas, learnings, travel reports, and lately a lot about sports.  
