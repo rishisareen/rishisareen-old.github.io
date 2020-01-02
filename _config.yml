@@ -89,3 +89,7 @@ author:
   google_analytics_id: 
   google_analytics_url: 
   bio: Technocrat, Triathlete, Bio-Hacker
+
+# Build Speed Optimization
+keep_files: [images]
+

@@ -1,5 +1,0 @@
-<!-- _includes/image.html -->
-<div class="image-wrapper" >
-  <img src="{{ include.file }}" alt="{{ include.description }}">  
-  <p class="image-caption">{{ include.description }}</p>
-</div>
