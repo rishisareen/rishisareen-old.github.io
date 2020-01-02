@@ -40,7 +40,7 @@ When we eat Sugar (in direct form or Simple Carbs), our body gets into action:
 > 
 
 
-{% include image.html file="/images/Nutrition/InsulinLocker.png" description="700 700 Insulin acting as key to store fat "%}
+{% include image.html file="/images/Nutrition/InsulinLocker.png" description="Insulin acting as key to store fat "%}
 
 **Insulin Resistance (IR):** Over time, chronic daily insults and stress on the pancreas to produce insulin several times a day eventually insulin resistance will develop. Now when cells become insulin resistant metabolic syndrome of one sort or another begin to develop. This is the onset of diabetes.
 
@@ -50,7 +50,7 @@ When we eat Sugar (in direct form or Simple Carbs), our body gets into action:
 Most health conscious people know sugar is “BAD”. However, we do not realize easily digestible carbohydrates breakdown into **SUGAR** in your bloodstream!   
 This includes rice, whole-grains,  potatoes, many fruits, some nuts, beans/legumes and other foods people commonly believe are healthy and should be eaten in abundance.
 
-{% include image.html file="/images/Nutrition/Rice.jpg 700 700 Rice and Sugar "%}  
+{% include image.html file="/images/Nutrition/Rice.jpg" description="Rice and Sugar "%}  
 
 
 
