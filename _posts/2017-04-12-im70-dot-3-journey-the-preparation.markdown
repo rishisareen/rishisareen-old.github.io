@@ -5,7 +5,7 @@ date: 2017-04-11 19:48:02 -0400
 comments: true
 categories: 
 - Ironman
-- Triathlon
+- Race Reports
 ---
 
 Why I Tri'ed - The Background story

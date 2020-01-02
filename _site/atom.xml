@@ -4,7 +4,7 @@
  <title>Rishi Sareen</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-01-01T16:31:24+05:30</updated>
+ <updated>2020-01-02T08:34:22+05:30</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Rishi Sareen</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Ironman70.3 Goa - Oct 19 - Race Report</title>
-   <link href="http://localhost:4000/ironman/triathlon/ironman70-dot-3-goa-oct-19-race-report.html"/>
+   <link href="http://localhost:4000/ironman/race%20reports/ironman70-dot-3-goa-oct-19-race-report.html"/>
    <updated>2019-10-28T19:48:02+05:30</updated>
-   <id>http://localhost:4000/ironman/triathlon/ironman70-dot-3-goa-oct-19-race-report</id>
+   <id>http://localhost:4000/ironman/race%20reports/ironman70-dot-3-goa-oct-19-race-report</id>
    <content type="html">&lt;h3 id=&quot;race-information&quot;&gt;Race information&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;What?&lt;/strong&gt; Ironman 70.3 Goa&lt;/li&gt;
@@ -334,9 +334,9 @@ Nutrition: Gel every hour. Precision Hydration Salt capsule every hour.&lt;/p&gt
  
  <entry>
    <title>Ironman Copenhagen (Aug 19)- Race Report</title>
-   <link href="http://localhost:4000/ironman/triathlon/ironman-copenhagen-aug-19-race-report.html"/>
+   <link href="http://localhost:4000/ironman/race%20reports/ironman-copenhagen-aug-19-race-report.html"/>
    <updated>2019-08-28T19:48:02+05:30</updated>
-   <id>http://localhost:4000/ironman/triathlon/ironman-copenhagen-aug-19-race-report</id>
+   <id>http://localhost:4000/ironman/race%20reports/ironman-copenhagen-aug-19-race-report</id>
    <content type="html">&lt;h3 id=&quot;race-information&quot;&gt;Race information&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;What?&lt;/strong&gt; Ironman Copenhagen&lt;/li&gt;
@@ -2348,9 +2348,9 @@ Let me know in the comments.&lt;/p&gt;
  
  <entry>
    <title>Ironman Philippines - June 18 - Race Report</title>
-   <link href="http://localhost:4000/ironman/triathlon/ironman-philippines-june-18-race-report.html"/>
+   <link href="http://localhost:4000/ironman/race%20reports/ironman-philippines-june-18-race-report.html"/>
    <updated>2019-01-08T19:48:02+05:30</updated>
-   <id>http://localhost:4000/ironman/triathlon/ironman-philippines-june-18-race-report</id>
+   <id>http://localhost:4000/ironman/race%20reports/ironman-philippines-june-18-race-report</id>
    <content type="html">&lt;h3 id=&quot;race-information&quot;&gt;Race information&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;What?&lt;/strong&gt; Ironman Philippines&lt;/li&gt;
@@ -2541,9 +2541,9 @@ As the finish line came closer, I could hear voice of Mike Reilly announcing fin
  
  <entry>
    <title>Ironman Philippines - June 18 - Pre Race</title>
-   <link href="http://localhost:4000/ironman/triathlon/ironman-philippines-june-18-race-diary.html"/>
+   <link href="http://localhost:4000/ironman/race%20reports/ironman-philippines-june-18-race-diary.html"/>
    <updated>2019-01-04T05:18:02+05:30</updated>
-   <id>http://localhost:4000/ironman/triathlon/ironman-philippines-june-18-race-diary</id>
+   <id>http://localhost:4000/ironman/race%20reports/ironman-philippines-june-18-race-diary</id>
    <content type="html">&lt;h3 id=&quot;background&quot;&gt;Background&lt;/h3&gt;
 &lt;p&gt;This craze started 2 years back&lt;/p&gt;
 
@@ -2890,9 +2890,9 @@ To harness the courage we need to get on the right path, it pays to reflect on h
  
  <entry>
    <title>Airtel Delhi Half Marathon(ADHM)-2018 Race Report</title>
-   <link href="http://localhost:4000/airteldelhihalfmarathon-2018-race-report.html"/>
+   <link href="http://localhost:4000/race%20reports/airteldelhihalfmarathon-2018-race-report.html"/>
    <updated>2018-10-29T00:04:46+05:30</updated>
-   <id>http://localhost:4000/airteldelhihalfmarathon-2018-race-report</id>
+   <id>http://localhost:4000/race%20reports/airteldelhihalfmarathon-2018-race-report</id>
    <content type="html">&lt;h2 id=&quot;the-race&quot;&gt;The Race&lt;/h2&gt;
 &lt;p&gt;Airtel Delhi Half Marathon (ADHM) is one of the most prestigious races in Delhi. Top athletes from all over the world take part in it. I was taking part in this for the first time. It is strange, anyone in NCR who is even moderately active runs ADHM every year. Well, I did register for this race in 2016 and 2017, but somehow couldn’t take part. That made me even more determined to do well in this race.&lt;/p&gt;
 
@@ -2998,9 +2998,9 @@ Km 5 to km 15 :  By now, I had settled down on a nice rhythm - Cadence was a ste
  
  <entry>
    <title>IM70.3 (DIT-2018) Race Report</title>
-   <link href="http://localhost:4000/ironman/triathlon/im70-dot-3-dit-2018-race-report.html"/>
+   <link href="http://localhost:4000/ironman/race%20reports/im70-dot-3-dit-2018-race-report.html"/>
    <updated>2018-03-12T04:36:53+05:30</updated>
-   <id>http://localhost:4000/ironman/triathlon/im70-dot-3-dit-2018-race-report</id>
+   <id>http://localhost:4000/ironman/race%20reports/im70-dot-3-dit-2018-race-report</id>
    <content type="html">&lt;h3 id=&quot;race-information&quot;&gt;Race information&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;What?&lt;/strong&gt; Delhi International Triathlon&lt;/li&gt;
@@ -3119,9 +3119,9 @@ Strava: https://www.strava.com/activities/1413129449/&lt;/p&gt;
  
  <entry>
    <title>IM70.3-DIT-2017 Race Report</title>
-   <link href="http://localhost:4000/ironman/triathlon/im70-dot-3-dit-race-report.html"/>
+   <link href="http://localhost:4000/ironman/race%20reports/im70-dot-3-dit-race-report.html"/>
    <updated>2017-04-13T05:18:02+05:30</updated>
-   <id>http://localhost:4000/ironman/triathlon/im70-dot-3-dit-race-report</id>
+   <id>http://localhost:4000/ironman/race%20reports/im70-dot-3-dit-race-report</id>
    <content type="html">&lt;h3 id=&quot;race-information&quot;&gt;Race information&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;What?&lt;/strong&gt; Delhi International Triathlon&lt;/li&gt;
@@ -3235,9 +3235,9 @@ It was a bad run, but I was glad for it to be over! Lot of learning, and lot of 
  
  <entry>
    <title>IM70.3 Journey - The Preparation</title>
-   <link href="http://localhost:4000/ironman/triathlon/im70-dot-3-journey-the-preparation.html"/>
+   <link href="http://localhost:4000/ironman/race%20reports/im70-dot-3-journey-the-preparation.html"/>
    <updated>2017-04-12T05:18:02+05:30</updated>
-   <id>http://localhost:4000/ironman/triathlon/im70-dot-3-journey-the-preparation</id>
+   <id>http://localhost:4000/ironman/race%20reports/im70-dot-3-journey-the-preparation</id>
    <content type="html">&lt;h2 id=&quot;why-i-tried---the-background-story&quot;&gt;Why I Tri’ed - The Background story&lt;/h2&gt;
 
 &lt;p&gt;I hate the word “impossible”. Hate it, hate it, hate it! &lt;br /&gt;

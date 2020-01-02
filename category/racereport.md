@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Triathlon
+title: Race Reports
 ---
 
 Some of my Race Reports

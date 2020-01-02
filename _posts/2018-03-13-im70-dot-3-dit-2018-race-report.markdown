@@ -5,7 +5,7 @@ date: 2018-03-11 19:06:53 -0400
 comments: true
 categories: 
 - Ironman
-- Triathlon
+- Race Reports
 ---
 
 ### Race information
