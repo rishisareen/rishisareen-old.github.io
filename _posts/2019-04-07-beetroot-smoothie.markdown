@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "Beetroot Smoothie"
+title: "Recipe - Pre-Workout - Beetroot Smoothie"
 date: 2019-04-07 00:57:36 -0400
 comments: true
-categories: recipes
+categories: 
+- Recipes
 ---
 
 <!--more-->
-"Simple, Delicious and Healthy Smoothie. Should be taken empty stomach in the morning. It is also an excellant pre-workout drink." 
+"Simple, Delicious and Healthy Smoothie. Should be taken empty stomach in the morning. It is very rich in anti-oxidants and also an excellant pre-workout drink." 
 
-## Ingredients: ######
+## Ingredients: 
 
 * 2 Beetroot 
 * 1 Amla
@@ -21,7 +22,7 @@ categories: recipes
 
 * serving size: 2 glass
     
-## Directions:#####
+## Directions:
 
 1. Mix Water + Beetroot. Run Mixie.  
 
@@ -33,5 +34,5 @@ categories: recipes
 
 5. Stain it.
      
-## My Notes:#####
-Half teaspoon of honey can also be added initially, if this taste is too strong. 
+## My Notes:
+Initially the taste might be too strong. In that case, add Half teaspoon of honey to it. 

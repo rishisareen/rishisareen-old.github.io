@@ -4,7 +4,7 @@
  <title>Rishi Sareen</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-01-02T16:28:15+05:30</updated>
+ <updated>2020-01-02T18:33:30+05:30</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Rishi Sareen</name>
@@ -694,10 +694,10 @@ Cooking Time: 23min&lt;/p&gt;
 &lt;h2 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Milk - 200ml&lt;/li&gt;
+  &lt;li&gt;Milk - 200ml (If on Keto, substitute curd in place of milk)&lt;/li&gt;
   &lt;li&gt;Peanut Butter - 1-2 Spoon&lt;/li&gt;
   &lt;li&gt;Cocoa Powder - 1 spoon&lt;/li&gt;
-  &lt;li&gt;Banana - 1&lt;/li&gt;
+  &lt;li&gt;Banana - 1 (Skip this if on keto)&lt;/li&gt;
   &lt;li&gt;Almonds - 5-6&lt;/li&gt;
   &lt;li&gt;Walnuts - 5-6&lt;/li&gt;
   &lt;li&gt;Flaxseed - 1 spoon&lt;/li&gt;
@@ -707,7 +707,7 @@ Cooking Time: 23min&lt;/p&gt;
   &lt;li&gt;serving size: 1 person&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;directions&quot;&gt;Directions:#####&lt;/h2&gt;
+&lt;h2 id=&quot;directions&quot;&gt;Directions:&lt;/h2&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -724,7 +724,7 @@ Cooking Time: 23min&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&quot;my-notes&quot;&gt;My Notes:#####&lt;/h2&gt;
+&lt;h2 id=&quot;my-notes&quot;&gt;My Notes:&lt;/h2&gt;
 &lt;p&gt;Whey protein can be added if available.&lt;/p&gt;
 </content>
  </entry>
@@ -826,12 +826,12 @@ Best thing about MAF Runs is that it needs zero recovery, as it is done in a ver
  </entry>
  
  <entry>
-   <title>Beetroot Smoothie</title>
+   <title>Recipe - Pre-Workout - Beetroot Smoothie</title>
    <link href="http://localhost:4000/recipes/beetroot-smoothie.html"/>
    <updated>2019-04-07T10:27:36+05:30</updated>
    <id>http://localhost:4000/recipes/beetroot-smoothie</id>
    <content type="html">&lt;!--more--&gt;
-&lt;p&gt;“Simple, Delicious and Healthy Smoothie. Should be taken empty stomach in the morning. It is also an excellant pre-workout drink.”&lt;/p&gt;
+&lt;p&gt;“Simple, Delicious and Healthy Smoothie. Should be taken empty stomach in the morning. It is very rich in anti-oxidants and also an excellant pre-workout drink.”&lt;/p&gt;
 
 &lt;h2 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h2&gt;
 
@@ -848,7 +848,7 @@ Best thing about MAF Runs is that it needs zero recovery, as it is done in a ver
   &lt;li&gt;serving size: 2 glass&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;directions&quot;&gt;Directions:#####&lt;/h2&gt;
+&lt;h2 id=&quot;directions&quot;&gt;Directions:&lt;/h2&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -868,8 +868,8 @@ Best thing about MAF Runs is that it needs zero recovery, as it is done in a ver
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&quot;my-notes&quot;&gt;My Notes:#####&lt;/h2&gt;
-&lt;p&gt;Half teaspoon of honey can also be added initially, if this taste is too strong.&lt;/p&gt;
+&lt;h2 id=&quot;my-notes&quot;&gt;My Notes:&lt;/h2&gt;
+&lt;p&gt;Initially the taste might be too strong. In that case, add Half teaspoon of honey to it.&lt;/p&gt;
 </content>
  </entry>
  

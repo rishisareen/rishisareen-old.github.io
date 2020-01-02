@@ -3,7 +3,8 @@ layout: post
 title: "Recipe - Grilled Fish"
 date: 2019-04-27 20:32:18 -0400
 comments: true
-categories: recipes
+categories: 
+- Recipes
 ---
 
 <!--more-->
