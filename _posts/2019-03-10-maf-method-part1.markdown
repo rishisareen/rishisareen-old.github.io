@@ -40,19 +40,16 @@ This sort of fat burning is possible in humans too, if trained properly.
 Sugar (glucose) is converted to energy in the anaerobic muscles. These are sometimes called fast-twitch or white muscle fibers.   
 They are used for short-term power (such as weight lifting) and sprint speed (such as an all-out 100 meter race). These attributes are used very little in endurance sports.  
 Anaerobic energy is also very limited—relying only on this system won’t even allow a 5K race to be completed.  
-<br>
 
-[{% include image.html file="/images/MAF/Aero2.PNG" description="Aerobic vs Anaerobic "%}](/images/MAF/Aero2.PNG)  
+{% include image.html file="/images/MAF/Aero2.PNG" description="Aerobic vs Anaerobic "%}]
 
->  
 
 <br>
 # Why Aerobic System is important to train   
 Maffetone tells us that, in an event that lasts longer than one hour, 98% (!!!) of the endurance energy used is derived from our aerobic system.   
 If the event is over two hours, 99% (!!!) of the endurance energy will come from our aerobic system. Therefore, if you want to be a great endurance athlete, you’d be wise to build a VERY strong aerobic base.   
 
-<insert image here>
-[{% include image.html file="/images/MAF/aerobic-and-anaerobic-energy.png" description="Aerobic vs Anaerobic "%}](/images/MAF/aerobic-and-anaerobic-energy.png)  
+{% include image.html file="/images/MAF/aerobic-and-anaerobic-energy.png" description="Aerobic vs Anaerobic "%}]
 
 
 # Keep slow run slow and fast run fast.   
@@ -70,7 +67,7 @@ It’s usually the amateurs that do 60 to 80% of their training more intensely i
 # The MAF Formula  
 Dr. Maffetone, based on his research, has shown that your Maximum Aerobic Function peaks at a heart rate equal to 180 minus your Age.  
 
-[{% include image.html file="/images/MAF/maf.png" description="Aerobic vs Anaerobic "%}](/images/MAF/maf.png)  
+{% include image.html file="/images/MAF/maf.png" description="Aerobic vs Anaerobic "%}
 
 Dr Maffetone suggests adjustments based on these factors:  
 
