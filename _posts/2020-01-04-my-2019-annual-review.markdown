@@ -26,8 +26,8 @@ Let's get on with this.
 ## 1. What went well this year
 **Health/Sports:** This was a very good year in my Health and Sports pursuit. Major Achievements:
 
-+ Second Full Ironman Completed successfully - [Copenhagen, 18th August 2019](race%20reports/ironman-copenhagen-aug-19-race-report.html)
-+ Two Half Ironman done, with a top 20 AG finish in [Goa Ironman 70.3](race%20reports/ironman70-dot-3-goa-oct-19-race-report.html)
++ Second Full Ironman Completed successfully - [Copenhagen, 18th August 2019](https://jigyasu.com/ironman/race%20reports/ironman-copenhagen-aug-19-race-report.html)
++ Two Half Ironman done, with a top 20 AG finish in [Goa Ironman 70.3](https://jigyasu.com/ironman/race%20reports/ironman70-dot-3-goa-oct-19-race-report.html)
 + 2 Half Marathons completed, both with Personal Best. 21/Apr/2019 - 1:53h, 1/Dec/2019 - 1:45h. I was delighted at the result. 
 
 While I'm glad at the performance results, I'm happier looking at my overall consistency. 
