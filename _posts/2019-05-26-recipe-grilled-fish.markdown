@@ -10,7 +10,7 @@ categories:
 <!--more-->
 Fish is an excellant food - full of Protein, Omega 3 and essential vitamins and minerals. I love to grill fish - it is healthiest form of consuming fish
 
-## Ingredients: ######
+## Ingredients: 
 
 * Basa Fish Fillets - 1kg (I prefer Basa as it is boneless and easily available)
 * Ghee - 2 spoons
@@ -20,7 +20,7 @@ Fish is an excellant food - full of Protein, Omega 3 and essential vitamins and 
 
 * serving size: 2-3 person
     
-## Directions:#####
+## Directions:
 
 1. Bring Fish to Room Temperature. If in hurry, defrost setting of microwave can be used. 
 
@@ -38,7 +38,7 @@ Fish is an excellant food - full of Protein, Omega 3 and essential vitamins and 
 
 8. Serve and Enjoy
      
-## Notes:#####
+## Notes:
 Take care to apply ghee properly on the fish sides too. That is an area which usually gets missed out. 
 
 Prep Time : 5min  
