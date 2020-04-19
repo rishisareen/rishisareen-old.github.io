@@ -114,4 +114,4 @@ Awards are often given to the top finishers overall for each gender and for the 
 
 You do not need a ton of stuff to get started. Decathlon is usually a very cost effective place to pick the stuff. Get started with the basics, and one can always add on here.
 
-In next post, I will capture the stuff 
+In the next post, I will capture the triathlon gear I own.
