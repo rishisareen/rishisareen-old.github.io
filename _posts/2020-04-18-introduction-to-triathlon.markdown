@@ -9,7 +9,7 @@ categories: triathlon
 ### Introduction to Triathlon
 * **What is Triathlon?**  
 
-  In all its simplicity, triathlon is swimming, cycling and running (in that order), all in one competition. The swim can either take place in a swimming pool or in an outdoor environment (e.g. a lake or river).
+  Triathlon is swimming, cycling and running (in that order), all in one competition. The swim can either take place in a swimming pool or in an outdoor environment (e.g. a lake or river).
 
   The distances vary from very short to incredibly long. 
 
