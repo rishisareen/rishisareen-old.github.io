@@ -30,9 +30,10 @@ Anyone can do triathlon. If you can move, you can do triathlon.
 
 ### **Why do Triathlon?** 
 
-Triathlon is a sport for anyone who likes to move. The range of disciplines and distances allows anyone to find one or more distances that fit. 
+Triathlon is a sport for anyone who like to move, likes a challenge, is not afraid of a little post exercise soreness and is willing to step out of their comfort zone with their body and mind.
+The range of disciplines and distances allows anyone to find one or more distances that fit. 
 
-- **Overall Full Body Fitness:** Triathlons will strengthen all muscle groups in your body. Swimming strengthens your upper body while cycling and running helps you build lower body strength. You will develop lean muscles, build strength and tone your entire body. You will look and feel younger. **Take a look at any triathlete over age 55 and you'll see what I mean. These people have the look -- and swagger -- of 20- and 30-somethings.**
+- **Overall Full Body Fitness:** Triathlons will strengthen all muscle groups in your body. Swimming strengthens your upper body while cycling and running helps you build lower body strength. You will develop lean muscles, build strength and tone your entire body. You will look and feel younger. **Take a look at any triathlete over age 55 and you'll see what I mean. These people are ambassadors of good health and body confidence.**
 - **Reducing the risk of injury:** When you stick to just one sport – running, for example – you continue to stress the same body parts, resulting in common injuries like shin splints. With triathlon training, you are pushing yourself in three different sports, which each focus on different parts of your body, taking the constant stress off of one particular area. So, with a more balanced method of fitness, you can enjoy being injury-free for longer, resulting in less pain and a stronger body.
 - **Variety**: Training for 3 sports is much more interesting than just training for one.
 - **You Will Be More Productive**: Training for a triathlon will clear your mind and sharpen your focus. My most lucid and creative thoughts invariably arise during bike rides, after swims or while running. Also, planning for all the
