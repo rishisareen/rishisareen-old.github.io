@@ -23,6 +23,8 @@ Indoor Cycling is a very efficient way to get cycling workouts done consistently
 
 3. **Time Flexible:** With outdoor ride, generally there is a limited time window in the day when you can go out and cycle. Traffic, office timing, weather - there are many factors which reduces the outdoor ride time window. With indoor trainer, you can workout as per your schedule. It made me much more consistent with my training. 
 
+------
+
 
 
 
@@ -35,6 +37,10 @@ Besides a bike and trainer, you’ll want to plan for some accessories that can 
 * Water Bottle to hydrate your ride
 * Sweat proof headphone to listen to songs or watch Netflix
 * Optional : Cycling Mat for trainer and cycle. 
+
+
+
+------
 
 
 
@@ -64,6 +70,10 @@ For non-smart trainer, you can't go wrong with Decathlon. Two most common traine
 
 * [InRide 100 (Magnetic Trainer)](https://www.decathlon.in/p/8402844/emi-products/in-ride-100-home-trainer)
 * [InRide 500 (Fluid Based Trainer)](https://www.decathlon.in/p/8487132/emi-products/in-ride-500-home-trainer)
+
+
+
+------
 
 
 
@@ -100,12 +110,12 @@ For non-smart trainer, you can't go wrong with Decathlon. Two most common traine
 **After the Ride**
 
 1. **Wipe the cycle:** Spend few minutes wiping the cycle of any sweat. It will prevent corrosion of the frame.
-
 2. **Eat good meal:** Post workout, it is very important to eat a good meal of Carbs + Protein for faster recovery. 
-
 3. **Recover:** In the world obsessed with "No Pain, No Gain", we often forget that the muscle teardown happens during the workout. And only when you let body recover from the teardown, the muscle builds to handle more load and get stronger. Recovery is as important as workout.
 
-   
+
+
+------
 
 ## Indoor Cycling: Final Thoughts
 
