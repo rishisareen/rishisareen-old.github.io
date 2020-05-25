@@ -6,14 +6,11 @@ comments: true
 categories: triathlon
 ---
 
-## Indoor Cycling - Getting Started
-
 ## Why Indoor Cycling
 
 Indoor Cycling is a very efficient way to get cycling workouts done consistently. Few main benefits of Indoor Cycling:
 
 1. **Controlled Environment leading to more structured workout**
-
    Indoor training allows a rider to control their surroundings. No extreme temperatures, cars, wind, flat tires, and stoplights means you can get a great workout in, every time. It’s also a lot safer.
 
    When riding indoors, it’s easier to control important performance variables such as intensity of effort, cadence, gearing selection, heart rate and power—if you have a power meter.  Since your environment is always the same, it is very easy to track your workouts week-to-week and see if you are getting better, and if so, in what areas. It is very difficult to do a structured workout outdoors with constantly changing terrain.
