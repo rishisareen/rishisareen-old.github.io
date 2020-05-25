@@ -93,7 +93,7 @@ For non-smart trainer, you can't go wrong with Decathlon. Two most common traine
 
    **Zwift** is Facebook (or Instagram) of Training Apps. While it also has structured programs, it is popular because of the social aspects - you can do virtual race with others. 
 
-3. **Eat before the workout.** And don't forget the caffeine!
+3. **Eat before the workout.** Good carbs (A banana, apple, toast). And don't forget the caffeine!
 
 
 
