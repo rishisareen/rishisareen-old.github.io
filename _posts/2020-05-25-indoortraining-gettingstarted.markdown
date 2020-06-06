@@ -6,6 +6,17 @@ comments: true
 categories: triathlon
 ---
 
+
+
+## What is Indoor Cycling
+
+Indoor cycling is basically cycling on a stationary cycle at your home or at an indoor cycling gym . This allows you to do your cardio that you would normally do on a cycle but without having to cover actual distance.
+
+Indoor cycling is a good substitute to outdoor cycling; and still offers many of the same (and more) benefits. 
+There is more to biking than covering the distance. Performance is greatly affected by training variables like slope, cadence, blah blah which can only be worked on in a controlled environment: like the one offered by indoor cycling. 
+
+
+
 ## Why Indoor Cycling
 
 Indoor Cycling is a very efficient way to get cycling workouts done consistently. Few main benefits of Indoor Cycling:
@@ -51,8 +62,6 @@ Besides a bike and trainer, you’ll want to plan for some accessories that can 
 * [Tacx Neo 2T](https://tacx.com/product/neo-2t-smart/)
 * [Wahoo Kickr](https://www.wahoofitness.com/devices/bike-trainers/wahoo-kickr-powertrainer)
 
-Smart Trainers are costly (INR 50k and above). Invest in them if you're sure to be in this sport for at least 1-2 years horizon.
-
 
 
 **Non-Smart Trainers:** These are basic trainer, with no external power needed. They generate resistance mechanically. There are two common types of non-smart trainer - Magnetic based and Fluid based trainer. Fluid based trainer gives more road-like cycling experience, so it is preferred by many people. 
@@ -66,18 +75,24 @@ Sensors I recommend
 
 
 
-For non-smart trainer, you can't go wrong with Decathlon. Two most common trainers are
+For non-smart trainer, Decathlon is the easiest choice. Two most common trainers are
 
 * [InRide 100 (Magnetic Trainer)](https://www.decathlon.in/p/8402844/emi-products/in-ride-100-home-trainer)
 * [InRide 500 (Fluid Based Trainer)](https://www.decathlon.in/p/8487132/emi-products/in-ride-500-home-trainer)
 
 
 
+Smart Trainers are costly (INR 50k and above). 
+
+My recommendation is that In the choosing the trainers, choose wisely and go with the expensive smart trainer only if you envision yourself racing for the next 5 years
+
 ------
 
 
 
 ## Before, During, After Ride
+
+Once you have the trainer there is still the training plan and training app to choose from. It is always a great idea to take help preferably from a Coach if triathlon is uncharted territory. For those who prefer DIY, there are millions of triathlon podcasts which can help you assemble the triathlete within you. My go-to ones are [here](https://jigyasu.com/triathlon/my-top-5-triathlon-podcast.html)
 
 **Before the Ride**
 
@@ -119,9 +134,11 @@ For non-smart trainer, you can't go wrong with Decathlon. Two most common traine
 
 ## Indoor Cycling: Final Thoughts
 
-Indoor training is an excellent way to improve your cycling - safer, more structured and overall very efficient way. Yes, it is not as "fun" as going outdoor and meeting with friends. But if your goal is to get faster, better and take on tough challenges like Ironman, while still managing office and family, then benefits of Indoor training can't be ignored at all. And also Ironman is challenging both from the physical and mental aspect. A champion mindset is that which performs in all conditions and not only when the condition is favourable.
+Indoor cycling is a jewel for those hustling between office, family and chasing the triathlon dream.
 
-Indoor training has come a long way. TrainerRoad recently introduced Group Workouts where one can do structured workout with friends. Zwift is already famous for the social aspects it brings. 
+ A triathlon like the Ironman by the very nomenclature is meant to mould you to swim, bike and run no matter the surroundings. The indoor trainer serves as the perfect start for this torture.
+
+While preparing for my previous races I have burnt the midnight oil on my trainer Solo. But now since we are transitioning into the virtual world, apps like TrainerRoad and Zwift have introduced group riding features which make the ride however gruelling a little less torturous
 
 Give it a try. 
 
