@@ -6,6 +6,8 @@ comments: true
 categories: triathlon
 ---
 
+[TOC]
+
 
 
 ## What is Indoor Cycling
@@ -14,6 +16,8 @@ Indoor cycling is basically cycling on a stationary cycle at your home or at an 
 
 Indoor cycling is a good substitute to outdoor cycling; and still offers many of the same (and more) benefits. 
 There is more to biking than covering the distance. Performance is greatly affected by training variables like slope, cadence, blah blah which can only be worked on in a controlled environment: like the one offered by indoor cycling. 
+
+------
 
 
 
