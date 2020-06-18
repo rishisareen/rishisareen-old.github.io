@@ -66,7 +66,7 @@ Besides a bike and trainer, you’ll want to plan for some accessories that can 
 * [Tacx Neo 2T](https://tacx.com/product/neo-2t-smart/)
 * [Wahoo Kickr](https://www.wahoofitness.com/devices/bike-trainers/wahoo-kickr-powertrainer)
 
-
+Smart Trainers are costly (INR 50k and above). Go for them only if you are sure you'll race for next 5 years. 
 
 **Non-Smart Trainers:** These are basic trainer, with no external power needed. They generate resistance mechanically. There are two common types of non-smart trainer - Magnetic based and Fluid based trainer. Fluid based trainer gives more road-like cycling experience, so it is preferred by many people. 
 
@@ -76,19 +76,22 @@ Sensors I recommend
 
 * [Wahoo Speed and Cadence Sensor](https://eu.wahoofitness.com/devices/bike-sensors/speed-and-cadence-sensors-bundle)
 * [Garmin Speed and Cadence Sensor](https://buy.garmin.com/en-US/US/p/641221)
+* [Decathlon Speed and Cadence Sensor](https://www.decathlon.in/p/8487134/turbo-home-trainer/b-twin-home-trainer-connection-kit) - INR 3499/-
 
 
 
 For non-smart trainer, Decathlon is the easiest choice. Two most common trainers are
 
-* [InRide 100 (Magnetic Trainer)](https://www.decathlon.in/p/8402844/emi-products/in-ride-100-home-trainer)
-* [InRide 500 (Fluid Based Trainer)](https://www.decathlon.in/p/8487132/emi-products/in-ride-500-home-trainer)
+* [InRide 100 (Magnetic Trainer)](https://www.decathlon.in/p/8402844/emi-products/in-ride-100-home-trainer) - INR 5999/- 
+* [InRide 500 (Fluid Based Trainer)](https://www.decathlon.in/p/8487132/emi-products/in-ride-500-home-trainer) - INR 11,999/-
 
 
 
-Smart Trainers are costly (INR 50k and above). 
+**Recommendation**
 
-My recommendation is that In the choosing the trainers, choose wisely and go with the expensive smart trainer only if you envision yourself racing for the next 5 years
+If you are a beginner in cycling, I strongly suggest to start small. You do not need a smart trainer. Decathlon Trainer + Speed/Cadence Sensor is all you need to get started. 
+
+I've done 2 Full Ironman, 4 Half Ironman and I still  train 90% on my Basic Trainer - Decathlon InRide 100. I'm getting progressively faster with basic trainer and structured training.
 
 ------
 
