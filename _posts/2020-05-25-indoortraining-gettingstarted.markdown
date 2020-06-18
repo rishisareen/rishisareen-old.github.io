@@ -91,7 +91,7 @@ For non-smart trainer, Decathlon is the easiest choice. Two most common trainers
 
 If you are a beginner in cycling, I strongly suggest to start small. You do not need a smart trainer. Decathlon Trainer + Speed/Cadence Sensor is all you need to get started. 
 
-I've done 2 Full Ironman, 4 Half Ironman and I still  train 90% on my Basic Trainer - Decathlon InRide 100. I'm getting progressively faster with basic trainer and structured training.
+I've done 2 Full Ironmans, 4 Half Ironmans and I still  train 90% on my Basic Trainer - Decathlon InRide 100. I'm getting progressively faster with basic trainer and structured training.
 
 ------
 
