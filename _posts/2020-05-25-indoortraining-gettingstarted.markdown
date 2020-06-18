@@ -95,7 +95,7 @@ If you are a beginner in cycling, I strongly suggest to start small. You do not 
 
 **Why Listen to Me?**
 
-I've done 2 Full Ironmans, 4 Half Ironmans and I still  train 90% on my Basic Trainer - Decathlon InRide 100. I'm getting progressively faster with basic trainer and structured training.
+I've done 2 Full Ironmans, 4 Half Ironmans. I do almost all of my training on my basic (non-smart) trainer and for long rides I average a decent 32+ kmph on the road. I'm getting progressively faster with basic trainer and structured training. 
 
 ------
 
