@@ -61,14 +61,14 @@ Besides a bike and trainer, you’ll want to plan for some accessories that can 
 
 ## Choosing a Trainer : Smart Trainers vs Non-Smart Trainers
 
-**Smart Trainer:** These trainers automatically control the resistance, which can be especially helpful for beginners. These trainers comes with the added power meter built into each trainer. The two very popular smart trainer are
+**Smart Trainers:** These trainers automatically control the resistance, which can be especially helpful for beginners. These trainers comes with the added power meter built into each trainer. The two very popular smart trainer are
 
 * [Tacx Neo 2T](https://tacx.com/product/neo-2t-smart/)
 * [Wahoo Kickr](https://www.wahoofitness.com/devices/bike-trainers/wahoo-kickr-powertrainer)
 
 Smart Trainers are costly (INR 50k and above). Go for them only if you are sure you'll race for next 5 years. 
 
-**Non-Smart Trainers:** These are basic trainer, with no external power needed. They generate resistance mechanically. There are two common types of non-smart trainer - Magnetic based and Fluid based trainer. Fluid based trainer gives more road-like cycling experience, so it is preferred by many people. 
+**Non-Smart Trainers:** These are basic trainer, with no external power needed. They generate resistance mechanically. There are two common types of non-smart trainers - Magnetic based and Fluid based. Fluid based trainer simulates the road-like cycling experience, so it is preferred by many people. 
 
 With these trainers, you will also need Speed and Cadence sensor to capture ride data.
 
@@ -90,6 +90,10 @@ For non-smart trainer, Decathlon is the easiest choice. Two most common trainers
 **Recommendation**
 
 If you are a beginner in cycling, I strongly suggest to start small. You do not need a smart trainer. Decathlon Trainer + Speed/Cadence Sensor is all you need to get started. 
+
+
+
+**Why Listen to Me?**
 
 I've done 2 Full Ironmans, 4 Half Ironmans and I still  train 90% on my Basic Trainer - Decathlon InRide 100. I'm getting progressively faster with basic trainer and structured training.
 
