@@ -50,10 +50,14 @@ The focus of this week is to explain what is learning and how do we learn. Barba
 
 
 
-<img src="/images/LHTL/focus-vs-diffuse-graphic.png" alt="focus-vs-diffuse-graphic" style="float: centre; margin-right: 10px;zoom:75%;" />
+<img src="/images/LHTL/focus-vs-diffuse-graphic.png" alt="focus-vs-diffuse-graphic" style="float: centre; margin-right: 10px;zoom:75%;" /> 
 
 
 
+
+
+> 
+>
 
 
 #### **Procrastination**
@@ -85,7 +89,8 @@ The focus of this week is to explain what is learning and how do we learn. Barba
 
 
 
-
+> 
+>
 
 
 
@@ -125,6 +130,8 @@ This week is about chunks. Chunks are compact packages of information that your 
 
 
 
+> 
+
 #### Recall
 
 - Recall helps to understand and grasp the learning material better. When one is reading, the topic looks obvious. But recall helps to solidify the knowledge and expose the gap.
@@ -158,6 +165,8 @@ This week is about chunks. Chunks are compact packages of information that your 
 
 
 <img src="/images/LHTL/Neurons2.jpg" alt="Neurons2" style="float: centre; margin-right: 10px;zoom:125%;" />
+
+> 
 
 #### Overlearning
 
@@ -209,6 +218,8 @@ This week digs deeper into two seemingly unrelated ideas - Long Term Memory and 
 <img src="/images/LHTL/habit2.jpg" alt="habit2" style="float: centre; margin-right: 10px;zoom:90%;" />
 
 
+
+> 
 
 #### Process vs Product
 
@@ -272,6 +283,8 @@ This week digs deeper into two seemingly unrelated ideas - Long Term Memory and 
 <img src="/images/LHTL/Memory Palace.jpg" alt="Memory Palace" style="float: centre; margin-right: 10px;zoom:100%;" />
 
 
+
+> 
 
 #### Summary of Week 3
 
