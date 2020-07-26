@@ -40,6 +40,8 @@ The course is divided in in 4 modules, one to be done per week as suggested. It 
 
 The focus of this week is to explain what is learning and how do we learn. Barbara shares her own learning journey. She was an average student and believed she will be an average student. But by right way of learning, she transformed herself. It is a fantastic journey. Also, some of the key takeaways from this week:
 
+
+
 #### Focused vs Diffused Mode
 
 - **Focused Mode:** Where concentration is at highest level ; you are focused on the problem at hand. Eg Programming, Puzzle Solving, Learning a new topic, Memorizing.
@@ -48,7 +50,9 @@ The focus of this week is to explain what is learning and how do we learn. Barba
 
 
 
-<img src="/images/LHTL/focus-vs-diffuse-graphic.png" alt="focus-vs-diffuse-graphic" style="zoom:50%;" />
+<img src="/images/LHTL/focus-vs-diffuse-graphic.png" alt="focus-vs-diffuse-graphic" style="float: centre; margin-right: 10px;zoom:75%;" />
+
+
 
 
 
@@ -77,7 +81,11 @@ The focus of this week is to explain what is learning and how do we learn. Barba
 
 
 
-![WorkMemVsLTMem](/images/LHTL/WorkMemVsLTMem.jpg)
+<img src="/images/LHTL/WorkMemVsLTMem.jpg" alt="WorkMemVsLTMem" style="float: centre; margin-right: 10px;zoom:100%;" />
+
+
+
+
 
 
 
@@ -87,7 +95,10 @@ The focus of this week is to explain what is learning and how do we learn. Barba
 
 - Sleep is very under-rated, but a critical component for learning as well as performing to optimum level in the day. 
 
-  
+
+
+
+
 
 ------
 
@@ -106,11 +117,11 @@ This week is about chunks. Chunks are compact packages of information that your 
   Focus of chunk should not only to break down the learning into smaller chunk, but also understand the inter-connectivity between chunks
 - Chunks are built with Focused Attention, Understanding, Practice.
 
-<img src="/images/LHTL/Chunk 1.jpg" alt="Chunk 1" style="zoom:75%;" />
+<img src="/images/LHTL/Chunk 1.jpg" alt="Chunk 1" style="float: centre; margin-right: 10px;zoom:75%;" />
 
 
 
-<img src="/images/LHTL/Chunk2.jpg" alt="Chunk2" style="zoom:50%;" />
+<img src="/images/LHTL/Chunk2.jpg" alt="Chunk2" style="float: centre; margin-right: 10px;zoom:75%;" />
 
 
 
@@ -142,11 +153,11 @@ This week is about chunks. Chunks are compact packages of information that your 
 
 
 
-<img src="/images/LHTL/Neurons1.png" alt="Neurons1" style="zoom:67%;" />
+<img src="/images/LHTL/Neurons1.png" alt="Neurons1" style="float: centre; margin-right: 10px;zoom:75%;" />
 
 
 
-![Neurons2](/images/LHTL/Neurons2.jpg)
+<img src="/images/LHTL/Neurons2.jpg" alt="Neurons2" style="float: centre; margin-right: 10px;zoom:125%;" />
 
 #### Overlearning
 
@@ -193,7 +204,7 @@ This week digs deeper into two seemingly unrelated ideas - Long Term Memory and 
 
 
 
-![habit2](/images/LHTL/habit2.jpg)
+<img src="/images/LHTL/habit2.jpg" alt="habit2" style="float: centre; margin-right: 10px;zoom:90%;" />
 
 
 
@@ -231,7 +242,7 @@ This week digs deeper into two seemingly unrelated ideas - Long Term Memory and 
   - The reinstated memory is in a new context, which can itself be transferred to long term memory, thereby, altering the old memory though reconsolidation.
   - Our memories are intertwined with each other. As we learn new things, our old memories also change. Like consolidation, reconsolidation also occurs during sleep.
 
-<img src="/images/LHTL/LongTermMemory.png" alt="LongTermMemory" style="zoom:150%;" />
+<img src="/images/LHTL/LongTermMemory.png" alt="LongTermMemory" style="float: centre; margin-right: 10px;zoom:175%;" />
 
 - **Astrocyte**
 
@@ -256,7 +267,7 @@ This week digs deeper into two seemingly unrelated ideas - Long Term Memory and 
 
 
 
-![Memory Palace](/images/LHTL/Memory Palace.jpg)
+<img src="/images/LHTL/Memory Palace.jpg" alt="Memory Palace" style="float: centre; margin-right: 10px;zoom:100%;" />
 
 
 
