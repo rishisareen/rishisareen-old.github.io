@@ -174,6 +174,8 @@ This week is about chunks. Chunks are compact packages of information that your 
 
 
 
+------
+
 
 
 ## Week 3 - Procrastination and Memory
