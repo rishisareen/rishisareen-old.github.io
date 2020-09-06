@@ -59,7 +59,7 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 2. ### Fork the Beautiful-Jekyll theme 
 
-   Fork this project by going to https://github.com/daattali/beautiful-jekyl and clicking the ***Fork\*** button at the top right corner of this page. Forking means that you now copied this entire project and all the files into your account.
+   Fork this project by going to [https://github.com/daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) and clicking the ***Fork\*** button at the top right corner of this page. Forking means that you now copied this entire project and all the files into your account.
 
 3. ### Rename the project to `<yourusername>.github.io`
 
