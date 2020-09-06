@@ -52,6 +52,13 @@ We will be creating and storing the website on [GitHub](https://github.com/). We
 Scroll down to see the steps involved, but here is a 40-second video just as a reference as you work through the steps. 
 
 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://youtu.be/PfeKKt-qv2A" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+
 
 ![Installation Steps](../assets/img/install-steps.gif)
 
