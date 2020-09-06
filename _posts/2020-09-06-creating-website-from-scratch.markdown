@@ -54,11 +54,10 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 
 <figure class="video_container">
-  <iframe src="https://youtu.be/PfeKKt-qv2A" frameborder="0" allowfullscreen="true"> </iframe>
+<iframe width="420" height="210" src="https://www.youtube.com/embed/PfeKKt-qv2A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 
-Vid
 
 
 
