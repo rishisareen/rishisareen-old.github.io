@@ -61,8 +61,6 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 
 
-![Installation Steps](../assets/img/install-steps.gif)
-
 1. ### Create login on [GitHub](https://github.com/)
 
 2. ### Fork the Beautiful-Jekyll theme 
