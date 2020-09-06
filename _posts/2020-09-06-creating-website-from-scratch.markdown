@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Building Website from Scratch in 30 min"
+title: "Building Website from Scratch in 30 minutes"
 date: 2020-09-06 13:49:45 +0530
 comments: true
 categories: website
