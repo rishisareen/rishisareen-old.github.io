@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Building Website from Scratch - Part 2 - Write New Articles"
+title: "Building Website - Part 2 - Creating New Posts"
 date: 2020-09-06 13:49:45 +0530
 comments: true
 categories: website
