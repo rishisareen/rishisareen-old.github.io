@@ -53,7 +53,7 @@ We will be creating and storing the website on [GitHub](https://github.com/). We
 
 Scroll down to see the steps involved, but here is a 40-second video just as a reference as you work through the steps. 
 
-![Installation steps](assets/img/install-steps.gif)
+
 
 ![Installation Steps](../assets/img/install-steps.gif)
 
