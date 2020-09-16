@@ -63,6 +63,11 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 1. ### Create login on [GitHub](https://github.com/)
 
+
+   1. Visit GitHub.com and click on the “Sign up” button on the upper right. Write your desired username. This will be visible to others, identify you on GitHub, and also be part of your site’s URL; for example, the author’s GitHub username is rishisareen and his demo Jekyll site’s URL is http://rishisareen.github.io/.  Also write your desired email address and password, then click “Create an account”.
+   2. On the next page, click the “Choose” button next to the “Free” plan option, ignore the “Help me set up an organization next” checkbox, and click “Finish sign up”.
+   3. *Optional*: Visit https://github.com/settings/profile to add a full name (can be your real name, GitHub user name, or something else) and other public profile information, if desired.
+
 2. ### Fork the Beautiful-Jekyll theme 
 
    Fork this project by going to [https://github.com/daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) and clicking the ***Fork\*** button at the top right corner of this page. Forking means that you now copied this entire project and all the files into your account.
