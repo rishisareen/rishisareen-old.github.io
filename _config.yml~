@@ -34,7 +34,7 @@ sass:
 # Options
 
 # Replace this value and uncomment to enable Google Analytics tracking
-ga_analytics: UA-19559124-2
+# ga_analytics: UA-000000-0
 
 # Custom vars
 version: 3.0.0

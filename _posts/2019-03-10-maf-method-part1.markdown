@@ -78,6 +78,7 @@ Dr Maffetone suggests adjustments based on these factors:
 - Category 4 : Been training regularly for 2 years without problems? Add 5.   
 
 
-In the next article, we will cover the training approach in detail.  
-> 
+[In the next article](https://rishisareen.com/running/maf-method-part2.html), we will cover the training approach in detail.  
+
+
 
