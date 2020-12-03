@@ -6,7 +6,7 @@ comments: true
 categories: running
 ---
 
-In the [first part](http://jigyasu.com/running/maf-method-part1.html), we discussed the importance of Aerobic Base Building.  
+In the [first part](http://rishisareen.com/running/maf-method-part1.html), we discussed the importance of Aerobic Base Building.  
 In this part, we focus on the "how-to" aspect of it. 
 <!--more-->
 
@@ -96,7 +96,7 @@ It is a wonderful group, and most of the beginners questions are answered there.
 
 ## Tips for Advance Runners / Cyclists / Endurance Athlete
 1. If you want to increase MAF pace in lesser time, consider doing workout 4-5 times a week. Weekly mileage of 40-50km will give a very quick run.   
-2. As we discussed in [part1](http://jigyasu.com/running/maf-method-part1.html), Fat is most clean fuel to burn. Fasted runs helps not only to progress quicker in MAF pace, but also helps to burn fat as the fuel.  
+2. As we discussed in [part1](http://rishisareen.com/running/maf-method-part1.html), Fat is most clean fuel to burn. Fasted runs helps not only to progress quicker in MAF pace, but also helps to burn fat as the fuel.  
   
 That's it for now. I will add in more tips later.  
   

@@ -7,7 +7,7 @@ categories: running
 ---
 
 I'm a strong believer in the MAF Approach to the endurance training. I apply the heart rate training principles to both running and cycling.
-I wrote about maf method in two article series - [Part 1](http://jigyasu.com/running/maf-method-part1.html) and [Part 2](http://jigyasu.com/running/maf-method-part1.html)
+I wrote about maf method in two article series - [Part 1](http://rishisareen.com/running/maf-method-part1.html) and [Part 2](http://rishisareen.com/running/maf-method-part1.html)
 <!--more-->
 
 I'm 41 year old, and my MAF range is 134-144bpm. I've been training consistently with this method for 1+ year, and my MAF Pace has slowly come down from 8:40min/km to 6:40min/km. This is a saving of 2min per km. In a half marathon distance, this is a saving of 40min. 

@@ -25,7 +25,7 @@ categories:
 
 
 ### Race Preparation 
-Goa 70.3 was just 2 months after my [Full IM in Copenhagen (Aug '19)](http://jigyasu.com/ironman/ironman-copenhagen-aug-19-race-report.html) . IM CPH was a disappointing race, as I was not too happy with my performance in the bike section. 
+Goa 70.3 was just 2 months after my [Full IM in Copenhagen (Aug '19)](http://rishisareen.com/ironman/ironman-copenhagen-aug-19-race-report.html) . IM CPH was a disappointing race, as I was not too happy with my performance in the bike section. 
 
 So for the next two months, I decided to focus primarily on nailing the bike leg. My limitation in CPH was unable to hold the aero position. So, I made some adjustments in the bike - replaced aero bars with newer, more comfortable aero bars and got more hands on experience. Soon I saw improvements with my speed averaging to 30+ average on a few rides. Coming to the race, I was feeling strong for the bike and I was confident of getting a good time on the bike. 
 

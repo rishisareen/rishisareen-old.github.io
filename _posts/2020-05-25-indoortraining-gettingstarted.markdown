@@ -103,7 +103,7 @@ I've done 2 Full Ironmans, 4 Half Ironmans. I do almost all of my training on my
 
 ## Before, During, After Ride
 
-Once you have the trainer there is still the training plan and training app to choose from. It is always a great idea to take help preferably from a Coach if triathlon is uncharted territory. For those who prefer DIY, there are millions of triathlon podcasts which can help you assemble the triathlete within you. My go-to ones are [here](https://jigyasu.com/triathlon/my-top-5-triathlon-podcast.html)
+Once you have the trainer there is still the training plan and training app to choose from. It is always a great idea to take help preferably from a Coach if triathlon is uncharted territory. For those who prefer DIY, there are millions of triathlon podcasts which can help you assemble the triathlete within you. My go-to ones are [here](https://rishisareen.com/triathlon/my-top-5-triathlon-podcast.html)
 
 **Before the Ride**
 

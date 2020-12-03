@@ -6,7 +6,7 @@ comments: true
 categories: habits
 ---
 
-As I captured in [previous post](http://jigyasu.com/blog/2016/02/18/habits/), I started the habit drive on 19th Jan 2016. Now it is 50 days since I started, and this is my first report.
+As I captured in [previous post](http://rishisareen.com/blog/2016/02/18/habits/), I started the habit drive on 19th Jan 2016. Now it is 50 days since I started, and this is my first report.
 <!--more-->
 
 ## Habit - Daily Exercise

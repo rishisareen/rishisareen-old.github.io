@@ -6,7 +6,7 @@ comments: true
 categories: website
 ---
 
-In [Part 1](https://jigyasu.com/website/creating-website-from-scratch.html), I showed how to create a new website. In this part, we focus on how we write new articles in the website. 
+In [Part 1](https://rishisareen.com/website/creating-website-from-scratch.html), I showed how to create a new website. In this part, we focus on how we write new articles in the website. 
 
 ## Step1 : Download Typora (Windows / Mac)
 

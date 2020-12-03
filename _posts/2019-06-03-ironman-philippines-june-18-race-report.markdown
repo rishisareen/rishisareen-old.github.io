@@ -25,7 +25,7 @@ categories:
 
 > 
 
-**Pre Race Details [here](http://jigyasu.com/ironman/ironman-philippines-june-18-race-diary.html)**  
+**Pre Race Details [here](http://rishisareen.com/ironman/ironman-philippines-june-18-race-diary.html)**  
  
 > 
 

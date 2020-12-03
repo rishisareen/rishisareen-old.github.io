@@ -25,7 +25,7 @@ categories:
   
    
 ### Race Strategy
-This was my second Full Ironman after last year [Philippines Ironman](http://jigyasu.com/ironman/ironman-philippines-june-18-race-report.html)
+This was my second Full Ironman after last year [Philippines Ironman](http://rishisareen.com/ironman/ironman-philippines-june-18-race-report.html)
 
 I had done good practice for this, particularly the bike and run part. Swim is a challenge in Delhi, particularly the pool access. Most of the pool closes from October to March.  
 Copenhagen was going to be cold swim (17-18degree) and it would be my first time wetsuit swim.  

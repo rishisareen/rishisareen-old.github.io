@@ -25,9 +25,9 @@ I had no idea back then what it is going to take, and how much effort it will as
 So, basically, I defined the word "beginner"
 But then, what is life without a crazy goal or two?  
 
-I wrote a blog post on this [2 years back](http://jigyasu.com/ironman/im70-dot-3-journey-the-preparation.html)  
+I wrote a blog post on this [2 years back](http://rishisareen.com/ironman/im70-dot-3-journey-the-preparation.html)  
 
-Fast forward to 2018. Somehow I managed to train consistently, even did 3 Half Ironman Distance as preparation for Ironman - from [Feb '17](http://jigyasu.com/ironman/im70-dot-3-dit-race-report.html) to [Feb '18](http://jigyasu.com/ironman/im70-dot-3-dit-2018-race-report.html)).  
+Fast forward to 2018. Somehow I managed to train consistently, even did 3 Half Ironman Distance as preparation for Ironman - from [Feb '17](http://rishisareen.com/ironman/im70-dot-3-dit-race-report.html) to [Feb '18](http://rishisareen.com/ironman/im70-dot-3-dit-2018-race-report.html)).  
 
 The Philippines Full Ironman event was picked for one simple reason - it was closest to my 40th birthday.  
 

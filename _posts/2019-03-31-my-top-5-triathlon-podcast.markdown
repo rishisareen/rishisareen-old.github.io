@@ -6,7 +6,7 @@ comments: true
 categories: triathlon
 ---
 
-In my last article on podcast, I shared [my top 5 fav podcasts](http://jigyasu.com/podcasts/my-top-5-podcasts.html), I introduced podcasts and shared my top 5 favorite podcasts.
+In my last article on podcast, I shared [my top 5 fav podcasts](http://rishisareen.com/podcasts/my-top-5-podcasts.html), I introduced podcasts and shared my top 5 favorite podcasts.
 
 Continuing on the theme, I want to share few of my Triathlon focussed podcasts. While there are tons of Triathlon specific podcasts, some of them really resonates with my training philosophy. Here are few of them:  
 <!--more-->

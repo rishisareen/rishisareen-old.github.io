@@ -25,7 +25,7 @@ Let's get on with this.
 **Health/Sports:** This was a very good year in my Health and Sports pursuit. Major Achievements:
 
 + Full Ironman (3.8km swim, 180k bike, 42.2km run) Completed successfully - Philippines, 3rd June
-+ One [Half Ironman](http://jigyasu.com/ironman/im70-dot-3-dit-2018-race-report.html) done
++ One [Half Ironman](http://rishisareen.com/ironman/im70-dot-3-dit-2018-race-report.html) done
 + 3 Half Marathons completed, with Sub 2 timing achieved ([1:59 Finish time](https://www.sportstimingsolutions.in/share/83F04C639426293CAF01.html))
 
 I'm obviously very happy about these milestones. But even more than that, I'm happy that I was very consistent with my workouts.
@@ -38,7 +38,7 @@ I'm obviously very happy about these milestones. But even more than that, I'm ha
 
 2017 was the year where I learned swimming, 2018 was the year where I got decent in running. 2019 is the year of big gains in cycling!
 
-**Learning New Stuff:** This year, most of my learning was done via Podcast medium. Though most of it was in the space of Triathlon (Science & Practical Training Ideas), there were other learning gems too - Tim Ferriss, Ben Greenfield Fitness, The Joe Rogan Experience. I even wrote an [article](http://jigyasu.com/podcasts/my-top-5-podcasts.html) about my top podcasts.
+**Learning New Stuff:** This year, most of my learning was done via Podcast medium. Though most of it was in the space of Triathlon (Science & Practical Training Ideas), there were other learning gems too - Tim Ferriss, Ben Greenfield Fitness, The Joe Rogan Experience. I even wrote an [article](http://rishisareen.com/podcasts/my-top-5-podcasts.html) about my top podcasts.
 
 **Travel:** Travel is both in "what went well", and "need more". After Ironman, I took few days off to roam in the Philippines, which was awesome.
 
@@ -64,7 +64,7 @@ I'm obviously very happy about these milestones. But even more than that, I'm ha
 
 **Blog Writing:** Atleast one post a week, 52 posts a year. Simple.
 
-**Continue eliminate the non-essential:** To say yes to all the stuff, I've to ruthlessly [eliminate the inessential.](http://jigyasu.com/habits/my-not-to-do-list.html)
+**Continue eliminate the non-essential:** To say yes to all the stuff, I've to ruthlessly [eliminate the inessential.](http://rishisareen.com/habits/my-not-to-do-list.html)
 
 
 ## The Bottom Line
