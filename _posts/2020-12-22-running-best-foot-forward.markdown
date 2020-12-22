@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Running - How to put best foot forward"
+title: "Running - Put the best foot forward"
 date: 2020-12-22 22:25:27 -0400
 comments: true
 categories: running
@@ -26,6 +26,8 @@ There are many ways you can determine your current running cadence:
 
 While there are many different opinions on cadence, it is generally agreed that somewhere around 170-180spm is the sweet spot for running efficiency and economy. This is the Goldilocks region where your feet are landing in the safest place – neither over- nor under-striding. In this sweet spot, your foot landing is directly in line and below your torso, or just slightly behind it. Cadence varies individually because of differences in height and weight, but if your cadence is too far below or above this range, some problems may start to creep in.
 
+
+
 ## Stride Length
 
 Runners adjust their stride length to gather speed. Stride length increases as speed increases. One of the most common mistakes novice runners make is over-striding. The most efficient stride length is the natural one – the one that feels most comfortable. By strengthening your leg muscles to take you forward with a longer stride you will improve your performance in and out of races.
@@ -46,10 +48,9 @@ There are three ways by which one can increase cadence and stride length in trai
    
 	
 	
-	```
+	$$
 	Drill - Quick Feet (Cadence)
-	```
-	
+	$$
 	
 
 <figure class="video_container">
@@ -57,7 +58,7 @@ There are three ways by which one can increase cadence and stride length in trai
 </figure>
 ### 			
 
-											Drill - High Knee
+## Drill - High Knee
 
 <figure class="video_container">
 <iframe width="840" height="525" src="https://www.youtube.com/embed/VKc58tjEVfs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -66,14 +67,16 @@ There are three ways by which one can increase cadence and stride length in trai
 
 
 
-													Drill - A-Skip
+## Drill - A-Skip
 
 <figure class="video_container">
 <iframe width="840" height="525" src="https://www.youtube.com/embed/hz-J01hx3l0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
-​																																
 
-														Drill - Butt Kicks
+
+------
+
+**Drill - Butt Kicks**
 
 <figure class="video_container">
 <iframe width="840" height="525" src="https://www.youtube.com/embed/xRjl6d9mtCo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
