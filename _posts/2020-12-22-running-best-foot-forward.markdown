@@ -48,16 +48,14 @@ There are three ways by which one can increase cadence and stride length in trai
    
 	
 	
-	$$
-	Drill - Quick Feet (Cadence)
-	$$
-	
+------
+## Drill - Quick Feet (Cadence)
 
 <figure class="video_container">
 <iframe width="840" height="525" src="https://www.youtube.com/embed/1dIcFD9G5VA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
-### 			
 
+------
 ## Drill - High Knee
 
 <figure class="video_container">
@@ -66,7 +64,7 @@ There are three ways by which one can increase cadence and stride length in trai
 
 
 
-
+------
 ## Drill - A-Skip
 
 <figure class="video_container">
@@ -75,8 +73,7 @@ There are three ways by which one can increase cadence and stride length in trai
 
 
 ------
-
-**Drill - Butt Kicks**
+## Drill - Butt Kicks
 
 <figure class="video_container">
 <iframe width="840" height="525" src="https://www.youtube.com/embed/xRjl6d9mtCo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
