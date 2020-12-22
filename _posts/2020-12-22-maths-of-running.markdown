@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maths of Running"
+title: "Running - How to put best foot forward"
 date: 2020-12-22 22:25:27 -0400
 comments: true
 categories: running
@@ -36,40 +36,50 @@ To maintain proper stride length, aim to keep your foot strike under your body. 
 
 There are three ways by which one can increase cadence and stride length in training
 
-1. Do High-Cadence and High-Stride Length Drills
+1. **Focussed Drill Work**
 
    The most basic way to teach your body to go quick and correct is to do running drills. Running drills are great in that they exaggerate the motion and thus condition you to feel and understand the movement more intimately.
    
    A couple of times per week, after an easy run — or during a run after you’ve  warmed up — perform cadence and stride length specific drills. Each drill should be performed for 10 to 20 seconds and repeated 2-3 times. 
    
    Some of the drills which are best time investment are :
+   
+   ### 																									Drill - Quick Feet (Cadence)
 
-### Drill - Quick Feet (Cadence)
 <figure class="video_container">
-<iframe width="480" height="315" src="https://www.youtube.com/watch?v=1dIcFD9G5VA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="840" height="525" src="https://www.youtube.com/embed/1dIcFD9G5VA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+### 			
+
+### 																												Drill - High Knee
+
+<figure class="video_container">
+<iframe width="840" height="525" src="https://www.youtube.com/embed/VKc58tjEVfs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+### 			
+
+
+
+### 																														Drill - A-Skip
+
+<figure class="video_container">
+<iframe width="840" height="525" src="https://www.youtube.com/embed/hz-J01hx3l0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+### 																																	
+
+### 																															Drill - Butt Kicks
+
+<figure class="video_container">
+<iframe width="840" height="525" src="https://www.youtube.com/embed/xRjl6d9mtCo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-### Drill - High Knee
-<figure class="video_container">
-<iframe width="480" height="315" src="https://www.youtube.com/watch?v=VKc58tjEVfs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
 
-### Drill - A-Skip
-<figure class="video_container">
-<iframe width="480" height="315" src="https://www.youtube.com/watch?v=hz-J01hx3l0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
-
-### Drill - Butt Kicks
-<figure class="video_container">
-<iframe width="480" height="315" src="https://www.youtube.com/watch?v=xRjl6d9mtCo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
-
-
-
-2. Use Quick Arms
+2. **Use Quick Arms**
 
    Focusing on moving your arms faster can help you take quicker strides  rather than reaching and extending your stride when you speed up. Arms  aren’t weight bearing and thus easier to manipulate. When the arm rhythm changes, legs and feet will follow.
 
-   
+3. **Use Metronome App**
 
-As you develop postural endurance and your body optimizes your mechanics through practice, you’ll be able to maintain that cadence — and speed  — for longer, utilizing the efficient elasticity of your body rather  than having to muscle your way forward.
+   There are many apps available ([RunTempo - iOS](https://apps.apple.com/us/app/run-tempo-runners-metronome/id646414918) , [Metronome Beats - Android](https://play.google.com/store/apps/details?id=com.andymstone.metronome&hl=en_IN&gl=US)) where you can set a cadence and app will beat at the interval. Try to increase not more than 3-5 beats per week. 
+
+   As you develop postural endurance and your body optimizes your mechanics through practice, you’ll be able to maintain that cadence — and speed  — for longer, utilizing the efficient elasticity of your body rather  than having to muscle your way forward.
