@@ -44,42 +44,48 @@ There are three ways by which one can increase cadence and stride length in trai
    
    Some of the drills which are best time investment are :
    
-   ### 																									Drill - Quick Feet (Cadence)
+	
+	
+	```
+	Drill - Quick Feet (Cadence)
+	```
+	
+	
 
 <figure class="video_container">
 <iframe width="840" height="525" src="https://www.youtube.com/embed/1dIcFD9G5VA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 ### 			
 
-### 																												Drill - High Knee
+											Drill - High Knee
 
 <figure class="video_container">
 <iframe width="840" height="525" src="https://www.youtube.com/embed/VKc58tjEVfs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
-### 			
 
 
 
-### 																														Drill - A-Skip
+
+													Drill - A-Skip
 
 <figure class="video_container">
 <iframe width="840" height="525" src="https://www.youtube.com/embed/hz-J01hx3l0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
-### 																																	
+​																																
 
-### 																															Drill - Butt Kicks
+														Drill - Butt Kicks
 
 <figure class="video_container">
 <iframe width="840" height="525" src="https://www.youtube.com/embed/xRjl6d9mtCo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 
-2. **Use Quick Arms**
+**2. Use Quick Arms**
 
-   Focusing on moving your arms faster can help you take quicker strides  rather than reaching and extending your stride when you speed up. Arms  aren’t weight bearing and thus easier to manipulate. When the arm rhythm changes, legs and feet will follow.
+Focusing on moving your arms faster can help you take quicker strides  rather than reaching and extending your stride when you speed up. Arms  aren’t weight bearing and thus easier to manipulate. When the arm rhythm changes, legs and feet will follow.
 
-3. **Use Metronome App**
+**3. Use Metronome App**
 
-   There are many apps available ([RunTempo - iOS](https://apps.apple.com/us/app/run-tempo-runners-metronome/id646414918) , [Metronome Beats - Android](https://play.google.com/store/apps/details?id=com.andymstone.metronome&hl=en_IN&gl=US)) where you can set a cadence and app will beat at the interval. Try to increase not more than 3-5 beats per week. 
+There are many apps available ([RunTempo - iOS](https://apps.apple.com/us/app/run-tempo-runners-metronome/id646414918) , [Metronome Beats - Android](https://play.google.com/store/apps/details?id=com.andymstone.metronome&hl=en_IN&gl=US)) where you can set a cadence and app will beat at the interval. Try to increase not more than 3-5 beats per week. 
 
-   As you develop postural endurance and your body optimizes your mechanics through practice, you’ll be able to maintain that cadence — and speed  — for longer, utilizing the efficient elasticity of your body rather  than having to muscle your way forward.
+As you develop postural endurance and your body optimizes your mechanics through practice, you’ll be able to maintain that cadence — and speed  — for longer, utilizing the efficient elasticity of your body rather  than having to muscle your way forward.
