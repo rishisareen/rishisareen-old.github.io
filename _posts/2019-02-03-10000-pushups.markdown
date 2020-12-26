@@ -3,7 +3,7 @@ layout: post
 title: "How I did 10000 pushups in 2018, and how you can do it too"
 date: 2019-02-02 09:44:51 +0530
 comments: true
-categories: habits
+categories: Habits
 ---
 
 > Success is doing a half-dozen things really well, repeated five thousand times.  
