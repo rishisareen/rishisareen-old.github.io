@@ -1,6 +1,6 @@
 ---
 layout: category
-title: running
+title: Running
 ---
 
 

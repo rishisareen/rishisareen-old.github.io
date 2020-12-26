@@ -1,6 +1,6 @@
 ---
 layout: category
-title: books
+title: Books
 ---
 
 Books Review

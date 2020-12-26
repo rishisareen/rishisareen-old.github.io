@@ -1,6 +1,6 @@
 ---
 layout: category
-title: triathlon
+title: Triathlon
 ---
 
 Posts discussing Triathlon, Swim, Bike, Run
