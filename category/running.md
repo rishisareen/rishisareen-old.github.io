@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Running Posts
+title: running
 ---
 
 
