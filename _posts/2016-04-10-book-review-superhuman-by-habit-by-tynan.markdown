@@ -3,7 +3,7 @@ layout: post
 title: "Book Review - Superhuman by Habit - by Tynan"
 date: 2016-04-10 15:24:02 +0530
 comments: true
-categories: books 
+categories: Books 
 ---
 
 ## Book Details

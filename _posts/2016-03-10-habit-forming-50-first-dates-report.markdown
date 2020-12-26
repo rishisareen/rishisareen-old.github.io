@@ -3,7 +3,7 @@ layout: post
 title: "Habit Forming - 50 First dates - Report"
 date: 2016-03-09 10:23:49 -0500
 comments: true
-categories: habits
+categories: Habits
 ---
 
 As I captured in [previous post](http://rishisareen.com/blog/2016/02/18/habits/), I started the habit drive on 19th Jan 2016. Now it is 50 days since I started, and this is my first report.

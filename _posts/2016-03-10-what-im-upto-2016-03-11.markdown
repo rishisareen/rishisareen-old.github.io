@@ -3,7 +3,7 @@ layout: post
 title: "What I'm upto - 2016-03-11"
 date: 2016-03-10 20:07:57 -0500
 comments: true
-categories: 
+categories: General
 ---
 
 ## What am I doing

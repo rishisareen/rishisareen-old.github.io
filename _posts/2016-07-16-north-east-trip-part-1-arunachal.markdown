@@ -4,6 +4,7 @@ title: "NE Diaries#1 - Arunachal"
 date: 2016-07-16 06:55:53 -0400
 categories: [Travel, NETrip]
 comments: true
+published: false
 ---
 
 All bags packed, we left from Delhi on 7th May. Guwahati was going to be our entry and exit point for this trip.  

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Habits"
+title: "Habits - A Start"
 date: 2016-02-18 19:49:45 -0500
 comments: true
-categories: habits
+categories: Habits
 ---
 
 The year was 2014. It was onset of winters, and I was in a charter bus, on my way to our team outbound program, to a nearby hillstation called "Kasauli". Tucked in my woolens from head to toe, I vividly recall reading a book ["The Willpower Instinct"](http://www.amazon.in/The-Willpower-Instinct-Self-Control-Matters/dp/1583335080). I would not be so dramatic to say that this book changed my life, but it definitely gave me a powerful insight, which has stayed with me since then.

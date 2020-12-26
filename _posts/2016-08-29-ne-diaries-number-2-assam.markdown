@@ -3,7 +3,8 @@ layout: post
 title: "NE Diaries#2 - Assam"
 date: 2016-08-29 06:51:15 -0400
 comments: true
-categories: 
+categories: Travel
+published: false
 ---
 
 From Dirang, we started our return journey. Wife was keen to contiue till Tawang, but Dirang to Tawang is 175km, and journey takes 8 to 10 hours, as bad roads. We were not keen to do this hectic leg with kids in tow. So, we decided to head back towards Assam.

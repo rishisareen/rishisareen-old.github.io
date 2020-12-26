@@ -3,7 +3,7 @@ layout: post
 title: "Building a website - #1 - Registering a Domain"
 date: 2014-08-29 20:40:35 -0400
 comments: true
-categories: 
+categories: Website
 ---
 
 In this series of articles, I'm going to capture step by step process involved in setting up a website.
