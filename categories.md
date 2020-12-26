@@ -15,8 +15,7 @@ sidebar_link: true
     <a name="{{ category_name | slugize }}"></a>
     {% for post in site.categories[category_name] %}
     <article class="archive-item">
-      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
-  * {{ post.date | date_to_string }} &mdash; [ {{ post.title }} ]({{ post.url }})
+      <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
     </article>
     {% endfor %}
   </div>
