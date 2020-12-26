@@ -3,144 +3,141 @@ layout: index
 title: Home
 ---
 <style>
-   .wrapper {
-   margin: auto;
-   max-width: 75rem
-   }
-
-   aside,footer,header,main,section {
-   display: block;
-   margin: 0;
-   color: #000
-   }
-
-   main {
-   <!-- background: #000 -->
-   }
-   .header {
-   <!-- background: #03a9f4 -->
-   }
-   .hero {
-   <!--  background: #d22b1f -->
-   }
-
-   img { 
-   margin: auto;
-   width: 100%;
-   max-width: 400px;
-   max-height:100%;
-   object-fit: contain;
-   }
-   
-   .content {
-   flex: 1;
-   <!-- background: #129a22 -->
-   }
-   .sidebar {
-   flex: 0 1 400px;
-   }
-
-   .footer,
-   .sidebar {
-   border: 1px solid #fff
-   }
-   
-  .some-page-wrapper {
-  margin: 15px;
-  background-color: white;
-  }
-
-.footer-row {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  width: 100%;
-}
-
-.footer-column {
-  display: flex;
-  flex-direction: column;
-  flex-basis: 100%;
-  border: 1px solid #000
-}
-.footer-column:hover {
-  background-color: #2699ab; 
-  cursor: hand;
-  cursor: pointer;
-}
-
-.footer-column img {
-  height: 100px;
-  width: auto;
-  
-}
-
- @media screen and (min-width:640px) {
-   .flex-container {
-   display: flex
-   }
-   .footer-column {
-     flex: 1
-   }
- }
-  
-
-</style>
-
-<main>
-   <!-- Header -->
-   <!-- <header class="header"> -->
-   <!--     Header -->
-   <!-- </header> -->
-   <!-- Hero -->
-   <!-- <section class="hero"> -->
-      <!-- Hero -->
-   <!-- </section> -->
-   <div class="flex-container wrapper">
-      <!-- Sidebar -->
-      <aside class="sidebar">
-         <p>
-            <img src="https://rishisareen.com/images/RishiCover.jpg">
-         </p>
-      </aside>
-      <!-- Content -->
-      <section class="content">
-         <h2>Hi, I&#39;m Rishi Sareen</h2>
-         I am a regular guy who loves to read, learn new things and share ideas which may help you:)
-         <p>See <a href="/about.html">About</a> to learn more.  </p>
-         <p>Explore the <a href="/archive.html">Archives</a> for all that I have to offer here – Books review, Triathlon race reports, my training approach / how-to, Recipes, and more! </p>
-         <p class="post">
-            Sounds cool? Hop on board for updates <a href="http://eepurl.com/gOwpwn">here</a>  
-         </p>
-		       <p>
-         If you like, you can follow me on instagram <a href="https://instagram.com/{{ site.author.instagram }}">@rishi.sareen</a>.
-      </p>
-      </section>
-   </div>
-   <!-- Footer -->
-   <footer class="footer">
-          <div class='some-page-wrapper'>
-  <div class='footer-row'>
-    <div class='footer-column' onclick="location.href='/archive.html';">
-          <img src="https://rishisareen.com/images/index/allposts.webp">
-        <center><b>All Posts</b></center>
-    </div>
-	<div class='footer-column' onclick="location.href='https://rishisareen.com/category/recipes.html';" >
-        <img src="https://rishisareen.com/images/index/Recipes-1.svg">
-        <center><b>Recipes</b></center>
-    </div>
-    <div class='footer-column' onclick="location.href='https://rishisareen.com/category/books.html';">
-        <img src="https://rishisareen.com/images/index/Books-1.svg">
-        <br/>
-        <center><b>Books Review</b></center>
-    </div>
-    <div class='footer-column' onclick="location.href='https://rishisareen.com/category/books.html';">
-          <img src="https://rishisareen.com/images/index/Productivity-1.png">
-        <center><b>Productivity</b></center>
-    </div>
+	.wrapper {
+	   margin: auto;
+	   max-width: 75rem
+	   }
 	
-  </div>
-<!--  
+	   aside,footer,header,main,section {
+	   display: block;
+	   margin: 0;
+	   color: #000
+	   }
+	
+	   main {
+	   <!-- background: #000 -->
+	   }
+	   .header {
+	   <!-- background: #03a9f4 -->
+	   }
+	   .hero {
+	   <!--  background: #d22b1f -->
+	   }
+	
+	   img { 
+	   margin: auto;
+	   width: 100%;
+	   max-width: 400px;
+	   max-height:100%;
+	   object-fit: contain;
+	   }
+	   
+	   .content {
+	   flex: 1;
+	   <!-- background: #129a22 -->
+	   }
+	   .sidebar {
+	   flex: 0 1 400px;
+	   }
+	
+	   .footer,
+	   .sidebar {
+	   border: 1px solid #fff
+	   }
+	   
+	  .some-page-wrapper {
+	  margin: 15px;
+	  background-color: white;
+	  }
+	
+	.footer-row {
+	  display: flex;
+	  flex-direction: row;
+	  flex-wrap: wrap;
+	  width: 100%;
+	}
+	
+	.footer-column {
+	  display: flex;
+	  flex-direction: column;
+	  flex-basis: 100%;
+	  border: 1px solid #000
+	}
+	.footer-column:hover {
+	  background-color: #2699ab; 
+	  cursor: hand;
+	  cursor: pointer;
+	}
+	
+	.footer-column img {
+	  height: 100px;
+	  width: auto;
+	  
+	}
+	
+	 @media screen and (min-width:640px) {
+	   .flex-container {
+	   display: flex
+	   }
+	   .footer-column {
+	     flex: 1
+	   }
+	 }
+</style>
+<main>
+	<!-- Header -->
+	<!-- <header class="header"> -->
+	<!--     Header -->
+	<!-- </header> -->
+	<!-- Hero -->
+	<!-- <section class="hero"> -->
+	<!-- Hero -->
+	<!-- </section> -->
+	<div class="flex-container wrapper">
+		<!-- Sidebar -->
+		<aside class="sidebar">
+			<p>
+				<img src="https://rishisareen.com/images/RishiCover.jpg">
+			</p>
+		</aside>
+		<!-- Content -->
+		<section class="content">
+			<h2>Hi, I&#39;m Rishi Sareen</h2>
+			I am a regular guy who loves to read, learn new things and share ideas which may help you:)
+			<p>See <a href="/about.html">About</a> to learn more.</p>
+			<p>Explore the <a href="/archive.html">Archives</a> for all that I have to offer here – Books review, Triathlon race reports, my training approach / how-to, Recipes, and more!</p>
+			<p class="post">Sounds cool? Hop on board for updates <a href="http://eepurl.com/gOwpwn">here</a> 
+			</p>
+			<p>If you like, you can follow me on instagram <a href="https://instagram.com/{{ site.author.instagram }}">@rishi.sareen</a>.</p>
+		</section>
+	</div>
+	<!-- Footer -->
+	<footer class="footer">
+		<div class='some-page-wrapper'>
+			<div class='footer-row'>
+				<div class='footer-column' onclick="location.href='/archive.html';">
+					<img src="https://rishisareen.com/images/index/allposts.webp">
+					<center><b>All Posts</b>
+					</center>
+				</div>
+				<div class='footer-column' onclick="location.href='https://rishisareen.com/category/recipes.html';">
+					<img src="https://rishisareen.com/images/index/Recipes-1.svg">
+					<center><b>Recipes</b>
+					</center>
+				</div>
+				<div class='footer-column' onclick="location.href='https://rishisareen.com/category/books.html';">
+					<img src="https://rishisareen.com/images/index/Books-1.svg">
+					<br/>
+					<center><b>Books Review</b>
+					</center>
+				</div>
+				<div class='footer-column' onclick="location.href='https://rishisareen.com/category/books.html';">
+					<img src="https://rishisareen.com/images/index/Productivity-1.png">
+					<center><b>Productivity</b>
+					</center>
+				</div>
+			</div>
+			<!--  
   <div class='footer-row'>
     <div class='footer-column'>
       <p>
@@ -150,8 +147,6 @@ title: Home
         <b>Race Reports</b>
     </div>
     </div>
--->    
-</div>      
-
-   </footer>
+--></div>
+	</footer>
 </main>
