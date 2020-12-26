@@ -4,7 +4,7 @@ title: "Ironman Philippines - June 18 - Pre Race"
 date: 2019-01-03 19:48:02 -0400
 comments: true
 categories: 
-- Ironman
+- Triathlon
 - Race Reports
 ---
 

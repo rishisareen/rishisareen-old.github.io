@@ -3,7 +3,7 @@ layout: post
 title: "Running - Put the best foot forward"
 date: 2020-12-22 22:25:27 -0400
 comments: true
-categories: running
+categories: Running
 ---
 
 While running performance is a vast topic, fast running in its most simplistic form is pretty straight-forward

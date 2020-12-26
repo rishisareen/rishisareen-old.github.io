@@ -3,7 +3,9 @@ layout: post
 title: "Indoor Cycling - Getting Started Guide"
 date: 2020-05-25 06:05:22 +0530
 comments: true
-categories: triathlon
+categories: 
+- Triathlon
+- Cycling
 ---
 
 

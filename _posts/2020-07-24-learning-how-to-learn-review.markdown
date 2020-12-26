@@ -3,8 +3,9 @@ layout: post
 title: "Learning how to Learn - Course Review"
 date: 2020-07-23 02:00:22 +0530
 comments: true
-categories: learning
-typora-root-url: ..
+categories: 
+- Learning
+- Productivity
 ---
 
 

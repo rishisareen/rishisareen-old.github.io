@@ -3,7 +3,7 @@ layout: post
 title: "Building Website - Part 2 - Creating New Posts"
 date: 2020-09-06 13:49:45 +0530
 comments: true
-categories: website
+categories: Website
 ---
 
 In [Part 1](https://rishisareen.com/website/creating-website-from-scratch.html), I showed how to create a new website. In this part, we focus on how we write new articles in the website. 

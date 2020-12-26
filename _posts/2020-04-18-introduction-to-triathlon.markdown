@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to Triathlon"
 date: 2020-04-18 14:48:02 +0530
 comments: true
-categories: triathlon
+categories: Triathlon
 ---
 
 ### Introduction to Triathlon
