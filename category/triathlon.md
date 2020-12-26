@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Triathlon
+title: triathlon
 ---
 
 Triathlon, Running
