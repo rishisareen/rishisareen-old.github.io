@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg1"
+    sodipodi:docname="krecipes.svg"
+    viewBox="0 0 60 60"
+    sodipodi:version="0.32"
+    version="1.0"
+    y="0"
+    x="0"
+    inkscape:version="0.38.1"
+    sodipodi:docbase="/home/danny/flat/scalable/apps"
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-width="1016"
+      pagecolor="#ffffff"
+      snaptoguides="true"
+      inkscape:zoom="6.9465338"
+      inkscape:window-x="0"
+      borderopacity="1.0"
+      inkscape:cx="31.493585"
+      inkscape:cy="19.557514"
+      inkscape:window-y="0"
+      inkscape:window-height="693"
+      inkscape:pageopacity="0.0"
+      showguides="true"
+  />
+  <g
+      id="g850"
+      transform="translate(2.5192)"
+    >
+    <path
+        id="path840"
+        sodipodi:nodetypes="ccccc"
+        style="stroke-linejoin:round;stroke:#333333;stroke-linecap:round;stroke-width:3.75;fill:none"
+        d="m8.2381 4.9833v16.767c0 1.923-1.6482 7.967 8.7909 7.692 11.538 0.824 9.34-5.494 9.615-7.142v-17.307"
+        sodipodi:stroke-cmyk="(0.0000000 0.0000000 0.0000000 0.80000001)"
+    />
+    <path
+        id="path841"
+        sodipodi:nodetypes="cc"
+        style="stroke-linejoin:round;stroke:#333333;stroke-linecap:round;stroke-width:3.75;fill:none"
+        d="m17.304 29.442v-23.104"
+        sodipodi:stroke-cmyk="(0.0000000 0.0000000 0.0000000 0.80000001)"
+    />
+    <path
+        id="path842"
+        sodipodi:nodetypes="cccc"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#333333;stroke-linecap:round;stroke-width:2.425;fill:#4c4c4c"
+        d="m15.475 29.949c-1.439 5.398-3.779 26.452 1.98 27.172 5.758-0.54 2.879-21.594 1.979-27.172h-3.959z"
+        sodipodi:stroke-cmyk="(0.0000000 0.0000000 0.0000000 0.80000001)"
+    />
+  </g
+  >
+  <g
+      id="g846"
+      transform="translate(-2.1594)"
+    >
+    <path
+        id="path845"
+        style="fill-rule:evenodd;stroke:#333333;stroke-width:1.875;fill:#b3b3b3"
+        d="m43.727 31.029v-25.193c0 0.0003-0.54-3.5986 2.699 0.1802 3.239 3.7789 5.039 8.9978 4.319 12.596-0.72 3.599-2.34 12.957-2.34 12.957l-4.678-0.54z"
+        sodipodi:stroke-cmyk="(0.0000000 0.0000000 0.0000000 0.80000001)"
+    />
+    <path
+        id="path843"
+        sodipodi:nodetypes="cccc"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#333333;stroke-linecap:round;stroke-width:2.425;fill:#4c4c4c"
+        d="m44.396 29.949c-1.44 5.398-3.779 26.452 1.979 27.172 5.758-0.54 2.879-21.594 1.979-27.172h-3.958z"
+        sodipodi:stroke-cmyk="(0.0000000 0.0000000 0.0000000 0.80000001)"
+    />
+    <rect
+        id="rect844"
+        style="fill-rule:evenodd;stroke:#333333;stroke-width:1.875;fill:#7f7f7f"
+        rx="1"
+        height="3.998"
+        width="8.8844"
+        sodipodi:stroke-cmyk="(0.0000000 0.0000000 0.0000000 0.80000001)"
+        y="26.884"
+        x="41.894"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >ftkrecipes</dc:title
+        >
+        <dc:date
+          >2011-01-31T02:11:59</dc:date
+        >
+        <dc:description
+          >Originally uploaded by Danny Allen for OCAL 0.18 this icon is part of the flat theme</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/115885/ftkrecipes-by-anonymous</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >Anonymous</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >flat</rdf:li
+            >
+            <rdf:li
+              >icon</rdf:li
+            >
+            <rdf:li
+              >theme</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
