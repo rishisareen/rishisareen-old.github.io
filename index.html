@@ -2,7 +2,6 @@
 layout: index
 title: Home
 ---
-
 <style>
    .wrapper {
    margin: auto;
@@ -65,7 +64,9 @@ title: Home
   border: 1px solid #000
 }
 .footer-column:hover {
-  background-color: yellow;
+  background-color: #2699ab; 
+  cursor: hand;
+  cursor: pointer;
 }
 
 .footer-column img {
@@ -120,27 +121,18 @@ title: Home
    <footer class="footer">
           <div class='some-page-wrapper'>
   <div class='footer-row'>
-    <div class='footer-column'>
-        <p>
-        <a href="https://rishisareen.com/category/recipes.html"> <img src="https://rishisareen.com/images/index/Recipes-1.svg">
-        </a>
-        <br/>
-        <b>Recipes</b>
-        </p>
-      </div>
-    <div class='footer-column'>
-      <p>
-        <a href="https://rishisareen.com/category/books.html"> <img src="https://rishisareen.com/images/index/Books-1.svg">
-        </a>
-        <br/>
-        <b>Books Review</b>
+    <div class='footer-column' onclick="location.href='https://rishisareen.com/category/recipes.html';" >
+        <img src="https://rishisareen.com/images/index/Recipes-1.svg">
+        <center><b>Recipes</b></center>
     </div>
-    <div class='footer-column'>
-        <p>
-        <a href="https://rishisareen.com/category/books.html"> <img src="https://rishisareen.com/images/index/Productivity-1.png">
-        </a>
+    <div class='footer-column' onclick="location.href='https://rishisareen.com/category/books.html';">
+        <img src="https://rishisareen.com/images/index/Books-1.svg">
         <br/>
-        <b>Productivity</b>
+        <center><b>Books Review</b></center>
+    </div>
+    <div class='footer-column' onclick="location.href='https://rishisareen.com/category/books.html';">
+          <img src="https://rishisareen.com/images/index/Productivity-1.png">
+        <center><b>Productivity</b></center>
     </div>
   </div>
 <!--  
