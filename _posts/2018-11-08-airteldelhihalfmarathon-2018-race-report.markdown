@@ -5,6 +5,7 @@ date: 2018-10-28 13:34:46 -0500
 comments: true
 categories: 
 - Race Reports
+- Running
 ---
 
 ## The Race

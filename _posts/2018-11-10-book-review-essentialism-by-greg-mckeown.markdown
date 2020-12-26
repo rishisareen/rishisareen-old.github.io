@@ -3,7 +3,7 @@ layout: post
 title: "Book Review - Essentialism - by Greg McKeown"
 date: 2018-11-10 12:35:36 -0500
 comments: true
-categories: books
+categories: Books
 ---
 
 ## Book Details

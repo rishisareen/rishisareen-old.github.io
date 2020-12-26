@@ -3,7 +3,7 @@ layout: post
 title: "My Top 5 Triathlon Podcasts"
 date: 2019-03-24 06:54:43 -0400
 comments: true
-categories: triathlon
+categories: Triathlon
 ---
 
 In my last article on podcast, I shared [my top 5 fav podcasts](http://rishisareen.com/podcasts/my-top-5-podcasts.html), I introduced podcasts and shared my top 5 favorite podcasts.

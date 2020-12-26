@@ -3,7 +3,9 @@ layout: post
 title: "My Not To Do List"
 date: 2019-01-09 11:45:45 -0500
 comments: true
-categories: habits
+categories: 
+- Habits
+- Productivity
 ---
    
     "It is not daily increase but daily decrease, hack away the unessential."

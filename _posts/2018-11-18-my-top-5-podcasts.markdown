@@ -3,7 +3,7 @@ layout: post
 title: "Five podcasts I love listening to"
 date: 2018-11-18 01:18:34 -0500
 comments: true
-categories: podcasts
+categories: Podcasts
 ---
 
 For those who are not aware, Podcasts are episodes of a program available on the Internet. They are similar to radio program, but they are audio files, and one can downlad and listen to them at their convenience. iOS and Android devices have podcast apps available for this purpose. 

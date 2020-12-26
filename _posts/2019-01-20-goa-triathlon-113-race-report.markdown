@@ -3,7 +3,9 @@ layout: post
 title: "Goa Triathlon 113 Race Report"
 date: 2019-01-20 10:17:58 -0500
 comments: true
-categories: ironman
+categories: 
+- Triathlon
+- Race Reports
 ---
 
 ## Race information

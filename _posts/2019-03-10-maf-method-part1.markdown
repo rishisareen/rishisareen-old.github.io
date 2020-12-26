@@ -3,7 +3,7 @@ layout: post
 title: "MAF Method - Part1"
 date: 2019-03-10 02:46:16 -0400
 comments: true
-categories: running
+categories: Running
 ---
 
 # MAF method - Background

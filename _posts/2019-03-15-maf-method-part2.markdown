@@ -3,7 +3,7 @@ layout: post
 title: "MAF Method - Part2"
 date: 2019-03-15 22:25:27 -0400
 comments: true
-categories: running
+categories: Running
 ---
 
 In the [first part](http://rishisareen.com/running/maf-method-part1.html), we discussed the importance of Aerobic Base Building.  

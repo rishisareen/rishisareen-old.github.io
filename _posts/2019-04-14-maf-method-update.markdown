@@ -3,7 +3,7 @@ layout: post
 title: "MAF Method - Update"
 date: 2019-04-14 03:37:47 -0400
 comments: true
-categories: running
+categories: Running
 ---
 
 I'm a strong believer in the MAF Approach to the endurance training. I apply the heart rate training principles to both running and cycling.

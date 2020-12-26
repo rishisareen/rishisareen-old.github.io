@@ -3,7 +3,7 @@ layout: post
 title: "Nutrition - Practical Tips #1"
 date: 2019-03-03 05:46:31 -0500
 comments: true
-categories: nutrition 
+categories: Nutrition 
 ---
 
 So far, we've covered basics of nutrition, and how carbs trigger high insulin response, which causes weight gain and other health issues.

@@ -3,7 +3,7 @@ layout: post
 title: "Nutrition - A Primer"
 date: 2019-02-17 19:00:02 +0530
 comments: true
-categories: nutrition
+categories: Nutrition
 ---
 
 In the [previous post](exercise-and-weight-loss.html), we discussed why fixing nutrition should be the first priority.

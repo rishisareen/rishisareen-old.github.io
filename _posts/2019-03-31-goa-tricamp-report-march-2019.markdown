@@ -3,7 +3,7 @@ layout: post
 title: "Goa TriCamp Report - March 2019"
 date: 2019-03-31 09:58:24 -0400
 comments: true
-categories: triathlon
+categories: Triathlon
 ---
 My Coach (Kaustubh Radkar) has planned for a 3 days Triathlon Camp in Goa. It was from 8th March to 10th March.   
 

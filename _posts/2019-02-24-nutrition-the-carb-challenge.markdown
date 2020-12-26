@@ -3,7 +3,7 @@ layout: post
 title: "Nutrition - The Carb Challenge"
 date: 2019-02-24 02:43:48 -0500
 comments: true
-categories: nutrition
+categories: Nutrition
 ---
 
 In the [previous post](nutrition-a-primer.html), we covered the basics about Nutrition.

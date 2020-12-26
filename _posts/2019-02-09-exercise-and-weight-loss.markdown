@@ -3,7 +3,7 @@ layout: post
 title: "Exercise and Weight Loss"
 date: 2019-02-09 08:31:01 -0500
 comments: true
-categories: nutrition
+categories: Nutrition
 ---
 
 _She: You're so lean._  

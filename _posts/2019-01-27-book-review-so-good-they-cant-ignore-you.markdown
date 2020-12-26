@@ -3,7 +3,7 @@ layout: post
 title: "Book Review - So Good They Can't Ignore you"
 date: 2019-01-27 12:13:00 -0500
 comments: true
-categories: books
+categories: Books
 ---
 
 
