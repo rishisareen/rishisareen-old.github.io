@@ -15,6 +15,7 @@ sidebar_link: true
     <a name="{{ category_name | slugize }}"></a>
     {% for post in site.categories[category_name] %}
       <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
+			<br/>
     {% endfor %}
   </div>
 {% endfor %}
