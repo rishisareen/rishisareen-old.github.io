@@ -3,26 +3,94 @@ layout: index
 title: Home
 ---
 
-<div class="flex-container" style="display: inline-flex;flex-wrap:wrap;">
 
-    <div class="grid-child purple">
-        <!-- <img src="https://rishisareen.com/images/RishiCover.jpg" width="350" height="350"> -->
-		<img src="https://rishisareen.com/images/RishiCover.jpg"">
-    </div>
+<style>
+   *,
+   :after,
+   :before {
+   box-sizing: border-box
+   }
+   .wrapper {
+   margin: auto;
+   max-width: 75rem
+   }
+   aside,footer,header,main,section {
+   display: block;
+   margin: 0;
+   padding: 1.25rem;
+   border: 1px solid #fff;
+   color: #000
+   }
+   main {
+   <!-- background: #000 -->
+   }
+   .header {
+   <!-- background: #03a9f4 -->
+   }
+   .hero {
+   <!--  background: #d22b1f -->
+   }
+   img { 
+   margin: auto;
+   width: 100%;
+   max-width: 350px;
+   max-height:100%;
+   object-fit: contain;
+   }
+   @media screen and (min-width:640px) {
+   .flex-container {
+   display: flex
+   }
+   }
+   .content {
+   flex: 1;
+   <!-- background: #129a22 -->
+   }
+   .sidebar {
+   flex: 0 1 300px;
+   }
+   .footer,
+   .sidebar {
+   border: 1px solid #fff
+   }
+   .footer {
+   background: #616161
+   }
+</style>
 
-    <div class="grid-child green">
-        <h2>Hi, I&#39;m Rishi Sareen</h2>
-		<h3><strong>I&rsquo;m Just A Guy Who&rsquo;s Passionate About Learning and Reading. Oh, And Sharing Ideas!</strong></h3>
-
-<p>See <a href="/about.html">About</a> to learn more.  </p> 
-<p>Explore the <a href="/archive.html">Archives</a> for all that I have to offer here – Books review, Triathlon race reports, my training approach / how-to, Recipes, and more! </p> 
-
-  <p class="post">
-    Sounds cool? Hop on board for updates <a href="http://eepurl.com/gOwpwn">here</a>  
-  </p>
-
-<p>If you like, you can follow me on instagram <a href="https://instagram.com/{{ site.author.instagram }}">@rishi.sareen</a>.</p>
-
-    </div>
-  
-</div>
+<main>
+   <!-- Header -->
+   <!-- <header class="header"> -->
+   <!--     Header -->
+   <!-- </header> -->
+   <!-- Hero -->
+   <!-- <section class="hero"> -->
+      <!-- Hero -->
+   <!-- </section> -->
+   <div class="flex-container wrapper">
+      <!-- Sidebar -->
+      <aside class="sidebar">
+         <p>
+            <img src="https://rishisareen.com/images/RishiCover.jpg">
+         </p>
+      </aside>
+      <!-- Content -->
+      <section class="content">
+         <h2>Hi, I&#39;m Rishi Sareen</h2>
+         <h3><strong>I&rsquo;m Just A Guy Who&rsquo;s Passionate About Learning and Reading. Oh, And Sharing Ideas!</strong></h3>
+         <p>See <a href="/about.html">About</a> to learn more.  </p>
+         <p>Explore the <a href="/archive.html">Archives</a> for all that I have to offer here – Books review, Triathlon race reports, my training approach / how-to, Recipes, and more! </p>
+         <p class="post">
+            Sounds cool? Hop on board for updates <a href="http://eepurl.com/gOwpwn">here</a>  
+         </p>
+         <p>If you like, you can follow me on instagram <a href="https://instagram.com/{{ site.author.instagram }}">@rishi.sareen</a>.</p>
+      </section>
+   </div>
+   <!-- Footer -->
+   <footer class="footer">
+      Footer                
+      <p>
+         If you like, you can follow me on instagram <a href="https://instagram.com/{{ site.author.instagram }}">@rishi.sareen</a>.
+      </p>
+   </footer>
+</main>
