@@ -27,6 +27,7 @@ Now, let's get on with the review.
 <!--more-->
 
 ## 1. What went well this year
+
 **Sports:** Another washed year in terms of the racing; Coronavirus pushed most of the events from 2021. But Matt Dixon, my coach, kept reminding the coaching tribe -  “Control the controllables”. Race cancellation was not in my control, but regular training was. I'm overall happy with my consistency. 
 
 + 2021 Total : 340 Days and 484 hours of training (2020: 306 days, 2019: 241 days)
