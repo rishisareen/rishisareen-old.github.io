@@ -122,7 +122,7 @@ All done, clicked some selfies with the friends.
 
 
 
-{% include image.html file="/images/2022_01_30_KolhapurTri/20220130_KolhapurTri_PreRace (With Maitreyi Rohan).JPG" description="20220130_KolhapurTri_PreRace (With Maitreyi Rohan)" style="zoom: 25%;" />
+{% include image.html file="/images/2022_01_30_KolhapurTri/20220130_KolhapurTri_PreRace (With Maitreyi Rohan).JPG" description="20220130_KolhapurTri_PreRace (With Maitreyi Rohan)" %}
 
 {% include image.html file="/images/2022_01_30_KolhapurTri/20220130_KolhapurTri_PreRace (With Sujoy Sonia DG).JPG" description="20220130_KolhapurTri_PreRace (With Sujoy Sonia DG)" %}
 
