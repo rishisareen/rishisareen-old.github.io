@@ -303,7 +303,7 @@ Here, I learnt that Maitreyi got podium - second fastest female of the day!! So,
 
 
 
-Later news came Sonia also got podium in her Age Group category. DG finished race close to Sub 6 time, that was a solid performance after Jet lag. Sujoy being Sujoy was happy on finishing and solid bike with zero training (the dude was not doing this race till 2 days before the race!)
+Later news came Sonia also got podium in her Age Group category. DG finished race close to Sub 6 time, that was a solid performance after Jet lag. Sujoy being Sujoy was most chill on finishing and a fast bike executed (the dude was not doing this race till 2 days before the race!)
 
 So, all this news helped to cheer up a bit. While my race personally was disaster (we will call it learning experience :laughing:), it was wonderful to learn that my friends got good race. 
 
