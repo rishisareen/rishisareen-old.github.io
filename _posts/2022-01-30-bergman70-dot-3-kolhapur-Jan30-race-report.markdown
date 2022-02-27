@@ -319,7 +319,7 @@ Now, while I am writing this after a week, where things have settled down, there
 * Backup plan for the hydration : All my salt capsules were in the bottle. When bottles were lost, I had no salt. In endurance race, electrolytes are super important. Need to have a plan B
 * Fix Bike Hydration Arrangement: Need to get more sturdy bottle cage
 * Need to put in lot more hours in swim. I finished the swim 3 min before the cutoff. I am not that bad a swimmer. But consistency is the key.
-* Fuelling strategy: I tried SiS gels for the first time in the race. Each Gel has 150mg of Caffeine. That is a lot of caffeine. I suspect it also didn’t go well completely well and increased RPE. Need to understand a bit more on this.
+* Fuelling strategy: I tried SiS gels for the first time in the race. Each Gel has 150mg of Caffeine. I ended up consuming 1500mg of caffeine. That is a lot of caffeine - way over the recommended limit of 3 to 6mg per kg of body weight. I suspect it also didn’t go well completely - elevated my heart rate increased RPE. Need to study and experiment a bit more on this.
 
 
 
