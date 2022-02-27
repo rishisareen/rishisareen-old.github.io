@@ -68,7 +68,9 @@ Before the lockdown, I had bought a new compact cycling bag - [Orucase B2](https
 
 But this compactness comes with a cost - cycle needs to be unassembled completely. Thankfully, YouTube came to the rescue and Bike and I were packed!
 
-{% include image.html file="/images/2022_01_30_KolhapurTri/Orucase,jpg" description="Very Compact Cycling Bag - OruCase" %}
+{% include image.html file="/images/2022_01_30_KolhapurTri/Orucase,jpg" description="Very Compact Cycling Bag - Orucase" %}
+
+
 
 
 
@@ -86,7 +88,7 @@ On 28th Morning, we drove from Pune to Kolhapur. The route was is smooth scenic 
 
 On 29th Morning, we went for a Practice Swim. [Rajaram Talav](https://goo.gl/maps/fxMoTsvV8pLdeZ3G8) is the Swim venue for the race and Expo / T1 / T2 were all on the short 200m climb from the lake. 
 
-This was my first open water swim after a gap of almost 2 years. Reaching the lake, I hesistatingly checked the water temperature. Not bad! While it was cold, it felt ok. There were ropes all around the route.
+This was my first open water swim after a gap of almost 2 years. Reaching the lake, I hesitatingly checked the water temperature. Not bad! While it was cold, it felt ok. There were ropes all around the route.
 
 Putting the swim cap and goggles, I borrowed  a swim buoy from a friend and stepped into the lake. I took a deep breath and started to swim along the rope. From the first stroke, I felt comfortable. No panic, no cold water shock. I did a nice easy 200m round of the lake and came back. Feeling the water temperature I decided - no wetsuit needed for the race day.
 
@@ -177,9 +179,9 @@ Highway was 1km away from the start point - sharp downhill and uphill ride to re
 
 Reaching highway, I carefully merged into the main traffic and settled down in an easy comfortable rhythm. Now it was all about executing a solid bike ride. Something I had trained for well.
 
-All settled, it was time for hydration. I’ve back cage holder, which keeps 2 water bottles. 
+All settled, it was time for hydration. I’ve bottle holder under the seat back. It holds 2 water bottles. 
 
-In a practiced motion, I moved right hand behind my back to grip the bottle. Eyes remained focused on the road. The hand moved in air, no bottle came in contact. I glanced back -  no water bottle on the right side!! What!!!! Shocked, I realized one bottle was gone. Anxiously, I checked left side. Nope, no bottle there too.
+In a practiced motion, I moved my right hand behind to grip the bottle. Eyes remained focused on the road. The hand moved in the air, no bottle came in contact. I carefully glanced back -  no water bottle on the right side!! Oops, where did this go! Anxiously, I checked left side. Nope, no bottle there too. Somehow both bottles were gone!!
 
 **Damn, damn, DAMN!!!!**
 
@@ -189,11 +191,13 @@ Going down on the aero position, I took deep breaths, calmed my mind and assesse
 
 In long distance course, Nutrition plays a very key role. As the day is long, you need to fuel and hydrate yourself constantly. And bike is the best time to get some calories in. When you hit the run, your stomach can’t handle much calories.
 
-I had 6 gels, so about 2 gels an hour. Good. This would give me 44 gm of carbs. I was also carrying snickers, so another 10gm of carbs an hour. While not enough, it was not bad. It would take care of my fuel. But I also needed to hydrate. And hydration is more than just plan water. Body loses lot of sweat in the race. To replenish that, electrolytes are needed. An ideal combination is mix of Sodium / Magnesium / Potassium and Calcium. But plain salt would also do, sodium is often most lacking. 
+With bottles gone, I had 6 gels still with me. My estimate was to finish bike around 3 hours. So about 2 gels an hour. Good. This would give me 44 gm of carbs. I was also carrying snickers, so another 10gm of carbs an hour. While not enough, it was not bad. It would take care of my fuel. 
 
-Continuing pedalling, I took the first gel. I was slowly overtaking people. The first aid station came at 12km mark. I got 200ml Bisleri there, and NO SALT was available!!  Even on all other aid station, it was all water / fast n up and banana on one. No salt. This is something that organizers must fix for the future. Salt is essential for long distance races. Yes, I should have kept a backup. But this is a supported race, there should be salt on the aid station. 
+But I also needed to hydrate. And hydration is more than just plan water. Body loses lot of sweat in the race. To replenish that, electrolytes are needed. An ideal combination is mix of Sodium / Magnesium / Potassium and Calcium. But plain salt would also do, sodium is often most lacking. 
 
-Anyway, I focused on task at hand and maintained a steady 30-32 kmph pace. The Km 42 to 45 were expectedly very steep and challenging. I kept an eye on the power meter here, idea is not to go too hard on this and suffer later. 
+Continuing pedalling, I took the first gel. I was slowly overtaking people. The first aid station came at 12km mark. I got 200ml Bisleri there, and NO SALT was available!!  Even on all other aid station, it was all water / fast n up and banana. But no salt. This is something that organizers must fix for the future. Salt is essential for long distance races. Yes, I should have kept a backup. But this is a supported race, there should be salt on the aid station. 
+
+Anyway, I focused on task at hand and maintained a steady 30-32 kmph pace. The Km 42 to 45 were expectedly very steep and challenging. I kept an eye on the power reading on my garmin. The idea is not to go too hard on this and suffer later. Power reading gives a concrete reading on the effort you are putting in, no guess work needed. 
 
 My Cycling FTP is 229 watts. I was racing with 170-190 watts as my target race power. For these inclines, I went till 200-210w but nothing beyond that. Thanks to all the low RPM work MD made me do, I was able to push through the long climb.
 
@@ -223,7 +227,7 @@ Nutrition: 2 Gels every hour + 1 snicker every hour. Small banana twice on the c
 
 Reaching transition area, I racked the bike, rushed behind the transition area to pee. Now, this was another struggle with single piece tri suit. Noted for the future.
 
-After relieving, I changed into my running Vibrams, grabbed running cap, stuffed 4 gels in back pocket, had 2 salt tablets with Gatorade.
+After the pee break, I changed into my running Vibrams, grabbed running cap, stuffed 4 gels in back pocket, had 2 salt tablets with Gatorade.
 
 Total Time: 7 min
 
@@ -231,7 +235,7 @@ Nutrition: 2 Salt Tabs + Gatorade
 
 ### Run [21.1km]
 
-It was close to noon when I started the run. First thing I noticed was the heat. Temperature was 30 degrees and rising. For me personally, coming from peak delhi winters, this was quite a change. 
+It was close to noon when I started the run. First thing I noticed was the heat. Temperature was 30 degrees and rising. For me personally, coming from peak Delhi winters, this was quite a change. 
 
 The Run Route was out and back loop of 5.5k. So, 4 loops were to be done. Timing mat was there on both end of road. 
 
