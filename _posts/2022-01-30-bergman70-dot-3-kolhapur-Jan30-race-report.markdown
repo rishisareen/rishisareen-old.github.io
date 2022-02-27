@@ -2,7 +2,7 @@
 layout: post
 
 title: "Bergman 70.3 (Kolhapur) - Jan 30 ‘22 - Race Report"
-date: 2020-02-08 06:48:02 +0530
+date: 2022-02-08 06:48:02 +0530
 comments: true
 categories: 
 - Triathlon
@@ -69,9 +69,6 @@ Before the lockdown, I had bought a new compact cycling bag - [Orucase B2](https
 But this compactness comes with a cost - cycle needs to be unassembled completely. Thankfully, YouTube came to the rescue and Bike and I were packed!
 
 {% include image.html file="/images/2022_01_30_KolhapurTri/Orucase,jpg" description="Very Compact Cycling Bag - Orucase" %}
-{% include image.html file="/images/2022_01_30_KolhapurTri/Bergman-Bag.jpg" description="Nice Bike Bag" %}
-
-
 
 
 
