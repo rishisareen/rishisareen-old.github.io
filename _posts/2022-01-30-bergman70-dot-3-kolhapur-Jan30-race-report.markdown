@@ -40,9 +40,12 @@ As I had no swim practice, my Race Strategy for Kolhapur was : Survive the Swim,
 
 The splits I was aiming for : Swim in 60”, Bike in 2:50 hr, Run in 1:55 hr
 
-This race was also my experiment on Nutrition. My usual nutrition approach is 50-70gm carbs an hour during the training. In this race, I wanted to go for 75gm+ carbs an hour and observe how the body and gut holds up.  
+This race was also my experiment on two aspects of Nutrition - Carbs and Caffeine. 
 
-My main fuel source was going to be SiS Caffeine Gels.  One SiS Gel has 22gm of Carbs + 150mg of Caffeine. So, with 2 gels + snickers per hour would give me close to 75gm carbs per hour.
+* Carbs : Long race nutrition is a very complicated topic. My approach is to train low and race high. Meaning train with less carb and race with carb as primary fuel. In previous races, I’ve taken 50-70gm carbs an hour during the races. In this race, I wanted to go up to 75gm+ carbs an hour and observe how the body and gut holds up.  
+* Caffeine : There are many benefits of caffeine in race. It improves alertness, reaction time and block pain receptors. So, one can go faster in the race. 
+
+For both these as focus, I chose SiS Caffeine Gels as primary fuel source.  One SiS Gel has 22gm of Carbs + 150mg of Caffeine. So, with 2 gels + snickers per hour would give me close to 75gm carbs per hour.
 
 
 
@@ -147,11 +150,11 @@ Just before the swim start, it was announced one blind athlete and his support a
 
 {% include image.html file="/images/2022_01_30_KolhapurTri/20220130_KolhapurTri_Swim04 (The course).JPEG" description="Rajram Talab, sunrise in horizon" %} 
 
-At 6:50am, the swim was open. It was staggered start, 6 athletes every 10 seconds. The swim start was little rough - lot of jostling and kicking. I quickly realized that swim buoy was not a dumb idea. First of all, It was slowing me down. And then it was not even needed as there were ropes throughout the loop. But anyway, too late in the game. The swim buoy was borrowed from a friend. Otherwise I would have unlatched it and continued with out it. 
+At 6:50am, the swim was open. It was staggered start, 6 athletes every 10 seconds. The swim start was little rough - lot of jostling and kicking. I quickly realized that swim buoy was a very dumb idea. First of all, It was slowing me down. And then it was not even needed as there were ropes throughout the loop. But anyway, too late in the game. The swim buoy was borrowed from a friend. Otherwise I would have unlatched it and continued with out it. 
 
-Swimming comfortably, I reached the 900m loop. I checked the time elapsed - 36 min. **DAMN**!!! I knew I was slow, but not this slow!!! Calculating, I realized I was in serious risk to miss the swim cutoff of 70 min. My race would have been over even before I reached the bike.
+Swimming comfortably, I reached the 900m loop. I checked the time elapsed - 36 min. **DAMN**!!! I knew I was slow, but not this slow!!! Calculating, I realized I was in serious risk to miss the swim cutoff of 70 min. My race would have been over even before I reached the bike. I strongly suspect the slow speed was due to the drag caused by swim buoy. 
 
-I accelerated the return leg. Good thing is I was feeling calm and swim form was coming back. I strongly suspect the slow loop was due to buoy. Pushing a bit, I finished the return loop was done in 31 min, overall swim in in 67 min. Phew!!! I made it just 3 min before the cutoff.  
+I accelerated the return leg. Good thing is I was feeling calm and swim form was coming back.  Pushing a bit, I finished the return loop was done in 31 min, overall swim in in 67 min. Phew!!! I made it just 3 min before the cutoff.  
 
 Other than almost missing the cut-off, I was happy the way swim felt. No fatigue, no panic.
 
@@ -316,7 +319,7 @@ Now, while I am writing this after a week, where things have settled down, there
 * Backup plan for the hydration : All my salt capsules were in the bottle. When bottles were lost, I had no salt. In endurance race, electrolytes are super important. Need to have a plan B
 * Fix Bike Hydration Arrangement: Need to get more sturdy bottle cage
 * Need to put in lot more hours in swim. I finished the swim 3 min before the cutoff. I am not that bad a swimmer. But consistency is the key.
-* Fuelling strategy: I tried SiS gels for the first time in the race. Each Gel has 150mg of Caffeine. That is a lot of caffeine. I suspect it also didn’t go completely well and increased RPE. Need to understand a bit more on this.
+* Fuelling strategy: I tried SiS gels for the first time in the race. Each Gel has 150mg of Caffeine. That is a lot of caffeine. I suspect it also didn’t go well completely well and increased RPE. Need to understand a bit more on this.
 
 
 
