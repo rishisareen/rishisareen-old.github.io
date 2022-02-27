@@ -237,7 +237,7 @@ Nutrition: 2 Salt Tabs + Gatorade
 
 It was close to noon when I started the run. First thing I noticed was the heat. Temperature was 30 degrees and rising. For me personally, coming from peak Delhi winters, this was quite a change. 
 
-The Run Route was out and back loop of 5.5k. So, 4 loops were to be done. Timing mat was there on both end of road. 
+The Run Route was out and back loop of 5.5k. So, 4 loops were to be done. Timing mat was there on both ends of the road. 
 
 The route was rolling, with decent elevation of 175m over the half marathon. 
 
@@ -253,7 +253,7 @@ It was all downhill from there. My mind was complaining about every single thing
 
 The volunteers were lovely though, cheering, offering food, salt, ice sponges. I used all of the, but not much benefit happened.
 
-Managed to finish the run in 2 hours 34 min, badly fatigued / in pain / disappointed.
+Managed to finish the run in 2 hours 34 min, badly fatigued / in pain / disappointed. 
 
 Pace split
 
@@ -290,7 +290,7 @@ Total Time: 7 hr 4 min
 
 Crawling through the finish line, I met my friends. They must be wondering why I am looking like shit :laughing:. We clicked some pics and then I just went aside for few minutes. 
 
-Just few weeks back, I had a local race, where I ran 20k in 1 hour 38 min. So, I was not in a bad running shape. I was just not ready to struggle this much. I introspected later what went wrong. During that time, I was just angry at myself and frustrated.
+Just few weeks back, I had a local race, where I ran 20k in 1 hour 38 min(Pace: 4:49 min/km). So, I was not in a bad running shape. I was just not ready to struggle this much. I introspected later what went wrong. During that time, I was just angry at myself and frustrated.
 
 After resting for a while, drinking Gatorade and popping salt tablets. I recovered and went back to the gathering area.
 
@@ -302,7 +302,7 @@ Here, I learnt that Maitreyi got podium - second fastest female of the day!! So,
 
 
 
-Later news came Sonia also got podium in her Age Group category. DG was almost at Sub 6, that was a solid performance after Jet lag. Sujoy being Sujoy was happy on finishing and solid bike with zero training (the dude was not doing this race till 2 days before the race!)
+Later news came Sonia also got podium in her Age Group category. DG finished race close to Sub 6 time, that was a solid performance after Jet lag. Sujoy being Sujoy was happy on finishing and solid bike with zero training (the dude was not doing this race till 2 days before the race!)
 
 So, all this news helped to cheer up a bit. While my race personally was disaster (we will call it learning experience :laughing:), it was wonderful to learn that my friends got good race. 
 
@@ -310,13 +310,9 @@ Going back to the hotel, I made loads of notes on what went wrong. While I was d
 
 
 
-### Looking Back
+### Looking Back and Learnings
 
 Now, while I am writing this after a week, where things have settled down, there are some very clear learnings. 
-
-
-
-#### Learnings
 
 * Train for the course: I was not prepared for the heat or the elevation on the run. 
 * Backup plan for the hydration : All my salt capsules were in the bottle. When bottles were lost, I had no salt. In endurance race, electrolytes are super important. Need to have a plan B
