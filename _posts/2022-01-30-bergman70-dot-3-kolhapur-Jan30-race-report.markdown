@@ -103,7 +103,7 @@ The expo was well organized. Many vendors had put their stalls  - Garmin / On th
 
 
 
-Strangely, No one was bothering with Covid Protocols. There was no checking of RT-PCR test, hardly anyone was wearing mask, anyone could enter the expo. None of the guidelines mentioned in the Race Guide were enforced.  
+Strangely, No one was bothering with Covid Protocols. There was no checking of RT-PCR test, hardly anyone was wearing a mask, anyone could enter the expo. None of the guidelines mentioned in the Race Guide were enforced.  
 
 All done with the expo, we went back to hotel. Evening was spent chilling - relaxing with friends over small drink and lot of good food. 
 
@@ -113,7 +113,7 @@ All done with the expo, we went back to hotel. Evening was spent chilling - rela
 
 I prefer my race morning to be calm and organized. Everything was packed the night before. 
 
-Waking up at 4:45 am, I took nice shower, wore my trisuit and had light breakfast - one banana, one whole foods energy bar and one caffeine pill (200mg). 
+Waking up at 4:45 am, I took a nice shower, wore my trisuit and had light breakfast - one banana, one whole foods energy bar and one caffeine pill (200mg). 
 
 After reaching the race venue, I went through the usual checklist:
 
@@ -142,15 +142,15 @@ Swim line-up was at 6:30am with race start at 6:45am.
 
 
 
-At 6:30 am, we moved from T1 towards Swim start point. The swim loop was L shape - go 350m straight, right turn for 600m and then come back the same path. 
+At 6:30 am, we moved from T1 towards Swim start point. The swim loop was L shaped - 350m straight, right turn for 600m and then come back the same path. 
 
-All gathered, we were waiting for first rays of sunlight to hit the lake. That moment was very serene. I was calm. I took the swim buoy as precaution as no open water swim for 2 years. 
+All gathered, we were waiting for first rays of sun to hit the lake. That moment was very serene. I was calm. I took the swim buoy as precaution as no open water swim practiced for 2 years. 
 
-Just before the swim start, it was announced one blind athlete and his support athlete were lining up in the front. They both were welcomed by huge cheer!!! 
+Just before the swim start, it was announced that there was a blind athlete  amongst us, along with a support athlete. They both were welcomed by huge cheer!!! 
 
 {% include image.html file="/images/2022_01_30_KolhapurTri/20220130_KolhapurTri_Swim04 (The course).JPEG" description="Rajram Talab, sunrise in horizon" %} 
 
-At 6:50am, the swim was open. It was staggered start, 6 athletes every 10 seconds. The swim start was little rough - lot of jostling and kicking. I quickly realized that swim buoy was a very dumb idea. First of all, It was slowing me down. And then it was not even needed as there were ropes throughout the loop. But anyway, too late in the game. The swim buoy was borrowed from a friend. Otherwise I would have unlatched it and continued with out it. 
+At 6:50am, the swim was open. It was a staggered start, 6 athletes every 10 seconds. The swim start was rough - lot of jostling and kicking. I quickly realized that swim buoy was a very dumb idea. First of all, It was slowing me down. Secondly, it was not even needed. There were ropes throughout the loop, athletes could hold on to it if needed. Anyway, it was too late in the game. If this was my swim buoy (I had borrowed from a friend), I would have unlatched it and continued without it. 
 
 Swimming comfortably, I reached the 900m loop. I checked the time elapsed - 36 min. **DAMN**!!! I knew I was slow, but not this slow!!! Calculating, I realized I was in serious risk to miss the swim cutoff of 70 min. My race would have been over even before I reached the bike. I strongly suspect the slow speed was due to the drag caused by swim buoy. 
 
@@ -196,7 +196,7 @@ With bottles gone, I had 6 gels still with me. My estimate was to finish bike ar
 
 But I also needed to hydrate. And hydration is more than just plan water. Body loses lot of sweat in the race. To replenish that, electrolytes are needed. An ideal combination is mix of Sodium / Magnesium / Potassium and Calcium. But plain salt would also do, sodium is often most lacking. 
 
-Continuing pedalling, I took the first gel. I was slowly overtaking people. The first aid station came at 12km mark. I got 200ml Bisleri there, and NO SALT was available!!  Even on all other aid station, it was all water / fast n up and banana. But no salt. This is something that organizers must fix for the future. Salt is essential for long distance races. Yes, I should have kept a backup. But this is a supported race, there should be salt on the aid station. 
+Continuing pedalling, I took the first gel. I was slowly overtaking people. The first aid station came at 12km mark. I got 200ml Bisleri there, and NO SALT was available!!  Even on all other aid station, it was all water / fast n up and banana. But no salt. This is something that organizers must fix for the future. Salt is essential for long distance races. Yes, I should have kept a backup. But this is a supported race, there should be salt at aid station. 
 
 Anyway, I focused on task at hand and maintained a steady 30-32 kmph pace. The Km 42 to 45 were expectedly very steep and challenging. I kept an eye on the power reading on my garmin. The idea is not to go too hard on this and suffer later. Power reading gives a concrete reading on the effort you are putting in, no guess work needed. 
 
@@ -228,7 +228,7 @@ Nutrition: 2 Gels every hour + 1 snicker every hour. Small banana twice on the c
 
 Reaching transition area, I racked the bike, rushed behind the transition area to pee. Now, this was another struggle with single piece tri suit. Noted for the future.
 
-After the pee break, I changed into my running Vibrams, grabbed running cap, stuffed 4 gels in back pocket, had 2 salt tablets with Gatorade.
+After the pee break, I changed into my running shoes Vibrams, grabbed running cap, stuffed 4 gels in back pocket, had 2 salt tablets with Gatorade.
 
 Total Time: 7 min
 
@@ -238,7 +238,7 @@ Nutrition: 2 Salt Tabs + Gatorade
 
 It was close to noon when I started the run. First thing I noticed was the heat. Temperature was 30 degrees and rising. For me personally, coming from peak Delhi winters, this was quite a change. 
 
-The Run Route was out and back loop of 5.5k. So, 4 loops were to be done. Timing mat was there on both ends of the road. 
+The run route was out and back loop of 5.5k. So, 4 loops were to be done. Timing mat was there on both ends of the road. 
 
 The route was rolling, with decent elevation of 175m over the half marathon. 
 
@@ -248,11 +248,11 @@ By the time next loop started, body had started to slow down. I still maintained
 
 This is where things turned dark. My mind decided this misery was not worth it. All pessimist, dark thoughts came running in my mind. I was cursing my life choices of this sport :joy:
 
-Now, endurance sports is a game of managing pain. Everyone goes through the dark phase. It is inevitable, part of the deal. I’ve done many long distance triathlons - 2 full ironman and 7 half iron distances. So I know this phase. But I was not prepared at how strong it was this time. I wanted to quit at 8 km mark itself. This has never happened to me, not even in Full Ironman where I’ve struggled. 
+Now, endurance sports is a game of managing pain. Everyone goes through the dark phase. It is inevitable, part of the deal. I’ve done many long distance triathlons - 2 full ironmans and 7 half iron distances. So I know this phase. But I was not prepared at how strong it was this time. I wanted to quit at 8 km mark itself. This has never happened to me, not even in Full Ironman where I’ve struggled. 
 
 It was all downhill from there. My mind was complaining about every single thing - the heat, the hot road causing blisters with thin vibrams sole, the fatigue. Every km I wanted to quit. I somehow managed to continue running, with very uneven splits and walking every few minutes. 
 
-The volunteers were lovely though, cheering, offering food, salt, ice sponges. I used all of the, but not much benefit happened.
+The volunteers were lovely though, cheering, offering food, salt, ice sponges. I used all of the, but I did not benefit much.
 
 Managed to finish the run in 2 hours 34 min, badly fatigued / in pain / disappointed. 
 
@@ -265,7 +265,7 @@ Pace split
 - 10 - 15k : 36 min
 
 - 15 - 20k : 44 min
-- 20 - 21.5 k : 15 min
+- 20 - 21.1k : 15 min
 
 End time: 2hr 34 min
 
@@ -289,7 +289,7 @@ Total Time: 7 hr 4 min
 
 ## Post Race
 
-Crawling through the finish line, I met my friends. They must be wondering why I am looking like shit :laughing:. We clicked some pics and then I just went aside for few minutes. 
+Crawling through the finish line, I met my friends. They would have been wondering why I am looking like shit :laughing:. We clicked some pics and then I just went aside for few minutes. 
 
 Just few weeks back, I had a local race, where I ran 20k in 1 hour 38 min(Pace: 4:49 min/km). So, I was not in a bad running shape. I was just not ready to struggle this much. I introspected later what went wrong. During that time, I was just angry at myself and frustrated.
 
@@ -305,7 +305,7 @@ Here, I learnt that Maitreyi got podium - second fastest female of the day!! So,
 
 Later news came Sonia also got podium in her Age Group category. DG finished race close to Sub 6 time, that was a solid performance after Jet lag. Sujoy being Sujoy was most chill on finishing and a fast bike executed (the dude was not doing this race till 2 days before the race!)
 
-So, all this news helped to cheer up a bit. While my race personally was disaster (we will call it learning experience :laughing:), it was wonderful to learn that my friends got good race. 
+So, all this news helped to cheer up a bit. While my race personally was disaster (we will call it learning experience :laughing:), it was wonderful to learn that my friends got a good race. 
 
 Going back to the hotel, I made loads of notes on what went wrong. While I was down and out, there was no way I was not going to capture this. 
 
@@ -313,13 +313,13 @@ Going back to the hotel, I made loads of notes on what went wrong. While I was d
 
 ### Looking Back and Learnings
 
-Now, while I am writing this after a week, where things have settled down, there are some very clear learnings. 
+Now, while I am writing this after a week, when things have settled down, there are some very clear learnings. 
 
 * Train for the course: I was not prepared for the heat or the elevation on the run. 
-* Backup plan for the hydration : All my salt capsules were in the bottle. When bottles were lost, I had no salt. In endurance race, electrolytes are super important. Need to have a plan B
-* Fix Bike Hydration Arrangement: Need to get more sturdy bottle cage.
+* Backup plan for the hydration: All my salt capsules were in the bottle. When bottles were lost, I had no salt. In endurance race, electrolytes are super important. Need to have a plan B
+* Fix bike hydration arrangement: Need to get more sturdy bottle cage.
 * Need to put in lot more hours in swim. I finished the swim 3 min before the cutoff. I am not that bad a swimmer. But consistency is the key.
-* **Fuelling strategy:** I tried SiS gels for the first time in the race. Each Gel has 150mg of Caffeine. I ended up consuming 1500mg of caffeine. That is a lot of caffeine - way over the recommended limit of 3 to 6mg per kg of body weight. I suspect it also didn’t go well completely - elevated my heart rate increased RPE. Need to study and experiment a bit more on this.
+* **Fuelling strategy:** I tried SiS gels for the first time in the race. Each Gel has 150mg of caffeine. I ended up consuming 1500mg of caffeine. That is a lot  - way over the recommended limit of 3 to 6mg per kg of body weight. I suspect it also didn’t go well completely - elevated my heart rate increased RPE. Need to study and experiment a bit more on this.
 
 
 
@@ -327,7 +327,7 @@ It was not all dark and bad. There were some aspects which went well
 
 #### What went well
 
-* No fear of open water. (Write about “one with the ocean”)
+* No fear of open water. This is something I’ve worked upon and now I do not dread or panic in the open water. 
 * Solid Bike
 * Could maintain aero
 * Run form didn’t drop
