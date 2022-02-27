@@ -17,6 +17,7 @@ categories:
 * **Website?** http://dscorg.in/events/
 
 <!--more-->
+
 ### Goals
 
 | Goal | Description | Completed? |
@@ -25,39 +26,23 @@ categories:
 | B |Strong Bike | *Yes* |
 | C |Strong Run | *No* |
 
-### Covid and Hampered Race Preparation
+
+
+### Long wait to the Race 
 
 This is a race which took 2 years to happen. 
 
-I’ve signed up for this race in March ‘20. This is a local race with growing reputation. Originally scheduled for Oct ‘20, Covid pushed this race to ‘22
+I signed up for this race in March ‘20. Bergman Triathlon is a national triathlon, conducted in Kolhapur district of Maharashtra. This race has good reputation of a well organized race. It was originally scheduled for Oct ‘20, but kept getting deferred due to Covid. 
 
-For me, this was first race after [Goa 70.3](https://rishisareen.com/triathlon/race%20reports/ironman70-dot-3-goa-oct-19-race-report.html), which happened in Oct ‘19.
+For me and most of other athletes, this was first race after [Goa 70.3](https://rishisareen.com/triathlon/race%20reports/ironman70-dot-3-goa-oct-19-race-report.html), which happened in Oct ‘19.
 
-In these 2 years, I was fairly consistent in the training. WFH saved the commute time, giving more time for the training. 
+As I had no swim practice, my Race Strategy for Kolhapur was : Survive the Swim, Go Hard on Bike and Run. 
 
-On the various tri disciples, this is where I was:
+The splits I was aiming for : Swim in 60”, Bike in 2:50 hr, Run in 1:55 hr
 
-**Bike** :  With frequent lockdowns and restrictions, I took to indoor biking on the trainer. Soon, I discovered it [is very efficient way to train](https://rishisareen.com/triathlon/cycling/indoortraining-gettingstarted.html). All you need is [a good trainer](https://www.wahoofitness.com/devices/indoor-cycling/bike-trainers/kickr-core-buy) and a good training plan.
+This race was also my experiment on Nutrition. My usual nutrition approach is 50-70gm carbs an hour during the training. In this race, I wanted to go for 75gm+ carbs an hour and observe how the body and gut holds up.  
 
-I train with [Purple Patch Triathlon Squad](https://www.purplepatchfitness.com/). They have amazing structured Bike Training Programs and the guided video sessions are super. MD (As head coach Matt Dixon is called) leads the Video session. He mix various cycling skills - Efficient Pedalling Techniques / Hill Climb / High Cadence Work / Low Cadence work / Threshold work. So, despite no outdoor riding in last 2 years, I’ve improved as cyclist. 
-
-**Run:** Running was a mixed bag. Good part is I stayed consistent. But with no race in the sight, I didn’t push too hard in the run. Harsh Delhi Winters and Severe pollution limited outdoor time in last few months. So, progress has been slow. 
-
-**Swim:** I live in Delhi. For most of last 2 years, we had no access to the pools. Infact, during lockdown, pools were the first one to shut and last one to open back. Seems people are safer in indoor closed malls and restaurants compared to pool and stadiums. Talk about priorities! Anyways! So going into Bergman Tri, I had almost no Swim practice. The blame is not only on the infra. I’ve my share of responsibility. I have swim bands. I need to use more of it when I don't have pool access. 
-
-Additional challenge came 3 weeks before the race. I was tested Covid positive on 7th Jan, due to which I had to halt the training for a week.
-
-
-
-### Race Strategy
-
-With all these aspects, my Race Strategy for Kolhapur was - Survive the Swim, Go Hard on the Bike and on the Run. 
-
-Swim - 60”, Bike: 2:50, Run : 1:55 was what I was aiming for. 
-
-I also wanted to use this race as experiment for nutrition strategy, particularly going high on carbs and caffeine. My plan was to aim for ~300 calories(75gm carb)  per hour and proper electrolytes. I wanted to go for aggressive carb consumption and observe the body reaction. 
-
-I selected SiS Caffeine Gels as my main fuel.  Each SiS Gel has 22gm of Carbs + 150mg of Caffeine. So, 2 gels + snickers would give me close to 300 calories per hour.
+My main fuel source was going to be SiS Caffeine Gels.  One SiS Gel has 22gm of Carbs + 150mg of Caffeine. So, with 2 gels + snickers per hour would give me close to 75gm carbs per hour.
 
 
 
@@ -65,60 +50,72 @@ I selected SiS Caffeine Gels as my main fuel.  Each SiS Gel has 22gm of Carbs + 
 
 #### The Uncertainty
 
-After multiple deferrals, In Oct ‘21 Organizers announced 30th Jan ‘22 as the race date. But then, in December, the third wave of Covid started. Immediately, lockdown was enforced, all races got moved. 
+After many deferrals, Organizers announced 30th Jan ‘22 as the race date. But this was before the covid third wave. In December ‘21, Covid third wave started. Country went in lockdown, all planned events got moved.  
 
-For Kolhapur Tri, Organizers were still working to make this happen. Constant updates were being sent - they were in discussions with the race authorities. 
+Kolhapur Tri Organizers still went about, seeking permissions to make this race happen. They kept sending regular updates and discussions with the race authorities. 
 
-Finally, on 19th Jan morning, 11 days before the scheduled race, Vaibhav confirmed - **RACE IS ON**!! They got the go ahead!! Wow!! I wonder what went behind the scenes :smile: 
+Finally, on the morning of 19th Jan, just when Race was 11 days away, Vaibhav confirmed - **YES, RACE IS ON**!! Somehow, they managed the go ahead!! Wow!! I wonder what went behind the scenes :smile: 
 
 
 
-#### New Bike Bag and Packing Struggle
+#### New Bike Bag and Travel Prep
 
 As soon as race was confirmed, I booked my flight to Pune for 27th Jan.
 
-I kept entire 26th Jan for the packing. Any triathlete will tell you, Race packing is itself a big task. First you’ve to pack for 3 disciplines - Swim, Bike and Run. Biggest challenge is Bike, as it has to be taken in cab, onwards on flight and again on cab/car. So it needs to be packed really well. I had bought a new compact cycling bag - [Orucase B2](https://www.orucase.com/products/b2). This compact bag is designed for for convenient airport and city transfer of the bike. But this compactness comes with a cost - cycle needs to be unassembled completely. And 26th Jan being National Holiday, all shops were closed. Thankfully, YouTube came to the rescue and I managed to get it done.
+Now, any triathlete will confirm - Triathlon Race Packing is a big task. First, there are 3 disciplines to be packed for - stuff for Swim, Bike and Run. Now, Bike is usually the biggest challenge when race is outside your home town and flight is involved. Airport Luggage handling is famous for infamous reasons. So, bike has to be packed well and securely.
+
+Before the lockdown, I had bought a new compact cycling bag - [Orucase B2](https://www.orucase.com/products/b2). This bag is designed for for ease of travel and convenient airport and city transfer of the bike. It has small wheels and very easy for a solo traveller to handle. The bag also has enough cushion to keep cycle frame and other components safe.
+
+But this compactness comes with a cost - cycle needs to be unassembled completely. Thankfully, YouTube came to the rescue and Bike and I were packed!
+
+{% include image.html file="/images/2022_01_30_KolhapurTri/Orucase,jpg" description="Very Compact Cycling Bag - OruCase" %}
 
 
 
 #### Delhi, Pune, Kolhapur
 
-After an uneventful flight from Delhi to Pune, I landed safely in Pune with my bag. Orucase proved to be a great choice as bike bag. The bag is very compact and it has small wheels. It was very easy to handle as solo traveller. And there is lot of cushion in the bag, so it keeps frame and other components safe. No doubt, this bag will see lot of races with me in upcoming months.  
+After an uneventful flight from Delhi to Pune, I landed safely in Pune with my bag. Orucase proved to be a great choice as bike bag. Handling this was as easy as No doubt, this bag will see lot of races with me in upcoming months.  
 
-Sujoy and Alok picked me from Pune Airport and dropped me at Maitreyi’s place.  Maitreyi and I spent remaining day in getting the bike assembled and then a small swim in freezing Law School Swimming pool. 
+Sujoy and Alok picked me from Pune Airport and dropped me at Maitreyi’s place.  After a nice lunch at her mom’s place, Maitreyi and I went to get the bike assembled and then to a small swim in freezing Law School Swimming pool. 
 
-On 28th Morning, we drove from Pune to Kolhapur. The route was completely on Maharashtra - Goa National Highway. It is 240km, smooth highway. Took about 3.5 hours to reach.
+On 28th Morning, we drove from Pune to Kolhapur. The route was is smooth scenic Maharashtra - Goa National Highway. Took about 3.5 hours to reach, and we checked in at Hotel Vrishali Executive, small clean hotel.
 
 
 
 #### One Day before the Race
 
-On 29th Morning, we went for Practice Swim. [Rajaram Talav](https://goo.gl/maps/fxMoTsvV8pLdeZ3G8) is the Swim venue for the race and Expo / T1 / T2 were all on the short climb side of the lake. 
+On 29th Morning, we went for a Practice Swim. [Rajaram Talav](https://goo.gl/maps/fxMoTsvV8pLdeZ3G8) is the Swim venue for the race and Expo / T1 / T2 were all on the short 200m climb from the lake. 
 
-As it was first open water swim after 2 years, I grabbed a swim buoy and entered water. From the first stroke, it felt comfortable. Water was cold but comfortable. I felt no panic, no cold water shock. I did a nice easy 200m round of the lake and came out. After this swim, (which was without wetsuit), I decided - No Wetsuit needed for the race day! 
+This was my first open water swim after a gap of almost 2 years. Reaching the lake, I hesistatingly checked the water temperature. Not bad! While it was cold, it felt ok. There were ropes all around the route.
 
-Swim done, we got the bike out from the car, did a 5” ride to confirm brakes and everything is ok. it was.  As Expo and Bike Check-in was open, we decided to check-in the bikes. 
+Putting the swim cap and goggles, I borrowed  a swim buoy from a friend and stepped into the lake. I took a deep breath and started to swim along the rope. From the first stroke, I felt comfortable. No panic, no cold water shock. I did a nice easy 200m round of the lake and came back. Feeling the water temperature I decided - no wetsuit needed for the race day.
 
-The expo was well organized. There were various stalls - Garmin / On the Run Nutrition Bars / Swim Buoy stall. A Bike Mechanic was also available. We went to athlete check-in, showed ids and got Race Bib and bag. The bag is very nice and sturdy. From the check-in counter, we moved to bike area (it is all in same place) and racked our bike.
+Done with the swim, we took out bike from the car. Fixing the front tyre, we did a small 5” ride to confirm brakes and everything is ok. It was.  Sorted, it was time to go to expo to get the registration done and check-in the bike 
 
-Strangely, there were no Covid Protocols were followed anywhere  - No checking of RT-PCR, People roaming without Masks, No checks if only athletes are going. None of the guidelines mentioned in the Race Guide were enforced.  
+The expo was well organized. Many vendors had put their stalls  - Garmin / On the Run Nutrition Bars / Swim Buoy stall. A Bike Mechanic was also available. We went to athlete check-in, showed ids and got Race Bib and bag. The bag is very nice and sturdy. From the check-in counter, we moved to bike area (it is all in same place) and racked our bike.
 
-Evening was spent chilling - relaxing with friends over small drink and lot of good food.
-
- 
+{% include image.html file="/images/2022_01_30_KolhapurTri/Bergman-Bag.jpg" description="Racking the bike" %}
 
 {% include image.html file="/images/2022_01_30_KolhapurTri/20220130_KolhapurTri_PreRace03 (Bike Rack 2).JPG" description="Racking the bike" %}
+
+
+
+Strangely, No one was bothering with Covid Protocols. There was no checking of RT-PCR test, hardly anyone was wearing mask, anyone could enter the expo. None of the guidelines mentioned in the Race Guide were enforced.  
+
+All done with the expo, we went back to hotel. Evening was spent chilling - relaxing with friends over small drink and lot of good food. 
+
+ 
 
 #### Race Morning
 
 I prefer my race morning to be calm and organized. Everything was packed the night before. 
 
-Waking up at 4:45 am, I wore my trisuit and had light breakfast - one banana, energy bar and caffeine pill. 
+Waking up at 4:45 am, I took nice shower, wore my trisuit and had light breakfast - one banana, one whole foods energy bar and one caffeine pill (200mg). 
 
 After reaching the race venue, I went through the usual checklist:
 
-* Filled Air in Tyres. Kept it to 100 psi.
-* Fixed Water Bottle. I was carrying 2 water bottles, each with Gatorade + Salt
+* Filled Air in Tyres. Kept it at 100 psi.
+* Fixed Water Bottle. I was carrying 2 water bottles, each with 500 ml Gatorade + Precision Hydration 1500 Salt Tablets
 * Mounted Garmin CycloComputer on the bike
 * Laid down stuff for Bike and Run Transitions.  
 
@@ -126,11 +123,11 @@ All done, clicked some selfies with the friends.
 
 
 
-{% include image.html file="/images/2022_01_30_KolhapurTri/20220130_KolhapurTri_PreRace (With Maitreyi Rohan).JPG" description="With Maitreyi and Rohan)" %}
+{% include image.html file="/images/2022_01_30_KolhapurTri/20220130_KolhapurTri_PreRace (With Maitreyi Rohan).JPG" description="With Maitreyi and Rohan" %}
 
-{% include image.html file="/images/2022_01_30_KolhapurTri/20220130_KolhapurTri_PreRace (With Sujoy Sonia DG).jpg" description="With Sujoy Sonia and DG)" %}
+{% include image.html file="/images/2022_01_30_KolhapurTri/20220130_KolhapurTri_PreRace (With Sujoy Sonia DG).jpg" description="With Sujoy Sonia and DG" %}
 
-{% include image.html file="/images/2022_01_30_KolhapurTri/20220130_KolhapurTri_PreRace (With Sujoy).JPG" description="With SuBoy)" %}
+{% include image.html file="/images/2022_01_30_KolhapurTri/20220130_KolhapurTri_PreRace (With Sujoy).JPG" description="With SuBoy" %}
 
 ### Swim [1.9km]
 
@@ -144,7 +141,7 @@ At 6:30am, we were alerted by announcement to gather at the lake bank. After we 
 
 All done, now was the small wait for 5” for first rays of sunlight to hit the lake. That moment was very serene. I was calm. I took the swim buoy as precaution as no open water swim for 2 years. . 
 
-{% include image.html file="/images/2022_01_30_KolhapurTri/20220130_KolhapurTri_Swim04 (The course).JPEG" description="The course" %} 
+{% include image.html file="/images/2022_01_30_KolhapurTri/20220130_KolhapurTri_Swim04 (The course).JPEG" description="Rajram Talab, sunrise in horizon" %} 
 
 Swim start was little rough - about 30 people swimming together. I quickly realized that swim buoy was not a dumb idea. First of all, It was slowing me down. And then there were ropes laid all through the route, which was a good measure. So, swim buoy was not  needed. But anyway, too late in the game. It was not even my own swim buoy but borrowed from a friend. Otherwise I would have unlatched it and continued with out it. 
 
@@ -213,6 +210,7 @@ Elevation: 804m
 
 
 [Strava Link](https://www.strava.com/activities/6603729307)
+
 Nutrition: 2 Gels every hour + 1 snicker every hour. Small banana twice on the course.
 
 ### T2
