@@ -129,6 +129,8 @@ All done, clicked some selfies with the friends.
 
 {% include image.html file="/images/2022_01_30_KolhapurTri/20220130_KolhapurTri_PreRace (With Sujoy).JPG" description="With SuBoy" %}
 
+
+
 ### Swim [1.9km]
 
 Swim line-up was at 6:30am with race start at 6:45am. 
@@ -137,17 +139,19 @@ Swim line-up was at 6:30am with race start at 6:45am.
 
 
 
-At 6:30am, we were alerted by announcement to gather at the lake bank. After we lined up there, organizers briefed about the swim loop. The swim loop was L shape - go 350m straight, right turn for 600m and then come back the same path. 
+At 6:30 am, we moved from T1 towards Swim start point. The swim loop was L shape - go 350m straight, right turn for 600m and then come back the same path. 
 
-All done, now was the small wait for 5” for first rays of sunlight to hit the lake. That moment was very serene. I was calm. I took the swim buoy as precaution as no open water swim for 2 years. . 
+All gathered, we were waiting for first rays of sunlight to hit the lake. That moment was very serene. I was calm. I took the swim buoy as precaution as no open water swim for 2 years. 
+
+Just before the swim start, it was announced one blind athlete and his support athlete were lining up in the front. They both were welcomed by huge cheer!!! 
 
 {% include image.html file="/images/2022_01_30_KolhapurTri/20220130_KolhapurTri_Swim04 (The course).JPEG" description="Rajram Talab, sunrise in horizon" %} 
 
-Swim start was little rough - about 30 people swimming together. I quickly realized that swim buoy was not a dumb idea. First of all, It was slowing me down. And then there were ropes laid all through the route, which was a good measure. So, swim buoy was not  needed. But anyway, too late in the game. It was not even my own swim buoy but borrowed from a friend. Otherwise I would have unlatched it and continued with out it. 
+At 6:50am, the swim was open. It was staggered start, 6 athletes every 10 seconds. The swim start was little rough - lot of jostling and kicking. I quickly realized that swim buoy was not a dumb idea. First of all, It was slowing me down. And then it was not even needed as there were ropes throughout the loop. But anyway, too late in the game. The swim buoy was borrowed from a friend. Otherwise I would have unlatched it and continued with out it. 
 
-Swimming comfortably, I reached the 900m loop. I checked the time elapsed - 36 min. DAMN!!! I knew I was slow, but not this slow!!! Calculating, I realized I was in serious risk to miss the swim cutoff of 70 min. My race would have been over even before I reached the bike.
+Swimming comfortably, I reached the 900m loop. I checked the time elapsed - 36 min. **DAMN**!!! I knew I was slow, but not this slow!!! Calculating, I realized I was in serious risk to miss the swim cutoff of 70 min. My race would have been over even before I reached the bike.
 
-I decided to accelerate the return leg. Good thing is I was feeling calm and swim form was coming back a bit. The return loop was done in 31 min, overall swim in in 67 min. Phew!!! I made it just 3 min before the cutoff.  
+I accelerated the return leg. Good thing is I was feeling calm and swim form was coming back. I strongly suspect the slow loop was due to buoy. Pushing a bit, I finished the return loop was done in 31 min, overall swim in in 67 min. Phew!!! I made it just 3 min before the cutoff.  
 
 Other than almost missing the cut-off, I was happy the way swim felt. No fatigue, no panic.
 
@@ -159,9 +163,9 @@ Nutrition: Nothing
 
 ### T1
 
-Coming out from the swim, I saw Rohan. He was waiting for me, as I was the last person out. It was so good to see a familiar face. 
+Coming out from the swim, I saw Rohan, waiting and cheering for me! It was so good to see a familiar face. 
 
-T1 was about 400m walk up the hill from swim exit . I dashed to T1, wore HRM, Helmet, Cycling Gloves, Socks, Shoes. All ready, All done, I inserted one newspaper inside Zipper top. The paper helps to absorb the water and moisture. All done, I inserted 6 Gels in the back pocket, unracked cycle and walked towards the exit which was 100m away. You’re not allowed to mount the cycle before that. 
+I dashed to T1, wore HRM, Helmet, Cycling Gloves, Socks, Shoes. I inserted one newspaper inside Zipper top. The paper helps to absorb the water and moisture. Last step was to insert 6 Gels in the 2 back pockets. Then I , unracked the bike and walked towards the cycle mount point, which was 100m away.  
 
 Total Time: 8 min
 
@@ -169,9 +173,11 @@ Total Time: 8 min
 
 The bike route is single out and back loop on the National Highway 48, Maharashtra Goa Route. It is a rolling terrain, with km 42 to 45 being at 5-8% gradient. . The U-Turn is at Km 45. 
 
-After I came out T1, it was 1km sharp downhill and uphill ride to reach highway.  Touching highway, I settled down in an easy comfortable rhythm. Now it was all about executing a solid bike ride. Something I had trained for well.
+Highway was 1km away from the start point - sharp downhill and uphill ride to reach highway.  
 
-Reaching Highway, I watchfully merged into the main traffic. There were volunteers at the merging point, which was extremely helpful. Now, when I touched highway, I settled down, focused on breathing easy and establishing good cadence. All settled, it was time for hydration. I’ve back cage holder, which keeps 2 water bottles. 
+Reaching highway, I carefully merged into the main traffic and settled down in an easy comfortable rhythm. Now it was all about executing a solid bike ride. Something I had trained for well.
+
+All settled, it was time for hydration. I’ve back cage holder, which keeps 2 water bottles. 
 
 In a practiced motion, I moved right hand behind my back to grip the bottle. Eyes remained focused on the road. The hand moved in air, no bottle came in contact. I glanced back -  no water bottle on the right side!! What!!!! Shocked, I realized one bottle was gone. Anxiously, I checked left side. Nope, no bottle there too.
 
