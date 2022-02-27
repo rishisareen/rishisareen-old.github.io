@@ -65,19 +65,19 @@ Finally, on the morning of 19th Jan, just when Race was 11 days away, Vaibhav co
 
 As soon as race was confirmed, I booked my flight to Pune for 27th Jan.
 
-Now, any triathlete will confirm - Triathlon Race Packing is a big task. First, there are 3 disciplines to be packed for - stuff for Swim, Bike and Run. Now, Bike is usually the biggest challenge when race is outside your home town and flight is involved. Airport Luggage handling is famous for infamous reasons. So, bike has to be packed well and securely.
+Now, any triathlete will confirm - Triathlon Race Packing is a big task. First, there are 3 disciplines to be packed for - stuff for Swim, Bike and Run. Bike is usually the biggest challenge when race is outside your home town and flight is involved. Airport Luggage handling is famous for infamous reasons. So, bike has to be packed well and securely.
 
 Before the lockdown, I had bought a new compact cycling bag - [Orucase B2](https://www.orucase.com/products/b2). This bag is designed for for ease of travel and convenient airport and city transfer of the bike. It has small wheels and very easy for a solo traveller to handle. The bag also has enough cushion to keep cycle frame and other components safe.
 
-But this compactness comes with a cost - cycle needs to be unassembled completely. Thankfully, YouTube came to the rescue and Bike and I were packed!
+But this compactness comes with a cost - cycle needs to be completely unassembled. Thankfully, YouTube had good instructional videos on this, and the bike was packed quickly. 
 
-{% include image.html file="/images/2022_01_30_KolhapurTri/Orucase,jpg" description="Very Compact Cycling Bag - Orucase" %}
+{% include image.html file="/images/2022_01_30_KolhapurTri/Orucase,jpg" description="Very Compact Cycling Bag Orucase" %}
 
 
 
 #### Delhi, Pune, Kolhapur
 
-After an uneventful flight from Delhi to Pune, I landed safely in Pune with my bag. Orucase proved to be a great choice as bike bag. Handling this was as easy as No doubt, this bag will see lot of races with me in upcoming months.  
+After an uneventful flight from Delhi to Pune, I landed safely in Pune with my bag. Orucase proved to be a great choice as bike bag. Handling this was easy. No doubt, this bag will see lot of races with me in upcoming months.  
 
 Sujoy and Alok picked me from Pune Airport and dropped me at Maitreyi’s place.  After a nice lunch at her mom’s place, Maitreyi and I went to get the bike assembled and then to a small swim in freezing Law School Swimming pool. 
 
@@ -93,11 +93,11 @@ This was my first open water swim after a gap of almost 2 years. Reaching the la
 
 Putting the swim cap and goggles, I borrowed  a swim buoy from a friend and stepped into the lake. I took a deep breath and started to swim along the rope. From the first stroke, I felt comfortable. No panic, no cold water shock. I did a nice easy 200m round of the lake and came back. Feeling the water temperature I decided - no wetsuit needed for the race day.
 
-Done with the swim, we took out bike from the car. Fixing the front tyre, we did a small 5” ride to confirm brakes and everything is ok. It was.  Sorted, it was time to go to expo to get the registration done and check-in the bike 
+Done with the swim, we took out bike from the car. Fixing the front tyre, we did a small 5” ride to confirm brakes and everything was ok. It was.  Sorted, it was time to go to expo to get the registration done and check-in the bike 
 
-The expo was well organized. Many vendors had put their stalls  - Garmin / On the Run Nutrition Bars / Swim Buoy stall. A Bike Mechanic was also available. We went to athlete check-in, showed ids and got Race Bib and bag. The bag is very nice and sturdy. From the check-in counter, we moved to bike area (it is all in same place) and racked our bike.
+The expo was well organized. Many vendors had put their stalls  - Garmin / On the Run Nutrition Bars / Swim Buoy stall. A Bike Mechanic was also available. We went to athlete check-in, showed ids, got race bib, lovely bag, tee and other goodies. The bag is very nice and sturdy. From the check-in counter, we moved to bike area (it is all in same place) and racked our bike.
 
-{% include image.html file="/images/2022_01_30_KolhapurTri/Bergman-Bag.jpg" description="Nice Bike Bag" %}
+{% include image.html file="/images/2022_01_30_KolhapurTri/Bergman-Bag.jpg" description="Nice Bag" %}
 
 {% include image.html file="/images/2022_01_30_KolhapurTri/20220130_KolhapurTri_PreRace03 (Bike Rack 2).JPG" description="Racking the bike" %}
 
