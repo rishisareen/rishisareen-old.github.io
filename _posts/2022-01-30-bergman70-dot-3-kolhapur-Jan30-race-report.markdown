@@ -69,6 +69,7 @@ Before the lockdown, I had bought a new compact cycling bag - [Orucase B2](https
 But this compactness comes with a cost - cycle needs to be unassembled completely. Thankfully, YouTube came to the rescue and Bike and I were packed!
 
 {% include image.html file="/images/2022_01_30_KolhapurTri/Orucase,jpg" description="Very Compact Cycling Bag - Orucase" %}
+{% include image.html file="/images/2022_01_30_KolhapurTri/Bergman-Bag.jpg" description="Nice Bike Bag" %}
 
 
 
@@ -96,7 +97,7 @@ Done with the swim, we took out bike from the car. Fixing the front tyre, we did
 
 The expo was well organized. Many vendors had put their stalls  - Garmin / On the Run Nutrition Bars / Swim Buoy stall. A Bike Mechanic was also available. We went to athlete check-in, showed ids and got Race Bib and bag. The bag is very nice and sturdy. From the check-in counter, we moved to bike area (it is all in same place) and racked our bike.
 
-{% include image.html file="/images/2022_01_30_KolhapurTri/Bergman-Bag.jpg" description="Racking the bike" %}
+{% include image.html file="/images/2022_01_30_KolhapurTri/Bergman-Bag.jpg" description="Nice Bike Bag" %}
 
 {% include image.html file="/images/2022_01_30_KolhapurTri/20220130_KolhapurTri_PreRace03 (Bike Rack 2).JPG" description="Racking the bike" %}
 
