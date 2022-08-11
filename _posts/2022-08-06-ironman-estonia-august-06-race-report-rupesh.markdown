@@ -179,9 +179,9 @@ Total time taken - 14 hours 40 minutes 45 seconds ! **Yes a sub 15 hour race!**
 
 {% include image.html file="/images/20220806_IMTallinn/20220808_IMTallinn_FinishLine1.jpg" description="The finish line" %}
 
-{% include image.html file="/images/20220806_IMTallinn/20220808_IMTallinn_FinishLine2.jpg" description="The finish line" %}
+{% include image.html file="/images/20220806_IMTallinn/20220808_IMTallinn_FinishLine2.jpg" description="Proud with Indian Flag" %}
 
-{% include image.html file="/images/20220806_IMTallinn/20220808_IMTallinn_FinishLine3.jpg" description="The finish line" %}
+{% include image.html file="/images/20220806_IMTallinn/20220808_IMTallinn_FinishLine3.jpg" description="Two years in making" %}
 
 
 
