@@ -188,21 +188,21 @@ Total time taken - 14 hours 40 minutes 45 seconds ! **Yes a sub 15 hour race!**
 ### Gratitude
 
 There are quite a few people who deserve special mention in this narrative 
-1. My coach Dr Kaustubh Radkar for the training plans, without which this level of endurance and confidence to tackle this tough race in such tough weather conditions would not have been possible. The fact that he accompanied us and raced with us was no small measure of reassurance. Which coach does that for his/ her athletes !! And lastly his repeated detailing of the race especially in the last few days, made sure we remember every crucial detail.
+1) My coach Dr Kaustubh Radkar for the training plans, without which this level of endurance and confidence to tackle this tough race in such tough weather conditions would not have been possible. The fact that he accompanied us and raced with us was no small measure of reassurance. Which coach does that for his/ her athletes !! And lastly his repeated detailing of the race especially in the last few days, made sure we remember every crucial detail.
    {% include image.html file="/images/20220806_IMTallinn/20220808_IMTallinn_WithKaustubh.jpg" description="One with the coach" %}
 
-2. My wife Suseela who bore the brunt of the stress - of the journey, the race, it's logistics. She ensured that she was a constant presence throughout the race course. From the swim start, swim finish, bike start- finish, throughout the run course and then at the finish line - she made sure she was there for me and that made a huge difference in my energy levels. I couldn't have done this race without her by my side. 
+2) My wife Suseela who bore the brunt of the stress - of the journey, the race, it's logistics. She ensured that she was a constant presence throughout the race course. From the swim start, swim finish, bike start- finish, throughout the run course and then at the finish line - she made sure she was there for me and that made a huge difference in my energy levels. I couldn't have done this race without her by my side. 
    {% include image.html file="/images/20220806_IMTallinn/20220808_IMTallinn_WithSuseela.jpg" description="One with the wife" %}
 
-3. My dear friend and Ironman Rishi Sareen (Delhi) who first introduced me to my coach a couple of years ago - my nutrition and hydration was spot on thanks to him. He made me go through my nutrition strategy over and over again, sent me notes, checklists and above all lifted me up at low times. Always ready with a solution to any problem. Love you brother. 
+3) My dear friend and Ironman Rishi Sareen (Delhi) who first introduced me to my coach a couple of years ago - my nutrition and hydration was spot on thanks to him. He made me go through my nutrition strategy over and over again, sent me notes, checklists and above all lifted me up at low times. Always ready with a solution to any problem. Love you brother. 
    {% include image.html file="/images/20220806_IMTallinn/WithRishi.jpg" description="2019 Pic, when Rishi and I met first" %} 
    
 
-4. My friend Govinda pai (3 times IRONMAN) residing in the US, who kept ensuring i was in the right frame of mind especially in the last few weeks, constantly sending me reminders and important tips for race day. It added up to how I performed on race day! 
+4) My friend Govinda pai (3 times IRONMAN) residing in the US, who kept ensuring i was in the right frame of mind especially in the last few weeks, constantly sending me reminders and important tips for race day. It added up to how I performed on race day! 
    {% include image.html file="/images/20220806_IMTallinn/GovindaPai.jpg" description="Govinda Pai" %} 
 
-5. My dear friends from athletico de Alleppey - who trained with me for years, who on certain days would train with me just because my training schedule was such, who pushed Me, egged me on, endured me, kept ensuring that all was well, tracked my progress, encouraged and inspired me all the way to the finish line. These are my brothers who bond over sports without boundaries. 
+5) My dear friends from athletico de Alleppey - who trained with me for years, who on certain days would train with me just because my training schedule was such, who pushed Me, egged me on, endured me, kept ensuring that all was well, tracked my progress, encouraged and inspired me all the way to the finish line. These are my brothers who bond over sports without boundaries. 
    {% include image.html file="/images/20220806_IMTallinn/KeralaFriends2.jpg" description="Athletico de Alleppey Friends" %}
 
-6. Last but not the least - my dear and close family and non athlete friends who despite not sharing my same enthusiasm and  passion for triathlon, still go out of their way to keep track of it for my sake and provide huge huge encouragement at various levels and times. The mere thought of these people during the race would send bolts of energy boosters when the going was low.!
+6) Last but not the least - my dear and close family and non athlete friends who despite not sharing my same enthusiasm and  passion for triathlon, still go out of their way to keep track of it for my sake and provide huge huge encouragement at various levels and times. The mere thought of these people during the race would send bolts of energy boosters when the going was low.!
    {% include image.html file="/images/20220806_IMTallinn/KeralaFriends.jpg" description="Friends and Family" %}
