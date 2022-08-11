@@ -204,4 +204,8 @@ There are quite a few people who deserve special mention in this narrative
 
 5. My dear friends from athletico de Alleppey - who trained with me for years, who on certain days would train with me just because my training schedule was such, who pushed Me, egged me on, endured me, kept ensuring that all was well, tracked my progress, encouraged and inspired me all the way to the finish line. These are my brothers who bond over sports without boundaries. 
 
+   {% include image.html file="/images/20220806_IMTallinn/KeralaFriends2.jpg" description="Athletico de Alleppey Friends" %}
+
 6. Last but not the least - my dear and close family and non athlete friends who despite not sharing my same enthusiasm and  passion for triathlon, still go out of their way to keep track of it for my sake and provide huge huge encouragement at various levels and times. The mere thought of these people during the race would send bolts of energy boosters when the going was low.!
+
+   {% include image.html file="/images/20220806_IMTallinn/KeralaFriends.jpg" description="Friends and Family" %}
