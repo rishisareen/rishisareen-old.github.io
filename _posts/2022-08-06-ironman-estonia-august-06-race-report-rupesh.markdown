@@ -130,7 +130,7 @@ I started to sip water first 10 minutes. Took my first gel after 15minutes on th
 
 My plan was maintain over 25kmph speed and 7 hours total for the bike. But soon weather and brutal headwinds and cross winds turned it into a survival game. 
 
-Though the course is described by many as flat and fast, i never perceived this as either. Climbs were long,  made difficult with head winds. The flats were made scary with cross winds. 
+Though the course is described by many as flat and fast, i never perceived this as either. Climbs were long,  made difficult with head winds. The flats were made scary with cross winds. The wind speed ranged between 25kmph to 40kmph!!!
 
 After just 2km on the bike, it started to rain. The first 100 km, it was raining cats and dogs, it got so cold and after about 15 km i couldn't feel my fingers and toes at all despite fully covered gloves and shoes. The rain coat helped but i felt it was creating a drag and slowing me down further. Nothing else to do but hang in there and keep pedaling. I made sure not to waste time at aid station. Rather than stopping, I grabbed bottles, bananas, bars and gels and saved time there.
 
