@@ -52,7 +52,7 @@ On 16th Sept, due to warning of big storm the next day, Ironman team decided to 
 
 And that was a wise decision. On 17th Sept, Rain and Storm arrived at 9am, as predicted. The wind speed was over 80kmph.  There were broken trees and other damages on the road. Finally, it abated at 4pm. 
 
-{% include image.html file="images/20220918_IM Italy/Pre race storm.jpg" description="Pre Race Storm" %}
+{% include image.html file="/images/20220918_IM Italy/Pre race storm.jpg" description="Pre Race Storm" %}
 
 Once storm finished, IM Team worked on logistics to host both 140.6 and 70.3 on 18th Sept. Transition area was extended, new bike racks were added. 
 
@@ -81,9 +81,8 @@ From hotel, I walked down to the transition area, 700m away. It was a good decis
 
 Reaching the transition area, i checked cycle once more. All good, tire pressure was fine, bottles were in their place. 
 
-{% include image.html file="images/20220918_IM Italy/Bikes.webp" description="All bikes racked and ready to race" %}
+{% include image.html file="/images/20220918_IM Italy/Bikes.webp" description="All bikes racked and ready to race" %}
 
-![Bikes](G:\My Drive\GitHub\rishisareen.github.io\images\20220918_IM Italy\Bikes.webp)
 
 
 
@@ -118,7 +117,7 @@ Total Swim done: 3800m (as per my Garmin)
 
 **Nutrition**: 1 gel 15" before the start.  
 
-{% include image.html file="images/20220918_IM Italy/Swim.jpg" description="Swim start" %}
+{% include image.html file="/images/20220918_IM Italy/Swim.jpg" description="Swim start" %}
 
 
 ### T1
@@ -128,7 +127,7 @@ The transition itself was very long, maybe a km or so from the swim exit to bike
 
 Total Time: 15min
 
-{% include image.html file="images/20220918_IM Italy/Long transition.jpg" description="Long Transition" %} 
+{% include image.html file="/images/20220918_IM Italy/Long transition.jpg" description="Long Transition" %} 
 
 
 
@@ -157,7 +156,7 @@ Total Time: 6hr 06min
 [Strava Link](https://www.strava.com/activities/2632088221)    
 Nutrition: 75gm carb per hour (2 gel + gatorade), 1 salt tab per hour, 100mg caffeine per hour. Executed as per the plan
 
-{% include image.html file="images/20220918_IM Italy/Rishi Aero smile.jpg" description="Happy in Aero" %}
+{% include image.html file="/images/20220918_IM Italy/Rishi Aero smile.jpg" description="Happy in Aero" %}
 
 
 ### T2
@@ -198,9 +197,9 @@ Nutrition: 2 gels per hour + 1 banana  total + gatorade on and off + water
 
 Total Time: 13:16hr
 
-{% include image.html file="images/20220918_IM Italy/Run1.jpg" description="Run was in Cervia City Area" %} 
+{% include image.html file="/images/20220918_IM Italy/Run1.jpg" description="Run was in Cervia City Area" %} 
 
-{% include image.html file="images/20220918_IM Italy/Run2.jpg" description="Run was in Cervia City Area" %} 
+{% include image.html file="/images/20220918_IM Italy/Run2.jpg" description="Run was in Cervia City Area" %} 
 
 ## Post Race
 
