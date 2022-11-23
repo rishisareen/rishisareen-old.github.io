@@ -54,11 +54,15 @@ And that was a wise decision. On 17th Sept, Rain and Storm arrived at 9am, as pr
 
 {% include image.html file="/images/20220918_IM Italy/Pre race storm.jpg" description="Pre Race Storm" %}
 
+{% include image.html file="/images/20220918_IM Italy/Storm2.jpg" description="Uprooted trees everywhere" %}
+
 Once storm finished, IM Team worked on logistics to host both 140.6 and 70.3 on 18th Sept. Transition area was extended, new bike racks were added. 
 
 On 17th evening, bike check-in opened at 8pm. Immediately, huge queue of anxious athletes formed. 3000 athletes from Ironman and 3200 athletes from Ironman 70.3 have been waiting anxiously for this.
 
-<Pic here>
+{% include image.html file="/images/20220918_IM Italy/BikeCheckinLine.jpg" description="Long line once check-in started" %}
+
+{% include image.html file="/images/20220918_IM Italy/T1.jpg" description="Finally bike checked in" %}
 
 At around 9:30 pm, I was able to check-in my bike and rack Bike and Run bag. I filled air in the bike in the night itself. Usually, when racing in hot weather, it is advisable to deflate the tires a bit as bike is out in heat. But as the weather in Cervia (town which was hosting the event) was 20 degree, no risk of tires blowing due to heat.
 
@@ -82,6 +86,8 @@ From hotel, I walked down to the transition area, 700m away. It was a good decis
 Reaching the transition area, i checked cycle once more. All good, tire pressure was fine, bottles were in their place. 
 
 {% include image.html file="/images/20220918_IM Italy/Bikes.webp" description="All bikes racked and ready to race" %}
+
+
 
 
 
@@ -208,5 +214,11 @@ I was VERY HAPPY with the race. I raced this with no expectation but loved my pe
 Few things went very right - I was well rested before the race, my nutrition was up to the mark and I had good practice in the bike. I also had moved to TT bike. Maybe that can explain why run legs were fresh after the bike.
 
 I  ofcourse need to work on the swim.
+
+{% include image.html file="/images/20220918_IM Italy/RishiRedCarpet.jpg" description="Pre-Race, roaming around red carpet" %} 
+
+{% include image.html file="/images/20220918_IM Italy/MomRedCarpet.jpg" description="Mom loving the Ironman Vibe" %} 
+
+{% include image.html file="/images/20220918_IM Italy/RishiFinish.jpg" description="The hard earned medal" %} 
 
 Till next race, then!  
