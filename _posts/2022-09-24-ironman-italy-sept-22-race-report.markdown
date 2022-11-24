@@ -15,6 +15,7 @@ categories:
 * **Website?** https://www.ironman.com/im-emilia-romagna
 
 <!--more-->
+
 ### Goals
 
 | Goal | Description | Completed? |
@@ -27,21 +28,19 @@ categories:
 ### Race Preparation and Covid
 Ah, covid! Last I raced was [2019 in Copenhagen](https://rishisareen.com/triathlon/race%20reports/ironman-copenhagen-aug-19-race-report.html). So, I was getting opportunity to race after 3 long years, no thanks to the covid.
 
-In these 3 years, I've been consistent with my training. I was training with Purple Patch coaching. With their guidance, my cycling has improved. 
+In these 3 years, I've been consistent with my training. My bike and run have improved. Swim not so much, as very less access to the pool.- I was really looking forward to this race.
 
-Run was ok, not great as mileage was not there. A good month was 100-120km. Swim was a weak area, as not much swim practice. 
+But early August, I got bad Covid. While fever and cough went in few days, intense fatigue lasted entire August. 
 
-But I got Covid early august. And it was bad one. Fever and cough went in few days, intense fatigue lasted entire August. 
+I could barely do any workout in this duration.
 
-My workouts reduced from 8-10 hours per week to barely 1-2 workouts a week. 
-
-This was a real bummer. I had been training well. For Ironman training, last 8 weeks are the peak training. Rather than sharpening my fitness, it took a deep dive.
+This was a real bummer. I had been training well. For Ironman training, last 10 weeks are the peak training. Rather than sharpening my fitness, it took a deep dive.
 
 I had to sit and re-think. It was clear I would not be able to pursue my goal of sub 12. I even considered not going to the race. 
 
-I spoke to few friends on the dilemma. And glad I did that. In very clear and direct words I was reminded that I'm fortunate to be able to go and race. I am not a professional athlete, I am in this sport for fitness and fun. So I should let go of all the expectations and just go and enjoy.
+I spoke to few friends on the dilemma. And glad I did that. In very clear and direct words I was reminded that I'm fortunate to be able to go and race. I am not a professional athlete, but in this sport for fitness and fun. So I should let go of all the expectations and just go and enjoy.
 
-My mom and I travelled to Italy on 3rd Sept - 2 weeks before the race. We spent these 2 weeks in in training, sightseeing the beautiful country and relaxing. Those were most calm 2 weeks I had in the last few months.
+My mom and I travelled to Italy on 3rd Sept : 2 weeks before the race. We utilized these 2 weeks in in training, sightseeing the beautiful country and relaxing. Those were most calm 2 weeks I had in the last few months.
 
 ### Race Strategy
 
