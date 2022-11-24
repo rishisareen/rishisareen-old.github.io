@@ -70,9 +70,9 @@ Finally at 6pm, it was announced that both full and 70.3 races will happen tomor
 
 I reached the check-in area at 7:30pm. Saw huuuuuuuuge line already formed. Apparently I was not the only one with brilliant idea of reaching early. 3000 athletes from Ironman and 3200 athletes from Ironman 70.3 have been waiting anxiously for this.
 
-{% include image.html file="/images/20220918_IM Italy/BikeCheckinLine.jpg" description="Long line once check-in started" %}
+{% include image.html file="/images/20220918_IM Italy/BikeCheckinLine.jpg" description="Long line once check-in started" max-width="50" %}
 
-{% include image.html file="/images/20220918_IM Italy/T1.jpg" description="Finally bike checked in" %}
+{% include image.html file="/images/20220918_IM Italy/T1.jpg" description="Finally bike checked in" max-width="50" %}
 
 At around 9:30 pm, I was able to check-in my bike and rack Bike and Run bag. I filled air in the bike in the night itself. 
 
@@ -99,7 +99,7 @@ From hotel, I walked down to the transition area, just 700m away. It was a good 
 
 Reaching the transition area, i checked cycle once more. All good, tire pressure was fine, bottles were in their place. 
 
-{% include image.html file="/images/20220918_IM Italy/Bikes.webp" description="All bikes racked and ready to race" %}
+{% include image.html file="/images/20220918_IM Italy/Bikes.webp" description="All bikes racked and ready to race" max-width="20" %}
 
 
 
