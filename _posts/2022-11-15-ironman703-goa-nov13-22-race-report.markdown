@@ -67,8 +67,6 @@ Reaching the transition area, i checked cycle and filled the air, fixed the bott
 
 
 
-
-
 ### Swim [1.9km]
 
 Moving out of the transition, I gave street wear bag at the drop counter. 
