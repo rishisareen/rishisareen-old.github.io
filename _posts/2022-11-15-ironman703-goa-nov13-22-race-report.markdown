@@ -89,7 +89,7 @@ Total Swim done: 1800m (as per my Garmin)
 
 **Nutrition**: Nothing. It was deliberate as I've observed bloating / burps if I eat anything before the swim. Good  decision.
 
-![image-20221120173335768](G:\My Drive\GitHub\rishisareen.github.io\images\20221113_Ironman70.3Goa\Swim Time)
+![image-20221120173335768](/images/20221113_Ironman70.3Goa/Swim Time)
 
 ### T1
 The transition was a long one. I jogged / walked to the transition, reaching in 2 min. I was wearing tri-suit. Here I made a rookie mistake of trying to put on heart rate monitor. In a clumsy manner, I tried removing a wet tri-suit enough to put the HRM. That didn't work. Then I searched for a volunteer to help me with this. Couldn't find one. 
@@ -122,7 +122,7 @@ Total Time: 2hr 57min
 
 Nutrition: 75gm carb per hour (2 gel + carb mix), 2 salt tab total, 100mg caffeine per hour. Executed as per the plan. 
 
-![image-20221120180214730](G:\My Drive\GitHub\rishisareen.github.io\images\20221113_Ironman70.3Goa\Bike Splits)
+![image-20221120180214730](/images/20221113_Ironman70.3Goa/Bike Splits)
 
 ### T2
 T2 was quick - I had one painkiller (Flexon MR) as plan (though it was not really hurting), wore shoes, bib belt, cap and gel.
@@ -150,13 +150,13 @@ Nutrition: 2 gels per hour + 1 banana  total + lots of ice water
 
 Total Time: 2:12hr
 
-![image-20221120181911323](G:\My Drive\GitHub\rishisareen.github.io\images\20221113_Ironman70.3Goa\Run Splits)
+![image-20221120181911323](/images/20221113_Ironman70.3Goa/Run Splits)
 
 ### Overall
 
 
 
-![image-20221120180130558](G:\My Drive\GitHub\rishisareen.github.io\images\20221113_Ironman70.3Goa\Overall Race)
+![image-20221120180130558](/images/20221113_Ironman70.3Goa/Overall Race)
 
 ## Post Race
 Am I happy with the race? YES! It was a pleasure to race. And meeting all the triathlete friends is a super icing on the cake. 
