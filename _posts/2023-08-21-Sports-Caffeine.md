@@ -24,7 +24,7 @@ These are my notes on how caffeine works and how it can be used to enhance sport
 * Notably, improvements in physical performance tend to become evident when caffeine is consumed in doses surpassing approximately 200mg (equivalent to around 3mg per kg of body weight).
 * (Science Notes: Caffeine alters the activity of these receptors, largely because of its  close resemblance to adenosine. Once caffeine enters the brain, it is  recognized by brain receptors as adenosine, and is able to bind to the  adenosine receptors. Through this process, caffeine essentially stops  adenosine from locking into the brain’s receptors and slows down nerve  cell activity. In turn, the sudden increase in brain activity triggers  the adrenal glands to produce more adrenaline. As a result, caffeine  produces a feeling of alertness that usually lasts from four to six  hours — until the caffeine is metabolized.)
 
-{% include image.html file="/images/Caffeine/CaffeineBinding" description="Caffeine Binding" max-width="50" %}
+{% include image.html file="/images/Caffeine/CaffeineBinding.jpg" description="Caffeine Binding" max-width="50" %}
 
 {% include image.html file="/images/Caffeine/9_grande-1692572528847-4.webp" description="How Caffeine works" max-width="50" %}
 
@@ -51,7 +51,7 @@ These are my notes on how caffeine works and how it can be used to enhance sport
 
 
 
-![D](Caffeine)
+{% include image.html file="/images/Caffeine/CaffeineIntake.jpg" description="Caffeine Intake Strategy" max-width="50" %}
 
 
 
