@@ -34,10 +34,7 @@ So, caffeine indirectly boosts adrenaline by blocking adenosine, which sets off 
 
 * Additionally, by blocking adenosine, caffeine promotes the brain's production of two natural stimulants: **dopamine** and **glutamine**, which help boosts our mood and even reduce the risk of depression
 
-{% include image.html file="/images/Caffeine/NEUROTRANSMITTERS.png" description="." max-width="40" %}. 
-
 ![](/images/Caffeine/NEUROTRANSMITTERS.png)
-
 
 
 ## Impact of Caffeine in Sports Performance
