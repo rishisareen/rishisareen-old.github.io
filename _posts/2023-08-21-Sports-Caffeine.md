@@ -9,7 +9,7 @@ categories:
 
 ---
 
-## Sports and Caffeine
+
 
 These are my notes on how caffeine works and how it can be used to enhance sports performance. 
 
