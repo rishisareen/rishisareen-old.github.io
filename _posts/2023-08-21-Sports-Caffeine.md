@@ -17,7 +17,7 @@ I will update this blog as I learn more.
 
 
 
-### The Inner Workings of Caffeine
+## The Inner Workings of Caffeine
 
 * **Adenosine and Sleepiness:** Throughout the day, a  substance called adenosine gradually builds up in your brain. Adenosine  is associated with feelings of drowsiness and the need for sleep. Think  of it like a "sleepy signal" that your brain sends.
 
@@ -44,7 +44,7 @@ I will update this blog as I learn more.
 
 
 
-### Impact of Caffeine in Sports Performance
+## Impact of Caffeine in Sports Performance
 
 Now, we understood how caffeine regulates various neurotransmitters. How it helps in Sports Performance is as follows :
 
@@ -74,7 +74,7 @@ Now, we understood how caffeine regulates various neurotransmitters. How it help
 
 
 
-### **Recommended Dosage**
+## **Recommended Dosage**
 
 - As per the studies, improvements in physical performance tend to become evident when caffeine is consumed in doses surpassing approximately 200mg (equivalent to around 3mg per kg of body weight).
 - Recommended Dosage: 3 to 6 mg per kg of body weight
@@ -86,9 +86,9 @@ Now, we understood how caffeine regulates various neurotransmitters. How it help
 
 
 
-### Caffeine Intake Strategy
+## Caffeine Intake Strategy
 
-#### Pre-Race Planning:
+### Pre-Race Planning:
 
 - **Testing and Familiarization:** Prior to race day, test caffeine strategies during your long training workouts to ensure you tolerate it well and understand its effects on your body.
 - **Individualized Dosing:** Determine your optimal caffeine dosage. This varies from person to person. A common guideline is 3-6 mg of caffeine per kilogram of body weight. For example, if you weigh 70 kg, this would be 210-420 mg of caffeine. Start at the lower end of this range if you're not sure about your tolerance.
@@ -96,7 +96,7 @@ Now, we understood how caffeine regulates various neurotransmitters. How it help
 
 
 
-#### During the Race
+### During the Race
 
 - **Caffeine Source:** Choose a reliable and familiar source of caffeine, such as energy gels, chews, or a caffeinated sports drink.
 - **Hydration:** Ensure you consume caffeine with water or a sports drink to stay hydrated. Dehydration can amplify caffeine's side effects.
@@ -104,7 +104,7 @@ Now, we understood how caffeine regulates various neurotransmitters. How it help
 
 
 
-#### Post-Race Recovery:
+### Post-Race Recovery:
 
 - **Avoid Overconsumption:** After the race, avoid excessive caffeine intake, as it can interfere with post-race recovery and sleep.
 
@@ -112,7 +112,7 @@ Now, we understood how caffeine regulates various neurotransmitters. How it help
 
   
 
-#### Caffeine Dosage Suggestion : Ironman 70.3 and Full Ironman
+### Caffeine Dosage Suggestion : Ironman 70.3 and Full Ironman
 
 As Ironman 70.3 and Full Ironman are long duration races, it becomes important to consume caffeine at regular intervals during the race for optimal benefit. There are various approaches which one can explore
 
