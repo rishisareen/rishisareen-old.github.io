@@ -66,7 +66,7 @@ Now, we understood how caffeine regulates various neurotransmitters. How it help
 
   
 
-## **How much to consume**
+## How much to consume
 
 - As per the studies, improvements in physical performance tend to become evident when caffeine is consumed in doses surpassing approximately 200mg (equivalent to around 3mg per kg of body weight).
 - Recommended Dosage: 3 to 6 mg per kg of body weight
