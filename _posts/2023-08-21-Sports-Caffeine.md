@@ -16,7 +16,7 @@ In this blog, we'll dive deep into the inner workings of caffeine, exploring the
 We'll uncover the recommended dosages and strategies for leveraging caffeine to our advantage during races and workouts. 
 Whether you're a seasoned athlete or just someone who enjoys a daily cuppa of Coffee, read on  through the caffeine-fueled world of performance enhancement. By the end, you'll have a clearer understanding of how to make caffeine work for you and your fitness goals. So, let's embark on this caffeinated adventure and unlock the secrets of better performance, one sip at a time.
 
-TOC
+* TOC
 {:toc}
 
 ## How Caffeine Works
