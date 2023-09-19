@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title: "Caffeine: Your Secret Weapon for Athletic Success""
+title: "Caffeine: Your Secret Weapon for Athletic Success"
 date: 2023-09-09 04:44:02 +0530
 comments: true
 categories: 
 - Nutrition
-
 ---
 
 In the world of performance-enhancing substances, few have captured the attention and devotion of athletes and everyday enthusiasts quite like caffeine. From the first cup of morning coffee to the meticulously timed energy gels during a marathon, caffeine has become an integral part of our lives, particularly in the pursuit of sports excellence.
