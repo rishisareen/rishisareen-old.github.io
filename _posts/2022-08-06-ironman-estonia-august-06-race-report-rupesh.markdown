@@ -197,7 +197,6 @@ There are quite a few people who deserve special mention in this narrative
 3) My dear friend and Ironman Rishi Sareen (Delhi) who first introduced me to my coach a couple of years ago - my nutrition and hydration was spot on thanks to him. He made me go through my nutrition strategy over and over again, sent me notes, checklists and above all lifted me up at low times. Always ready with a solution to any problem. Love you brother. 
    {% include image.html file="/images/20220806_IMTallinn/WithRishi.jpg" description="2019 Pic, when Rishi and I met first" %} 
    
-
 4) My friend Govinda pai (3 times IRONMAN) residing in the US, who kept ensuring i was in the right frame of mind especially in the last few weeks, constantly sending me reminders and important tips for race day. It added up to how I performed on race day! 
    {% include image.html file="/images/20220806_IMTallinn/GovindaPai.jpg" description="Govinda Pai" %} 
 
