@@ -10,7 +10,7 @@ categories:
 
 ### Background
 This craze started 2 years back
-  
+
 > **bucket list** : a number of experiences or achievements that a person hopes to have or accomplish during their lifetime.  
 
 <!--more-->
@@ -25,7 +25,7 @@ I had no idea back then what it is going to take, and how much effort it will as
 So, basically, I defined the word "beginner"
 But then, what is life without a crazy goal or two?  
 
-I wrote a blog post on this [2 years back](http://rishisareen.com/ironman/im70-dot-3-journey-the-preparation.html)  
+I wrote a blog post on this [2 years back](https://rishisareen.com/triathlon/race%20reports/im70-dot-3-journey-the-preparation.html)  
 
 Fast forward to 2018. Somehow I managed to train consistently, even did 3 Half Ironman Distance as preparation for Ironman - from [Feb '17](http://rishisareen.com/ironman/im70-dot-3-dit-race-report.html) to [Feb '18](http://rishisareen.com/ironman/im70-dot-3-dit-2018-race-report.html)).  
 
