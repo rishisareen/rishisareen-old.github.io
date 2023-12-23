@@ -182,24 +182,23 @@ And now here I am, already thinking about my next race for 2024! The journey con
 
 ## Pics from the event
 
-{% include image.html file="/images/202308_IMT/Bike1.jpg" description="	Bike1"
-{% include image.html file="/images/202308_IMT/Pre - Indian Flag.jpg" description="	Pre - Indian Flag"
-{% include image.html file="/images/202308_IMT/Pre - Ready to Run.jpg" description="	Pre - Ready to Run"
-{% include image.html file="/images/hPre-Ashu and Me.jpg" description="	Pre-Ashu and Me"
-{% include image.html file="/images/202308_IMT/Pre-Bike Check In.jpg" description="Pre-Bike Check In"
-{% include image.html file="/images/202308_IMT/Pre-Bike.jpg" description="Pre-Bike"
-{% include image.html file="/images/202308_IMT/Pre-Find the name.jpg" description="Pre-Find the name"
-{% include image.html file="/images/202308_IMT/Pre-Group Pic.jpg" description="Pre-Group Pic"
-{% include image.html file="/images/202308_IMT/Pre-One with the wife.jpg" description="	Pre-One with the wife	"
-{% include image.html file="/images/202308_IMT/Pre-Run Reccee.jpg" description="Pre-Run Reccee"
-{% include image.html file="/images/202308_IMT/Pre-Run.jpg" description="Pre-Run"
-{% include image.html file="/images/202308_IMT/Pre-Swim.jpg" description="Pre-Swim"
-{% include image.html file="/images/202308_IMT/Pre-Transition Bags.jpg" description="Pre-Transition Bags"
-{% include image.html file="/images/202308_IMT/Swim-Jump In.jpg" description="Swim-Jump In"
-{% include image.html file="/images/202308_IMT/T1-Swim Exit.jpg" description="T1-Swim Exit	"
-{% include image.html file="/images/202308_IMT/T1-Off to Bike.jpg" description="T1-Off to Bike	"
-{% include image.html file="/images/202308_IMT/Bike1.jpg" description="Bike Course"
-{% include image.html file="/images/202308_IMT/Run1.jpg" description="Run Mode ON"
-{% include image.html file="/images/202308_IMT/Finish Line.jpg" description="Finish Line"
-{% include image.html file="/images/202308_IMT/Pre - One with the coach.jpg" description="One with the coach	"
+{% include image.html file="/images/202308_IMT/Pre - Indian Flag.jpg	" description="	Pre - Indian Flag	"  %}
+{% include image.html file="/images/202308_IMT/Pre - Ready to Run.jpg	" description="	Pre - Ready to Run	"  %}
+{% include image.html file="/images/202308_IMT/Pre-Ashu and Me.jpg	" description="	Pre-Ashu and Me	"  %}
+{% include image.html file="/images/202308_IMT/Pre-Bike Check In.jpg	" description="	Pre-Bike Check In	"  %}
+{% include image.html file="/images/202308_IMT/Pre-Bike.jpg	" description="	Pre-Bike	"  %}
+{% include image.html file="/images/202308_IMT/Pre-Find the name.jpg	" description="	Pre-Find the name	"  %}
+{% include image.html file="/images/202308_IMT/Pre-Group Pic.jpg	" description="	Pre-Group Pic	"  %}
+{% include image.html file="/images/202308_IMT/Pre-One with the wife.jpg	" description="	Pre-One with the wife	"  %}
+{% include image.html file="/images/202308_IMT/Pre-Run Reccee.jpg	" description="	Pre-Run Reccee	"  %}
+{% include image.html file="/images/202308_IMT/Pre-Run.jpg	" description="	Pre-Run	"  %}
+{% include image.html file="/images/202308_IMT/Pre-Swim.jpg	" description="	Pre-Swim	"  %}
+{% include image.html file="/images/202308_IMT/Pre-Transition Bags.jpg	" description="	Pre-Transition Bags	"  %}
+{% include image.html file="/images/202308_IMT/Swim-Jump In.jpg	" description="	Swim-Jump In	"  %}
+{% include image.html file="/images/202308_IMT/T1-Swim Exit.jpg	" description="	T1-Swim Exit	"  %}
+{% include image.html file="/images/202308_IMT/T1-Off to Bike.jpg	" description="	T1-Off to Bike	"  %}
+{% include image.html file="/images/202308_IMT/Bike1.jpg	" description="	Bike1	"  %}
+{% include image.html file="/images/202308_IMT/Run1.jpg	" description="	Run1	"  %}
+{% include image.html file="/images/202308_IMT/Finish Line.jpg	" description="	Finish Line	"  %}
+{% include image.html file="/images/202308_IMT/Pre - One with the coach.jpg	" description="	One with the coach	"  %}
 
