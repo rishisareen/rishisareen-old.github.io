@@ -199,6 +199,6 @@ And now here I am, already thinking about my next race for 2024! The journey con
 {% include image.html file="/images/202308_IMT/T1-Off to Bike.jpg" description="T1-Off to Bike	"  %}
 {% include image.html file="/images/202308_IMT/Bike1.jpg" description="Bike1	"  %}
 {% include image.html file="/images/202308_IMT/Run1.jpg" description="Run1	"  %}
-{% include image.html file="/images/202308_IMT/Finish Line.jpg" description="Finish Line	"  %}
+{% include image.html file="/images/202308_IMT/FinishLine.jpg" description="Finish Line"  %}
 {% include image.html file="/images/202308_IMT/Pre - One with the coach.jpg" description="One with the coach	"  %}
 
